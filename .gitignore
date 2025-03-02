@@ -1,0 +1,98 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyCharm
+.idea/
+*.iml
+*.iws
+*.ipr
+.idea_modules/
+
+# VS Code
+.vscode/
+*.code-workspace
+.history/
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+*.ipynb
+
+# Environment
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+.python-version
+
+# Model files
+*.pt
+*.pth
+*.onnx
+*.engine
+*.weights
+*.mlmodel
+
+# Data and outputs
+data/raw/*
+data/processed/*
+outputs/*
+models/pretrained/*
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.tif
+*.tiff
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Project specific
+configs/telegram_config.ini
+
+# OS specific
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Exception for model readme and examples
+!data/README.md
+!outputs/README.md
+!models/README.md
+!models/pretrained/README.md
