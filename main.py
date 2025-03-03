@@ -34,6 +34,10 @@ def parse_args():
     parser.add_argument('--telegram-chat-id', type=str, default=None, 
                         help='Telegram chat ID for alerts')
     
+    # In main.py, add these options
+    parser.add_argument('--use-le2i-params', action='store_true',
+                   help='Use parameters optimized on Le2i dataset')
+    
     return parser.parse_args()
 
 def main():
@@ -44,7 +48,7 @@ def main():
     # Create output directory if needed
     if args.output and not os.path.exists(os.path.dirname(args.output)):
         os.makedirs(os.path.dirname(args.output), exist_ok=True)
-    
+
     # Initialize the system
     system = FallDetectionSystem(
         detector_model=args.detector_model,
@@ -54,6 +58,35 @@ def main():
         detection_confidence=args.conf,
         pose_confidence=args.conf
     )
+    
+    # If using Le2i optimized parameters
+    if args.use_le2i_params:
+        # Try to load optimized thresholds from file
+        threshold_file = "outputs/best_thresholds.txt"
+        if os.path.exists(threshold_file):
+            with open(threshold_file, "r") as f:
+                for line in f:
+                    if "=" in line:
+                        key, value = line.strip().split("=")
+                        key = key.strip()
+                        value = float(value.strip())
+                        if key == "angle_threshold":
+                            system.fall_detector.angle_threshold = value
+                        elif key == "width_height_ratio_threshold":
+                            system.fall_detector.width_height_ratio_threshold = value
+                        elif key == "vertical_speed_threshold":
+                            system.fall_detector.vertical_speed_threshold = value
+            print(f"Using optimized Le2i thresholds from file:")
+        else:
+            # Use default optimized values if file doesn't exist
+            system.fall_detector.angle_threshold = 45
+            system.fall_detector.width_height_ratio_threshold = 1.0
+            system.fall_detector.vertical_speed_threshold = 100
+            print(f"Using default optimized Le2i thresholds:")
+        
+        print(f"  - Angle threshold: {system.fall_detector.angle_threshold}°")
+        print(f"  - Width/height ratio threshold: {system.fall_detector.width_height_ratio_threshold}")
+        print(f"  - Vertical speed threshold: {system.fall_detector.vertical_speed_threshold} px/s")
     
     # Determine if source is camera or video file
     source = args.source

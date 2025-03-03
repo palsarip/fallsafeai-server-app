@@ -15,11 +15,11 @@ class FallDetector:
         self.min_alert_interval = min_alert_interval  # Minimum time between alerts (seconds)
         self.last_alert_time = {}  # To avoid repeated alerts
         
-        # Parameters from the research paper
-        self.angle_threshold = 60  # Degrees, threshold for horizontal orientation
-        self.width_height_ratio_threshold = 1.2  # Threshold for unusual body proportions
-        self.vertical_speed_threshold = 200  # Pixels per second, for sudden drops
-        self.height_ratio_threshold = 0.7  # Relative height in frame
+        # Parameters from the research paper - with more sensitive defaults for Le2i
+        self.angle_threshold = 45  # Degrees, threshold for horizontal orientation (lowered from 60)
+        self.width_height_ratio_threshold = 1.0  # Threshold for unusual body proportions (lowered from 1.2)
+        self.vertical_speed_threshold = 100  # Pixels per second, for sudden drops (lowered from 200)
+        self.height_ratio_threshold = 0.6  # Relative height in frame (lowered from 0.7)
         
         print("Fall detector initialized with parameters:")
         print(f"  - Angle threshold: {self.angle_threshold}°")
@@ -80,7 +80,7 @@ class FallDetector:
     def _analyze_fall(self, history, frame_height):
         """
         Analyze if a fall has occurred based on pose data
-        Implementation based on the journal's approach
+        Implementation based on the journal's approach, but modified to be more permissive
         
         Args:
             history: Queue of pose data over time
@@ -163,12 +163,15 @@ class FallDetector:
                 vertical_speed = (shoulder_mid[1] - prev_shoulder_mid[1]) / time_diff
                 fast_movement = abs(vertical_speed) > self.vertical_speed_threshold
         
-        # 8. Combine factors to detect falls (as described in the journal's algorithm)
+        # 8. Combine factors to detect falls - MODIFIED to be more permissive
         is_horizontal = torso_angle > self.angle_threshold
         unusual_ratio = width_height_ratio > self.width_height_ratio_threshold
         
-        # Core fall detection logic from the paper
-        is_fall = is_horizontal and unusual_ratio and (is_low or fast_movement)
+        # Modified fall detection logic - more permissive
+        # Original: is_fall = is_horizontal and unusual_ratio and (is_low or fast_movement)
+        # New: Fall is detected if the person is horizontal AND either has unusual ratio OR is low in frame
+        # OR if there's a fast vertical movement with unusual body proportions
+        is_fall = (is_horizontal and (unusual_ratio or is_low)) or (fast_movement and unusual_ratio)
         
         # 9. Determine activity and confidence
         if is_fall:
@@ -176,7 +179,7 @@ class FallDetector:
             # Higher confidence for clearer falls (more horizontal, faster movement)
             confidence = min(1.0, (torso_angle / 90.0) * 
                            (width_height_ratio / self.width_height_ratio_threshold) * 
-                           (1.0 if fast_movement else 0.8))
+                           (1.5 if fast_movement else 1.0))  # Give more weight to fast movement
         elif is_horizontal and not fast_movement:
             activity = "LYING DOWN"
             confidence = 0.7

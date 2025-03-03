@@ -91,6 +91,14 @@ configs/telegram_config.ini
 ehthumbs.db
 Thumbs.db
 
+# Ignore data folder except README
+/data/*
+!/data/README.md
+
+# Ignore outputs folder except README
+/outputs/*
+!/outputs/README.md
+
 # Exception for model readme and examples
 !data/README.md
 !outputs/README.md
