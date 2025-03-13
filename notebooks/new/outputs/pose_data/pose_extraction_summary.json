@@ -1,0 +1,201 @@
+{
+  "fall_videos": {
+    "count": 10,
+    "file_paths": [
+      "..\\..\\data\\le2i\\Coffee_room_01\\Coffee_room_01\\Videos\\video (1).avi",
+      "..\\..\\data\\le2i\\Coffee_room_01\\Coffee_room_01\\Videos\\video (10).avi",
+      "..\\..\\data\\le2i\\Coffee_room_01\\Coffee_room_01\\Videos\\video (11).avi",
+      "..\\..\\data\\le2i\\Coffee_room_01\\Coffee_room_01\\Videos\\video (12).avi",
+      "..\\..\\data\\le2i\\Coffee_room_01\\Coffee_room_01\\Videos\\video (13).avi",
+      "..\\..\\data\\le2i\\Coffee_room_01\\Coffee_room_01\\Videos\\video (14).avi",
+      "..\\..\\data\\le2i\\Coffee_room_01\\Coffee_room_01\\Videos\\video (15).avi",
+      "..\\..\\data\\le2i\\Coffee_room_01\\Coffee_room_01\\Videos\\video (16).avi",
+      "..\\..\\data\\le2i\\Coffee_room_01\\Coffee_room_01\\Videos\\video (17).avi",
+      "..\\..\\data\\le2i\\Coffee_room_01\\Coffee_room_01\\Videos\\video (18).avi"
+    ],
+    "quality_metrics": [
+      {
+        "video": "video (1).avi",
+        "total_frames": 157,
+        "frames_with_detections": 157,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.8025505906239564
+      },
+      {
+        "video": "video (10).avi",
+        "total_frames": 362,
+        "frames_with_detections": 362,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0027624309392265,
+        "avg_keypoint_confidence": 0.8011736146584946
+      },
+      {
+        "video": "video (11).avi",
+        "total_frames": 483,
+        "frames_with_detections": 483,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.7786732400278447
+      },
+      {
+        "video": "video (12).avi",
+        "total_frames": 182,
+        "frames_with_detections": 182,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.7953759794116971
+      },
+      {
+        "video": "video (13).avi",
+        "total_frames": 244,
+        "frames_with_detections": 244,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.9306850873066173
+      },
+      {
+        "video": "video (14).avi",
+        "total_frames": 176,
+        "frames_with_detections": 176,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.6689547115784664
+      },
+      {
+        "video": "video (15).avi",
+        "total_frames": 140,
+        "frames_with_detections": 140,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.6444538754036361
+      },
+      {
+        "video": "video (16).avi",
+        "total_frames": 177,
+        "frames_with_detections": 177,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.750353507890718
+      },
+      {
+        "video": "video (17).avi",
+        "total_frames": 158,
+        "frames_with_detections": 158,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.9085158716640362
+      },
+      {
+        "video": "video (18).avi",
+        "total_frames": 269,
+        "frames_with_detections": 269,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.003717472118959,
+        "avg_keypoint_confidence": 0.8509233608432033
+      }
+    ]
+  },
+  "workout_videos": {
+    "count": 10,
+    "file_paths": [
+      "..\\..\\data\\workout_videos\\barbell biceps curl\\barbell biceps curl_1.mp4",
+      "..\\..\\data\\workout_videos\\barbell biceps curl\\barbell biceps curl_10.mp4",
+      "..\\..\\data\\workout_videos\\barbell biceps curl\\barbell biceps curl_11.mp4",
+      "..\\..\\data\\workout_videos\\barbell biceps curl\\barbell biceps curl_12.mp4",
+      "..\\..\\data\\workout_videos\\barbell biceps curl\\barbell biceps curl_13.mp4",
+      "..\\..\\data\\workout_videos\\barbell biceps curl\\barbell biceps curl_14.mp4",
+      "..\\..\\data\\workout_videos\\barbell biceps curl\\barbell biceps curl_15.mp4",
+      "..\\..\\data\\workout_videos\\barbell biceps curl\\barbell biceps curl_16.mp4",
+      "..\\..\\data\\workout_videos\\barbell biceps curl\\barbell biceps curl_17.mp4",
+      "..\\..\\data\\workout_videos\\barbell biceps curl\\barbell biceps curl_18.mp4"
+    ],
+    "quality_metrics": [
+      {
+        "video": "barbell biceps curl_1.mp4",
+        "total_frames": 114,
+        "frames_with_detections": 114,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.7551739655831066
+      },
+      {
+        "video": "barbell biceps curl_10.mp4",
+        "total_frames": 94,
+        "frames_with_detections": 94,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.6496263119635127
+      },
+      {
+        "video": "barbell biceps curl_11.mp4",
+        "total_frames": 75,
+        "frames_with_detections": 75,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.8155181937650138
+      },
+      {
+        "video": "barbell biceps curl_12.mp4",
+        "total_frames": 123,
+        "frames_with_detections": 123,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.91869918699187,
+        "avg_keypoint_confidence": 0.8338875392756443
+      },
+      {
+        "video": "barbell biceps curl_13.mp4",
+        "total_frames": 122,
+        "frames_with_detections": 122,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.8108598699931526
+      },
+      {
+        "video": "barbell biceps curl_14.mp4",
+        "total_frames": 69,
+        "frames_with_detections": 69,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.7826086956521738,
+        "avg_keypoint_confidence": 0.4470219406163893
+      },
+      {
+        "video": "barbell biceps curl_15.mp4",
+        "total_frames": 65,
+        "frames_with_detections": 65,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.4153846153846155,
+        "avg_keypoint_confidence": 0.5134141264677458
+      },
+      {
+        "video": "barbell biceps curl_16.mp4",
+        "total_frames": 63,
+        "frames_with_detections": 63,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.380952380952381,
+        "avg_keypoint_confidence": 0.5187745215594793
+      },
+      {
+        "video": "barbell biceps curl_17.mp4",
+        "total_frames": 61,
+        "frames_with_detections": 61,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.721311475409836,
+        "avg_keypoint_confidence": 0.44646406064556093
+      },
+      {
+        "video": "barbell biceps curl_18.mp4",
+        "total_frames": 67,
+        "frames_with_detections": 67,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 2.014925373134328,
+        "avg_keypoint_confidence": 0.6820764488325514
+      }
+    ]
+  },
+  "activity_videos": {
+    "count": 0,
+    "file_paths": [],
+    "quality_metrics": []
+  }
+}

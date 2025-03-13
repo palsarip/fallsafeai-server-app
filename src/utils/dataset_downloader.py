@@ -167,6 +167,66 @@ def download_workout_videos_dataset(output_dir="data/workout_videos"):
         print("2. Click 'Download' button")
         print(f"3. Extract the downloaded zip file to {output_dir}")
         return None
+    
+def download_human_action_recognition_HAR_dataset(output_dir="data/human_activity"):
+    """
+    Download the human action recognition dataset using kaggle.api
+    This includes both videos and images related to human activity recognition
+    
+    Args:
+        output_dir: Directory to save the dataset
+    
+    Returns:
+        Path to the downloaded dataset
+    """
+    # Create output directory
+    os.makedirs(output_dir, exist_ok=True)
+
+    # Check if dataset already exists
+    if check_dataset_exists(output_dir):
+        print(f"Human activity dataset already exists in {output_dir}, skipping download")
+        return output_dir
+    
+    print(f"Downloading human action recognition dataset to {output_dir}...")
+    
+    try:
+        # Download the dataset with progress bar
+        kaggle.api.authenticate()
+        kaggle.api.dataset_download_files(
+            "meetnagadia/human-action-recognition-har-dataset", 
+            path=output_dir,
+            unzip=True,
+            quiet=False  # Show progress bar
+        )
+        
+        print(f"Human activity videos dataset downloaded and extracted to {output_dir}")
+        
+        # Also download the images dataset
+        image_subdir = os.path.join(output_dir, "images")
+        os.makedirs(image_subdir, exist_ok=True)
+        
+        kaggle.api.dataset_download_files(
+            "niharika41298/human-activity-recognition", 
+            path=image_subdir,
+            unzip=True,
+            quiet=False  # Show progress bar
+        )
+        
+        print(f"Human activity images dataset downloaded and extracted to {image_subdir}")
+        
+        return output_dir
+        
+    except Exception as e:
+        print(f"Error downloading human activity dataset: {e}")
+        print("\nAlternative manual approach:")
+        print("1. Go to https://www.kaggle.com/datasets/meetnagadia/human-action-recognition-har-dataset")
+        print("2. Click 'Download' button")
+        print(f"3. Extract the downloaded zip file to {output_dir}")
+        print("\nAnd for the images dataset:")
+        print("1. Go to https://www.kaggle.com/datasets/niharika41298/human-activity-recognition")
+        print("2. Click 'Download' button")
+        print(f"3. Extract the downloaded zip file to {output_dir}/images")
+        return None
 
 def count_videos(dataset_dir):
     """
@@ -179,6 +239,7 @@ def count_videos(dataset_dir):
     fall_count = 0
     nonfall_count = 0
     workout_count = 0
+    human_activity_count = 0
     
     # Count video files by category
     for root, dirs, files in os.walk(dataset_dir):
@@ -188,17 +249,21 @@ def count_videos(dataset_dir):
                     fall_count += 1
                 elif "workout" in root.lower() or "fitness" in root.lower():
                     workout_count += 1
+                elif "human_activity" in root.lower() or "har" in root.lower():
+                    human_activity_count += 1
                 else:
                     nonfall_count += 1
     
     print(f"\nVideo dataset statistics for {dataset_dir}:")
-    print(f"Total videos: {fall_count + nonfall_count + workout_count}")
+    print(f"Total videos: {fall_count + nonfall_count + workout_count + human_activity_count}")
     if fall_count > 0:
         print(f"Fall videos: {fall_count}")
     if nonfall_count > 0:
         print(f"Non-fall videos: {nonfall_count}")
     if workout_count > 0:
         print(f"Workout videos: {workout_count}")
+    if human_activity_count > 0:
+        print(f"Human activity videos: {human_activity_count}")
 
 def count_images(dataset_dir):
     """
@@ -211,15 +276,20 @@ def count_images(dataset_dir):
     image_extensions = (".jpg", ".jpeg", ".png", ".gif", ".bmp")
     image_count = 0
     category_counts = {}
+    human_activity_count = 0
     
     # Count image files and categorize them
     for root, dirs, files in os.walk(dataset_dir):
         relative_path = os.path.relpath(root, dataset_dir)
         category = relative_path.split(os.path.sep)[0] if relative_path != "." else "uncategorized"
         
+        is_human_activity = "human_activity" in root.lower() or "har" in root.lower()
+        
         for file in files:
             if file.lower().endswith(image_extensions):
                 image_count += 1
+                if is_human_activity:
+                    human_activity_count += 1
                 category_counts[category] = category_counts.get(category, 0) + 1
     
     # Remove the 'uncategorized' category if it's empty
@@ -230,6 +300,9 @@ def count_images(dataset_dir):
     print(f"\nImage dataset statistics for {dataset_dir}:")
     print(f"Total images: {image_count}")
     print(f"Categories/classes: {len(category_counts)}")
+    
+    if human_activity_count > 0:
+        print(f"Human activity images: {human_activity_count}")
     
     if category_counts:
         print("Images per category:")
@@ -284,6 +357,7 @@ if __name__ == "__main__":
     le2i_path = download_le2i_dataset()
     workout_images_path = download_workout_images_dataset()
     workout_videos_path = download_workout_videos_dataset()
+    human_activity_path = download_human_action_recognition_HAR_dataset()
     
     print("\n" + "=" * 60)
     print("Download Summary")
@@ -298,6 +372,10 @@ if __name__ == "__main__":
     
     if workout_images_path:
         count_images(workout_images_path)
+
+    if human_activity_path:
+        count_videos(human_activity_path)
+        count_images(human_activity_path)
     
     print("\nProcessing complete!")
     print("=" * 60)
