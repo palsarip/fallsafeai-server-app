@@ -1,0 +1,5018 @@
+[
+  {
+    "metadata": {
+      "video_path": "..\\..\\data\\le2i\\Coffee_room_01\\Coffee_room_01\\Videos\\video (17).avi",
+      "fps": 25.0,
+      "total_frames": 158,
+      "duration": 6.32,
+      "label": "fall",
+      "data_type": "video"
+    },
+    "joint_angles": {
+      "right_elbow_mean": 156.17426838726644,
+      "right_elbow_min": 3.120385206703827,
+      "right_elbow_max": 179.99927497574132,
+      "right_elbow_range": 176.8788897690375,
+      "right_elbow_max_velocity": 2483.5342944612344,
+      "left_elbow_mean": 146.3769668761782,
+      "left_elbow_min": 42.232858939195616,
+      "left_elbow_max": 173.82248771179007,
+      "left_elbow_range": 131.58962877259447,
+      "left_elbow_max_velocity": 1456.7108406154257,
+      "right_knee_mean": 155.24643606033283,
+      "right_knee_min": 98.31786555612521,
+      "right_knee_max": 179.73718609750955,
+      "right_knee_range": 81.41932054138434,
+      "right_knee_max_velocity": 1532.4449700008265,
+      "left_knee_mean": 157.7974252395369,
+      "left_knee_min": 106.68201100027657,
+      "left_knee_max": 179.94375730170174,
+      "left_knee_range": 73.26174630142516,
+      "left_knee_max_velocity": 1128.5119745420004,
+      "right_hip_mean": 169.37951063150348,
+      "right_hip_min": 106.3299809027517,
+      "right_hip_max": 179.96527630468714,
+      "right_hip_range": 73.63529540193544,
+      "right_hip_max_velocity": 1301.144572136283,
+      "left_hip_mean": 170.0596023528285,
+      "left_hip_min": 117.0436615859918,
+      "left_hip_max": 179.94598173591956,
+      "left_hip_range": 62.90232014992776,
+      "left_hip_max_velocity": 810.5946636581778
+    },
+    "vertical_motion": {
+      "max_upper_body_velocity_y": 141.184921264648,
+      "max_upper_body_accel_y": 932.8034718831191,
+      "max_center_velocity_y": 113.6906395238988,
+      "max_center_accel_y": 1293.953390682443,
+      "upper_body_vertical_displacement": 89.2274424235026,
+      "center_vertical_displacement": 61.68636097627527
+    },
+    "impact": {
+      "has_impact": true,
+      "impact_count": 6,
+      "max_deceleration": -1864.0089035034534,
+      "impact_frame": 48,
+      "impact_body_part": "knee_center_y"
+    },
+    "collapse": {
+      "height_reduction_pct": 73.1674468702956,
+      "aspect_ratio_increase_pct": 972.1763693116424,
+      "max_height_collapse_velocity": -818.6176300048828,
+      "max_aspect_ratio_change_velocity": 24.95445023759651
+    }
+  },
+  {
+    "metadata": {
+      "video_path": "..\\..\\data\\le2i\\Coffee_room_01\\Coffee_room_01\\Videos\\video (28).avi",
+      "fps": 25.0,
+      "total_frames": 175,
+      "duration": 7.0,
+      "label": "fall",
+      "data_type": "video"
+    },
+    "joint_angles": {
+      "right_elbow_mean": 137.32178680095322,
+      "right_elbow_min": 11.851422181300657,
+      "right_elbow_max": 175.9632279335799,
+      "right_elbow_range": 164.11180575227925,
+      "right_elbow_max_velocity": 4040.8084120307344,
+      "left_elbow_mean": 161.57735204769168,
+      "left_elbow_min": 102.56831220903031,
+      "left_elbow_max": 179.92185711076294,
+      "left_elbow_range": 77.35354490173263,
+      "left_elbow_max_velocity": 1414.289636425112,
+      "right_knee_mean": 138.57057742292736,
+      "right_knee_min": 49.32919354476839,
+      "right_knee_max": 177.1553801049971,
+      "right_knee_range": 127.82618656022872,
+      "right_knee_max_velocity": 2107.058247305053,
+      "left_knee_mean": 135.23816066838913,
+      "left_knee_min": 55.707032893535015,
+      "left_knee_max": 178.87089300582394,
+      "left_knee_range": 123.16386011228893,
+      "left_knee_max_velocity": 2465.117828688609,
+      "right_hip_mean": 120.92123734429047,
+      "right_hip_min": 17.041976493354667,
+      "right_hip_max": 168.68647078516236,
+      "right_hip_range": 151.6444942918077,
+      "right_hip_max_velocity": 1565.2164459901212,
+      "left_hip_mean": 106.98331383862717,
+      "left_hip_min": 33.52196219588619,
+      "left_hip_max": 151.2773973533406,
+      "left_hip_range": 117.75543515745441,
+      "left_hip_max_velocity": 1782.573509209145
+    },
+    "vertical_motion": {
+      "max_upper_body_velocity_y": 267.63797760009777,
+      "max_upper_body_accel_y": 2230.0596237182544,
+      "max_center_velocity_y": 181.41425824632833,
+      "max_center_accel_y": 4652.588797550586,
+      "upper_body_vertical_displacement": 94.58250427246092,
+      "center_vertical_displacement": 67.62832624772017
+    },
+    "impact": {
+      "has_impact": false,
+      "impact_count": 0,
+      "max_deceleration": NaN,
+      "impact_frame": NaN,
+      "impact_body_part": null
+    },
+    "collapse": {
+      "height_reduction_pct": 62.92834820662362,
+      "aspect_ratio_increase_pct": 191.45766877002893,
+      "max_height_collapse_velocity": -446.6991424560547,
+      "max_aspect_ratio_change_velocity": 13.207266518293945
+    }
+  },
+  {
+    "metadata": {
+      "video_path": "..\\..\\data\\le2i\\Coffee_room_01\\Coffee_room_01\\Videos\\video (34).avi",
+      "fps": 25.0,
+      "total_frames": 415,
+      "duration": 16.6,
+      "label": "fall",
+      "data_type": "video"
+    },
+    "joint_angles": {
+      "right_elbow_mean": 123.29215466391834,
+      "right_elbow_min": 68.93500396669835,
+      "right_elbow_max": 169.48877038424212,
+      "right_elbow_range": 100.55376641754377,
+      "right_elbow_max_velocity": 575.6894100904124,
+      "left_elbow_mean": 129.1499243506988,
+      "left_elbow_min": 22.888478481980357,
+      "left_elbow_max": 179.72477784607935,
+      "left_elbow_range": 156.83629936409898,
+      "left_elbow_max_velocity": 2232.2683670905576,
+      "right_knee_mean": 117.6794387597554,
+      "right_knee_min": 81.6303360326781,
+      "right_knee_max": 179.97192221225197,
+      "right_knee_range": 98.34158617957387,
+      "right_knee_max_velocity": 1158.770664491395,
+      "left_knee_mean": 107.47310814874753,
+      "left_knee_min": 74.48338565213322,
+      "left_knee_max": 179.15989771408593,
+      "left_knee_range": 104.6765120619527,
+      "left_knee_max_velocity": 830.0822839650142,
+      "right_hip_mean": 114.62657325794741,
+      "right_hip_min": 63.99603095298899,
+      "right_hip_max": 179.9159230891876,
+      "right_hip_range": 115.91989213619861,
+      "right_hip_max_velocity": 682.3967626851029,
+      "left_hip_mean": 101.5972283167067,
+      "left_hip_min": 54.306448124066094,
+      "left_hip_max": 179.81651489766648,
+      "left_hip_range": 125.51006677360039,
+      "left_hip_max_velocity": 642.0270869681439
+    },
+    "vertical_motion": {
+      "max_upper_body_velocity_y": 141.09556833902985,
+      "max_upper_body_accel_y": 673.3684539794992,
+      "max_center_velocity_y": 93.94240061442076,
+      "max_center_accel_y": 621.910572052009,
+      "upper_body_vertical_displacement": 60.35987345377603,
+      "center_vertical_displacement": 51.03973340988159
+    },
+    "impact": {
+      "has_impact": true,
+      "impact_count": 6,
+      "max_deceleration": -999.7138977050746,
+      "impact_frame": 414,
+      "impact_body_part": "knee_center_y"
+    },
+    "collapse": {
+      "height_reduction_pct": 69.4181252081746,
+      "aspect_ratio_increase_pct": 732.9852924656449,
+      "max_height_collapse_velocity": -302.8678894042969,
+      "max_aspect_ratio_change_velocity": 17.63586012344156
+    }
+  },
+  {
+    "metadata": {
+      "video_path": "..\\..\\data\\le2i\\Coffee_room_01\\Coffee_room_01\\Videos\\video (42).avi",
+      "fps": 25.0,
+      "total_frames": 159,
+      "duration": 6.36,
+      "label": "fall",
+      "data_type": "video"
+    },
+    "joint_angles": {
+      "right_elbow_mean": 118.93881066080824,
+      "right_elbow_min": 62.992014044013544,
+      "right_elbow_max": 161.4430059130444,
+      "right_elbow_range": 98.45099186903086,
+      "right_elbow_max_velocity": 709.4615998501486,
+      "left_elbow_mean": 147.32663168569601,
+      "left_elbow_min": 47.84295592406741,
+      "left_elbow_max": 179.47743458331456,
+      "left_elbow_range": 131.63447865924715,
+      "left_elbow_max_velocity": 3023.59991700676,
+      "right_knee_mean": 150.13585355869859,
+      "right_knee_min": 117.9669169757314,
+      "right_knee_max": 176.86810445879402,
+      "right_knee_range": 58.90118748306263,
+      "right_knee_max_velocity": 637.5991222096452,
+      "left_knee_mean": 138.40387430094853,
+      "left_knee_min": 95.08306259498701,
+      "left_knee_max": 171.45014893661502,
+      "left_knee_range": 76.36708634162801,
+      "left_knee_max_velocity": 592.2687948680668,
+      "right_hip_mean": 142.4944814479565,
+      "right_hip_min": 83.95383999988334,
+      "right_hip_max": 179.28190370166084,
+      "right_hip_range": 95.3280637017775,
+      "right_hip_max_velocity": 584.4399409768556,
+      "left_hip_mean": 137.05923141444075,
+      "left_hip_min": 60.156877577955576,
+      "left_hip_max": 179.91421290303296,
+      "left_hip_range": 119.75733532507738,
+      "left_hip_max_velocity": 449.3102280483768
+    },
+    "vertical_motion": {
+      "max_upper_body_velocity_y": 248.3410008748372,
+      "max_upper_body_accel_y": 1524.9754587809505,
+      "max_center_velocity_y": 170.12348349889095,
+      "max_center_accel_y": 887.9848840190264,
+      "upper_body_vertical_displacement": 84.5489018758138,
+      "center_vertical_displacement": 57.81324005126953
+    },
+    "impact": {
+      "has_impact": true,
+      "impact_count": 6,
+      "max_deceleration": -1589.7369384765448,
+      "impact_frame": 125,
+      "impact_body_part": "head_y"
+    },
+    "collapse": {
+      "height_reduction_pct": 61.166224363887814,
+      "aspect_ratio_increase_pct": 460.5597513798971,
+      "max_height_collapse_velocity": -258.306884765625,
+      "max_aspect_ratio_change_velocity": 9.646087691122517
+    }
+  },
+  {
+    "metadata": {
+      "video_path": "..\\..\\data\\le2i\\Coffee_room_01\\Coffee_room_01\\Videos\\video (45).avi",
+      "fps": 25.0,
+      "total_frames": 215,
+      "duration": 8.6,
+      "label": "fall",
+      "data_type": "video"
+    },
+    "joint_angles": {
+      "right_elbow_mean": 168.1914582668395,
+      "right_elbow_min": 97.35517300148243,
+      "right_elbow_max": 179.81167255553981,
+      "right_elbow_range": 82.45649955405739,
+      "right_elbow_max_velocity": 1104.6944398989922,
+      "left_elbow_mean": 115.96279513386247,
+      "left_elbow_min": 89.0804459695934,
+      "left_elbow_max": 157.51721097734054,
+      "left_elbow_range": 68.43676500774714,
+      "left_elbow_max_velocity": 657.4814251937469,
+      "right_knee_mean": 159.78306904077388,
+      "right_knee_min": 115.46132633415233,
+      "right_knee_max": 179.89408602585533,
+      "right_knee_range": 64.432759691703,
+      "right_knee_max_velocity": 381.57977687248524,
+      "left_knee_mean": 165.5475150125439,
+      "left_knee_min": 122.83826795881541,
+      "left_knee_max": 179.98054979954935,
+      "left_knee_range": 57.14228184073394,
+      "left_knee_max_velocity": 419.7860106057124,
+      "right_hip_mean": 153.54398333177647,
+      "right_hip_min": 85.46932255812744,
+      "right_hip_max": 179.9605523661029,
+      "right_hip_range": 94.49122980797544,
+      "right_hip_max_velocity": 358.8495524616764,
+      "left_hip_mean": 152.33698915948924,
+      "left_hip_min": 93.3699860832569,
+      "left_hip_max": 178.2209802644867,
+      "left_hip_range": 84.85099418122981,
+      "left_hip_max_velocity": 457.5458071310013
+    },
+    "vertical_motion": {
+      "max_upper_body_velocity_y": 157.13493347167997,
+      "max_upper_body_accel_y": 810.2130889892401,
+      "max_center_velocity_y": 109.52528778711965,
+      "max_center_accel_y": 923.5185464222973,
+      "upper_body_vertical_displacement": 130.70692443847656,
+      "center_vertical_displacement": 99.96360373497009
+    },
+    "impact": {
+      "has_impact": true,
+      "impact_count": 6,
+      "max_deceleration": -1394.336700439478,
+      "impact_frame": 117,
+      "impact_body_part": "hip_center_y"
+    },
+    "collapse": {
+      "height_reduction_pct": 74.56264252678343,
+      "aspect_ratio_increase_pct": 1426.78666010446,
+      "max_height_collapse_velocity": -232.14435577392578,
+      "max_aspect_ratio_change_velocity": 23.638888408441538
+    }
+  },
+  {
+    "metadata": {
+      "video_path": "..\\..\\data\\le2i\\Coffee_room_02\\Coffee_room_02\\Videos\\video (52).avi",
+      "fps": 25.0,
+      "total_frames": 215,
+      "duration": 8.6,
+      "label": "fall",
+      "data_type": "video"
+    },
+    "joint_angles": {
+      "right_elbow_mean": 90.28577060143832,
+      "right_elbow_min": 63.460983674852194,
+      "right_elbow_max": 137.0361063475934,
+      "right_elbow_range": 73.5751226727412,
+      "right_elbow_max_velocity": 482.1975416788572,
+      "left_elbow_mean": 101.18915651999602,
+      "left_elbow_min": 30.051206500144737,
+      "left_elbow_max": 179.66397797545608,
+      "left_elbow_range": 149.61277147531135,
+      "left_elbow_max_velocity": 1217.0745649555545,
+      "right_knee_mean": 137.85905035940058,
+      "right_knee_min": 101.49983066396625,
+      "right_knee_max": 175.75165730646842,
+      "right_knee_range": 74.25182664250217,
+      "right_knee_max_velocity": 334.3676984971953,
+      "left_knee_mean": 121.9445029223775,
+      "left_knee_min": 82.90599696546298,
+      "left_knee_max": 177.06010475665605,
+      "left_knee_range": 94.15410779119307,
+      "left_knee_max_velocity": 592.2960738175217,
+      "right_hip_mean": 139.31738025846377,
+      "right_hip_min": 101.09491388355482,
+      "right_hip_max": 178.53018167432094,
+      "right_hip_range": 77.43526779076612,
+      "right_hip_max_velocity": 392.7683643797124,
+      "left_hip_mean": 122.87580705929575,
+      "left_hip_min": 77.30434645376796,
+      "left_hip_max": 174.7699875989741,
+      "left_hip_range": 97.46564114520613,
+      "left_hip_max_velocity": 529.4659200390292
+    },
+    "vertical_motion": {
+      "max_upper_body_velocity_y": 144.18411254882812,
+      "max_upper_body_accel_y": 522.5359598795617,
+      "max_center_velocity_y": 119.29610649744617,
+      "max_center_accel_y": 624.4618415832548,
+      "upper_body_vertical_displacement": 51.758577982584626,
+      "center_vertical_displacement": 40.82013559341431
+    },
+    "impact": {
+      "has_impact": true,
+      "impact_count": 6,
+      "max_deceleration": -1209.7730636596539,
+      "impact_frame": 214,
+      "impact_body_part": "knee_center_x"
+    },
+    "collapse": {
+      "height_reduction_pct": 63.02463818580147,
+      "aspect_ratio_increase_pct": 754.5629080748856,
+      "max_height_collapse_velocity": -250.18577575683594,
+      "max_aspect_ratio_change_velocity": 11.792677084386193
+    }
+  },
+  {
+    "metadata": {
+      "video_path": "..\\..\\data\\workout_videos\\barbell biceps curl\\barbell biceps curl_10.mp4",
+      "fps": 29.97002997002997,
+      "total_frames": 94,
+      "duration": 3.1364666666666667,
+      "label": "workout",
+      "data_type": "video"
+    },
+    "joint_angles": {
+      "right_elbow_mean": 95.21931301524866,
+      "right_elbow_min": 26.276031524330133,
+      "right_elbow_max": 164.43019515894372,
+      "right_elbow_range": 138.15416363461358,
+      "right_elbow_max_velocity": 294.24112313628586,
+      "left_elbow_mean": 114.36281869722296,
+      "left_elbow_min": 46.15768753910208,
+      "left_elbow_max": 173.91059032077828,
+      "left_elbow_range": 127.7529027816762,
+      "left_elbow_max_velocity": 316.23956453505383
+    },
+    "vertical_motion": {
+      "max_upper_body_velocity_y": 126.23070289085754,
+      "max_upper_body_accel_y": 4720.912950256835,
+      "max_center_velocity_y": 90.73673213993357,
+      "max_center_accel_y": 2024.8922823398514,
+      "upper_body_vertical_displacement": 63.1563771565755,
+      "center_vertical_displacement": -41.90044021606445
+    },
+    "impact": {
+      "has_impact": false,
+      "impact_count": 0,
+      "max_deceleration": NaN,
+      "impact_frame": NaN,
+      "impact_body_part": null
+    },
+    "collapse": {
+      "height_reduction_pct": 19.724250761489156,
+      "aspect_ratio_increase_pct": 71.64720997999532,
+      "max_height_collapse_velocity": -934.8938110229614,
+      "max_aspect_ratio_change_velocity": 1.2234543386777932
+    }
+  },
+  {
+    "metadata": {
+      "video_path": "..\\..\\data\\workout_videos\\barbell biceps curl\\barbell biceps curl_12.mp4",
+      "fps": 29.97002997002997,
+      "total_frames": 123,
+      "duration": 4.1041,
+      "label": "workout",
+      "data_type": "video"
+    },
+    "joint_angles": {
+      "right_elbow_mean": 105.13624560660966,
+      "right_elbow_min": 27.013203722811248,
+      "right_elbow_max": 179.57929994550744,
+      "right_elbow_range": 152.5660962226962,
+      "right_elbow_max_velocity": 4334.715264063459,
+      "left_elbow_mean": 93.91200662106846,
+      "left_elbow_min": 5.783750808100494,
+      "left_elbow_max": 179.32291081224108,
+      "left_elbow_range": 173.53916000414057,
+      "left_elbow_max_velocity": 2577.4101265373993,
+      "right_knee_mean": 177.43411533662285,
+      "right_knee_min": 175.74007348778264,
+      "right_knee_max": 179.7842095477987,
+      "right_knee_range": 4.044136060016058,
+      "right_knee_max_velocity": 66.00597093220547,
+      "left_knee_mean": 177.05261718072958,
+      "left_knee_min": 174.29108845858505,
+      "left_knee_max": 179.94828345098495,
+      "left_knee_range": 5.657194992399894,
+      "left_knee_max_velocity": 61.99898381524562,
+      "right_hip_mean": 170.0675152158376,
+      "right_hip_min": 167.66792193796542,
+      "right_hip_max": 172.06700522904708,
+      "right_hip_range": 4.399083291081666,
+      "right_hip_max_velocity": 56.512183827156626,
+      "left_hip_mean": 169.92738054232402,
+      "left_hip_min": 165.92867744190403,
+      "left_hip_max": 174.34162929794596,
+      "left_hip_range": 8.412951856041929,
+      "left_hip_max_velocity": 78.80493257683217
+    },
+    "vertical_motion": {
+      "max_upper_body_velocity_y": 47.830282510458574,
+      "max_upper_body_accel_y": 1363.8145861147384,
+      "max_center_velocity_y": 92.20738726748782,
+      "max_center_accel_y": 1039.9931995383574,
+      "upper_body_vertical_displacement": 10.582616170247405,
+      "center_vertical_displacement": -17.86025462431064
+    },
+    "impact": {
+      "has_impact": true,
+      "impact_count": 6,
+      "max_deceleration": -5099.56993049084,
+      "impact_frame": 122,
+      "impact_body_part": "hip_center_x"
+    },
+    "collapse": {
+      "height_reduction_pct": 2.7781027533390534,
+      "aspect_ratio_increase_pct": 14.20863349931146,
+      "max_height_collapse_velocity": -154.7341818337912,
+      "max_aspect_ratio_change_velocity": 0.9686039068172178
+    }
+  },
+  {
+    "metadata": {
+      "video_path": "..\\..\\data\\workout_videos\\barbell biceps curl\\barbell biceps curl_15.mp4",
+      "fps": 29.97002997002997,
+      "total_frames": 65,
+      "duration": 2.168833333333333,
+      "label": "workout",
+      "data_type": "video"
+    },
+    "joint_angles": {
+      "right_elbow_mean": 95.67406352331595,
+      "right_elbow_min": 9.85856907308092,
+      "right_elbow_max": 166.55255112483886,
+      "right_elbow_range": 156.69398205175793,
+      "right_elbow_max_velocity": 1185.7713953709967,
+      "left_elbow_mean": 106.71513470549834,
+      "left_elbow_min": 35.61715663443092,
+      "left_elbow_max": 174.07021744972837,
+      "left_elbow_range": 138.45306081529745,
+      "left_elbow_max_velocity": 856.6671001589687
+    },
+    "vertical_motion": {
+      "max_upper_body_velocity_y": 48.93531761207588,
+      "max_upper_body_accel_y": 1370.5558575728219,
+      "max_center_velocity_y": 536.695378596014,
+      "max_center_accel_y": 12631.112107563227,
+      "upper_body_vertical_displacement": 8.287455240885379,
+      "center_vertical_displacement": 13.950408935546875
+    },
+    "impact": {
+      "has_impact": false,
+      "impact_count": 0,
+      "max_deceleration": NaN,
+      "impact_frame": NaN,
+      "impact_body_part": null
+    },
+    "collapse": {
+      "height_reduction_pct": 26.71996574930265,
+      "aspect_ratio_increase_pct": 61.16970666480277,
+      "max_height_collapse_velocity": -5945.496763978209,
+      "max_aspect_ratio_change_velocity": 6.03015202989085
+    }
+  },
+  {
+    "metadata": {
+      "video_path": "..\\..\\data\\workout_videos\\barbell biceps curl\\barbell biceps curl_17.mp4",
+      "fps": 29.97002997002997,
+      "total_frames": 61,
+      "duration": 2.0353666666666665,
+      "label": "workout",
+      "data_type": "video"
+    },
+    "joint_angles": {
+      "right_elbow_mean": 105.64952269987128,
+      "right_elbow_min": 13.19636477604455,
+      "right_elbow_max": 164.52935233801443,
+      "right_elbow_range": 151.33298756196987,
+      "right_elbow_max_velocity": 762.5669942728448,
+      "left_elbow_mean": 117.73484809675307,
+      "left_elbow_min": 39.451113758307336,
+      "left_elbow_max": 173.66915514949866,
+      "left_elbow_range": 134.21804139119132,
+      "left_elbow_max_velocity": 493.6563710804538
+    },
+    "vertical_motion": {
+      "max_upper_body_velocity_y": 70.4435944914456,
+      "max_upper_body_accel_y": 1372.019603421973,
+      "max_center_velocity_y": 189.19891601318193,
+      "max_center_accel_y": 4423.7592942247065,
+      "upper_body_vertical_displacement": -70.54019165039062,
+      "center_vertical_displacement": -51.898311614990234
+    },
+    "impact": {
+      "has_impact": false,
+      "impact_count": 0,
+      "max_deceleration": NaN,
+      "impact_frame": NaN,
+      "impact_body_part": null
+    },
+    "collapse": {
+      "height_reduction_pct": 1.0816393712351149,
+      "aspect_ratio_increase_pct": 9.11330007681254,
+      "max_height_collapse_velocity": -1241.402945199332,
+      "max_aspect_ratio_change_velocity": 2.2779870279939622
+    }
+  },
+  {
+    "metadata": {
+      "video_path": "..\\..\\data\\workout_videos\\barbell biceps curl\\barbell biceps curl_2.mp4",
+      "fps": 29.97002997002997,
+      "total_frames": 77,
+      "duration": 2.5692333333333335,
+      "label": "workout",
+      "data_type": "video"
+    },
+    "joint_angles": {
+      "right_elbow_mean": 82.15522763496313,
+      "right_elbow_min": 19.10188760111485,
+      "right_elbow_max": 171.14140926710542,
+      "right_elbow_range": 152.03952166599058,
+      "right_elbow_max_velocity": 3422.3009638389854,
+      "left_elbow_mean": 88.92959884387902,
+      "left_elbow_min": 12.08247381531188,
+      "left_elbow_max": 179.51695193477127,
+      "left_elbow_range": 167.43447811945938,
+      "left_elbow_max_velocity": 3648.3807641941676,
+      "right_hip_mean": 171.57798920946507,
+      "right_hip_min": 168.43242106284484,
+      "right_hip_max": 175.18656100890175,
+      "right_hip_range": 6.75413994605691,
+      "right_hip_max_velocity": 153.7474800956413,
+      "left_hip_mean": 173.99243869843002,
+      "left_hip_min": 166.1515635724626,
+      "left_hip_max": 179.61208221064433,
+      "left_hip_range": 13.460518638181725,
+      "left_hip_max_velocity": 203.01215017277448
+    },
+    "vertical_motion": {
+      "max_upper_body_velocity_y": 68.55827278190627,
+      "max_upper_body_accel_y": 2376.5101671204116,
+      "max_center_velocity_y": 120.24062363417846,
+      "max_center_accel_y": 3546.787935063675,
+      "upper_body_vertical_displacement": -22.982259114583314,
+      "center_vertical_displacement": -18.21265258789066
+    },
+    "impact": {
+      "has_impact": true,
+      "impact_count": 6,
+      "max_deceleration": -12634.363414198751,
+      "impact_frame": 76,
+      "impact_body_part": "hip_center_y"
+    },
+    "collapse": {
+      "height_reduction_pct": 0.0,
+      "aspect_ratio_increase_pct": 3.213964196941879,
+      "max_height_collapse_velocity": -601.5380493529907,
+      "max_aspect_ratio_change_velocity": 0.8654416187091031
+    }
+  },
+  {
+    "metadata": {
+      "video_path": "..\\..\\data\\workout_videos\\barbell biceps curl\\barbell biceps curl_23.mp4",
+      "fps": 29.97002997002997,
+      "total_frames": 70,
+      "duration": 2.3356666666666666,
+      "label": "workout",
+      "data_type": "video"
+    },
+    "joint_angles": {
+      "right_elbow_mean": 95.86468978291373,
+      "right_elbow_min": 18.232555474581783,
+      "right_elbow_max": 179.896553322933,
+      "right_elbow_range": 161.66399784835122,
+      "right_elbow_max_velocity": 2910.215872132281,
+      "left_elbow_mean": 88.56956747690586,
+      "left_elbow_min": 11.344538920546368,
+      "left_elbow_max": 179.99055464985574,
+      "left_elbow_range": 168.64601572930937,
+      "left_elbow_max_velocity": 1909.981334327567
+    },
+    "vertical_motion": {
+      "max_upper_body_velocity_y": 65.51535622580272,
+      "max_upper_body_accel_y": 2239.231456059543,
+      "max_center_velocity_y": 184.4401420019269,
+      "max_center_accel_y": 3743.6529371013885,
+      "upper_body_vertical_displacement": -1.752288818359375,
+      "center_vertical_displacement": 8.726278451772828
+    },
+    "impact": {
+      "has_impact": false,
+      "impact_count": 0,
+      "max_deceleration": NaN,
+      "impact_frame": NaN,
+      "impact_body_part": null
+    },
+    "collapse": {
+      "height_reduction_pct": 5.823164043790424,
+      "aspect_ratio_increase_pct": 6.606336126160464,
+      "max_height_collapse_velocity": -872.4664617608953,
+      "max_aspect_ratio_change_velocity": 1.3726187899333684
+    }
+  },
+  {
+    "metadata": {
+      "video_path": "..\\..\\data\\workout_videos\\barbell biceps curl\\barbell biceps curl_24.mp4",
+      "fps": 29.97002997002997,
+      "total_frames": 84,
+      "duration": 2.8028,
+      "label": "workout",
+      "data_type": "video"
+    },
+    "joint_angles": {
+      "right_elbow_mean": 107.77336318260346,
+      "right_elbow_min": 17.47439652275089,
+      "right_elbow_max": 179.63428305281522,
+      "right_elbow_range": 162.15988653006434,
+      "right_elbow_max_velocity": 2515.4846737628595,
+      "left_elbow_mean": 107.14378238977109,
+      "left_elbow_min": 11.69666812261312,
+      "left_elbow_max": 179.8919973921203,
+      "left_elbow_range": 168.19532926950717,
+      "left_elbow_max_velocity": 1948.0810913754551
+    },
+    "vertical_motion": {
+      "max_upper_body_velocity_y": 62.530913910307646,
+      "max_upper_body_accel_y": 2142.2971257560257,
+      "max_center_velocity_y": 189.645118628367,
+      "max_center_accel_y": 2585.2766904439427,
+      "upper_body_vertical_displacement": -7.233530680338504,
+      "center_vertical_displacement": 1.6470430814302972
+    },
+    "impact": {
+      "has_impact": false,
+      "impact_count": 0,
+      "max_deceleration": NaN,
+      "impact_frame": NaN,
+      "impact_body_part": null
+    },
+    "collapse": {
+      "height_reduction_pct": 12.959453010269147,
+      "aspect_ratio_increase_pct": 17.384582667842366,
+      "max_height_collapse_velocity": -732.7675986123252,
+      "max_aspect_ratio_change_velocity": 2.45002551351287
+    }
+  },
+  {
+    "metadata": {
+      "video_path": "..\\..\\data\\workout_videos\\barbell biceps curl\\barbell biceps curl_25.mp4",
+      "fps": 29.97002997002997,
+      "total_frames": 78,
+      "duration": 2.6026000000000002,
+      "label": "workout",
+      "data_type": "video"
+    },
+    "joint_angles": {
+      "right_elbow_mean": 113.05760250654058,
+      "right_elbow_min": 17.28531902795438,
+      "right_elbow_max": 179.9497072519034,
+      "right_elbow_range": 162.664388223949,
+      "right_elbow_max_velocity": 2381.9473111229836,
+      "left_elbow_mean": 106.41247523242572,
+      "left_elbow_min": 14.052926052006486,
+      "left_elbow_max": 179.97781733695894,
+      "left_elbow_range": 165.92489128495245,
+      "left_elbow_max_velocity": 2208.162079339055
+    },
+    "vertical_motion": {
+      "max_upper_body_velocity_y": 69.96830074222324,
+      "max_upper_body_accel_y": 2843.1316942609924,
+      "max_center_velocity_y": 158.9263303928631,
+      "max_center_accel_y": 3426.0538243953783,
+      "upper_body_vertical_displacement": -32.394632975260436,
+      "center_vertical_displacement": -27.014634352463872
+    },
+    "impact": {
+      "has_impact": false,
+      "impact_count": 0,
+      "max_deceleration": NaN,
+      "impact_frame": NaN,
+      "impact_body_part": null
+    },
+    "collapse": {
+      "height_reduction_pct": 11.402052096040629,
+      "aspect_ratio_increase_pct": 11.658519841413122,
+      "max_height_collapse_velocity": -1648.7513341151036,
+      "max_aspect_ratio_change_velocity": 1.8282328016118197
+    }
+  },
+  {
+    "metadata": {
+      "video_path": "..\\..\\data\\workout_videos\\barbell biceps curl\\barbell biceps curl_26.mp4",
+      "fps": 29.97002997002997,
+      "total_frames": 80,
+      "duration": 2.6693333333333333,
+      "label": "workout",
+      "data_type": "video"
+    },
+    "joint_angles": {
+      "right_elbow_mean": 113.0374959804761,
+      "right_elbow_min": 17.304206087263502,
+      "right_elbow_max": 179.87043501301991,
+      "right_elbow_range": 162.5662289257564,
+      "right_elbow_max_velocity": 2554.2234161576343,
+      "left_elbow_mean": 107.33270971554184,
+      "left_elbow_min": 14.743449251192393,
+      "left_elbow_max": 179.90430520299682,
+      "left_elbow_range": 165.16085595180442,
+      "left_elbow_max_velocity": 2598.562150411935
+    },
+    "vertical_motion": {
+      "max_upper_body_velocity_y": 145.34446266623945,
+      "max_upper_body_accel_y": 5458.3777129542295,
+      "max_center_velocity_y": 207.82659957605458,
+      "max_center_accel_y": 3454.045907939311,
+      "upper_body_vertical_displacement": -46.90949503580731,
+      "center_vertical_displacement": -42.271155724158575
+    },
+    "impact": {
+      "has_impact": false,
+      "impact_count": 0,
+      "max_deceleration": NaN,
+      "impact_frame": NaN,
+      "impact_body_part": null
+    },
+    "collapse": {
+      "height_reduction_pct": 7.962010140995904,
+      "aspect_ratio_increase_pct": 10.820215208159981,
+      "max_height_collapse_velocity": -753.7108582335633,
+      "max_aspect_ratio_change_velocity": 2.0848653807606063
+    }
+  },
+  {
+    "metadata": {
+      "video_path": "..\\..\\data\\workout_videos\\barbell biceps curl\\barbell biceps curl_3.mp4",
+      "fps": 29.97002997002997,
+      "total_frames": 73,
+      "duration": 2.435766666666667,
+      "label": "workout",
+      "data_type": "video"
+    },
+    "joint_angles": {
+      "right_elbow_mean": 104.6734119401105,
+      "right_elbow_min": 24.36388401769556,
+      "right_elbow_max": 178.58592315517518,
+      "right_elbow_range": 154.2220391374796,
+      "right_elbow_max_velocity": 1714.8500871266606,
+      "left_elbow_mean": 111.93523983029868,
+      "left_elbow_min": 35.43908509013979,
+      "left_elbow_max": 179.7270193289351,
+      "left_elbow_range": 144.28793423879532,
+      "left_elbow_max_velocity": 727.9705726881923,
+      "right_hip_mean": 173.4748397639839,
+      "right_hip_min": 169.0608732078244,
+      "right_hip_max": 176.95818837625765,
+      "right_hip_range": 7.897315168433266,
+      "right_hip_max_velocity": 119.33869297766788,
+      "left_hip_mean": 174.08052718604537,
+      "left_hip_min": 169.9736546191094,
+      "left_hip_max": 177.0886413128315,
+      "left_hip_range": 7.114986693722102,
+      "left_hip_max_velocity": 111.93719467227767
+    },
+    "vertical_motion": {
+      "max_upper_body_velocity_y": 124.32388778213928,
+      "max_upper_body_accel_y": 2781.4734561844875,
+      "max_center_velocity_y": 124.33245465472028,
+      "max_center_accel_y": 3726.247392249359,
+      "upper_body_vertical_displacement": -3.806340535481752,
+      "center_vertical_displacement": 4.972627766927133
+    },
+    "impact": {
+      "has_impact": true,
+      "impact_count": 6,
+      "max_deceleration": -4635.112956357141,
+      "impact_frame": 1,
+      "impact_body_part": "head_y"
+    },
+    "collapse": {
+      "height_reduction_pct": 1.6638432082517898,
+      "aspect_ratio_increase_pct": 9.569298526284578,
+      "max_height_collapse_velocity": -391.81323437304883,
+      "max_aspect_ratio_change_velocity": 0.936494827288046
+    }
+  },
+  {
+    "metadata": {
+      "video_path": "..\\..\\data\\workout_videos\\barbell biceps curl\\barbell biceps curl_30.mp4",
+      "fps": 29.97002997002997,
+      "total_frames": 49,
+      "duration": 1.6349666666666667,
+      "label": "workout",
+      "data_type": "video"
+    },
+    "joint_angles": {
+      "right_elbow_mean": 79.88474139185625,
+      "right_elbow_min": 11.698179682424433,
+      "right_elbow_max": 155.90121570994648,
+      "right_elbow_range": 144.20303602752205,
+      "right_elbow_max_velocity": 1250.8167271776958,
+      "left_elbow_mean": 92.06596687471689,
+      "left_elbow_min": 33.86212890641663,
+      "left_elbow_max": 167.27475349077585,
+      "left_elbow_range": 133.4126245843592,
+      "left_elbow_max_velocity": 691.0970506176902
+    },
+    "vertical_motion": {
+      "max_upper_body_velocity_y": 80.79512040693659,
+      "max_upper_body_accel_y": 3011.5775930019663,
+      "max_center_velocity_y": 508.1733970375315,
+      "max_center_accel_y": 13724.29324341895,
+      "upper_body_vertical_displacement": -58.03232828776038,
+      "center_vertical_displacement": -38.16523488362634
+    },
+    "impact": {
+      "has_impact": false,
+      "impact_count": 0,
+      "max_deceleration": NaN,
+      "impact_frame": NaN,
+      "impact_body_part": null
+    },
+    "collapse": {
+      "height_reduction_pct": 23.372431885338152,
+      "aspect_ratio_increase_pct": 11.967784496261121,
+      "max_height_collapse_velocity": -5507.333242928946,
+      "max_aspect_ratio_change_velocity": 5.726464321426478
+    }
+  },
+  {
+    "metadata": {
+      "video_path": "..\\..\\data\\workout_videos\\barbell biceps curl\\barbell biceps curl_32.mp4",
+      "fps": 29.97002997002997,
+      "total_frames": 65,
+      "duration": 2.168833333333333,
+      "label": "workout",
+      "data_type": "video"
+    },
+    "joint_angles": {
+      "right_elbow_mean": 98.70706716608848,
+      "right_elbow_min": 17.138389636964657,
+      "right_elbow_max": 164.74840514017225,
+      "right_elbow_range": 147.6100155032076,
+      "right_elbow_max_velocity": 1014.5998861535177,
+      "left_elbow_mean": 114.3958350620088,
+      "left_elbow_min": 42.41540200297112,
+      "left_elbow_max": 175.8022430229777,
+      "left_elbow_range": 133.38684102000659,
+      "left_elbow_max_velocity": 547.0449358247531
+    },
+    "vertical_motion": {
+      "max_upper_body_velocity_y": 64.5396473643544,
+      "max_upper_body_accel_y": 1965.6553466981284,
+      "max_center_velocity_y": 151.85410445267738,
+      "max_center_accel_y": 2302.678031566521,
+      "upper_body_vertical_displacement": -0.87762451171875,
+      "center_vertical_displacement": -2.995110829671262
+    },
+    "impact": {
+      "has_impact": false,
+      "impact_count": 0,
+      "max_deceleration": NaN,
+      "impact_frame": NaN,
+      "impact_body_part": null
+    },
+    "collapse": {
+      "height_reduction_pct": 8.860675708836695,
+      "aspect_ratio_increase_pct": 31.33998633161823,
+      "max_height_collapse_velocity": -617.6562695117383,
+      "max_aspect_ratio_change_velocity": 2.297970237620805
+    }
+  },
+  {
+    "metadata": {
+      "video_path": "..\\..\\data\\workout_videos\\barbell biceps curl\\barbell biceps curl_33.mp4",
+      "fps": 29.97002997002997,
+      "total_frames": 62,
+      "duration": 2.0687333333333333,
+      "label": "workout",
+      "data_type": "video"
+    },
+    "joint_angles": {
+      "right_elbow_mean": 99.66747047208302,
+      "right_elbow_min": 16.522488618910533,
+      "right_elbow_max": 163.78500722801434,
+      "right_elbow_range": 147.2625186091038,
+      "right_elbow_max_velocity": 749.9923855392113,
+      "left_elbow_mean": 115.64390391192742,
+      "left_elbow_min": 42.825026251737285,
+      "left_elbow_max": 171.40677681062212,
+      "left_elbow_range": 128.58175055888483,
+      "left_elbow_max_velocity": 602.5945498933548
+    },
+    "vertical_motion": {
+      "max_upper_body_velocity_y": 88.2006177416336,
+      "max_upper_body_accel_y": 2454.2778328298596,
+      "max_center_velocity_y": 152.19597906975721,
+      "max_center_accel_y": 2068.5200405687983,
+      "upper_body_vertical_displacement": 1.5058797200520644,
+      "center_vertical_displacement": 4.679553985595703
+    },
+    "impact": {
+      "has_impact": false,
+      "impact_count": 0,
+      "max_deceleration": NaN,
+      "impact_frame": NaN,
+      "impact_body_part": null
+    },
+    "collapse": {
+      "height_reduction_pct": 10.658623330464021,
+      "aspect_ratio_increase_pct": 36.057075787633345,
+      "max_height_collapse_velocity": -1477.8664633706137,
+      "max_aspect_ratio_change_velocity": 2.1147530729182606
+    }
+  },
+  {
+    "metadata": {
+      "video_path": "..\\..\\data\\workout_videos\\barbell biceps curl\\barbell biceps curl_34.mp4",
+      "fps": 29.97002997002997,
+      "total_frames": 63,
+      "duration": 2.1021,
+      "label": "workout",
+      "data_type": "video"
+    },
+    "joint_angles": {
+      "right_elbow_mean": 105.26670095300454,
+      "right_elbow_min": 20.886101643655365,
+      "right_elbow_max": 165.9198725153324,
+      "right_elbow_range": 145.03377087167704,
+      "right_elbow_max_velocity": 678.9601576176074,
+      "left_elbow_mean": 121.44831416970862,
+      "left_elbow_min": 49.25567038897166,
+      "left_elbow_max": 172.39318753179253,
+      "left_elbow_range": 123.13751714282088,
+      "left_elbow_max_velocity": 390.6731626629324
+    },
+    "vertical_motion": {
+      "max_upper_body_velocity_y": 85.8425022243393,
+      "max_upper_body_accel_y": 2572.702364365813,
+      "max_center_velocity_y": 229.0320991874348,
+      "max_center_accel_y": 1991.060519857698,
+      "upper_body_vertical_displacement": -33.131876627604186,
+      "center_vertical_displacement": -34.12784830729174
+    },
+    "impact": {
+      "has_impact": false,
+      "impact_count": 0,
+      "max_deceleration": NaN,
+      "impact_frame": NaN,
+      "impact_body_part": null
+    },
+    "collapse": {
+      "height_reduction_pct": 7.362810486481579,
+      "aspect_ratio_increase_pct": 36.451497109958765,
+      "max_height_collapse_velocity": -720.1838993526005,
+      "max_aspect_ratio_change_velocity": 1.443350921986026
+    }
+  },
+  {
+    "metadata": {
+      "video_path": "..\\..\\data\\workout_videos\\barbell biceps curl\\barbell biceps curl_35.mp4",
+      "fps": 29.97002997002997,
+      "total_frames": 58,
+      "duration": 1.9352666666666667,
+      "label": "workout",
+      "data_type": "video"
+    },
+    "joint_angles": {
+      "right_elbow_mean": 98.5265936362083,
+      "right_elbow_min": 9.366182415691782,
+      "right_elbow_max": 165.13453236027104,
+      "right_elbow_range": 155.76834994457926,
+      "right_elbow_max_velocity": 803.5365680287604,
+      "left_elbow_mean": 115.2806194488732,
+      "left_elbow_min": 45.26533940531015,
+      "left_elbow_max": 176.21510258282393,
+      "left_elbow_range": 130.94976317751377,
+      "left_elbow_max_velocity": 721.9181281551333
+    },
+    "vertical_motion": {
+      "max_upper_body_velocity_y": 64.93079674232132,
+      "max_upper_body_accel_y": 1333.793177020689,
+      "max_center_velocity_y": 284.14056845817174,
+      "max_center_accel_y": 6296.157597800211,
+      "upper_body_vertical_displacement": 4.076161702473939,
+      "center_vertical_displacement": 7.026457468668696
+    },
+    "impact": {
+      "has_impact": false,
+      "impact_count": 0,
+      "max_deceleration": NaN,
+      "impact_frame": NaN,
+      "impact_body_part": null
+    },
+    "collapse": {
+      "height_reduction_pct": 7.800580676127201,
+      "aspect_ratio_increase_pct": 35.998733412575916,
+      "max_height_collapse_velocity": -1863.1992092380276,
+      "max_aspect_ratio_change_velocity": 2.0791385875150894
+    }
+  },
+  {
+    "metadata": {
+      "video_path": "..\\..\\data\\workout_videos\\barbell biceps curl\\barbell biceps curl_36.mp4",
+      "fps": 29.97002997002997,
+      "total_frames": 50,
+      "duration": 1.6683333333333334,
+      "label": "workout",
+      "data_type": "video"
+    },
+    "joint_angles": {
+      "right_elbow_mean": 100.41350094908842,
+      "right_elbow_min": 25.4256203341445,
+      "right_elbow_max": 169.74499730910227,
+      "right_elbow_range": 144.31937697495778,
+      "right_elbow_max_velocity": 753.9738425798338,
+      "left_elbow_mean": 117.718730328639,
+      "left_elbow_min": 52.28712162421859,
+      "left_elbow_max": 179.5438301552664,
+      "left_elbow_range": 127.25670853104779,
+      "left_elbow_max_velocity": 445.93051926611093
+    },
+    "vertical_motion": {
+      "max_upper_body_velocity_y": 74.8585520924379,
+      "max_upper_body_accel_y": 3497.1227407941965,
+      "max_center_velocity_y": 196.37157581188387,
+      "max_center_accel_y": 1729.8447025763164,
+      "upper_body_vertical_displacement": -10.231465657552064,
+      "center_vertical_displacement": -8.120803833007812
+    },
+    "impact": {
+      "has_impact": false,
+      "impact_count": 0,
+      "max_deceleration": NaN,
+      "impact_frame": NaN,
+      "impact_body_part": null
+    },
+    "collapse": {
+      "height_reduction_pct": 9.046673536646125,
+      "aspect_ratio_increase_pct": 42.04217231203338,
+      "max_height_collapse_velocity": -1352.9047551569524,
+      "max_aspect_ratio_change_velocity": 2.257278611028566
+    }
+  },
+  {
+    "metadata": {
+      "video_path": "..\\..\\data\\workout_videos\\barbell biceps curl\\barbell biceps curl_37.mp4",
+      "fps": 29.97002997002997,
+      "total_frames": 59,
+      "duration": 1.9686333333333335,
+      "label": "workout",
+      "data_type": "video"
+    },
+    "joint_angles": {
+      "right_elbow_mean": 104.3786667246415,
+      "right_elbow_min": 15.824937935339001,
+      "right_elbow_max": 179.60946370284256,
+      "right_elbow_range": 163.78452576750357,
+      "right_elbow_max_velocity": 4289.785791146084,
+      "left_elbow_mean": 101.3225054710131,
+      "left_elbow_min": 14.362304310648677,
+      "left_elbow_max": 179.5860912667791,
+      "left_elbow_range": 165.22378695613043,
+      "left_elbow_max_velocity": 2290.504800634802
+    },
+    "vertical_motion": {
+      "max_upper_body_velocity_y": 88.76481184830863,
+      "max_upper_body_accel_y": 3255.2757440174064,
+      "max_center_velocity_y": 225.2617565352307,
+      "max_center_accel_y": 4406.445997832346,
+      "upper_body_vertical_displacement": -46.585789998372434,
+      "center_vertical_displacement": -44.90100215031555
+    },
+    "impact": {
+      "has_impact": false,
+      "impact_count": 0,
+      "max_deceleration": NaN,
+      "impact_frame": NaN,
+      "impact_body_part": null
+    },
+    "collapse": {
+      "height_reduction_pct": 16.35409467075998,
+      "aspect_ratio_increase_pct": 26.19114574671545,
+      "max_height_collapse_velocity": -2579.443414251764,
+      "max_aspect_ratio_change_velocity": 2.081065040593478
+    }
+  },
+  {
+    "metadata": {
+      "video_path": "..\\..\\data\\workout_videos\\barbell biceps curl\\barbell biceps curl_38.mp4",
+      "fps": 29.97002997002997,
+      "total_frames": 59,
+      "duration": 1.9686333333333335,
+      "label": "workout",
+      "data_type": "video"
+    },
+    "joint_angles": {
+      "right_elbow_mean": 120.62368368615613,
+      "right_elbow_min": 15.746202790800128,
+      "right_elbow_max": 179.9624480977555,
+      "right_elbow_range": 164.21624530695536,
+      "right_elbow_max_velocity": 2395.2221832061587,
+      "left_elbow_mean": 114.40083800821401,
+      "left_elbow_min": 16.41294371253322,
+      "left_elbow_max": 179.86509145685872,
+      "left_elbow_range": 163.4521477443255,
+      "left_elbow_max_velocity": 1655.0174006572215
+    },
+    "vertical_motion": {
+      "max_upper_body_velocity_y": 177.46169845779107,
+      "max_upper_body_accel_y": 6110.580650481603,
+      "max_center_velocity_y": 151.32059384425648,
+      "max_center_accel_y": 2775.7082964308815,
+      "upper_body_vertical_displacement": 0.18199666341149623,
+      "center_vertical_displacement": 5.579593365009032
+    },
+    "impact": {
+      "has_impact": false,
+      "impact_count": 0,
+      "max_deceleration": NaN,
+      "impact_frame": NaN,
+      "impact_body_part": null
+    },
+    "collapse": {
+      "height_reduction_pct": 13.138653556199023,
+      "aspect_ratio_increase_pct": 20.340140119673723,
+      "max_height_collapse_velocity": -1040.2261008034934,
+      "max_aspect_ratio_change_velocity": 1.3634313406055727
+    }
+  },
+  {
+    "metadata": {
+      "video_path": "..\\..\\data\\workout_videos\\barbell biceps curl\\barbell biceps curl_39.mp4",
+      "fps": 29.97002997002997,
+      "total_frames": 54,
+      "duration": 1.8018,
+      "label": "workout",
+      "data_type": "video"
+    },
+    "joint_angles": {
+      "right_elbow_mean": 116.46498182313438,
+      "right_elbow_min": 18.031144521205142,
+      "right_elbow_max": 179.94966067883468,
+      "right_elbow_range": 161.91851615762954,
+      "right_elbow_max_velocity": 1777.5153044930635,
+      "left_elbow_mean": 113.91859630545868,
+      "left_elbow_min": 17.4477954925644,
+      "left_elbow_max": 179.18086124099878,
+      "left_elbow_range": 161.73306574843437,
+      "left_elbow_max_velocity": 1942.4059457993058
+    },
+    "vertical_motion": {
+      "max_upper_body_velocity_y": 79.16634756844809,
+      "max_upper_body_accel_y": 2726.7401430713976,
+      "max_center_velocity_y": 255.71318236301067,
+      "max_center_accel_y": 3368.8791777533625,
+      "upper_body_vertical_displacement": -15.36724853515625,
+      "center_vertical_displacement": -11.902266282301753
+    },
+    "impact": {
+      "has_impact": false,
+      "impact_count": 0,
+      "max_deceleration": NaN,
+      "impact_frame": NaN,
+      "impact_body_part": null
+    },
+    "collapse": {
+      "height_reduction_pct": 16.44222694401298,
+      "aspect_ratio_increase_pct": 32.740948833716295,
+      "max_height_collapse_velocity": -1860.2934845915802,
+      "max_aspect_ratio_change_velocity": 3.0522039797063285
+    }
+  },
+  {
+    "metadata": {
+      "video_path": "..\\..\\data\\workout_videos\\barbell biceps curl\\barbell biceps curl_40.mp4",
+      "fps": 30.0,
+      "total_frames": 201,
+      "duration": 6.7,
+      "label": "workout",
+      "data_type": "video"
+    },
+    "joint_angles": {
+      "right_elbow_mean": 106.62752649759045,
+      "right_elbow_min": 29.948840130062145,
+      "right_elbow_max": 168.54795477268564,
+      "right_elbow_range": 138.5991146426235,
+      "right_elbow_max_velocity": 463.75751299629894,
+      "left_elbow_mean": 91.66938351252665,
+      "left_elbow_min": 8.547467124488081,
+      "left_elbow_max": 170.92446268651054,
+      "left_elbow_range": 162.37699556202244,
+      "left_elbow_max_velocity": 785.9807358329242,
+      "right_hip_mean": 176.015565443533,
+      "right_hip_min": 170.48224906495344,
+      "right_hip_max": 179.98299448897927,
+      "right_hip_range": 9.500745424025837,
+      "right_hip_max_velocity": 108.78276674419197,
+      "left_hip_mean": 177.40720582670713,
+      "left_hip_min": 172.1761204949076,
+      "left_hip_max": 179.99004069011235,
+      "left_hip_range": 7.813920195204759,
+      "left_hip_max_velocity": 107.30951700923896
+    },
+    "vertical_motion": {
+      "max_upper_body_velocity_y": 59.427337646484375,
+      "max_upper_body_accel_y": 1782.8201293945312,
+      "max_center_velocity_y": 102.61792210170313,
+      "max_center_accel_y": 1167.3870195661038,
+      "upper_body_vertical_displacement": 32.142857869466155,
+      "center_vertical_displacement": 38.41915457589289
+    },
+    "impact": {
+      "has_impact": true,
+      "impact_count": 6,
+      "max_deceleration": -3138.7280273436886,
+      "impact_frame": 200,
+      "impact_body_part": "knee_center_x"
+    },
+    "collapse": {
+      "height_reduction_pct": 4.062191148171431,
+      "aspect_ratio_increase_pct": 26.262384086942443,
+      "max_height_collapse_velocity": -382.5732421875,
+      "max_aspect_ratio_change_velocity": 0.9247413386900488
+    }
+  },
+  {
+    "metadata": {
+      "video_path": "..\\..\\data\\workout_videos\\barbell biceps curl\\barbell biceps curl_42.mp4",
+      "fps": 30.0,
+      "total_frames": 141,
+      "duration": 4.7,
+      "label": "workout",
+      "data_type": "video"
+    },
+    "joint_angles": {
+      "right_elbow_mean": 75.10279733776066,
+      "right_elbow_min": 1.6203232446555522,
+      "right_elbow_max": 167.16895448968302,
+      "right_elbow_range": 165.54863124502745,
+      "right_elbow_max_velocity": 1242.2092941749108,
+      "left_elbow_mean": 69.7676271309445,
+      "left_elbow_min": 0.18044548947136244,
+      "left_elbow_max": 162.13826711889553,
+      "left_elbow_range": 161.95782162942416,
+      "left_elbow_max_velocity": 2449.7191567942914,
+      "right_knee_mean": 179.0735801976908,
+      "right_knee_min": 178.20195673755015,
+      "right_knee_max": 179.94371939534207,
+      "right_knee_range": 1.7417626577919236,
+      "right_knee_max_velocity": 19.236396276871517,
+      "left_knee_mean": 177.28811405291418,
+      "left_knee_min": 174.9711651809828,
+      "left_knee_max": 179.10823328139654,
+      "left_knee_range": 4.137068100413728,
+      "left_knee_max_velocity": 33.77362531167137,
+      "right_hip_mean": 174.49773628342643,
+      "right_hip_min": 173.4433673784807,
+      "right_hip_max": 175.58267497310388,
+      "right_hip_range": 2.139307594623176,
+      "right_hip_max_velocity": 22.04392695577866,
+      "left_hip_mean": 173.7099299154715,
+      "left_hip_min": 171.62746431096338,
+      "left_hip_max": 175.43702328657835,
+      "left_hip_range": 3.8095589756149764,
+      "left_hip_max_velocity": 27.010047154957988
+    },
+    "vertical_motion": {
+      "max_upper_body_velocity_y": 9.842407226562386,
+      "max_upper_body_accel_y": 170.12145996094432,
+      "max_center_velocity_y": 28.969568589154733,
+      "max_center_accel_y": 388.3691226734925,
+      "upper_body_vertical_displacement": -3.14923095703125,
+      "center_vertical_displacement": -1.1859346277573763
+    },
+    "impact": {
+      "has_impact": true,
+      "impact_count": 6,
+      "max_deceleration": -612.539978027354,
+      "impact_frame": 2,
+      "impact_body_part": "knee_center_y"
+    },
+    "collapse": {
+      "height_reduction_pct": 1.1013727775656859,
+      "aspect_ratio_increase_pct": 16.772665866341555,
+      "max_height_collapse_velocity": -38.695220947265625,
+      "max_aspect_ratio_change_velocity": 0.22829205430453692
+    }
+  },
+  {
+    "metadata": {
+      "video_path": "..\\..\\data\\workout_videos\\barbell biceps curl\\barbell biceps curl_44.mp4",
+      "fps": 30.0,
+      "total_frames": 229,
+      "duration": 7.633333333333334,
+      "label": "workout",
+      "data_type": "video"
+    },
+    "joint_angles": {
+      "right_elbow_mean": 90.03887711743403,
+      "right_elbow_min": 1.0556474148840405,
+      "right_elbow_max": 166.15485353329856,
+      "right_elbow_range": 165.09920611841451,
+      "right_elbow_max_velocity": 2151.9909905380587,
+      "left_elbow_mean": 87.72750278364757,
+      "left_elbow_min": 0.1291314573333552,
+      "left_elbow_max": 162.95589415793583,
+      "left_elbow_range": 162.82676270060247,
+      "left_elbow_max_velocity": 4235.9737608771065,
+      "right_knee_mean": 178.85692200420723,
+      "right_knee_min": 177.3133455274942,
+      "right_knee_max": 179.9982169500014,
+      "right_knee_range": 2.6848714225072,
+      "right_knee_max_velocity": 63.34397028292187,
+      "left_knee_mean": 176.88755302561563,
+      "left_knee_min": 174.49357159667252,
+      "left_knee_max": 178.86762462074125,
+      "left_knee_range": 4.374053024068729,
+      "left_knee_max_velocity": 43.51240952538433,
+      "right_hip_mean": 175.0107162739125,
+      "right_hip_min": 173.5043671484837,
+      "right_hip_max": 176.74024301037852,
+      "right_hip_range": 3.2358758618948116,
+      "right_hip_max_velocity": 24.841190781558566,
+      "left_hip_mean": 173.00256447098337,
+      "left_hip_min": 171.28433426129334,
+      "left_hip_max": 174.95824268006348,
+      "left_hip_range": 3.6739084187701394,
+      "left_hip_max_velocity": 34.421874554440706
+    },
+    "vertical_motion": {
+      "max_upper_body_velocity_y": 18.313507080078182,
+      "max_upper_body_accel_y": 589.1079711914045,
+      "max_center_velocity_y": 41.68469238281148,
+      "max_center_accel_y": 933.8606710994668,
+      "upper_body_vertical_displacement": 2.759470621744782,
+      "center_vertical_displacement": 5.529621797449465
+    },
+    "impact": {
+      "has_impact": true,
+      "impact_count": 6,
+      "max_deceleration": -1999.286499023458,
+      "impact_frame": 2,
+      "impact_body_part": "hip_center_y"
+    },
+    "collapse": {
+      "height_reduction_pct": 1.0011493612664213,
+      "aspect_ratio_increase_pct": 21.900083629428824,
+      "max_height_collapse_velocity": -164.80316162109375,
+      "max_aspect_ratio_change_velocity": 0.29845598432562015
+    }
+  },
+  {
+    "metadata": {
+      "video_path": "..\\..\\data\\workout_videos\\barbell biceps curl\\barbell biceps curl_45.mp4",
+      "fps": 29.97002997002997,
+      "total_frames": 421,
+      "duration": 14.047366666666667,
+      "label": "workout",
+      "data_type": "video"
+    },
+    "joint_angles": {
+      "right_elbow_mean": 101.97963131324013,
+      "right_elbow_min": 8.829145469969497,
+      "right_elbow_max": 179.3288784188022,
+      "right_elbow_range": 170.4997329488327,
+      "right_elbow_max_velocity": 4207.505723141917,
+      "left_elbow_mean": 103.83452525511767,
+      "left_elbow_min": 14.31928585977193,
+      "left_elbow_max": 178.68626272275304,
+      "left_elbow_range": 164.36697686298112,
+      "left_elbow_max_velocity": 3969.100113486773,
+      "right_knee_mean": 178.66119086327762,
+      "right_knee_min": 177.0213366975911,
+      "right_knee_max": 179.99752772787204,
+      "right_knee_range": 2.976191030280944,
+      "right_knee_max_velocity": 48.213797066019985,
+      "left_knee_mean": 175.6559494130694,
+      "left_knee_min": 172.80667165821808,
+      "left_knee_max": 178.59224521336188,
+      "left_knee_range": 5.785573555143799,
+      "left_knee_max_velocity": 61.02697704778802,
+      "right_hip_mean": 170.22503266987118,
+      "right_hip_min": 169.12383816036166,
+      "right_hip_max": 171.5242655151299,
+      "right_hip_range": 2.4004273547682544,
+      "right_hip_max_velocity": 34.815151115329265,
+      "left_hip_mean": 167.56673262460902,
+      "left_hip_min": 165.58562583619278,
+      "left_hip_max": 169.7239679885958,
+      "left_hip_range": 4.138342152403027,
+      "left_hip_max_velocity": 59.34619820064628
+    },
+    "vertical_motion": {
+      "max_upper_body_velocity_y": 15.297934487387158,
+      "max_upper_body_accel_y": 408.93422505705337,
+      "max_center_velocity_y": 39.49093329694123,
+      "max_center_accel_y": 488.88788882708184,
+      "upper_body_vertical_displacement": 0.46343994140625,
+      "center_vertical_displacement": -0.923380234662261
+    },
+    "impact": {
+      "has_impact": true,
+      "impact_count": 6,
+      "max_deceleration": -765.0703515507554,
+      "impact_frame": 326,
+      "impact_body_part": "hip_center_y"
+    },
+    "collapse": {
+      "height_reduction_pct": 3.1416918553747655,
+      "aspect_ratio_increase_pct": 8.062120414434807,
+      "max_height_collapse_velocity": -132.33943180842596,
+      "max_aspect_ratio_change_velocity": 0.36815331004199636
+    }
+  },
+  {
+    "metadata": {
+      "video_path": "..\\..\\data\\workout_videos\\barbell biceps curl\\barbell biceps curl_46.mp4",
+      "fps": 23.976043137696813,
+      "total_frames": 94,
+      "duration": 3.9205802000000003,
+      "label": "workout",
+      "data_type": "video"
+    },
+    "joint_angles": {
+      "right_elbow_mean": 104.86070703590673,
+      "right_elbow_min": 18.081861369981745,
+      "right_elbow_max": 179.34735391211802,
+      "right_elbow_range": 161.2654925421363,
+      "right_elbow_max_velocity": 593.9474279291458,
+      "left_elbow_mean": 90.51084910935023,
+      "left_elbow_min": 6.810047696716372,
+      "left_elbow_max": 167.35563208449068,
+      "left_elbow_range": 160.5455843877743,
+      "left_elbow_max_velocity": 823.270445895552,
+      "right_knee_mean": 178.7647198809486,
+      "right_knee_min": 176.99400077480706,
+      "right_knee_max": 179.9772794474415,
+      "right_knee_range": 2.983278672634441,
+      "right_knee_max_velocity": 60.88535160480131,
+      "left_knee_mean": 179.3193509572024,
+      "left_knee_min": 177.63289669138493,
+      "left_knee_max": 179.9764298479429,
+      "left_knee_range": 2.3435331565579816,
+      "left_knee_max_velocity": 56.18865205625694,
+      "right_hip_mean": 165.22802209649524,
+      "right_hip_min": 163.4599078811736,
+      "right_hip_max": 167.54609891842634,
+      "right_hip_range": 4.086191037252746,
+      "right_hip_max_velocity": 75.56559813385913,
+      "left_hip_mean": 160.9743800545779,
+      "left_hip_min": 158.1795540471771,
+      "left_hip_max": 163.65130449839978,
+      "left_hip_range": 5.471750451222675,
+      "left_hip_max_velocity": 61.141628224408166
+    },
+    "vertical_motion": {
+      "max_upper_body_velocity_y": 12.714322216429162,
+      "max_upper_body_accel_y": 408.61212313702805,
+      "max_center_velocity_y": 39.594206425741156,
+      "max_center_accel_y": 1103.0877555689856,
+      "upper_body_vertical_displacement": 2.910247802734375,
+      "center_vertical_displacement": -13.06140046961167
+    },
+    "impact": {
+      "has_impact": true,
+      "impact_count": 6,
+      "max_deceleration": -877.1226495648081,
+      "impact_frame": 18,
+      "impact_body_part": "hip_center_y"
+    },
+    "collapse": {
+      "height_reduction_pct": 1.7224104604232875,
+      "aspect_ratio_increase_pct": 2.071608659278475,
+      "max_height_collapse_velocity": -62.19737386840569,
+      "max_aspect_ratio_change_velocity": 0.3034908182861715
+    }
+  },
+  {
+    "metadata": {
+      "video_path": "..\\..\\data\\workout_videos\\barbell biceps curl\\barbell biceps curl_47.mp4",
+      "fps": 23.976043137696813,
+      "total_frames": 120,
+      "duration": 5.004996,
+      "label": "workout",
+      "data_type": "video"
+    },
+    "joint_angles": {
+      "right_elbow_mean": 103.00623570864857,
+      "right_elbow_min": 4.119245627104012,
+      "right_elbow_max": 179.96228680614985,
+      "right_elbow_range": 175.84304117904583,
+      "right_elbow_max_velocity": 3757.4287994132565,
+      "left_elbow_mean": 101.97737104244365,
+      "left_elbow_min": 9.653972948972164,
+      "left_elbow_max": 179.98849614016402,
+      "left_elbow_range": 170.33452319119186,
+      "left_elbow_max_velocity": 2153.0465236226105
+    },
+    "vertical_motion": {
+      "max_upper_body_velocity_y": 30.929885873660584,
+      "max_upper_body_accel_y": 564.4692526415755,
+      "max_center_velocity_y": 105.28307488955122,
+      "max_center_accel_y": 1295.8091162532808,
+      "upper_body_vertical_displacement": 4.519632975260407,
+      "center_vertical_displacement": 9.4036865234375
+    },
+    "impact": {
+      "has_impact": false,
+      "impact_count": 0,
+      "max_deceleration": NaN,
+      "impact_frame": NaN,
+      "impact_body_part": null
+    },
+    "collapse": {
+      "height_reduction_pct": 5.468068808194111,
+      "aspect_ratio_increase_pct": 9.520227838169781,
+      "max_height_collapse_velocity": -561.1643822055502,
+      "max_aspect_ratio_change_velocity": 0.6414551391964284
+    }
+  },
+  {
+    "metadata": {
+      "video_path": "..\\..\\data\\workout_videos\\barbell biceps curl\\barbell biceps curl_48.mp4",
+      "fps": 23.976043137696813,
+      "total_frames": 70,
+      "duration": 2.919581,
+      "label": "workout",
+      "data_type": "video"
+    },
+    "joint_angles": {
+      "right_elbow_mean": 130.31998125001897,
+      "right_elbow_min": 9.382450249871487,
+      "right_elbow_max": 179.92329481730417,
+      "right_elbow_range": 170.54084456743269,
+      "right_elbow_max_velocity": 755.9236224192111,
+      "left_elbow_mean": 118.27856953828585,
+      "left_elbow_min": 1.8134719681515723,
+      "left_elbow_max": 178.92794892171665,
+      "left_elbow_range": 177.1144769535651,
+      "left_elbow_max_velocity": 1187.5588276357357,
+      "right_knee_mean": 178.52467601427574,
+      "right_knee_min": 177.15178566955876,
+      "right_knee_max": 179.99149443756784,
+      "right_knee_range": 2.839708768009075,
+      "right_knee_max_velocity": 56.45504782102817,
+      "left_knee_mean": 178.79762927654963,
+      "left_knee_min": 175.34521602318185,
+      "left_knee_max": 179.95355505633137,
+      "left_knee_range": 4.6083390331495195,
+      "left_knee_max_velocity": 78.66454122968663,
+      "right_hip_mean": 165.49979617511775,
+      "right_hip_min": 163.35396422137947,
+      "right_hip_max": 168.36538884948513,
+      "right_hip_range": 5.011424628105658,
+      "right_hip_max_velocity": 86.03531646555273,
+      "left_hip_mean": 160.47908921873116,
+      "left_hip_min": 157.95766308653398,
+      "left_hip_max": 163.26181032527236,
+      "left_hip_range": 5.304147238738381,
+      "left_hip_max_velocity": 66.21318652625662
+    },
+    "vertical_motion": {
+      "max_upper_body_velocity_y": 1640.8242823224157,
+      "max_upper_body_accel_y": 39345.99983492097,
+      "max_center_velocity_y": 1341.056115229909,
+      "max_center_accel_y": 32157.291955228648,
+      "upper_body_vertical_displacement": -114.900146484375,
+      "center_vertical_displacement": -93.00000055235432
+    },
+    "impact": {
+      "has_impact": false,
+      "impact_count": 0,
+      "max_deceleration": NaN,
+      "impact_frame": NaN,
+      "impact_body_part": null
+    },
+    "collapse": {
+      "height_reduction_pct": 0.013189633514778563,
+      "aspect_ratio_increase_pct": 0.048905775347498334,
+      "max_height_collapse_velocity": -82.34301582733532,
+      "max_aspect_ratio_change_velocity": 0.32798838909067096
+    }
+  },
+  {
+    "metadata": {
+      "video_path": "..\\..\\data\\workout_videos\\barbell biceps curl\\barbell biceps curl_5.mp4",
+      "fps": 29.97002997002997,
+      "total_frames": 82,
+      "duration": 2.736066666666667,
+      "label": "workout",
+      "data_type": "video"
+    },
+    "joint_angles": {
+      "right_elbow_mean": 74.38673252592113,
+      "right_elbow_min": 11.128332181384918,
+      "right_elbow_max": 157.6052331872049,
+      "right_elbow_range": 146.47690100582,
+      "right_elbow_max_velocity": 2546.54461613566,
+      "left_elbow_mean": 70.75399250303285,
+      "left_elbow_min": 0.2124010952466626,
+      "left_elbow_max": 179.77295166398886,
+      "left_elbow_range": 179.5605505687422,
+      "left_elbow_max_velocity": 2459.671903630393
+    },
+    "vertical_motion": {
+      "max_upper_body_velocity_y": 284.57275756470204,
+      "max_upper_body_accel_y": 6397.145905281911,
+      "max_center_velocity_y": 1503.0864729087502,
+      "max_center_accel_y": 87644.89548837756,
+      "upper_body_vertical_displacement": 9.476445515950559,
+      "center_vertical_displacement": -152.06362348614323
+    },
+    "impact": {
+      "has_impact": false,
+      "impact_count": 0,
+      "max_deceleration": NaN,
+      "impact_frame": NaN,
+      "impact_body_part": null
+    },
+    "collapse": {
+      "height_reduction_pct": 21.364475708485216,
+      "aspect_ratio_increase_pct": 36.727625396869335,
+      "max_height_collapse_velocity": -5842.248419305304,
+      "max_aspect_ratio_change_velocity": 7.016911889067534
+    }
+  },
+  {
+    "metadata": {
+      "video_path": "..\\..\\data\\workout_videos\\barbell biceps curl\\barbell biceps curl_51.mp4",
+      "fps": 29.97002997002997,
+      "total_frames": 282,
+      "duration": 9.4094,
+      "label": "workout",
+      "data_type": "video"
+    },
+    "joint_angles": {
+      "right_elbow_mean": 119.93008433324896,
+      "right_elbow_min": 13.502786736845236,
+      "right_elbow_max": 179.96664851033893,
+      "right_elbow_range": 166.4638617734937,
+      "right_elbow_max_velocity": 2675.226513519861,
+      "left_elbow_mean": 121.1724383812006,
+      "left_elbow_min": 18.11479079841565,
+      "left_elbow_max": 179.86285258705377,
+      "left_elbow_range": 161.74806178863813,
+      "left_elbow_max_velocity": 3490.992217623998
+    },
+    "vertical_motion": {
+      "max_upper_body_velocity_y": 116.29910616726966,
+      "max_upper_body_accel_y": 3200.1047690680166,
+      "max_center_velocity_y": 1075.091589553399,
+      "max_center_accel_y": 35230.19227494377,
+      "upper_body_vertical_displacement": 10.10589599609375,
+      "center_vertical_displacement": -86.84957396678436
+    },
+    "impact": {
+      "has_impact": false,
+      "impact_count": 0,
+      "max_deceleration": NaN,
+      "impact_frame": NaN,
+      "impact_body_part": null
+    },
+    "collapse": {
+      "height_reduction_pct": 35.58739943244418,
+      "aspect_ratio_increase_pct": 89.36744222008825,
+      "max_height_collapse_velocity": -4851.585182395729,
+      "max_aspect_ratio_change_velocity": 8.679875574997444
+    }
+  },
+  {
+    "metadata": {
+      "video_path": "..\\..\\data\\workout_videos\\barbell biceps curl\\barbell biceps curl_54.mp4",
+      "fps": 29.97002997002997,
+      "total_frames": 132,
+      "duration": 4.4044,
+      "label": "workout",
+      "data_type": "video"
+    },
+    "joint_angles": {
+      "right_elbow_mean": 127.09325221648449,
+      "right_elbow_min": 24.568592582283962,
+      "right_elbow_max": 179.84165599018172,
+      "right_elbow_range": 155.27306340789775,
+      "right_elbow_max_velocity": 3170.692949819517,
+      "left_elbow_mean": 122.45376947453175,
+      "left_elbow_min": 14.711695394363486,
+      "left_elbow_max": 179.8814973359199,
+      "left_elbow_range": 165.16980194155641,
+      "left_elbow_max_velocity": 4081.759196625796
+    },
+    "vertical_motion": {
+      "max_upper_body_velocity_y": 86.29002223362586,
+      "max_upper_body_accel_y": 2078.2587017012024,
+      "max_center_velocity_y": 910.3129815944137,
+      "max_center_accel_y": 23006.309916072234,
+      "upper_body_vertical_displacement": 8.797643025716127,
+      "center_vertical_displacement": -36.184536912706164
+    },
+    "impact": {
+      "has_impact": false,
+      "impact_count": 0,
+      "max_deceleration": NaN,
+      "impact_frame": NaN,
+      "impact_body_part": null
+    },
+    "collapse": {
+      "height_reduction_pct": 27.81301409280469,
+      "aspect_ratio_increase_pct": 56.65582301005207,
+      "max_height_collapse_velocity": -6106.0405658794325,
+      "max_aspect_ratio_change_velocity": 10.345786989105438
+    }
+  },
+  {
+    "metadata": {
+      "video_path": "..\\..\\data\\workout_videos\\barbell biceps curl\\barbell biceps curl_55.mp4",
+      "fps": 29.97002997002997,
+      "total_frames": 147,
+      "duration": 4.9049000000000005,
+      "label": "workout",
+      "data_type": "video"
+    },
+    "joint_angles": {
+      "right_elbow_mean": 121.70104400244499,
+      "right_elbow_min": 22.868227880891602,
+      "right_elbow_max": 179.96842323300268,
+      "right_elbow_range": 157.1001953521111,
+      "right_elbow_max_velocity": 3833.9244849239894,
+      "left_elbow_mean": 107.6757403105701,
+      "left_elbow_min": 10.17775559998704,
+      "left_elbow_max": 179.00914281955798,
+      "left_elbow_range": 168.83138721957093,
+      "left_elbow_max_velocity": 3937.418385587158
+    },
+    "vertical_motion": {
+      "max_upper_body_velocity_y": 42.03273533107392,
+      "max_upper_body_accel_y": 776.2704742848674,
+      "max_center_velocity_y": 138.98289023176358,
+      "max_center_accel_y": 2307.5377682927824,
+      "upper_body_vertical_displacement": -2.247456868489593,
+      "center_vertical_displacement": -3.5388840895432736
+    },
+    "impact": {
+      "has_impact": false,
+      "impact_count": 0,
+      "max_deceleration": NaN,
+      "impact_frame": NaN,
+      "impact_body_part": null
+    },
+    "collapse": {
+      "height_reduction_pct": 2.2087182902375138,
+      "aspect_ratio_increase_pct": 5.377784822562835,
+      "max_height_collapse_velocity": -307.8366945554445,
+      "max_aspect_ratio_change_velocity": 1.052237314039209
+    }
+  },
+  {
+    "metadata": {
+      "video_path": "..\\..\\data\\workout_videos\\barbell biceps curl\\barbell biceps curl_58.mp4",
+      "fps": 29.97002997002997,
+      "total_frames": 162,
+      "duration": 5.4054,
+      "label": "workout",
+      "data_type": "video"
+    },
+    "joint_angles": {},
+    "vertical_motion": {
+      "max_upper_body_velocity_y": 297.12337833065374,
+      "max_upper_body_accel_y": 12823.04683279933,
+      "max_center_velocity_y": 3181.023688225837,
+      "max_center_accel_y": 95335.3752715036,
+      "upper_body_vertical_displacement": 3.4030609130859375,
+      "center_vertical_displacement": -1.6045939127604072
+    },
+    "impact": {
+      "has_impact": false,
+      "impact_count": 0,
+      "max_deceleration": NaN,
+      "impact_frame": NaN,
+      "impact_body_part": null
+    },
+    "collapse": {
+      "height_reduction_pct": 2.1108160042265727,
+      "aspect_ratio_increase_pct": 12.99935035092084,
+      "max_height_collapse_velocity": -10559.091482248221,
+      "max_aspect_ratio_change_velocity": 32.288882236443094
+    }
+  },
+  {
+    "metadata": {
+      "video_path": "..\\..\\data\\workout_videos\\bench press\\bench press_10.mp4",
+      "fps": 29.97002997002997,
+      "total_frames": 53,
+      "duration": 1.7684333333333333,
+      "label": "workout",
+      "data_type": "video"
+    },
+    "joint_angles": {
+      "right_elbow_mean": 142.6371009766934,
+      "right_elbow_min": 22.49655434673246,
+      "right_elbow_max": 175.47663281258698,
+      "right_elbow_range": 152.98007846585452,
+      "right_elbow_max_velocity": 3213.6988664895116,
+      "left_elbow_mean": 117.62445093145277,
+      "left_elbow_min": 6.133335307298813,
+      "left_elbow_max": 173.04748811565855,
+      "left_elbow_range": 166.91415280835974,
+      "left_elbow_max_velocity": 4332.270528105651,
+      "right_knee_mean": 132.73791833970802,
+      "right_knee_min": 95.95966008982299,
+      "right_knee_max": 166.37969490692834,
+      "right_knee_range": 70.42003481710535,
+      "right_knee_max_velocity": 1481.2943666520423,
+      "left_knee_mean": 140.4202320309906,
+      "left_knee_min": 88.67371847203658,
+      "left_knee_max": 169.1268416537879,
+      "left_knee_range": 80.45312318175131,
+      "left_knee_max_velocity": 1979.699802024091,
+      "right_hip_mean": 104.30759081852428,
+      "right_hip_min": 3.7639182777384033,
+      "right_hip_max": 136.73823953634343,
+      "right_hip_range": 132.97432125860502,
+      "right_hip_max_velocity": 3919.730686888927,
+      "left_hip_mean": 109.19491350945817,
+      "left_hip_min": 0.18200090353998388,
+      "left_hip_max": 143.92073523392077,
+      "left_hip_range": 143.7387343303808,
+      "left_hip_max_velocity": 3744.1977100422714
+    },
+    "vertical_motion": {
+      "max_upper_body_velocity_y": 719.7388792847779,
+      "max_upper_body_accel_y": 24372.523305475104,
+      "max_center_velocity_y": 493.62598855647974,
+      "max_center_accel_y": 13706.571572758896,
+      "upper_body_vertical_displacement": -20.38739013671875,
+      "center_vertical_displacement": -5.219500373391611
+    },
+    "impact": {
+      "has_impact": false,
+      "impact_count": 0,
+      "max_deceleration": NaN,
+      "impact_frame": NaN,
+      "impact_body_part": null
+    },
+    "collapse": {
+      "height_reduction_pct": 37.794153800382794,
+      "aspect_ratio_increase_pct": 67.0736492006784,
+      "max_height_collapse_velocity": -3060.269503445773,
+      "max_aspect_ratio_change_velocity": 28.569159574369838
+    }
+  },
+  {
+    "metadata": {
+      "video_path": "..\\..\\data\\workout_videos\\bench press\\bench press_11.mp4",
+      "fps": 29.97002997002997,
+      "total_frames": 39,
+      "duration": 1.3013000000000001,
+      "label": "workout",
+      "data_type": "video"
+    },
+    "joint_angles": {
+      "right_elbow_mean": 119.72514160886466,
+      "right_elbow_min": 19.06189944241006,
+      "right_elbow_max": 176.67014682678195,
+      "right_elbow_range": 157.60824738437188,
+      "right_elbow_max_velocity": 3358.1047184004633,
+      "left_elbow_mean": 113.61207864070016,
+      "left_elbow_min": 6.637959523046569,
+      "left_elbow_max": 173.35613212266566,
+      "left_elbow_range": 166.7181725996191,
+      "left_elbow_max_velocity": 4031.468796446673,
+      "right_knee_mean": 129.9643766720412,
+      "right_knee_min": 119.51205589998584,
+      "right_knee_max": 153.2311191049487,
+      "right_knee_range": 33.719063204962865,
+      "right_knee_max_velocity": 959.4953709950764,
+      "left_knee_mean": 139.91057741741182,
+      "left_knee_min": 128.04698895601481,
+      "left_knee_max": 162.61188837002055,
+      "left_knee_range": 34.56489941400574,
+      "left_knee_max_velocity": 811.7191531404845,
+      "right_hip_mean": 120.79618003535114,
+      "right_hip_min": 5.489806869311207,
+      "right_hip_max": 139.56981945735083,
+      "right_hip_range": 134.08001258803964,
+      "right_hip_max_velocity": 3605.2216269789733,
+      "left_hip_mean": 122.64181038903982,
+      "left_hip_min": 2.325029466216336,
+      "left_hip_max": 143.78861061896995,
+      "left_hip_range": 141.46358115275362,
+      "left_hip_max_velocity": 3689.0655134992166
+    },
+    "vertical_motion": {
+      "max_upper_body_velocity_y": 456.364314396541,
+      "max_upper_body_accel_y": 8560.639934880819,
+      "max_center_velocity_y": 689.7694599532489,
+      "max_center_accel_y": 14787.213060929014,
+      "upper_body_vertical_displacement": 18.359822591145758,
+      "center_vertical_displacement": 39.89991490981163
+    },
+    "impact": {
+      "has_impact": false,
+      "impact_count": 0,
+      "max_deceleration": NaN,
+      "impact_frame": NaN,
+      "impact_body_part": null
+    },
+    "collapse": {
+      "height_reduction_pct": 25.288307062691338,
+      "aspect_ratio_increase_pct": 36.971310363962786,
+      "max_height_collapse_velocity": -5131.101808347902,
+      "max_aspect_ratio_change_velocity": 26.765793202994743
+    }
+  },
+  {
+    "metadata": {
+      "video_path": "..\\..\\data\\workout_videos\\bench press\\bench press_15.mp4",
+      "fps": 29.97002997002997,
+      "total_frames": 99,
+      "duration": 3.3033,
+      "label": "workout",
+      "data_type": "video"
+    },
+    "joint_angles": {
+      "right_elbow_mean": 157.37548589741573,
+      "right_elbow_min": 82.57203967438723,
+      "right_elbow_max": 174.0109183660528,
+      "right_elbow_range": 91.43887869166558,
+      "right_elbow_max_velocity": 2649.682815416767,
+      "left_elbow_mean": 148.52842844477064,
+      "left_elbow_min": 8.104027978990635,
+      "left_elbow_max": 177.32419161379096,
+      "left_elbow_range": 169.22016363480031,
+      "left_elbow_max_velocity": 4758.254176429448
+    },
+    "vertical_motion": {
+      "max_upper_body_velocity_y": 74.27124877076004,
+      "max_upper_body_accel_y": 2436.195728986854,
+      "max_center_velocity_y": 225.85299034649194,
+      "max_center_accel_y": 4213.65578322117,
+      "upper_body_vertical_displacement": 26.872406005859375,
+      "center_vertical_displacement": 47.97620567908655
+    },
+    "impact": {
+      "has_impact": false,
+      "impact_count": 0,
+      "max_deceleration": NaN,
+      "impact_frame": NaN,
+      "impact_body_part": null
+    },
+    "collapse": {
+      "height_reduction_pct": 12.121337325242951,
+      "aspect_ratio_increase_pct": 11.725239398071123,
+      "max_height_collapse_velocity": -1293.8568999360016,
+      "max_aspect_ratio_change_velocity": 16.86643088638169
+    }
+  },
+  {
+    "metadata": {
+      "video_path": "..\\..\\data\\workout_videos\\bench press\\bench press_18.mp4",
+      "fps": 29.97002997002997,
+      "total_frames": 81,
+      "duration": 2.7027,
+      "label": "workout",
+      "data_type": "video"
+    },
+    "joint_angles": {
+      "right_elbow_mean": 144.6503906646206,
+      "right_elbow_min": 122.05307072434815,
+      "right_elbow_max": 168.60419050377416,
+      "right_elbow_range": 46.55111977942602,
+      "right_elbow_max_velocity": 1091.0102082338312,
+      "left_elbow_mean": 152.97201046326407,
+      "left_elbow_min": 28.22628273001792,
+      "left_elbow_max": 179.13372283432696,
+      "left_elbow_range": 150.90744010430905,
+      "left_elbow_max_velocity": 3938.400669555111,
+      "right_knee_mean": 168.77104692358392,
+      "right_knee_min": 143.84507214661534,
+      "right_knee_max": 179.95724657192147,
+      "right_knee_range": 36.11217442530614,
+      "right_knee_max_velocity": 992.667447858633,
+      "left_knee_mean": 161.80160321249886,
+      "left_knee_min": 118.07424503945336,
+      "left_knee_max": 179.94279670625247,
+      "left_knee_range": 61.86855166679911,
+      "left_knee_max_velocity": 1419.8359467619741,
+      "right_hip_mean": 162.9103910220694,
+      "right_hip_min": 134.77844290532406,
+      "right_hip_max": 178.94007373601764,
+      "right_hip_range": 44.16163083069358,
+      "right_hip_max_velocity": 984.7522656729709,
+      "left_hip_mean": 143.64063748450073,
+      "left_hip_min": 109.72723951130614,
+      "left_hip_max": 174.5547991896729,
+      "left_hip_range": 64.82755967836677,
+      "left_hip_max_velocity": 1446.2890851301995
+    },
+    "vertical_motion": {
+      "max_upper_body_velocity_y": 4777.704679048979,
+      "max_upper_body_accel_y": 145885.57365924655,
+      "max_center_velocity_y": 2607.526528037394,
+      "max_center_accel_y": 83247.55028565002,
+      "upper_body_vertical_displacement": -15.231536865234375,
+      "center_vertical_displacement": 24.084723063877618
+    },
+    "impact": {
+      "has_impact": false,
+      "impact_count": 0,
+      "max_deceleration": NaN,
+      "impact_frame": NaN,
+      "impact_body_part": null
+    },
+    "collapse": {
+      "height_reduction_pct": 29.172152477526907,
+      "aspect_ratio_increase_pct": 30.918198566572585,
+      "max_height_collapse_velocity": -3090.200776701326,
+      "max_aspect_ratio_change_velocity": 20.05428149562638
+    }
+  },
+  {
+    "metadata": {
+      "video_path": "..\\..\\data\\workout_videos\\bench press\\bench press_3.mp4",
+      "fps": 29.97002997002997,
+      "total_frames": 86,
+      "duration": 2.8695333333333335,
+      "label": "workout",
+      "data_type": "video"
+    },
+    "joint_angles": {
+      "right_elbow_mean": 101.60321512583486,
+      "right_elbow_min": 1.4268790717833923,
+      "right_elbow_max": 179.52035023912603,
+      "right_elbow_range": 178.09347116734264,
+      "right_elbow_max_velocity": 3052.7963985636106,
+      "left_elbow_mean": 59.69705904363415,
+      "left_elbow_min": 0.5919643921670559,
+      "left_elbow_max": 177.27843434449755,
+      "left_elbow_range": 176.6864699523305,
+      "left_elbow_max_velocity": 5125.265901264089,
+      "right_knee_mean": 96.8491985837976,
+      "right_knee_min": 87.30024085810489,
+      "right_knee_max": 120.27824446187945,
+      "right_knee_range": 32.97800360377457,
+      "right_knee_max_velocity": 639.6035470907358,
+      "left_knee_mean": 137.28861252356202,
+      "left_knee_min": 108.34250268649619,
+      "left_knee_max": 160.68556167833117,
+      "left_knee_range": 52.34305899183498,
+      "left_knee_max_velocity": 795.9318680221149,
+      "right_hip_mean": 172.6671860179772,
+      "right_hip_min": 139.16301811923333,
+      "right_hip_max": 179.97539247286093,
+      "right_hip_range": 40.812374353627604,
+      "right_hip_max_velocity": 1078.6447978178749,
+      "left_hip_mean": 137.01567672607246,
+      "left_hip_min": 101.29380394223196,
+      "left_hip_max": 172.77397172369197,
+      "left_hip_range": 71.48016778146001,
+      "left_hip_max_velocity": 1016.7220075383373
+    },
+    "vertical_motion": {
+      "max_upper_body_velocity_y": 296.1440110182762,
+      "max_upper_body_accel_y": 17074.88588771357,
+      "max_center_velocity_y": 253.74238188569072,
+      "max_center_accel_y": 4379.480648433306,
+      "upper_body_vertical_displacement": 46.08823649088538,
+      "center_vertical_displacement": 26.70018357496997
+    },
+    "impact": {
+      "has_impact": false,
+      "impact_count": 0,
+      "max_deceleration": NaN,
+      "impact_frame": NaN,
+      "impact_body_part": null
+    },
+    "collapse": {
+      "height_reduction_pct": 31.32641275274447,
+      "aspect_ratio_increase_pct": 54.783422177683946,
+      "max_height_collapse_velocity": -1823.6842808070835,
+      "max_aspect_ratio_change_velocity": 3.1790067646379554
+    }
+  },
+  {
+    "metadata": {
+      "video_path": "..\\..\\data\\workout_videos\\bench press\\bench press_31.mp4",
+      "fps": 24.0,
+      "total_frames": 77,
+      "duration": 3.2083333333333335,
+      "label": "workout",
+      "data_type": "video"
+    },
+    "joint_angles": {
+      "right_elbow_mean": 117.05097076910623,
+      "right_elbow_min": 9.732016708111061,
+      "right_elbow_max": 166.02425671821516,
+      "right_elbow_range": 156.29224001010408,
+      "right_elbow_max_velocity": 1905.4250629471862,
+      "left_elbow_mean": 130.4920209744322,
+      "left_elbow_min": 16.251244390871822,
+      "left_elbow_max": 157.95356850290074,
+      "left_elbow_range": 141.70232411202892,
+      "left_elbow_max_velocity": 2961.075440545548,
+      "right_knee_mean": 163.4109144235375,
+      "right_knee_min": 143.00495206258591,
+      "right_knee_max": 177.49443906462415,
+      "right_knee_range": 34.48948700203823,
+      "right_knee_max_velocity": 461.15410609476703,
+      "left_knee_mean": 141.5467188039482,
+      "left_knee_min": 125.28090922177292,
+      "left_knee_max": 175.2059035970841,
+      "left_knee_range": 49.924994375311186,
+      "left_knee_max_velocity": 930.5839391379898,
+      "right_hip_mean": 122.09603070495619,
+      "right_hip_min": 111.20798017624901,
+      "right_hip_max": 137.01539229978314,
+      "right_hip_range": 25.807412123534135,
+      "right_hip_max_velocity": 319.4764541334206,
+      "left_hip_mean": 163.0247887449032,
+      "left_hip_min": 102.24010827622956,
+      "left_hip_max": 179.9781471376076,
+      "left_hip_range": 77.73803886137804,
+      "left_hip_max_velocity": 1558.2916207355024
+    },
+    "vertical_motion": {
+      "max_upper_body_velocity_y": 115.42998046875027,
+      "max_upper_body_accel_y": 2904.2472656250065,
+      "max_center_velocity_y": 127.64542451746365,
+      "max_center_accel_y": 2146.2947000558343,
+      "upper_body_vertical_displacement": 0.53814697265625,
+      "center_vertical_displacement": -1.712760476505082
+    },
+    "impact": {
+      "has_impact": true,
+      "impact_count": 6,
+      "max_deceleration": -11331.4833984375,
+      "impact_frame": 2,
+      "impact_body_part": "hip_center_x"
+    },
+    "collapse": {
+      "height_reduction_pct": 29.39160222278349,
+      "aspect_ratio_increase_pct": 23.134319994925722,
+      "max_height_collapse_velocity": -1739.5418701171875,
+      "max_aspect_ratio_change_velocity": 5.037257919870904
+    }
+  },
+  {
+    "metadata": {
+      "video_path": "..\\..\\data\\workout_videos\\bench press\\bench press_36.mp4",
+      "fps": 24.0,
+      "total_frames": 139,
+      "duration": 5.791666666666667,
+      "label": "workout",
+      "data_type": "video"
+    },
+    "joint_angles": {
+      "right_elbow_mean": 108.9978356912859,
+      "right_elbow_min": 6.927233313544278,
+      "right_elbow_max": 167.8852406918848,
+      "right_elbow_range": 160.95800737834054,
+      "right_elbow_max_velocity": 1949.764288611892,
+      "left_elbow_mean": 123.3435210817246,
+      "left_elbow_min": 5.123127777422981,
+      "left_elbow_max": 155.18568435066143,
+      "left_elbow_range": 150.06255657323845,
+      "left_elbow_max_velocity": 2699.814245641616,
+      "right_knee_mean": 161.99764982337715,
+      "right_knee_min": 139.24388651200357,
+      "right_knee_max": 178.76601793959753,
+      "right_knee_range": 39.52213142759396,
+      "right_knee_max_velocity": 424.8277148416903,
+      "left_knee_mean": 140.66938040610873,
+      "left_knee_min": 121.59632137424752,
+      "left_knee_max": 179.32176669677273,
+      "left_knee_range": 57.7254453225252,
+      "left_knee_max_velocity": 989.4563619608962,
+      "right_hip_mean": 123.98819705543232,
+      "right_hip_min": 107.51472590803263,
+      "right_hip_max": 131.79825243771884,
+      "right_hip_range": 24.283526529686213,
+      "right_hip_max_velocity": 353.50678891990606,
+      "left_hip_mean": 158.96510133546838,
+      "left_hip_min": 99.66374578773517,
+      "left_hip_max": 179.93997473754166,
+      "left_hip_range": 80.2762289498065,
+      "left_hip_max_velocity": 1501.8769006120317
+    },
+    "vertical_motion": {
+      "max_upper_body_velocity_y": 197.939208984375,
+      "max_upper_body_accel_y": 7674.645703124996,
+      "max_center_velocity_y": 147.01972943474266,
+      "max_center_accel_y": 4515.572990866276,
+      "upper_body_vertical_displacement": 3.2655843098958712,
+      "center_vertical_displacement": 2.2667577406938904
+    },
+    "impact": {
+      "has_impact": true,
+      "impact_count": 6,
+      "max_deceleration": -18180.595898437474,
+      "impact_frame": 138,
+      "impact_body_part": "knee_center_x"
+    },
+    "collapse": {
+      "height_reduction_pct": 27.92193942830858,
+      "aspect_ratio_increase_pct": 16.294912704943705,
+      "max_height_collapse_velocity": -1865.460205078125,
+      "max_aspect_ratio_change_velocity": 6.040246840369188
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1000.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 300,
+      "height": 168
+    },
+    "joint_angles": {
+      "right_elbow": 87.56619707574937,
+      "left_elbow": 44.604289082124204,
+      "right_shoulder": 173.46429728462664,
+      "left_shoulder": 149.4386485060706,
+      "neck": 72.92389433193567
+    },
+    "proportions": {
+      "right_arm_ratio": 0.656229363986544,
+      "left_arm_ratio": 0.5850953967454426,
+      "shoulders_ratio": 0.94913237034343,
+      "hips_ratio": 0.6135620179154061,
+      "shoulder_hip_ratio": 1.5469216519760032,
+      "width_height_ratio": 0.94913237034343
+    },
+    "bounding_box": {
+      "x": 16.37671661376953,
+      "y": 27.656261444091797,
+      "width": 108.95154571533203,
+      "height": 115.4144172668457,
+      "area": 12574.579159057146,
+      "aspect_ratio": 0.9440029096488779
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1001.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 177,
+      "height": 285
+    },
+    "joint_angles": {
+      "right_elbow": 86.41239086448944,
+      "left_elbow": 143.6184065996071,
+      "left_shoulder": 99.25110087324735,
+      "right_hip": 175.84760791362197,
+      "left_hip": 175.20049757072007,
+      "right_knee": 166.84712021092938,
+      "left_knee": 179.6324429790857,
+      "neck": 40.76392632418335
+    },
+    "proportions": {
+      "right_arm_ratio": 0.3855139438422958,
+      "left_arm_ratio": 0.7551312673346088,
+      "right_leg_ratio": 1.2612026019094489,
+      "left_leg_ratio": 1.224844468641319,
+      "shoulders_ratio": 0.3814551579507294,
+      "hips_ratio": 0.300648219863941,
+      "shoulder_hip_ratio": 1.2687757077802013,
+      "width_height_ratio": 0.3814551579507294
+    },
+    "bounding_box": {
+      "x": 64.58879089355469,
+      "y": 55.882568359375,
+      "width": 48.90141296386719,
+      "height": 175.46368408203125,
+      "area": 8580.42207545694,
+      "aspect_ratio": 0.2786982002555311
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1002.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 275,
+      "height": 183
+    },
+    "joint_angles": {
+      "right_elbow": 50.8376287809766,
+      "left_elbow": 161.7597539409385,
+      "right_shoulder": 136.09516650844677
+    },
+    "proportions": {},
+    "bounding_box": {
+      "x": 144.92396545410156,
+      "y": 96.87042236328125,
+      "width": 94.79136657714844,
+      "height": 77.44758605957031,
+      "area": 7341.362520687981,
+      "aspect_ratio": 1.2239421704407651
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1003.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 275,
+      "height": 183
+    },
+    "joint_angles": {
+      "right_elbow": 165.47839457331716,
+      "left_elbow": 161.46909869998876,
+      "left_shoulder": 171.88544038234787,
+      "right_hip": 168.84996137200463,
+      "left_hip": 172.7932145846504,
+      "right_knee": 155.01113963367348,
+      "left_knee": 156.2094287025755,
+      "neck": 20.30956170406676
+    },
+    "proportions": {
+      "right_arm_ratio": 1.012347632401971,
+      "left_arm_ratio": 1.055880154398554,
+      "right_leg_ratio": 1.4634409560827242,
+      "left_leg_ratio": 1.559010725717994,
+      "shoulders_ratio": 0.2148243724978572,
+      "hips_ratio": 0.1395862199228798,
+      "shoulder_hip_ratio": 1.5390084538183342,
+      "width_height_ratio": 0.2148243724978572
+    },
+    "bounding_box": {
+      "x": 39.74683380126953,
+      "y": 24.78705596923828,
+      "width": 28.996810913085938,
+      "height": 138.09586334228516,
+      "area": 4004.3396372155985,
+      "aspect_ratio": 0.20997595591414844
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1004.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 300,
+      "height": 168
+    },
+    "joint_angles": {
+      "right_elbow": 7.255304607998084,
+      "left_elbow": 11.963576431130436,
+      "right_shoulder": 174.166605088196,
+      "left_shoulder": 172.32462133099662,
+      "neck": 74.2698411787756
+    },
+    "proportions": {},
+    "bounding_box": {
+      "x": 32.64406967163086,
+      "y": 45.485713958740234,
+      "width": 107.99905776977539,
+      "height": 122.51428604125977,
+      "area": 13231.4274557928,
+      "aspect_ratio": 0.8815221576151862
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1005.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 275,
+      "height": 183
+    },
+    "joint_angles": {
+      "neck": 83.10285598460639
+    },
+    "proportions": {},
+    "bounding_box": {
+      "x": 65.85785675048828,
+      "y": 38.98876953125,
+      "width": 107.8449935913086,
+      "height": 136.0255889892578,
+      "area": 14669.678772800486,
+      "aspect_ratio": 0.7928287198949405
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1006.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 351,
+      "height": 143
+    },
+    "joint_angles": {},
+    "proportions": {},
+    "bounding_box": {
+      "x": NaN,
+      "y": NaN,
+      "width": NaN,
+      "height": NaN,
+      "area": NaN,
+      "aspect_ratio": NaN
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1007.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 275,
+      "height": 183
+    },
+    "joint_angles": {
+      "neck": 73.35413339513268
+    },
+    "proportions": {},
+    "bounding_box": {
+      "x": 155.96347045898438,
+      "y": 81.95711517333984,
+      "width": 75.80921936035156,
+      "height": 52.43938446044922,
+      "area": 3975.388799684006,
+      "aspect_ratio": 1.4456542566308785
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1008.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 179,
+      "height": 281
+    },
+    "joint_angles": {
+      "right_elbow": 32.43294928345027,
+      "left_elbow": 40.537010973923714,
+      "right_shoulder": 175.63366557667976,
+      "left_shoulder": 165.4228542890052,
+      "neck": 82.07097613647665
+    },
+    "proportions": {
+      "right_arm_ratio": 0.6432781376270659,
+      "left_arm_ratio": 0.5045494668762148,
+      "shoulders_ratio": 0.7407100653165483,
+      "hips_ratio": 0.4601044525906535,
+      "shoulder_hip_ratio": 1.6098737170351716,
+      "width_height_ratio": 0.7407100653165483
+    },
+    "bounding_box": {
+      "x": 2.2007334232330322,
+      "y": 66.41324615478516,
+      "width": 115.57931113243103,
+      "height": 171.26900482177734,
+      "area": 19795.153595638032,
+      "aspect_ratio": 0.6748407935966169
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1009.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 275,
+      "height": 183
+    },
+    "joint_angles": {
+      "neck": 79.71055519089428
+    },
+    "proportions": {},
+    "bounding_box": {
+      "x": 66.33560943603516,
+      "y": 37.85249328613281,
+      "width": 135.92601776123047,
+      "height": 113.34471130371094,
+      "area": 15406.495241809753,
+      "aspect_ratio": 1.1992268205352092
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_100.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 283,
+      "height": 178
+    },
+    "joint_angles": {
+      "right_elbow": 5.3032514807223095,
+      "left_elbow": 71.22160686515963,
+      "left_shoulder": 157.038161954501,
+      "right_hip": 163.5872365840529,
+      "left_hip": 168.92425485867906,
+      "right_knee": 153.5788287395406,
+      "left_knee": 162.9953214577666,
+      "neck": 54.56882254527865
+    },
+    "proportions": {
+      "right_arm_ratio": 0.18694581515840078,
+      "left_arm_ratio": 0.5724649924916306,
+      "right_leg_ratio": 1.3713175936908624,
+      "left_leg_ratio": 1.4108205551537025,
+      "shoulders_ratio": 0.518166615608172,
+      "hips_ratio": 0.39277530094336444,
+      "shoulder_hip_ratio": 1.3192443984223137,
+      "width_height_ratio": 0.518166615608172
+    },
+    "bounding_box": {
+      "x": 153.0163116455078,
+      "y": 19.45480728149414,
+      "width": 47.94770812988281,
+      "height": 144.6759147644043,
+      "area": 6936.878534547461,
+      "aspect_ratio": 0.3314145841618673
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1010.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 266,
+      "height": 189
+    },
+    "joint_angles": {
+      "right_elbow": 133.62975340613332,
+      "left_elbow": 46.23487570660654,
+      "left_shoulder": 146.80250255471134,
+      "neck": 103.40297722938656
+    },
+    "proportions": {
+      "right_arm_ratio": 0.8483135085430414,
+      "left_arm_ratio": 0.6120341486064004,
+      "shoulders_ratio": 0.7895661903726044,
+      "hips_ratio": 0.4992526538900702,
+      "shoulder_hip_ratio": 1.5814962308572085,
+      "width_height_ratio": 0.7895661903726044
+    },
+    "bounding_box": {
+      "x": 18.414438247680664,
+      "y": 46.132537841796875,
+      "width": 79.58163261413574,
+      "height": 118.51679992675781,
+      "area": 9431.76043037427,
+      "aspect_ratio": 0.6714797620532817
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1011.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 266,
+      "height": 189
+    },
+    "joint_angles": {
+      "right_elbow": 18.816237317492032,
+      "neck": 63.852077107859394
+    },
+    "proportions": {},
+    "bounding_box": {
+      "x": 88.66334533691406,
+      "y": 75.67533111572266,
+      "width": 101.80818176269531,
+      "height": 107.25447845458984,
+      "area": 10919.383437367971,
+      "aspect_ratio": 0.949220799258276
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1012.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 265,
+      "height": 190
+    },
+    "joint_angles": {
+      "right_elbow": 32.61532025728733,
+      "left_elbow": 29.302915984221844,
+      "right_shoulder": 118.93492271715004,
+      "left_shoulder": 126.82657657909921,
+      "neck": 142.41907971675477
+    },
+    "proportions": {
+      "right_arm_ratio": 0.29128684150171136,
+      "left_arm_ratio": 0.3804029555099636,
+      "shoulders_ratio": 1.0012059189586926,
+      "hips_ratio": 0.6491600026690101,
+      "shoulder_hip_ratio": 1.542309931052825,
+      "width_height_ratio": 1.0012059189586926
+    },
+    "bounding_box": {
+      "x": 23.61586570739746,
+      "y": 51.99565505981445,
+      "width": 197.30442237854004,
+      "height": 122.41782760620117,
+      "area": 24153.578764677215,
+      "aspect_ratio": 1.611729486110775
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1013.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 300,
+      "height": 168
+    },
+    "joint_angles": {
+      "right_elbow": 167.4840374942955,
+      "left_elbow": 163.7531668675199,
+      "right_shoulder": 176.998042066113,
+      "left_shoulder": 177.66851973175062,
+      "right_hip": 176.43299332593807,
+      "left_hip": 174.63434418241582,
+      "right_knee": 176.67902882172615,
+      "left_knee": 173.90402024251205,
+      "neck": 81.02087588539003
+    },
+    "proportions": {
+      "right_arm_ratio": 0.9750354887646553,
+      "left_arm_ratio": 1.0528843447530674,
+      "right_leg_ratio": 1.4117391335158052,
+      "left_leg_ratio": 1.408032615513665,
+      "shoulders_ratio": 0.6349765834779499,
+      "hips_ratio": 0.3935382754087822,
+      "shoulder_hip_ratio": 1.613506546011,
+      "width_height_ratio": 0.6349765834779499
+    },
+    "bounding_box": {
+      "x": 95.81466674804688,
+      "y": 41.61677932739258,
+      "width": 29.411399841308594,
+      "height": 69.95566177368164,
+      "area": 2057.493939589098,
+      "aspect_ratio": 0.42042915606258474
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1014.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 275,
+      "height": 183
+    },
+    "joint_angles": {
+      "right_elbow": 119.59373189451881,
+      "left_elbow": 47.36917439309213,
+      "right_shoulder": 179.92207988211692,
+      "neck": 71.20080559236999
+    },
+    "proportions": {
+      "right_arm_ratio": 0.6096837097422393,
+      "left_arm_ratio": 0.41616772212377756,
+      "shoulders_ratio": 0.7184136730955722,
+      "hips_ratio": 0.4926766736212373,
+      "shoulder_hip_ratio": 1.458184873692393,
+      "width_height_ratio": 0.7184136730955722
+    },
+    "bounding_box": {
+      "x": 43.767662048339844,
+      "y": 34.39826202392578,
+      "width": 145.5093002319336,
+      "height": 144.88965606689453,
+      "area": 21082.792465139355,
+      "aspect_ratio": 1.0042766625434805
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1015.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 303,
+      "height": 166
+    },
+    "joint_angles": {
+      "right_elbow": 112.93671934278312,
+      "right_shoulder": 141.1101237240339
+    },
+    "proportions": {
+      "right_arm_ratio": 0.581981413586907,
+      "shoulders_ratio": 0.7361134773456102,
+      "hips_ratio": 0.4493392353179993,
+      "shoulder_hip_ratio": 1.6382132239679883,
+      "width_height_ratio": 0.7361134773456102
+    },
+    "bounding_box": {
+      "x": 90.4503173828125,
+      "y": 56.42138671875,
+      "width": 87.90476989746094,
+      "height": 84.21563720703125,
+      "area": 7402.956210452132,
+      "aspect_ratio": 1.0438057920450157
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1016.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 311,
+      "height": 162
+    },
+    "joint_angles": {
+      "right_elbow": 136.29265652638347,
+      "left_elbow": 174.31762889544626,
+      "right_shoulder": 178.91990894883043,
+      "left_shoulder": 167.29800194142467,
+      "right_hip": 171.9330085617931,
+      "left_hip": 156.11845903253743,
+      "right_knee": 174.15501646479336,
+      "left_knee": 159.02301337450803,
+      "neck": 93.89087501252025
+    },
+    "proportions": {
+      "right_arm_ratio": 0.7820242757360327,
+      "left_arm_ratio": 0.7701314255377033,
+      "right_leg_ratio": 1.3055515856528992,
+      "left_leg_ratio": 1.4197610171588153,
+      "shoulders_ratio": 0.7778571397708538,
+      "hips_ratio": 0.5234438294333427,
+      "shoulder_hip_ratio": 1.486037461962113,
+      "width_height_ratio": 0.7778571397708538
+    },
+    "bounding_box": {
+      "x": 35.499263763427734,
+      "y": 25.135709762573242,
+      "width": 42.147457122802734,
+      "height": 86.79460334777832,
+      "area": 3658.1718230911574,
+      "aspect_ratio": 0.4855999739283512
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1017.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 262,
+      "height": 192
+    },
+    "joint_angles": {
+      "right_elbow": 144.65612122013948,
+      "neck": 68.52961642789685
+    },
+    "proportions": {},
+    "bounding_box": {
+      "x": 11.084716796875,
+      "y": 61.31964874267578,
+      "width": 89.5225601196289,
+      "height": 118.37577056884766,
+      "area": 10597.302037457062,
+      "aspect_ratio": 0.7562574645929113
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1018.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 265,
+      "height": 190
+    },
+    "joint_angles": {
+      "right_elbow": 22.81669725555702,
+      "left_elbow": 79.31082196871394,
+      "left_shoulder": 149.37581743486967,
+      "neck": 65.47125857305211
+    },
+    "proportions": {
+      "right_arm_ratio": 0.374336526329364,
+      "left_arm_ratio": 1.0621581816194487,
+      "shoulders_ratio": 0.7636530985042914,
+      "hips_ratio": 0.4781029686635838,
+      "shoulder_hip_ratio": 1.5972565504851202,
+      "width_height_ratio": 0.7636530985042914
+    },
+    "bounding_box": {
+      "x": 64.18596649169922,
+      "y": 46.571834564208984,
+      "width": 93.23494720458984,
+      "height": 131.62256240844727,
+      "area": 12271.822657084413,
+      "aspect_ratio": 0.7083507986667658
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1019.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 275,
+      "height": 183
+    },
+    "joint_angles": {
+      "right_elbow": 176.33951139046823,
+      "left_elbow": 165.30580617853485,
+      "right_shoulder": 68.24296732729535
+    },
+    "proportions": {
+      "right_arm_ratio": 1.2320176935517817,
+      "left_arm_ratio": 0.3715746569182453,
+      "shoulders_ratio": 0.5628881530002018,
+      "hips_ratio": 0.323817898388027,
+      "shoulder_hip_ratio": 1.7382861040179436,
+      "width_height_ratio": 0.5628881530002018
+    },
+    "bounding_box": {
+      "x": 119.49818420410156,
+      "y": 12.069302558898926,
+      "width": 106.4193115234375,
+      "height": 115.87605571746826,
+      "area": 12331.450071504456,
+      "aspect_ratio": 0.9183891431626874
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_101.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 242,
+      "height": 209
+    },
+    "joint_angles": {
+      "right_elbow": 116.48929850555355,
+      "left_elbow": 3.096419708885013,
+      "right_shoulder": 168.3809928767168,
+      "left_shoulder": 169.93541550082557,
+      "neck": 95.44468129287624
+    },
+    "proportions": {},
+    "bounding_box": {
+      "x": 36.85245895385742,
+      "y": 70.70024108886719,
+      "width": 166.57611465454102,
+      "height": 131.135986328125,
+      "area": 21844.123093930073,
+      "aspect_ratio": 1.2702547890838953
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1020.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 263,
+      "height": 192
+    },
+    "joint_angles": {
+      "right_elbow": 82.00786472828098,
+      "left_elbow": 90.83056418836016,
+      "left_shoulder": 158.09972638914982,
+      "neck": 77.22515756945104
+    },
+    "proportions": {},
+    "bounding_box": {
+      "x": 13.61105728149414,
+      "y": 41.47795867919922,
+      "width": 132.90229415893555,
+      "height": 122.45352935791016,
+      "area": 16274.354979524825,
+      "aspect_ratio": 1.0853284087099317
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1021.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 275,
+      "height": 183
+    },
+    "joint_angles": {},
+    "proportions": {},
+    "bounding_box": {
+      "x": 37.83454895019531,
+      "y": 50.091819763183594,
+      "width": 81.7104263305664,
+      "height": 78.8132553100586,
+      "area": 6439.864691884664,
+      "aspect_ratio": 1.036759946142436
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1022.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 260,
+      "height": 194
+    },
+    "joint_angles": {
+      "right_elbow": 112.17682575106181,
+      "left_elbow": 146.70926477821905,
+      "right_shoulder": 162.42677827731464,
+      "right_hip": 175.96755154989563,
+      "left_hip": 143.68796697143966,
+      "right_knee": 172.15492323002482,
+      "left_knee": 138.21430768994435,
+      "neck": 82.9489137000219
+    },
+    "proportions": {
+      "right_arm_ratio": 0.9085753977530975,
+      "left_arm_ratio": 0.8298744063116137,
+      "right_leg_ratio": 0.8765030989067142,
+      "left_leg_ratio": 0.7132826002345666,
+      "shoulders_ratio": 0.8285316108013367,
+      "hips_ratio": 0.5463048766100979,
+      "shoulder_hip_ratio": 1.5166103146332819,
+      "width_height_ratio": 0.8285316108013367
+    },
+    "bounding_box": {
+      "x": 74.34635162353516,
+      "y": 46.95139694213867,
+      "width": 46.87609100341797,
+      "height": 113.22232437133789,
+      "area": 5307.419980849343,
+      "aspect_ratio": 0.4140180946089515
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1023.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 292,
+      "height": 172
+    },
+    "joint_angles": {
+      "left_elbow": 15.889082468953852,
+      "neck": 79.35453108833379
+    },
+    "proportions": {},
+    "bounding_box": {
+      "x": 51.2530403137207,
+      "y": 60.30838394165039,
+      "width": 160.51996994018555,
+      "height": 66.51753616333008,
+      "area": 10677.39290543295,
+      "aspect_ratio": 2.413197770074312
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1024.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 286,
+      "height": 176
+    },
+    "joint_angles": {
+      "left_elbow": 41.06022162534724
+    },
+    "proportions": {},
+    "bounding_box": {
+      "x": 53.19239807128906,
+      "y": 47.100860595703125,
+      "width": 47.29389953613281,
+      "height": 112.89584350585938,
+      "area": 5339.284680813085,
+      "aspect_ratio": 0.41891621575667864
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1025.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 184,
+      "height": 275
+    },
+    "joint_angles": {
+      "right_elbow": 37.92228852245062,
+      "left_elbow": 22.42404133935538,
+      "right_shoulder": 178.8459620444966,
+      "left_shoulder": 178.07967905989142,
+      "neck": 95.71994800492529
+    },
+    "proportions": {
+      "right_arm_ratio": 0.3690319897182255,
+      "left_arm_ratio": 0.35324687703953744,
+      "shoulders_ratio": 0.8555284821382314,
+      "hips_ratio": 0.5460682776728705,
+      "shoulder_hip_ratio": 1.5667060642748913,
+      "width_height_ratio": 0.8555284821382314
+    },
+    "bounding_box": {
+      "x": 8.997116088867188,
+      "y": 84.34463500976562,
+      "width": 164.21229553222656,
+      "height": 153.3753204345703,
+      "area": 25186.113446551608,
+      "aspect_ratio": 1.0706565767357552
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1026.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 259,
+      "height": 194
+    },
+    "joint_angles": {
+      "right_elbow": 65.79522584572018,
+      "left_elbow": 98.33178303902609,
+      "right_shoulder": 174.68366798460403,
+      "left_shoulder": 154.6612613614719,
+      "right_hip": 98.12893537757601,
+      "left_hip": 115.27405079285074,
+      "right_knee": 117.01458653670518,
+      "left_knee": 117.78917326042968,
+      "neck": 57.921897438820956
+    },
+    "proportions": {
+      "right_arm_ratio": 0.5835478468613109,
+      "left_arm_ratio": 0.5694800307246578,
+      "right_leg_ratio": 1.606785220773509,
+      "left_leg_ratio": 1.4318951366349892,
+      "shoulders_ratio": 0.48302302985792284,
+      "hips_ratio": 0.26294490689671357,
+      "shoulder_hip_ratio": 1.8369742755567324,
+      "width_height_ratio": 0.48302302985792284
+    },
+    "bounding_box": {
+      "x": 158.8751983642578,
+      "y": 79.30866241455078,
+      "width": 48.67120361328125,
+      "height": 75.86112213134766,
+      "area": 3692.2521215868182,
+      "aspect_ratio": 0.6415829643148546
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1027.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 275,
+      "height": 183
+    },
+    "joint_angles": {
+      "left_elbow": 105.24734851103608,
+      "left_shoulder": 126.74473686828331,
+      "neck": 4.979162602256241
+    },
+    "proportions": {},
+    "bounding_box": {
+      "x": 124.43763732910156,
+      "y": 106.68160247802734,
+      "width": 63.58953857421875,
+      "height": 64.6993179321289,
+      "area": 4114.199773370754,
+      "aspect_ratio": 0.9828471243070237
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1028.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 308,
+      "height": 164
+    },
+    "joint_angles": {
+      "right_elbow": 78.43054667916792,
+      "left_elbow": 42.98940255516875,
+      "right_shoulder": 153.50964502018948,
+      "neck": 100.4178216112783
+    },
+    "proportions": {
+      "right_arm_ratio": 0.7792144680903372,
+      "left_arm_ratio": 0.42192740047968896,
+      "shoulders_ratio": 0.8037950323412721,
+      "hips_ratio": 0.5531057139338375,
+      "shoulder_hip_ratio": 1.453239429808932,
+      "width_height_ratio": 0.8037950323412721
+    },
+    "bounding_box": {
+      "x": 104.42164611816406,
+      "y": 39.94125747680664,
+      "width": 117.5555419921875,
+      "height": 118.3733024597168,
+      "area": 13915.43772805715,
+      "aspect_ratio": 0.9930916815655491
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1029.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 303,
+      "height": 166
+    },
+    "joint_angles": {},
+    "proportions": {},
+    "bounding_box": {
+      "x": 266.021728515625,
+      "y": 108.68900299072266,
+      "width": 33.096282958984375,
+      "height": 28.185279846191406,
+      "area": 932.8279970677104,
+      "aspect_ratio": 1.174239998310912
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_102.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 225,
+      "height": 225
+    },
+    "joint_angles": {
+      "right_elbow": 145.21086510197503,
+      "left_elbow": 88.22167583784649,
+      "right_shoulder": 172.53838947630837,
+      "left_shoulder": 175.31978310139718,
+      "right_hip": 178.97702115947087,
+      "left_hip": 177.41241982881888,
+      "right_knee": 178.8604264989697,
+      "left_knee": 179.68966780524272
+    },
+    "proportions": {
+      "right_arm_ratio": 0.6992581348485017,
+      "left_arm_ratio": 0.5707763689485295,
+      "right_leg_ratio": 1.562337332667838,
+      "left_leg_ratio": 1.3307326197679281,
+      "shoulders_ratio": 0.6814457503302325,
+      "hips_ratio": 0.4322219661964017,
+      "shoulder_hip_ratio": 1.5766106390358314,
+      "width_height_ratio": 0.6814457503302325
+    },
+    "bounding_box": {
+      "x": 136.73992919921875,
+      "y": 50.02290725708008,
+      "width": 45.383880615234375,
+      "height": 126.49407577514648,
+      "area": 5740.792033513659,
+      "aspect_ratio": 0.3587826571096335
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1030.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 267,
+      "height": 189
+    },
+    "joint_angles": {
+      "neck": 19.970880133751816
+    },
+    "proportions": {},
+    "bounding_box": {
+      "x": 99.85661315917969,
+      "y": 53.709068298339844,
+      "width": 120.633056640625,
+      "height": 62.464271545410156,
+      "area": 7535.256007352844,
+      "aspect_ratio": 1.9312329057247937
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1032.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 315,
+      "height": 160
+    },
+    "joint_angles": {
+      "right_elbow": 65.7982109091397,
+      "left_elbow": 17.326109901184797,
+      "right_shoulder": 161.41946214054894,
+      "neck": 61.062101598928095
+    },
+    "proportions": {},
+    "bounding_box": {
+      "x": 77.91316223144531,
+      "y": 50.084564208984375,
+      "width": 178.9640350341797,
+      "height": 101.4005126953125,
+      "area": 18147.04490648769,
+      "aspect_ratio": 1.7649223882321925
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1033.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 240,
+      "height": 160
+    },
+    "joint_angles": {
+      "right_elbow": 0.7561794043583734,
+      "left_elbow": 45.16214039764258,
+      "left_shoulder": 164.53131215374407,
+      "neck": 101.80680852529551
+    },
+    "proportions": {},
+    "bounding_box": {
+      "x": 39.5654182434082,
+      "y": 56.078731536865234,
+      "width": 71.72382736206055,
+      "height": 77.3874397277832,
+      "area": 5550.523367027388,
+      "aspect_ratio": 0.9268148373218589
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1034.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 262,
+      "height": 193
+    },
+    "joint_angles": {
+      "right_elbow": 67.94088126526748,
+      "left_elbow": 89.40189174899729,
+      "right_shoulder": 168.71459350844842,
+      "left_shoulder": 146.93663657058724,
+      "right_hip": 176.93486001442426,
+      "left_hip": 176.6826893243285,
+      "right_knee": 176.3193090945035,
+      "left_knee": 173.51534937525955,
+      "neck": 91.09120401538307
+    },
+    "proportions": {
+      "right_arm_ratio": 0.5261058184581752,
+      "left_arm_ratio": 0.6591397850497203,
+      "right_leg_ratio": 1.596767678954418,
+      "left_leg_ratio": 1.6575840401432613,
+      "shoulders_ratio": 0.6451173966415634,
+      "hips_ratio": 0.4429019815704053,
+      "shoulder_hip_ratio": 1.4565692263424956,
+      "width_height_ratio": 0.6451173966415634
+    },
+    "bounding_box": {
+      "x": 27.434022903442383,
+      "y": 41.882991790771484,
+      "width": 24.9339542388916,
+      "height": 101.43078994750977,
+      "area": 2529.0706749658348,
+      "aspect_ratio": 0.2458223410445179
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1035.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 177,
+      "height": 285
+    },
+    "joint_angles": {
+      "right_elbow": 113.27087911826861,
+      "left_elbow": 112.54240967479917,
+      "right_shoulder": 155.74157365640363,
+      "left_shoulder": 152.6480413274655,
+      "left_hip": 84.45301035065583,
+      "neck": 67.29467092029932
+    },
+    "proportions": {
+      "right_arm_ratio": 1.2168903252891776,
+      "left_arm_ratio": 0.9656361071446403,
+      "shoulders_ratio": 0.5155287442287001,
+      "hips_ratio": 0.34034840781725156,
+      "shoulder_hip_ratio": 1.514708846546186,
+      "width_height_ratio": 0.5155287442287001
+    },
+    "bounding_box": {
+      "x": 59.308624267578125,
+      "y": 60.90283203125,
+      "width": 113.25013732910156,
+      "height": 155.4610137939453,
+      "area": 17605.98116148566,
+      "aspect_ratio": 0.7284793438900903
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1036.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 280,
+      "height": 180
+    },
+    "joint_angles": {
+      "right_elbow": 15.43963057015959,
+      "left_elbow": 36.37837469586428,
+      "right_shoulder": 166.75255635242792,
+      "left_shoulder": 167.63264201131278,
+      "right_hip": 177.7667499434906,
+      "neck": 42.901442087862236
+    },
+    "proportions": {
+      "right_arm_ratio": 0.2150260352383611,
+      "left_arm_ratio": 0.5193233662803282,
+      "shoulders_ratio": 0.3210709389372326,
+      "hips_ratio": 0.16409262457532123,
+      "shoulder_hip_ratio": 1.956644546140803,
+      "width_height_ratio": 0.3210709389372326
+    },
+    "bounding_box": {
+      "x": 74.18102264404297,
+      "y": 58.264957427978516,
+      "width": 151.36516571044922,
+      "height": 45.11638259887695,
+      "area": 6829.048728335038,
+      "aspect_ratio": 3.354993396882334
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1037.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 222,
+      "height": 227
+    },
+    "joint_angles": {
+      "right_elbow": 100.80334098776679,
+      "left_elbow": 127.90639367996857,
+      "right_shoulder": 169.98799683684268,
+      "left_shoulder": 169.82470269232613,
+      "neck": 129.512677186884
+    },
+    "proportions": {
+      "right_arm_ratio": 0.7317089559983411,
+      "left_arm_ratio": 0.8364810999007272,
+      "shoulders_ratio": 0.8004247751355549,
+      "hips_ratio": 0.5204898956536085,
+      "shoulder_hip_ratio": 1.5378296136381597,
+      "width_height_ratio": 0.8004247751355549
+    },
+    "bounding_box": {
+      "x": 127.69123077392578,
+      "y": 63.5257682800293,
+      "width": 93.39464569091797,
+      "height": 106.14166641235352,
+      "area": 9913.063327625365,
+      "aspect_ratio": 0.8799055907798339
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1038.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 275,
+      "height": 183
+    },
+    "joint_angles": {
+      "left_elbow": 73.03956914899904,
+      "left_shoulder": 159.7022125016924,
+      "neck": 3.829335238233946
+    },
+    "proportions": {},
+    "bounding_box": {
+      "x": 10.39322566986084,
+      "y": 49.69268035888672,
+      "width": 50.13386249542236,
+      "height": 121.09905242919922,
+      "area": 6071.163242811417,
+      "aspect_ratio": 0.41399054319383066
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1039.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 225,
+      "height": 225
+    },
+    "joint_angles": {
+      "right_elbow": 106.67060326152729,
+      "right_shoulder": 116.14399858538933,
+      "neck": 39.493439556863535
+    },
+    "proportions": {
+      "right_arm_ratio": 0.49328340132566123,
+      "shoulders_ratio": 0.33834440711478875,
+      "hips_ratio": 0.20501678049489927,
+      "shoulder_hip_ratio": 1.6503254333525474,
+      "width_height_ratio": 0.33834440711478875
+    },
+    "bounding_box": {
+      "x": 173.7249298095703,
+      "y": 117.87049865722656,
+      "width": 36.08441162109375,
+      "height": 79.05964660644531,
+      "area": 2852.8208307651803,
+      "aspect_ratio": 0.4564200976095937
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_103.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 270,
+      "height": 187
+    },
+    "joint_angles": {
+      "right_elbow": 1.8125928061239296,
+      "left_elbow": 97.46330700995475,
+      "right_shoulder": 178.97256941320967,
+      "neck": 110.92179265295152
+    },
+    "proportions": {},
+    "bounding_box": {
+      "x": 5.839334011077881,
+      "y": 43.81646728515625,
+      "width": 173.70056772232056,
+      "height": 88.84858703613281,
+      "area": 15433.05000950228,
+      "aspect_ratio": 1.9550177838132672
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1040.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 183,
+      "height": 275
+    },
+    "joint_angles": {
+      "right_elbow": 160.53165658084535,
+      "left_elbow": 152.7917975215212,
+      "right_shoulder": 176.9039184257434,
+      "left_shoulder": 173.30962356904953,
+      "right_hip": 172.17168096520112,
+      "left_hip": 167.5712670739359,
+      "neck": 72.0571391699031
+    },
+    "proportions": {
+      "right_arm_ratio": 1.0180339174907054,
+      "left_arm_ratio": 0.8714051650645177,
+      "shoulders_ratio": 0.6090030955188339,
+      "hips_ratio": 0.3892559305504874,
+      "shoulder_hip_ratio": 1.5645313217388344,
+      "width_height_ratio": 0.6090030955188339
+    },
+    "bounding_box": {
+      "x": 35.84326934814453,
+      "y": 35.67615509033203,
+      "width": 99.4815902709961,
+      "height": 170.66442108154297,
+      "area": 16977.968011870806,
+      "aspect_ratio": 0.5829076127323812
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1041.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 265,
+      "height": 190
+    },
+    "joint_angles": {
+      "right_elbow": 120.4295410703223,
+      "right_shoulder": 155.58939915969412,
+      "neck": 98.78995098139822
+    },
+    "proportions": {},
+    "bounding_box": {
+      "x": 19.9224796295166,
+      "y": 89.15966796875,
+      "width": 133.3627223968506,
+      "height": 70.55162048339844,
+      "area": 9408.956177175423,
+      "aspect_ratio": 1.8902857437304688
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1042.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 272,
+      "height": 185
+    },
+    "joint_angles": {
+      "right_elbow": 9.887634128752252,
+      "left_elbow": 14.90159998378421,
+      "left_shoulder": 164.1336219542099,
+      "neck": 101.44265181265526
+    },
+    "proportions": {},
+    "bounding_box": {
+      "x": 33.73896026611328,
+      "y": 44.62603759765625,
+      "width": 93.92691040039062,
+      "height": 93.90380859375,
+      "area": 8820.094616040587,
+      "aspect_ratio": 1.0002460156514053
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1043.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 275,
+      "height": 183
+    },
+    "joint_angles": {
+      "right_elbow": 72.46341612261412,
+      "left_elbow": 110.45093750161048,
+      "right_shoulder": 158.81902117143298,
+      "right_hip": 177.6572920967555,
+      "left_hip": 173.90880226159427,
+      "right_knee": 169.14956551597498,
+      "left_knee": 172.58987918358937,
+      "neck": 81.26560052895881
+    },
+    "proportions": {
+      "right_arm_ratio": 0.3978065804923295,
+      "left_arm_ratio": 0.6174955135065104,
+      "right_leg_ratio": 1.5334175042541258,
+      "left_leg_ratio": 1.5543817096157488,
+      "shoulders_ratio": 0.5957557227386179,
+      "hips_ratio": 0.3651281935244603,
+      "shoulder_hip_ratio": 1.6316344048592557,
+      "width_height_ratio": 0.5957557227386179
+    },
+    "bounding_box": {
+      "x": 89.32706451416016,
+      "y": 65.64751434326172,
+      "width": 36.53411102294922,
+      "height": 87.33654022216797,
+      "area": 3190.7628568369546,
+      "aspect_ratio": 0.418314154991865
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1044.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 275,
+      "height": 183
+    },
+    "joint_angles": {},
+    "proportions": {},
+    "bounding_box": {
+      "x": 55.18764114379883,
+      "y": 57.282344818115234,
+      "width": 45.19173049926758,
+      "height": 93.29083633422852,
+      "area": 4215.974333667735,
+      "aspect_ratio": 0.48441767996763774
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1045.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 275,
+      "height": 183
+    },
+    "joint_angles": {
+      "right_elbow": 42.520810517273816,
+      "left_elbow": 39.60844773238317,
+      "neck": 86.15353921674395
+    },
+    "proportions": {},
+    "bounding_box": {
+      "x": 82.61953735351562,
+      "y": 0.0,
+      "width": 121.90516662597656,
+      "height": 149.50633239746094,
+      "area": 18225.594362551114,
+      "aspect_ratio": 0.8153846373670182
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1046.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 275,
+      "height": 183
+    },
+    "joint_angles": {
+      "right_elbow": 48.598993370495236,
+      "left_elbow": 6.868798031275774,
+      "right_shoulder": 159.2677695460983,
+      "neck": 57.359681055401005
+    },
+    "proportions": {},
+    "bounding_box": {
+      "x": 51.517173767089844,
+      "y": 96.27483367919922,
+      "width": 63.083641052246094,
+      "height": 82.38848114013672,
+      "area": 5197.365371084132,
+      "aspect_ratio": 0.7656852047672232
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1047.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 275,
+      "height": 183
+    },
+    "joint_angles": {
+      "right_elbow": 90.11693981901726,
+      "left_elbow": 172.74514105373058,
+      "right_shoulder": 148.1144145056547,
+      "neck": 60.292825815953755
+    },
+    "proportions": {
+      "right_arm_ratio": 0.7907421819441326,
+      "left_arm_ratio": 0.6356054833779247,
+      "shoulders_ratio": 0.5953768099028798,
+      "hips_ratio": 0.40780522203366126,
+      "shoulder_hip_ratio": 1.4599538645773786,
+      "width_height_ratio": 0.5953768099028798
+    },
+    "bounding_box": {
+      "x": 159.31385803222656,
+      "y": 57.72116470336914,
+      "width": 56.08564758300781,
+      "height": 88.53600692749023,
+      "area": 4965.599282941956,
+      "aspect_ratio": 0.6334783951679815
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1048.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 259,
+      "height": 194
+    },
+    "joint_angles": {
+      "neck": 96.05628752693066
+    },
+    "proportions": {},
+    "bounding_box": {
+      "x": 133.5631103515625,
+      "y": 87.08370208740234,
+      "width": 105.480224609375,
+      "height": 71.04203033447266,
+      "area": 7493.529316386208,
+      "aspect_ratio": 1.4847580244084246
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1049.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 329,
+      "height": 153
+    },
+    "joint_angles": {
+      "neck": 94.50277200233946
+    },
+    "proportions": {},
+    "bounding_box": {
+      "x": 76.31328582763672,
+      "y": 44.76350021362305,
+      "width": 152.49817657470703,
+      "height": 83.8195686340332,
+      "area": 12782.33137796857,
+      "aspect_ratio": 1.8193624598634393
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_104.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 172,
+      "height": 293
+    },
+    "joint_angles": {
+      "right_elbow": 115.5253683220175,
+      "left_elbow": 120.40268334713753,
+      "left_shoulder": 144.26765200396946,
+      "right_hip": 108.67564928369929,
+      "left_hip": 108.26658132232632,
+      "right_knee": 101.95741180293686,
+      "left_knee": 102.70248269001301,
+      "neck": 1.400317031237611
+    },
+    "proportions": {
+      "right_arm_ratio": 0.8932169292252419,
+      "left_arm_ratio": 0.9772700324957907,
+      "right_leg_ratio": 1.3361251499323143,
+      "left_leg_ratio": 1.4250423880013376,
+      "shoulders_ratio": 0.04316832110428323,
+      "hips_ratio": 0.09564826980993216,
+      "shoulder_hip_ratio": 0.4513235962350948,
+      "width_height_ratio": 0.04316832110428323
+    },
+    "bounding_box": {
+      "x": 33.70063018798828,
+      "y": 43.29731369018555,
+      "width": 95.05558013916016,
+      "height": 199.80623245239258,
+      "area": 18992.697341182065,
+      "aspect_ratio": 0.4757388144126528
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1050.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 275,
+      "height": 183
+    },
+    "joint_angles": {
+      "right_elbow": 127.37252619576233,
+      "left_elbow": 3.8062123860513553,
+      "right_shoulder": 144.65903052237775,
+      "neck": 100.4822143185219
+    },
+    "proportions": {
+      "right_arm_ratio": 0.9027278147693301,
+      "left_arm_ratio": 0.06225375349571977,
+      "shoulders_ratio": 0.6874757591782551,
+      "hips_ratio": 0.4445912400112427,
+      "shoulder_hip_ratio": 1.5463097274720714,
+      "width_height_ratio": 0.6874757591782551
+    },
+    "bounding_box": {
+      "x": 152.69970703125,
+      "y": 28.46135902404785,
+      "width": 87.34939575195312,
+      "height": 121.88641929626465,
+      "area": 10646.705075897917,
+      "aspect_ratio": 0.7166458433702634
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1051.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 302,
+      "height": 167
+    },
+    "joint_angles": {
+      "right_elbow": 24.718291252136268,
+      "left_elbow": 146.32975043720876,
+      "right_hip": 179.70190690303053,
+      "left_hip": 175.36901768989998,
+      "neck": 152.9175684533646
+    },
+    "proportions": {
+      "right_arm_ratio": 0.313946932711955,
+      "left_arm_ratio": 0.8562001922720487,
+      "shoulders_ratio": 0.7869003424828519,
+      "hips_ratio": 0.4742593145425374,
+      "shoulder_hip_ratio": 1.6592195837880017,
+      "width_height_ratio": 0.7869003424828519
+    },
+    "bounding_box": {
+      "x": 187.2755584716797,
+      "y": 6.888455867767334,
+      "width": 87.80366516113281,
+      "height": 135.48629999160767,
+      "area": 11896.19371838391,
+      "aspect_ratio": 0.6480630526228229
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1052.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 266,
+      "height": 189
+    },
+    "joint_angles": {
+      "right_elbow": 39.39761976234939,
+      "left_elbow": 39.35481255007394,
+      "right_shoulder": 173.8126430624281,
+      "left_shoulder": 177.2724743086987,
+      "neck": 88.6403091103772
+    },
+    "proportions": {
+      "right_arm_ratio": 0.3174240098259614,
+      "left_arm_ratio": 0.3324591823315167,
+      "shoulders_ratio": 0.6151620930792442,
+      "hips_ratio": 0.42286856636549586,
+      "shoulder_hip_ratio": 1.454735920351063,
+      "width_height_ratio": 0.6151620930792442
+    },
+    "bounding_box": {
+      "x": 113.4379653930664,
+      "y": 70.35562896728516,
+      "width": 45.50926971435547,
+      "height": 80.08655548095703,
+      "area": 3644.680653876567,
+      "aspect_ratio": 0.568251055886361
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1053.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 275,
+      "height": 183
+    },
+    "joint_angles": {
+      "right_elbow": 83.80984201255716,
+      "left_elbow": 111.59265271487943,
+      "right_shoulder": 157.7601265042993,
+      "right_hip": 100.24385908012943,
+      "left_hip": 113.81900595546516,
+      "right_knee": 95.51200057451003,
+      "left_knee": 125.26960413605472,
+      "neck": 101.66557296906537
+    },
+    "proportions": {
+      "right_arm_ratio": 0.7001764050203378,
+      "left_arm_ratio": 1.0082059453333854,
+      "right_leg_ratio": 1.449638137370353,
+      "left_leg_ratio": 2.4153908239104642,
+      "shoulders_ratio": 0.8549698507975643,
+      "hips_ratio": 0.6724247732151581,
+      "shoulder_hip_ratio": 1.2714728618780329,
+      "width_height_ratio": 0.8549698507975643
+    },
+    "bounding_box": {
+      "x": 71.31957244873047,
+      "y": 61.25801467895508,
+      "width": 121.03746795654297,
+      "height": 94.14898300170898,
+      "area": 11395.55451321046,
+      "aspect_ratio": 1.2855950653693828
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1054.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 176,
+      "height": 286
+    },
+    "joint_angles": {
+      "right_elbow": 179.89659811751795,
+      "left_elbow": 165.4023303427801,
+      "right_shoulder": 117.30727283920928,
+      "left_shoulder": 129.37531244813485,
+      "right_hip": 174.47866096844356,
+      "left_hip": 159.7164476165798,
+      "right_knee": 139.26542589428414,
+      "left_knee": 146.8465102303886,
+      "neck": 46.878986870259574
+    },
+    "proportions": {
+      "right_arm_ratio": 1.0063066097410156,
+      "left_arm_ratio": 0.9492773709301394,
+      "right_leg_ratio": 1.2871410869238376,
+      "left_leg_ratio": 1.414458447258411,
+      "shoulders_ratio": 0.23887554109233006,
+      "hips_ratio": 0.10267650689937259,
+      "shoulder_hip_ratio": 2.3264868303947894,
+      "width_height_ratio": 0.23887554109233006
+    },
+    "bounding_box": {
+      "x": 40.07047653198242,
+      "y": 54.811378479003906,
+      "width": 91.66994094848633,
+      "height": 168.19727325439453,
+      "area": 15418.634106926766,
+      "aspect_ratio": 0.5450144296325045
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1055.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 259,
+      "height": 194
+    },
+    "joint_angles": {
+      "right_elbow": 125.44932544137795,
+      "left_elbow": 145.16343284287828,
+      "right_shoulder": 164.7463239221808,
+      "left_shoulder": 160.83227916757662,
+      "right_hip": 173.52192776670597,
+      "left_hip": 176.9294943558789,
+      "neck": 75.7718574190147
+    },
+    "proportions": {
+      "right_arm_ratio": 0.7768918845135262,
+      "left_arm_ratio": 0.9814664640437147,
+      "shoulders_ratio": 0.5826849352520114,
+      "hips_ratio": 0.3596630063475445,
+      "shoulder_hip_ratio": 1.6200858163571024,
+      "width_height_ratio": 0.5826849352520114
+    },
+    "bounding_box": {
+      "x": 7.480401992797852,
+      "y": 66.82600402832031,
+      "width": 64.23724174499512,
+      "height": 104.68675231933594,
+      "area": 6724.788216235611,
+      "aspect_ratio": 0.6136138558300688
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1056.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 300,
+      "height": 168
+    },
+    "joint_angles": {
+      "right_elbow": 54.82010718992208,
+      "left_elbow": 60.412978241608855,
+      "left_shoulder": 137.5370451006992,
+      "neck": 7.048197777989186
+    },
+    "proportions": {},
+    "bounding_box": {
+      "x": 42.671600341796875,
+      "y": 29.1552791595459,
+      "width": 68.12844848632812,
+      "height": 110.7198429107666,
+      "area": 7543.171114160505,
+      "aspect_ratio": 0.6153228427287011
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1057.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 301,
+      "height": 167
+    },
+    "joint_angles": {
+      "right_knee": 176.3419925109901,
+      "left_knee": 157.34496931591312
+    },
+    "proportions": {},
+    "bounding_box": {
+      "x": 178.17355346679688,
+      "y": 25.731157302856445,
+      "width": 78.63067626953125,
+      "height": 92.4184627532959,
+      "area": 7266.9262260821415,
+      "aspect_ratio": 0.8508113414462422
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1058.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 183,
+      "height": 275
+    },
+    "joint_angles": {
+      "right_elbow": 69.96854855542624,
+      "left_elbow": 153.13437032460976,
+      "right_shoulder": 161.51242515709924,
+      "right_hip": 164.06259233556236,
+      "left_hip": 179.15703325832516,
+      "right_knee": 159.08631489981522,
+      "left_knee": 170.5997851643728,
+      "neck": 73.49778961618821
+    },
+    "proportions": {
+      "right_arm_ratio": 0.5980424135789998,
+      "left_arm_ratio": 0.922344537885425,
+      "right_leg_ratio": 1.1283617728105408,
+      "left_leg_ratio": 1.2289388813527224,
+      "shoulders_ratio": 0.585680757527953,
+      "hips_ratio": 0.37299249779397714,
+      "shoulder_hip_ratio": 1.5702212805670275,
+      "width_height_ratio": 0.585680757527953
+    },
+    "bounding_box": {
+      "x": 42.01950454711914,
+      "y": 59.35147476196289,
+      "width": 96.0792350769043,
+      "height": 181.7105369567871,
+      "area": 17458.609396221655,
+      "aspect_ratio": 0.5287488369469353
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1059.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 263,
+      "height": 192
+    },
+    "joint_angles": {
+      "right_elbow": 69.32421135596412,
+      "left_elbow": 55.094193924142026,
+      "right_shoulder": 148.57529830321536,
+      "neck": 15.902541484779384
+    },
+    "proportions": {
+      "right_arm_ratio": 0.5959444078825106,
+      "left_arm_ratio": 0.46193883159521426,
+      "shoulders_ratio": 0.19957444257525098,
+      "hips_ratio": 0.16328681525347824,
+      "shoulder_hip_ratio": 1.2222324396825404,
+      "width_height_ratio": 0.19957444257525098
+    },
+    "bounding_box": {
+      "x": 127.0318603515625,
+      "y": 38.33640670776367,
+      "width": 52.29150390625,
+      "height": 125.76472854614258,
+      "area": 6576.4267940390855,
+      "aspect_ratio": 0.41578830973315745
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_105.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 299,
+      "height": 168
+    },
+    "joint_angles": {},
+    "proportions": {},
+    "bounding_box": {
+      "x": 120.40103149414062,
+      "y": 25.737123489379883,
+      "width": 152.63873291015625,
+      "height": 134.11540031433105,
+      "area": 20471.204767717863,
+      "aspect_ratio": 1.1381148813067805
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1060.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 275,
+      "height": 183
+    },
+    "joint_angles": {
+      "right_elbow": 95.566325394674,
+      "left_elbow": 97.74536509210613,
+      "right_shoulder": 167.58673552907283,
+      "right_hip": 130.64227277914156,
+      "neck": 25.014511891666412
+    },
+    "proportions": {
+      "right_arm_ratio": 0.7770332845692444,
+      "left_arm_ratio": 0.5172074829370114,
+      "shoulders_ratio": 0.22985532787076912,
+      "hips_ratio": 0.07885687052929925,
+      "shoulder_hip_ratio": 2.914842122543608,
+      "width_height_ratio": 0.22985532787076912
+    },
+    "bounding_box": {
+      "x": 174.45278930664062,
+      "y": 27.05558967590332,
+      "width": 67.73382568359375,
+      "height": 131.87225151062012,
+      "area": 8932.212096323376,
+      "aspect_ratio": 0.5136321319132018
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1061.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 275,
+      "height": 183
+    },
+    "joint_angles": {
+      "right_elbow": 84.1462837180586,
+      "right_shoulder": 107.55327007117324
+    },
+    "proportions": {},
+    "bounding_box": {
+      "x": 140.08920288085938,
+      "y": 54.65239715576172,
+      "width": 87.61001586914062,
+      "height": 82.18669891357422,
+      "area": 7200.37799605052,
+      "aspect_ratio": 1.0659877696422562
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1062.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 264,
+      "height": 191
+    },
+    "joint_angles": {
+      "right_elbow": 57.67575037035133,
+      "left_elbow": 35.267289128848965,
+      "right_shoulder": 169.812594864833,
+      "neck": 106.94536330647169
+    },
+    "proportions": {},
+    "bounding_box": {
+      "x": 105.69050598144531,
+      "y": 52.744041442871094,
+      "width": 142.20335388183594,
+      "height": 94.87801361083984,
+      "area": 13491.971745107905,
+      "aspect_ratio": 1.498801971815198
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1063.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 262,
+      "height": 193
+    },
+    "joint_angles": {
+      "right_elbow": 119.67747043955805,
+      "left_elbow": 104.88058407720388,
+      "left_shoulder": 136.80054848348485,
+      "neck": 37.65346169581925
+    },
+    "proportions": {
+      "right_arm_ratio": 1.077461657697921,
+      "left_arm_ratio": 1.5038443013355645,
+      "shoulders_ratio": 0.5893551906658864
+    },
+    "bounding_box": {
+      "x": 13.457235336303711,
+      "y": 6.622548580169678,
+      "width": 105.75408363342285,
+      "height": 141.65499353408813,
+      "area": 14980.594033295929,
+      "aspect_ratio": 0.7465609294456251
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1064.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 302,
+      "height": 167
+    },
+    "joint_angles": {
+      "right_elbow": 54.72583197874235,
+      "left_elbow": 75.61468705987323,
+      "left_shoulder": 167.4304383978064,
+      "left_hip": 118.812514654139,
+      "neck": 57.96183796391187
+    },
+    "proportions": {
+      "right_arm_ratio": 0.3823300528545292,
+      "left_arm_ratio": 0.5337059452021327,
+      "shoulders_ratio": 0.36518934239764916,
+      "hips_ratio": 0.10146332151489794,
+      "shoulder_hip_ratio": 3.59922518743907,
+      "width_height_ratio": 0.36518934239764916
+    },
+    "bounding_box": {
+      "x": 64.20465850830078,
+      "y": 38.04973220825195,
+      "width": 76.18622589111328,
+      "height": 119.60844039916992,
+      "area": 9112.51565873492,
+      "aspect_ratio": 0.6369636259519526
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1065.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 193,
+      "height": 262
+    },
+    "joint_angles": {
+      "right_elbow": 13.097647541344946,
+      "right_shoulder": 167.37443287060103,
+      "neck": 90.84722139558671
+    },
+    "proportions": {},
+    "bounding_box": {
+      "x": 37.776092529296875,
+      "y": 51.4112434387207,
+      "width": 134.48434448242188,
+      "height": 167.80607223510742,
+      "area": 22567.289624708355,
+      "aspect_ratio": 0.8014271634580684
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1066.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 177,
+      "height": 285
+    },
+    "joint_angles": {
+      "left_elbow": 149.2375869617947,
+      "left_shoulder": 135.13521643434137,
+      "neck": 9.615778166203768
+    },
+    "proportions": {},
+    "bounding_box": {
+      "x": 30.327037811279297,
+      "y": 99.73784637451172,
+      "width": 70.23411178588867,
+      "height": 160.0912857055664,
+      "area": 11243.869256191392,
+      "aspect_ratio": 0.4387128973094793
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1067.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 276,
+      "height": 183
+    },
+    "joint_angles": {
+      "right_elbow": 59.88772072147331,
+      "right_shoulder": 139.37110766390498
+    },
+    "proportions": {
+      "right_arm_ratio": 0.35893852029708995,
+      "shoulders_ratio": 0.6536307511775242,
+      "hips_ratio": 0.42273474852395015,
+      "shoulder_hip_ratio": 1.5461959383745636,
+      "width_height_ratio": 0.6536307511775242
+    },
+    "bounding_box": {
+      "x": 141.98605346679688,
+      "y": 31.780588150024414,
+      "width": 84.3280029296875,
+      "height": 105.23854637145996,
+      "area": 8874.55644672853,
+      "aspect_ratio": 0.8013033801515594
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1068.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 183,
+      "height": 276
+    },
+    "joint_angles": {
+      "right_elbow": 44.004723684674246,
+      "left_elbow": 70.00156517365018,
+      "right_shoulder": 159.1735900343726,
+      "left_shoulder": 166.56370821993994,
+      "neck": 151.64321523182235
+    },
+    "proportions": {
+      "right_arm_ratio": 0.3269761587830551,
+      "left_arm_ratio": 0.3541985817737476,
+      "shoulders_ratio": 0.8240950006680502,
+      "hips_ratio": 0.5461197213923423,
+      "shoulder_hip_ratio": 1.509000624564527,
+      "width_height_ratio": 0.8240950006680502
+    },
+    "bounding_box": {
+      "x": 49.64718246459961,
+      "y": 47.58492660522461,
+      "width": 102.97114944458008,
+      "height": 89.3139533996582,
+      "area": 9196.760443002466,
+      "aspect_ratio": 1.152912232916275
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1069.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 259,
+      "height": 194
+    },
+    "joint_angles": {
+      "right_elbow": 100.50915253624247,
+      "left_elbow": 105.93452413054871,
+      "left_shoulder": 134.8981202061929,
+      "right_hip": 163.76469075958667,
+      "left_hip": 168.3503546356271,
+      "right_knee": 153.37345837543094,
+      "left_knee": 151.77242233130846,
+      "neck": 11.598805383076256
+    },
+    "proportions": {
+      "right_arm_ratio": 0.43481317886333587,
+      "left_arm_ratio": 0.5079520869332278,
+      "right_leg_ratio": 1.201273824916512,
+      "left_leg_ratio": 1.0358533726333228,
+      "shoulders_ratio": 0.10528694590230823,
+      "hips_ratio": 0.15286219407169316,
+      "shoulder_hip_ratio": 0.6887703433913038,
+      "width_height_ratio": 0.10528694590230823
+    },
+    "bounding_box": {
+      "x": 100.90533447265625,
+      "y": 51.68806838989258,
+      "width": 53.65208435058594,
+      "height": 99.56438827514648,
+      "area": 5341.836958052649,
+      "aspect_ratio": 0.5388682166390482
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_106.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 184,
+      "height": 275
+    },
+    "joint_angles": {
+      "neck": 63.992581783540196
+    },
+    "proportions": {},
+    "bounding_box": {
+      "x": 85.46907043457031,
+      "y": 82.02064514160156,
+      "width": 95.43589782714844,
+      "height": 94.3221435546875,
+      "area": 9001.718455122784,
+      "aspect_ratio": 1.011807983051352
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1070.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 275,
+      "height": 183
+    },
+    "joint_angles": {
+      "neck": 47.131140700707775
+    },
+    "proportions": {},
+    "bounding_box": {
+      "x": 11.315356254577637,
+      "y": 55.535152435302734,
+      "width": 69.34433460235596,
+      "height": 89.05580520629883,
+      "area": 6175.51555450782,
+      "aspect_ratio": 0.77866158687487
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1071.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 260,
+      "height": 194
+    },
+    "joint_angles": {
+      "left_elbow": 135.73724143434856,
+      "left_shoulder": 165.92278156002666,
+      "neck": 48.66431949358336
+    },
+    "proportions": {},
+    "bounding_box": {
+      "x": 161.39881896972656,
+      "y": 44.08847427368164,
+      "width": 18.897323608398438,
+      "height": 66.57018661499023,
+      "area": 1257.9983591349446,
+      "aspect_ratio": 0.283870671982511
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1072.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 300,
+      "height": 168
+    },
+    "joint_angles": {
+      "left_elbow": 62.14824127415407,
+      "left_shoulder": 146.16252359358788,
+      "neck": 66.8993176360235
+    },
+    "proportions": {},
+    "bounding_box": {
+      "x": 46.02555847167969,
+      "y": 39.96236038208008,
+      "width": 105.28150939941406,
+      "height": 125.6182975769043,
+      "area": 13225.283977081242,
+      "aspect_ratio": 0.8381064815415132
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1073.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 318,
+      "height": 159
+    },
+    "joint_angles": {},
+    "proportions": {},
+    "bounding_box": {
+      "x": 145.75762939453125,
+      "y": 56.330528259277344,
+      "width": 121.29672241210938,
+      "height": 48.82191467285156,
+      "area": 5921.938231700566,
+      "aspect_ratio": 2.4844728688930124
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1074.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 206,
+      "height": 244
+    },
+    "joint_angles": {
+      "right_elbow": 46.385991723775774,
+      "left_elbow": 29.84767128415648,
+      "left_shoulder": 154.42918313234088,
+      "neck": 51.84688758412532
+    },
+    "proportions": {},
+    "bounding_box": {
+      "x": 45.42007064819336,
+      "y": 42.41524887084961,
+      "width": 110.52544021606445,
+      "height": 130.36297988891602,
+      "area": 14408.4257401004,
+      "aspect_ratio": 0.8478284272900528
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1075.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 183,
+      "height": 275
+    },
+    "joint_angles": {},
+    "proportions": {},
+    "bounding_box": {
+      "x": 33.28969192504883,
+      "y": 130.9119873046875,
+      "width": 120.93102645874023,
+      "height": 34.81581115722656,
+      "area": 4210.311780237069,
+      "aspect_ratio": 3.473451355552838
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1076.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 275,
+      "height": 183
+    },
+    "joint_angles": {
+      "neck": 84.97698984982577
+    },
+    "proportions": {},
+    "bounding_box": {
+      "x": 86.5708236694336,
+      "y": 64.55970001220703,
+      "width": 112.9495620727539,
+      "height": 75.0882339477539,
+      "area": 8481.183141215297,
+      "aspect_ratio": 1.5042245120766027
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1077.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 275,
+      "height": 183
+    },
+    "joint_angles": {
+      "right_elbow": 153.73417940149815,
+      "left_elbow": 162.4732034966569,
+      "right_shoulder": 179.6354612479998,
+      "right_hip": 163.43308338472082,
+      "left_hip": 172.58880046622681,
+      "right_knee": 168.50601085862328,
+      "left_knee": 176.22814070968926
+    },
+    "proportions": {
+      "right_arm_ratio": 0.8522910077351608,
+      "left_arm_ratio": 0.9830402462915976,
+      "right_leg_ratio": 1.2747155399726464,
+      "left_leg_ratio": 1.2746480532145328,
+      "shoulders_ratio": 0.7095052855161668,
+      "hips_ratio": 0.4964853806737323,
+      "shoulder_hip_ratio": 1.42905574491109,
+      "width_height_ratio": 0.7095052855161668
+    },
+    "bounding_box": {
+      "x": 46.266048431396484,
+      "y": 20.99949073791504,
+      "width": 32.46541213989258,
+      "height": 76.57829093933105,
+      "area": 2486.1457763139842,
+      "aspect_ratio": 0.4239505967247717
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1078.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 225,
+      "height": 225
+    },
+    "joint_angles": {
+      "left_elbow": 50.798688883132215,
+      "left_shoulder": 138.32515482903497,
+      "neck": 56.82486741798977
+    },
+    "proportions": {},
+    "bounding_box": {
+      "x": 83.49786376953125,
+      "y": 52.453887939453125,
+      "width": 67.83943176269531,
+      "height": 99.40109252929688,
+      "area": 6743.313633778598,
+      "aspect_ratio": 0.6824817518248175
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1079.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 192,
+      "height": 262
+    },
+    "joint_angles": {
+      "left_elbow": 116.07705829115733,
+      "left_shoulder": 135.93971550544603,
+      "neck": 58.46070075848419
+    },
+    "proportions": {},
+    "bounding_box": {
+      "x": 12.06762409210205,
+      "y": 89.60600280761719,
+      "width": 142.21020793914795,
+      "height": 96.556640625,
+      "area": 13731.33994118683,
+      "aspect_ratio": 1.472816442438735
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_107.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 263,
+      "height": 192
+    },
+    "joint_angles": {
+      "neck": 119.7374303904554
+    },
+    "proportions": {},
+    "bounding_box": {
+      "x": 15.946520805358887,
+      "y": 64.54744720458984,
+      "width": 108.19788074493408,
+      "height": 46.0849609375,
+      "area": 4986.295107650571,
+      "aspect_ratio": 2.3477915255623425
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1080.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 267,
+      "height": 189
+    },
+    "joint_angles": {
+      "right_elbow": 26.162294978371428,
+      "left_elbow": 27.739830084660184,
+      "right_shoulder": 121.64963822009122,
+      "left_shoulder": 145.50978532807594,
+      "neck": 87.14699706854695
+    },
+    "proportions": {},
+    "bounding_box": {
+      "x": 61.03623962402344,
+      "y": 85.49618530273438,
+      "width": 150.19338989257812,
+      "height": 61.9815673828125,
+      "area": 9309.221716079861,
+      "aspect_ratio": 2.423194446906271
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1081.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 267,
+      "height": 189
+    },
+    "joint_angles": {
+      "right_elbow": 107.94073016475544,
+      "left_elbow": 80.3355452709838,
+      "right_shoulder": 166.15016161968276,
+      "left_shoulder": 158.7956105993439,
+      "right_hip": 123.4764054088252,
+      "left_hip": 147.75569698909112,
+      "right_knee": 119.6161918928638,
+      "left_knee": 129.02538189127787,
+      "neck": 62.32131887047769
+    },
+    "proportions": {
+      "right_arm_ratio": 0.7298970151069424,
+      "left_arm_ratio": 0.6750470697885653,
+      "right_leg_ratio": 1.4942679910702745,
+      "left_leg_ratio": 1.5509306601397312,
+      "shoulders_ratio": 0.5743732384546288,
+      "hips_ratio": 0.4504227543821701,
+      "shoulder_hip_ratio": 1.2751869945879566,
+      "width_height_ratio": 0.5743732384546288
+    },
+    "bounding_box": {
+      "x": 76.12757110595703,
+      "y": 17.643287658691406,
+      "width": 51.62561798095703,
+      "height": 123.43828582763672,
+      "area": 6372.577788361756,
+      "aspect_ratio": 0.41823019199281947
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1082.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 296,
+      "height": 170
+    },
+    "joint_angles": {
+      "right_elbow": 126.87645530096884,
+      "right_shoulder": 98.2878021845359,
+      "neck": 2.353645382955916
+    },
+    "proportions": {
+      "right_arm_ratio": 0.8700266646960715,
+      "shoulders_ratio": 0.02056942723048925,
+      "hips_ratio": 0.041387749497853794,
+      "shoulder_hip_ratio": 0.4969931315438135,
+      "width_height_ratio": 0.02056942723048925
+    },
+    "bounding_box": {
+      "x": 173.856201171875,
+      "y": 41.520179748535156,
+      "width": 76.0587158203125,
+      "height": 99.6059341430664,
+      "area": 7575.89943900425,
+      "aspect_ratio": 0.7635962302312986
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1083.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 265,
+      "height": 191
+    },
+    "joint_angles": {
+      "right_elbow": 121.14233646587368,
+      "left_elbow": 152.0528751622944,
+      "right_shoulder": 157.9016440675086,
+      "neck": 63.170870830517664
+    },
+    "proportions": {},
+    "bounding_box": {
+      "x": 131.76593017578125,
+      "y": 101.18795776367188,
+      "width": 121.54829406738281,
+      "height": 87.99708557128906,
+      "area": 10695.895634091692,
+      "aspect_ratio": 1.3812763602143723
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1084.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 240,
+      "height": 160
+    },
+    "joint_angles": {
+      "right_elbow": 120.05177672574536,
+      "left_elbow": 28.94444015350167,
+      "right_shoulder": 157.95605381575058,
+      "right_hip": 175.64722718245773,
+      "left_hip": 149.54337759280307,
+      "right_knee": 171.4736072893657,
+      "left_knee": 170.48688985228048,
+      "neck": 94.7449500674159
+    },
+    "proportions": {
+      "right_arm_ratio": 1.0246298260112,
+      "left_arm_ratio": 0.24871456824901092,
+      "right_leg_ratio": 1.3880034675325976,
+      "left_leg_ratio": 1.3163689971346502,
+      "shoulders_ratio": 0.7454817847469887,
+      "hips_ratio": 0.5248123318034588,
+      "shoulder_hip_ratio": 1.4204730711742692,
+      "width_height_ratio": 0.7454817847469887
+    },
+    "bounding_box": {
+      "x": 121.28116607666016,
+      "y": 42.569923400878906,
+      "width": 39.126197814941406,
+      "height": 100.62508392333984,
+      "area": 3937.076938729675,
+      "aspect_ratio": 0.38883145523385887
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1085.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 331,
+      "height": 152
+    },
+    "joint_angles": {},
+    "proportions": {},
+    "bounding_box": {
+      "x": 16.40371322631836,
+      "y": 98.64222717285156,
+      "width": 74.47890090942383,
+      "height": 3.2858734130859375,
+      "area": 244.7282403341378,
+      "aspect_ratio": 22.666393846096692
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1086.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 262,
+      "height": 192
+    },
+    "joint_angles": {},
+    "proportions": {},
+    "bounding_box": {
+      "x": 80.07080841064453,
+      "y": 56.908424377441406,
+      "width": 138.65735626220703,
+      "height": 93.09806060791016,
+      "area": 12908.730957031541,
+      "aspect_ratio": 1.4893689015303277
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1087.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 266,
+      "height": 190
+    },
+    "joint_angles": {
+      "right_elbow": 21.94134657548452,
+      "left_elbow": 66.2883416152386,
+      "left_shoulder": 152.74787051247156,
+      "neck": 71.11769262506067
+    },
+    "proportions": {
+      "right_arm_ratio": 0.5044068041549598,
+      "left_arm_ratio": 0.7009632236440304,
+      "shoulders_ratio": 0.6777271655799152,
+      "hips_ratio": 0.4592760513021743,
+      "shoulder_hip_ratio": 1.4756422932534186,
+      "width_height_ratio": 0.6777271655799152
+    },
+    "bounding_box": {
+      "x": 102.62311553955078,
+      "y": 89.63461303710938,
+      "width": 47.67377471923828,
+      "height": 89.02519226074219,
+      "area": 4244.166960175498,
+      "aspect_ratio": 0.5355088094570866
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1088.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 275,
+      "height": 183
+    },
+    "joint_angles": {
+      "right_elbow": 167.0733345738661,
+      "left_elbow": 61.6711837410388,
+      "right_hip": 14.010784639558493,
+      "left_hip": 24.62764761051808,
+      "right_knee": 28.899542690626596,
+      "left_knee": 42.71225715372385
+    },
+    "proportions": {
+      "right_arm_ratio": 1.191869119775404,
+      "left_arm_ratio": 0.5807039469745776,
+      "right_leg_ratio": 0.628248516111655,
+      "left_leg_ratio": 0.8490322005034325,
+      "shoulders_ratio": 0.48288724672532773,
+      "hips_ratio": 0.31048839680356183,
+      "shoulder_hip_ratio": 1.5552505397837406,
+      "width_height_ratio": 0.48288724672532773
+    },
+    "bounding_box": {
+      "x": 126.69432067871094,
+      "y": 42.41935729980469,
+      "width": 44.292449951171875,
+      "height": 84.34345245361328,
+      "area": 3735.778146510711,
+      "aspect_ratio": 0.5251439046265218
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_108.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 276,
+      "height": 182
+    },
+    "joint_angles": {
+      "right_elbow": 122.95970967600186,
+      "left_elbow": 77.51177393475793,
+      "right_shoulder": 83.99375713598303,
+      "left_shoulder": 162.66215140719282,
+      "right_hip": 171.45979211151163,
+      "left_hip": 160.26781933598585,
+      "right_knee": 163.58830540569232,
+      "left_knee": 177.14215876386248,
+      "neck": 84.58834300288626
+    },
+    "proportions": {
+      "right_arm_ratio": 0.7200693169620402,
+      "left_arm_ratio": 0.27853376430745463,
+      "right_leg_ratio": 1.3670873441886318,
+      "left_leg_ratio": 1.3613551253721101,
+      "shoulders_ratio": 0.6235116533965481,
+      "hips_ratio": 0.4053336905526137,
+      "shoulder_hip_ratio": 1.5382675260634775,
+      "width_height_ratio": 0.6235116533965481
+    },
+    "bounding_box": {
+      "x": 0.0,
+      "y": 24.86162567138672,
+      "width": 61.869625091552734,
+      "height": 151.49066925048828,
+      "area": 9372.670911396126,
+      "aspect_ratio": 0.4084055169711604
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_10.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 275,
+      "height": 183
+    },
+    "joint_angles": {
+      "left_elbow": 7.9697157798828115,
+      "left_shoulder": 149.89362643900947,
+      "neck": 95.92059901726888
+    },
+    "proportions": {},
+    "bounding_box": {
+      "x": 110.7105484008789,
+      "y": 66.23797607421875,
+      "width": 162.41866302490234,
+      "height": 116.76202392578125,
+      "area": 18964.33181810705,
+      "aspect_ratio": 1.3910230189923938
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 275,
+      "height": 183
+    },
+    "joint_angles": {
+      "right_elbow": 94.93789588607405,
+      "left_elbow": 140.5898380755403,
+      "right_shoulder": 116.02935127247567,
+      "neck": 44.899937132204904
+    },
+    "proportions": {},
+    "bounding_box": {
+      "x": 51.182159423828125,
+      "y": 69.55209350585938,
+      "width": 168.0338592529297,
+      "height": 67.10310363769531,
+      "area": 11275.593472091248,
+      "aspect_ratio": 2.5041145661485666
+    }
+  }
+]

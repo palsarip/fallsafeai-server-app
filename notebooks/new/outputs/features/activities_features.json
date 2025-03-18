@@ -1,0 +1,2747 @@
+[
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1000.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 300,
+      "height": 168
+    },
+    "joint_angles": {
+      "right_elbow": 87.56619707574937,
+      "left_elbow": 44.604289082124204,
+      "right_shoulder": 173.46429728462664,
+      "left_shoulder": 149.4386485060706,
+      "neck": 72.92389433193567
+    },
+    "proportions": {
+      "right_arm_ratio": 0.656229363986544,
+      "left_arm_ratio": 0.5850953967454426,
+      "shoulders_ratio": 0.94913237034343,
+      "hips_ratio": 0.6135620179154061,
+      "shoulder_hip_ratio": 1.5469216519760032,
+      "width_height_ratio": 0.94913237034343
+    },
+    "bounding_box": {
+      "x": 16.37671661376953,
+      "y": 27.656261444091797,
+      "width": 108.95154571533203,
+      "height": 115.4144172668457,
+      "area": 12574.579159057146,
+      "aspect_ratio": 0.9440029096488779
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1001.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 177,
+      "height": 285
+    },
+    "joint_angles": {
+      "right_elbow": 86.41239086448944,
+      "left_elbow": 143.6184065996071,
+      "left_shoulder": 99.25110087324735,
+      "right_hip": 175.84760791362197,
+      "left_hip": 175.20049757072007,
+      "right_knee": 166.84712021092938,
+      "left_knee": 179.6324429790857,
+      "neck": 40.76392632418335
+    },
+    "proportions": {
+      "right_arm_ratio": 0.3855139438422958,
+      "left_arm_ratio": 0.7551312673346088,
+      "right_leg_ratio": 1.2612026019094489,
+      "left_leg_ratio": 1.224844468641319,
+      "shoulders_ratio": 0.3814551579507294,
+      "hips_ratio": 0.300648219863941,
+      "shoulder_hip_ratio": 1.2687757077802013,
+      "width_height_ratio": 0.3814551579507294
+    },
+    "bounding_box": {
+      "x": 64.58879089355469,
+      "y": 55.882568359375,
+      "width": 48.90141296386719,
+      "height": 175.46368408203125,
+      "area": 8580.42207545694,
+      "aspect_ratio": 0.2786982002555311
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1002.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 275,
+      "height": 183
+    },
+    "joint_angles": {
+      "right_elbow": 50.8376287809766,
+      "left_elbow": 161.7597539409385,
+      "right_shoulder": 136.09516650844677
+    },
+    "proportions": {},
+    "bounding_box": {
+      "x": 144.92396545410156,
+      "y": 96.87042236328125,
+      "width": 94.79136657714844,
+      "height": 77.44758605957031,
+      "area": 7341.362520687981,
+      "aspect_ratio": 1.2239421704407651
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1003.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 275,
+      "height": 183
+    },
+    "joint_angles": {
+      "right_elbow": 165.47839457331716,
+      "left_elbow": 161.46909869998876,
+      "left_shoulder": 171.88544038234787,
+      "right_hip": 168.84996137200463,
+      "left_hip": 172.7932145846504,
+      "right_knee": 155.01113963367348,
+      "left_knee": 156.2094287025755,
+      "neck": 20.30956170406676
+    },
+    "proportions": {
+      "right_arm_ratio": 1.012347632401971,
+      "left_arm_ratio": 1.055880154398554,
+      "right_leg_ratio": 1.4634409560827242,
+      "left_leg_ratio": 1.559010725717994,
+      "shoulders_ratio": 0.2148243724978572,
+      "hips_ratio": 0.1395862199228798,
+      "shoulder_hip_ratio": 1.5390084538183342,
+      "width_height_ratio": 0.2148243724978572
+    },
+    "bounding_box": {
+      "x": 39.74683380126953,
+      "y": 24.78705596923828,
+      "width": 28.996810913085938,
+      "height": 138.09586334228516,
+      "area": 4004.3396372155985,
+      "aspect_ratio": 0.20997595591414844
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1004.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 300,
+      "height": 168
+    },
+    "joint_angles": {
+      "right_elbow": 7.255304607998084,
+      "left_elbow": 11.963576431130436,
+      "right_shoulder": 174.166605088196,
+      "left_shoulder": 172.32462133099662,
+      "neck": 74.2698411787756
+    },
+    "proportions": {},
+    "bounding_box": {
+      "x": 32.64406967163086,
+      "y": 45.485713958740234,
+      "width": 107.99905776977539,
+      "height": 122.51428604125977,
+      "area": 13231.4274557928,
+      "aspect_ratio": 0.8815221576151862
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1005.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 275,
+      "height": 183
+    },
+    "joint_angles": {
+      "neck": 83.10285598460639
+    },
+    "proportions": {},
+    "bounding_box": {
+      "x": 65.85785675048828,
+      "y": 38.98876953125,
+      "width": 107.8449935913086,
+      "height": 136.0255889892578,
+      "area": 14669.678772800486,
+      "aspect_ratio": 0.7928287198949405
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1006.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 351,
+      "height": 143
+    },
+    "joint_angles": {},
+    "proportions": {},
+    "bounding_box": {
+      "x": NaN,
+      "y": NaN,
+      "width": NaN,
+      "height": NaN,
+      "area": NaN,
+      "aspect_ratio": NaN
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1007.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 275,
+      "height": 183
+    },
+    "joint_angles": {
+      "neck": 73.35413339513268
+    },
+    "proportions": {},
+    "bounding_box": {
+      "x": 155.96347045898438,
+      "y": 81.95711517333984,
+      "width": 75.80921936035156,
+      "height": 52.43938446044922,
+      "area": 3975.388799684006,
+      "aspect_ratio": 1.4456542566308785
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1008.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 179,
+      "height": 281
+    },
+    "joint_angles": {
+      "right_elbow": 32.43294928345027,
+      "left_elbow": 40.537010973923714,
+      "right_shoulder": 175.63366557667976,
+      "left_shoulder": 165.4228542890052,
+      "neck": 82.07097613647665
+    },
+    "proportions": {
+      "right_arm_ratio": 0.6432781376270659,
+      "left_arm_ratio": 0.5045494668762148,
+      "shoulders_ratio": 0.7407100653165483,
+      "hips_ratio": 0.4601044525906535,
+      "shoulder_hip_ratio": 1.6098737170351716,
+      "width_height_ratio": 0.7407100653165483
+    },
+    "bounding_box": {
+      "x": 2.2007334232330322,
+      "y": 66.41324615478516,
+      "width": 115.57931113243103,
+      "height": 171.26900482177734,
+      "area": 19795.153595638032,
+      "aspect_ratio": 0.6748407935966169
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1009.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 275,
+      "height": 183
+    },
+    "joint_angles": {
+      "neck": 79.71055519089428
+    },
+    "proportions": {},
+    "bounding_box": {
+      "x": 66.33560943603516,
+      "y": 37.85249328613281,
+      "width": 135.92601776123047,
+      "height": 113.34471130371094,
+      "area": 15406.495241809753,
+      "aspect_ratio": 1.1992268205352092
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_100.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 283,
+      "height": 178
+    },
+    "joint_angles": {
+      "right_elbow": 5.3032514807223095,
+      "left_elbow": 71.22160686515963,
+      "left_shoulder": 157.038161954501,
+      "right_hip": 163.5872365840529,
+      "left_hip": 168.92425485867906,
+      "right_knee": 153.5788287395406,
+      "left_knee": 162.9953214577666,
+      "neck": 54.56882254527865
+    },
+    "proportions": {
+      "right_arm_ratio": 0.18694581515840078,
+      "left_arm_ratio": 0.5724649924916306,
+      "right_leg_ratio": 1.3713175936908624,
+      "left_leg_ratio": 1.4108205551537025,
+      "shoulders_ratio": 0.518166615608172,
+      "hips_ratio": 0.39277530094336444,
+      "shoulder_hip_ratio": 1.3192443984223137,
+      "width_height_ratio": 0.518166615608172
+    },
+    "bounding_box": {
+      "x": 153.0163116455078,
+      "y": 19.45480728149414,
+      "width": 47.94770812988281,
+      "height": 144.6759147644043,
+      "area": 6936.878534547461,
+      "aspect_ratio": 0.3314145841618673
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1010.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 266,
+      "height": 189
+    },
+    "joint_angles": {
+      "right_elbow": 133.62975340613332,
+      "left_elbow": 46.23487570660654,
+      "left_shoulder": 146.80250255471134,
+      "neck": 103.40297722938656
+    },
+    "proportions": {
+      "right_arm_ratio": 0.8483135085430414,
+      "left_arm_ratio": 0.6120341486064004,
+      "shoulders_ratio": 0.7895661903726044,
+      "hips_ratio": 0.4992526538900702,
+      "shoulder_hip_ratio": 1.5814962308572085,
+      "width_height_ratio": 0.7895661903726044
+    },
+    "bounding_box": {
+      "x": 18.414438247680664,
+      "y": 46.132537841796875,
+      "width": 79.58163261413574,
+      "height": 118.51679992675781,
+      "area": 9431.76043037427,
+      "aspect_ratio": 0.6714797620532817
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1011.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 266,
+      "height": 189
+    },
+    "joint_angles": {
+      "right_elbow": 18.816237317492032,
+      "neck": 63.852077107859394
+    },
+    "proportions": {},
+    "bounding_box": {
+      "x": 88.66334533691406,
+      "y": 75.67533111572266,
+      "width": 101.80818176269531,
+      "height": 107.25447845458984,
+      "area": 10919.383437367971,
+      "aspect_ratio": 0.949220799258276
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1012.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 265,
+      "height": 190
+    },
+    "joint_angles": {
+      "right_elbow": 32.61532025728733,
+      "left_elbow": 29.302915984221844,
+      "right_shoulder": 118.93492271715004,
+      "left_shoulder": 126.82657657909921,
+      "neck": 142.41907971675477
+    },
+    "proportions": {
+      "right_arm_ratio": 0.29128684150171136,
+      "left_arm_ratio": 0.3804029555099636,
+      "shoulders_ratio": 1.0012059189586926,
+      "hips_ratio": 0.6491600026690101,
+      "shoulder_hip_ratio": 1.542309931052825,
+      "width_height_ratio": 1.0012059189586926
+    },
+    "bounding_box": {
+      "x": 23.61586570739746,
+      "y": 51.99565505981445,
+      "width": 197.30442237854004,
+      "height": 122.41782760620117,
+      "area": 24153.578764677215,
+      "aspect_ratio": 1.611729486110775
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1013.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 300,
+      "height": 168
+    },
+    "joint_angles": {
+      "right_elbow": 167.4840374942955,
+      "left_elbow": 163.7531668675199,
+      "right_shoulder": 176.998042066113,
+      "left_shoulder": 177.66851973175062,
+      "right_hip": 176.43299332593807,
+      "left_hip": 174.63434418241582,
+      "right_knee": 176.67902882172615,
+      "left_knee": 173.90402024251205,
+      "neck": 81.02087588539003
+    },
+    "proportions": {
+      "right_arm_ratio": 0.9750354887646553,
+      "left_arm_ratio": 1.0528843447530674,
+      "right_leg_ratio": 1.4117391335158052,
+      "left_leg_ratio": 1.408032615513665,
+      "shoulders_ratio": 0.6349765834779499,
+      "hips_ratio": 0.3935382754087822,
+      "shoulder_hip_ratio": 1.613506546011,
+      "width_height_ratio": 0.6349765834779499
+    },
+    "bounding_box": {
+      "x": 95.81466674804688,
+      "y": 41.61677932739258,
+      "width": 29.411399841308594,
+      "height": 69.95566177368164,
+      "area": 2057.493939589098,
+      "aspect_ratio": 0.42042915606258474
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1014.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 275,
+      "height": 183
+    },
+    "joint_angles": {
+      "right_elbow": 119.59373189451881,
+      "left_elbow": 47.36917439309213,
+      "right_shoulder": 179.92207988211692,
+      "neck": 71.20080559236999
+    },
+    "proportions": {
+      "right_arm_ratio": 0.6096837097422393,
+      "left_arm_ratio": 0.41616772212377756,
+      "shoulders_ratio": 0.7184136730955722,
+      "hips_ratio": 0.4926766736212373,
+      "shoulder_hip_ratio": 1.458184873692393,
+      "width_height_ratio": 0.7184136730955722
+    },
+    "bounding_box": {
+      "x": 43.767662048339844,
+      "y": 34.39826202392578,
+      "width": 145.5093002319336,
+      "height": 144.88965606689453,
+      "area": 21082.792465139355,
+      "aspect_ratio": 1.0042766625434805
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1015.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 303,
+      "height": 166
+    },
+    "joint_angles": {
+      "right_elbow": 112.93671934278312,
+      "right_shoulder": 141.1101237240339
+    },
+    "proportions": {
+      "right_arm_ratio": 0.581981413586907,
+      "shoulders_ratio": 0.7361134773456102,
+      "hips_ratio": 0.4493392353179993,
+      "shoulder_hip_ratio": 1.6382132239679883,
+      "width_height_ratio": 0.7361134773456102
+    },
+    "bounding_box": {
+      "x": 90.4503173828125,
+      "y": 56.42138671875,
+      "width": 87.90476989746094,
+      "height": 84.21563720703125,
+      "area": 7402.956210452132,
+      "aspect_ratio": 1.0438057920450157
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1016.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 311,
+      "height": 162
+    },
+    "joint_angles": {
+      "right_elbow": 136.29265652638347,
+      "left_elbow": 174.31762889544626,
+      "right_shoulder": 178.91990894883043,
+      "left_shoulder": 167.29800194142467,
+      "right_hip": 171.9330085617931,
+      "left_hip": 156.11845903253743,
+      "right_knee": 174.15501646479336,
+      "left_knee": 159.02301337450803,
+      "neck": 93.89087501252025
+    },
+    "proportions": {
+      "right_arm_ratio": 0.7820242757360327,
+      "left_arm_ratio": 0.7701314255377033,
+      "right_leg_ratio": 1.3055515856528992,
+      "left_leg_ratio": 1.4197610171588153,
+      "shoulders_ratio": 0.7778571397708538,
+      "hips_ratio": 0.5234438294333427,
+      "shoulder_hip_ratio": 1.486037461962113,
+      "width_height_ratio": 0.7778571397708538
+    },
+    "bounding_box": {
+      "x": 35.499263763427734,
+      "y": 25.135709762573242,
+      "width": 42.147457122802734,
+      "height": 86.79460334777832,
+      "area": 3658.1718230911574,
+      "aspect_ratio": 0.4855999739283512
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1017.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 262,
+      "height": 192
+    },
+    "joint_angles": {
+      "right_elbow": 144.65612122013948,
+      "neck": 68.52961642789685
+    },
+    "proportions": {},
+    "bounding_box": {
+      "x": 11.084716796875,
+      "y": 61.31964874267578,
+      "width": 89.5225601196289,
+      "height": 118.37577056884766,
+      "area": 10597.302037457062,
+      "aspect_ratio": 0.7562574645929113
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1018.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 265,
+      "height": 190
+    },
+    "joint_angles": {
+      "right_elbow": 22.81669725555702,
+      "left_elbow": 79.31082196871394,
+      "left_shoulder": 149.37581743486967,
+      "neck": 65.47125857305211
+    },
+    "proportions": {
+      "right_arm_ratio": 0.374336526329364,
+      "left_arm_ratio": 1.0621581816194487,
+      "shoulders_ratio": 0.7636530985042914,
+      "hips_ratio": 0.4781029686635838,
+      "shoulder_hip_ratio": 1.5972565504851202,
+      "width_height_ratio": 0.7636530985042914
+    },
+    "bounding_box": {
+      "x": 64.18596649169922,
+      "y": 46.571834564208984,
+      "width": 93.23494720458984,
+      "height": 131.62256240844727,
+      "area": 12271.822657084413,
+      "aspect_ratio": 0.7083507986667658
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1019.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 275,
+      "height": 183
+    },
+    "joint_angles": {
+      "right_elbow": 176.33951139046823,
+      "left_elbow": 165.30580617853485,
+      "right_shoulder": 68.24296732729535
+    },
+    "proportions": {
+      "right_arm_ratio": 1.2320176935517817,
+      "left_arm_ratio": 0.3715746569182453,
+      "shoulders_ratio": 0.5628881530002018,
+      "hips_ratio": 0.323817898388027,
+      "shoulder_hip_ratio": 1.7382861040179436,
+      "width_height_ratio": 0.5628881530002018
+    },
+    "bounding_box": {
+      "x": 119.49818420410156,
+      "y": 12.069302558898926,
+      "width": 106.4193115234375,
+      "height": 115.87605571746826,
+      "area": 12331.450071504456,
+      "aspect_ratio": 0.9183891431626874
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_101.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 242,
+      "height": 209
+    },
+    "joint_angles": {
+      "right_elbow": 116.48929850555355,
+      "left_elbow": 3.096419708885013,
+      "right_shoulder": 168.3809928767168,
+      "left_shoulder": 169.93541550082557,
+      "neck": 95.44468129287624
+    },
+    "proportions": {},
+    "bounding_box": {
+      "x": 36.85245895385742,
+      "y": 70.70024108886719,
+      "width": 166.57611465454102,
+      "height": 131.135986328125,
+      "area": 21844.123093930073,
+      "aspect_ratio": 1.2702547890838953
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1020.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 263,
+      "height": 192
+    },
+    "joint_angles": {
+      "right_elbow": 82.00786472828098,
+      "left_elbow": 90.83056418836016,
+      "left_shoulder": 158.09972638914982,
+      "neck": 77.22515756945104
+    },
+    "proportions": {},
+    "bounding_box": {
+      "x": 13.61105728149414,
+      "y": 41.47795867919922,
+      "width": 132.90229415893555,
+      "height": 122.45352935791016,
+      "area": 16274.354979524825,
+      "aspect_ratio": 1.0853284087099317
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1021.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 275,
+      "height": 183
+    },
+    "joint_angles": {},
+    "proportions": {},
+    "bounding_box": {
+      "x": 37.83454895019531,
+      "y": 50.091819763183594,
+      "width": 81.7104263305664,
+      "height": 78.8132553100586,
+      "area": 6439.864691884664,
+      "aspect_ratio": 1.036759946142436
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1022.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 260,
+      "height": 194
+    },
+    "joint_angles": {
+      "right_elbow": 112.17682575106181,
+      "left_elbow": 146.70926477821905,
+      "right_shoulder": 162.42677827731464,
+      "right_hip": 175.96755154989563,
+      "left_hip": 143.68796697143966,
+      "right_knee": 172.15492323002482,
+      "left_knee": 138.21430768994435,
+      "neck": 82.9489137000219
+    },
+    "proportions": {
+      "right_arm_ratio": 0.9085753977530975,
+      "left_arm_ratio": 0.8298744063116137,
+      "right_leg_ratio": 0.8765030989067142,
+      "left_leg_ratio": 0.7132826002345666,
+      "shoulders_ratio": 0.8285316108013367,
+      "hips_ratio": 0.5463048766100979,
+      "shoulder_hip_ratio": 1.5166103146332819,
+      "width_height_ratio": 0.8285316108013367
+    },
+    "bounding_box": {
+      "x": 74.34635162353516,
+      "y": 46.95139694213867,
+      "width": 46.87609100341797,
+      "height": 113.22232437133789,
+      "area": 5307.419980849343,
+      "aspect_ratio": 0.4140180946089515
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1023.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 292,
+      "height": 172
+    },
+    "joint_angles": {
+      "left_elbow": 15.889082468953852,
+      "neck": 79.35453108833379
+    },
+    "proportions": {},
+    "bounding_box": {
+      "x": 51.2530403137207,
+      "y": 60.30838394165039,
+      "width": 160.51996994018555,
+      "height": 66.51753616333008,
+      "area": 10677.39290543295,
+      "aspect_ratio": 2.413197770074312
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1024.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 286,
+      "height": 176
+    },
+    "joint_angles": {
+      "left_elbow": 41.06022162534724
+    },
+    "proportions": {},
+    "bounding_box": {
+      "x": 53.19239807128906,
+      "y": 47.100860595703125,
+      "width": 47.29389953613281,
+      "height": 112.89584350585938,
+      "area": 5339.284680813085,
+      "aspect_ratio": 0.41891621575667864
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1025.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 184,
+      "height": 275
+    },
+    "joint_angles": {
+      "right_elbow": 37.92228852245062,
+      "left_elbow": 22.42404133935538,
+      "right_shoulder": 178.8459620444966,
+      "left_shoulder": 178.07967905989142,
+      "neck": 95.71994800492529
+    },
+    "proportions": {
+      "right_arm_ratio": 0.3690319897182255,
+      "left_arm_ratio": 0.35324687703953744,
+      "shoulders_ratio": 0.8555284821382314,
+      "hips_ratio": 0.5460682776728705,
+      "shoulder_hip_ratio": 1.5667060642748913,
+      "width_height_ratio": 0.8555284821382314
+    },
+    "bounding_box": {
+      "x": 8.997116088867188,
+      "y": 84.34463500976562,
+      "width": 164.21229553222656,
+      "height": 153.3753204345703,
+      "area": 25186.113446551608,
+      "aspect_ratio": 1.0706565767357552
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1026.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 259,
+      "height": 194
+    },
+    "joint_angles": {
+      "right_elbow": 65.79522584572018,
+      "left_elbow": 98.33178303902609,
+      "right_shoulder": 174.68366798460403,
+      "left_shoulder": 154.6612613614719,
+      "right_hip": 98.12893537757601,
+      "left_hip": 115.27405079285074,
+      "right_knee": 117.01458653670518,
+      "left_knee": 117.78917326042968,
+      "neck": 57.921897438820956
+    },
+    "proportions": {
+      "right_arm_ratio": 0.5835478468613109,
+      "left_arm_ratio": 0.5694800307246578,
+      "right_leg_ratio": 1.606785220773509,
+      "left_leg_ratio": 1.4318951366349892,
+      "shoulders_ratio": 0.48302302985792284,
+      "hips_ratio": 0.26294490689671357,
+      "shoulder_hip_ratio": 1.8369742755567324,
+      "width_height_ratio": 0.48302302985792284
+    },
+    "bounding_box": {
+      "x": 158.8751983642578,
+      "y": 79.30866241455078,
+      "width": 48.67120361328125,
+      "height": 75.86112213134766,
+      "area": 3692.2521215868182,
+      "aspect_ratio": 0.6415829643148546
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1027.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 275,
+      "height": 183
+    },
+    "joint_angles": {
+      "left_elbow": 105.24734851103608,
+      "left_shoulder": 126.74473686828331,
+      "neck": 4.979162602256241
+    },
+    "proportions": {},
+    "bounding_box": {
+      "x": 124.43763732910156,
+      "y": 106.68160247802734,
+      "width": 63.58953857421875,
+      "height": 64.6993179321289,
+      "area": 4114.199773370754,
+      "aspect_ratio": 0.9828471243070237
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1028.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 308,
+      "height": 164
+    },
+    "joint_angles": {
+      "right_elbow": 78.43054667916792,
+      "left_elbow": 42.98940255516875,
+      "right_shoulder": 153.50964502018948,
+      "neck": 100.4178216112783
+    },
+    "proportions": {
+      "right_arm_ratio": 0.7792144680903372,
+      "left_arm_ratio": 0.42192740047968896,
+      "shoulders_ratio": 0.8037950323412721,
+      "hips_ratio": 0.5531057139338375,
+      "shoulder_hip_ratio": 1.453239429808932,
+      "width_height_ratio": 0.8037950323412721
+    },
+    "bounding_box": {
+      "x": 104.42164611816406,
+      "y": 39.94125747680664,
+      "width": 117.5555419921875,
+      "height": 118.3733024597168,
+      "area": 13915.43772805715,
+      "aspect_ratio": 0.9930916815655491
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1029.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 303,
+      "height": 166
+    },
+    "joint_angles": {},
+    "proportions": {},
+    "bounding_box": {
+      "x": 266.021728515625,
+      "y": 108.68900299072266,
+      "width": 33.096282958984375,
+      "height": 28.185279846191406,
+      "area": 932.8279970677104,
+      "aspect_ratio": 1.174239998310912
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_102.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 225,
+      "height": 225
+    },
+    "joint_angles": {
+      "right_elbow": 145.21086510197503,
+      "left_elbow": 88.22167583784649,
+      "right_shoulder": 172.53838947630837,
+      "left_shoulder": 175.31978310139718,
+      "right_hip": 178.97702115947087,
+      "left_hip": 177.41241982881888,
+      "right_knee": 178.8604264989697,
+      "left_knee": 179.68966780524272
+    },
+    "proportions": {
+      "right_arm_ratio": 0.6992581348485017,
+      "left_arm_ratio": 0.5707763689485295,
+      "right_leg_ratio": 1.562337332667838,
+      "left_leg_ratio": 1.3307326197679281,
+      "shoulders_ratio": 0.6814457503302325,
+      "hips_ratio": 0.4322219661964017,
+      "shoulder_hip_ratio": 1.5766106390358314,
+      "width_height_ratio": 0.6814457503302325
+    },
+    "bounding_box": {
+      "x": 136.73992919921875,
+      "y": 50.02290725708008,
+      "width": 45.383880615234375,
+      "height": 126.49407577514648,
+      "area": 5740.792033513659,
+      "aspect_ratio": 0.3587826571096335
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1030.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 267,
+      "height": 189
+    },
+    "joint_angles": {
+      "neck": 19.970880133751816
+    },
+    "proportions": {},
+    "bounding_box": {
+      "x": 99.85661315917969,
+      "y": 53.709068298339844,
+      "width": 120.633056640625,
+      "height": 62.464271545410156,
+      "area": 7535.256007352844,
+      "aspect_ratio": 1.9312329057247937
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1032.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 315,
+      "height": 160
+    },
+    "joint_angles": {
+      "right_elbow": 65.7982109091397,
+      "left_elbow": 17.326109901184797,
+      "right_shoulder": 161.41946214054894,
+      "neck": 61.062101598928095
+    },
+    "proportions": {},
+    "bounding_box": {
+      "x": 77.91316223144531,
+      "y": 50.084564208984375,
+      "width": 178.9640350341797,
+      "height": 101.4005126953125,
+      "area": 18147.04490648769,
+      "aspect_ratio": 1.7649223882321925
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1033.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 240,
+      "height": 160
+    },
+    "joint_angles": {
+      "right_elbow": 0.7561794043583734,
+      "left_elbow": 45.16214039764258,
+      "left_shoulder": 164.53131215374407,
+      "neck": 101.80680852529551
+    },
+    "proportions": {},
+    "bounding_box": {
+      "x": 39.5654182434082,
+      "y": 56.078731536865234,
+      "width": 71.72382736206055,
+      "height": 77.3874397277832,
+      "area": 5550.523367027388,
+      "aspect_ratio": 0.9268148373218589
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1034.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 262,
+      "height": 193
+    },
+    "joint_angles": {
+      "right_elbow": 67.94088126526748,
+      "left_elbow": 89.40189174899729,
+      "right_shoulder": 168.71459350844842,
+      "left_shoulder": 146.93663657058724,
+      "right_hip": 176.93486001442426,
+      "left_hip": 176.6826893243285,
+      "right_knee": 176.3193090945035,
+      "left_knee": 173.51534937525955,
+      "neck": 91.09120401538307
+    },
+    "proportions": {
+      "right_arm_ratio": 0.5261058184581752,
+      "left_arm_ratio": 0.6591397850497203,
+      "right_leg_ratio": 1.596767678954418,
+      "left_leg_ratio": 1.6575840401432613,
+      "shoulders_ratio": 0.6451173966415634,
+      "hips_ratio": 0.4429019815704053,
+      "shoulder_hip_ratio": 1.4565692263424956,
+      "width_height_ratio": 0.6451173966415634
+    },
+    "bounding_box": {
+      "x": 27.434022903442383,
+      "y": 41.882991790771484,
+      "width": 24.9339542388916,
+      "height": 101.43078994750977,
+      "area": 2529.0706749658348,
+      "aspect_ratio": 0.2458223410445179
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1035.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 177,
+      "height": 285
+    },
+    "joint_angles": {
+      "right_elbow": 113.27087911826861,
+      "left_elbow": 112.54240967479917,
+      "right_shoulder": 155.74157365640363,
+      "left_shoulder": 152.6480413274655,
+      "left_hip": 84.45301035065583,
+      "neck": 67.29467092029932
+    },
+    "proportions": {
+      "right_arm_ratio": 1.2168903252891776,
+      "left_arm_ratio": 0.9656361071446403,
+      "shoulders_ratio": 0.5155287442287001,
+      "hips_ratio": 0.34034840781725156,
+      "shoulder_hip_ratio": 1.514708846546186,
+      "width_height_ratio": 0.5155287442287001
+    },
+    "bounding_box": {
+      "x": 59.308624267578125,
+      "y": 60.90283203125,
+      "width": 113.25013732910156,
+      "height": 155.4610137939453,
+      "area": 17605.98116148566,
+      "aspect_ratio": 0.7284793438900903
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1036.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 280,
+      "height": 180
+    },
+    "joint_angles": {
+      "right_elbow": 15.43963057015959,
+      "left_elbow": 36.37837469586428,
+      "right_shoulder": 166.75255635242792,
+      "left_shoulder": 167.63264201131278,
+      "right_hip": 177.7667499434906,
+      "neck": 42.901442087862236
+    },
+    "proportions": {
+      "right_arm_ratio": 0.2150260352383611,
+      "left_arm_ratio": 0.5193233662803282,
+      "shoulders_ratio": 0.3210709389372326,
+      "hips_ratio": 0.16409262457532123,
+      "shoulder_hip_ratio": 1.956644546140803,
+      "width_height_ratio": 0.3210709389372326
+    },
+    "bounding_box": {
+      "x": 74.18102264404297,
+      "y": 58.264957427978516,
+      "width": 151.36516571044922,
+      "height": 45.11638259887695,
+      "area": 6829.048728335038,
+      "aspect_ratio": 3.354993396882334
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1037.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 222,
+      "height": 227
+    },
+    "joint_angles": {
+      "right_elbow": 100.80334098776679,
+      "left_elbow": 127.90639367996857,
+      "right_shoulder": 169.98799683684268,
+      "left_shoulder": 169.82470269232613,
+      "neck": 129.512677186884
+    },
+    "proportions": {
+      "right_arm_ratio": 0.7317089559983411,
+      "left_arm_ratio": 0.8364810999007272,
+      "shoulders_ratio": 0.8004247751355549,
+      "hips_ratio": 0.5204898956536085,
+      "shoulder_hip_ratio": 1.5378296136381597,
+      "width_height_ratio": 0.8004247751355549
+    },
+    "bounding_box": {
+      "x": 127.69123077392578,
+      "y": 63.5257682800293,
+      "width": 93.39464569091797,
+      "height": 106.14166641235352,
+      "area": 9913.063327625365,
+      "aspect_ratio": 0.8799055907798339
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1038.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 275,
+      "height": 183
+    },
+    "joint_angles": {
+      "left_elbow": 73.03956914899904,
+      "left_shoulder": 159.7022125016924,
+      "neck": 3.829335238233946
+    },
+    "proportions": {},
+    "bounding_box": {
+      "x": 10.39322566986084,
+      "y": 49.69268035888672,
+      "width": 50.13386249542236,
+      "height": 121.09905242919922,
+      "area": 6071.163242811417,
+      "aspect_ratio": 0.41399054319383066
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1039.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 225,
+      "height": 225
+    },
+    "joint_angles": {
+      "right_elbow": 106.67060326152729,
+      "right_shoulder": 116.14399858538933,
+      "neck": 39.493439556863535
+    },
+    "proportions": {
+      "right_arm_ratio": 0.49328340132566123,
+      "shoulders_ratio": 0.33834440711478875,
+      "hips_ratio": 0.20501678049489927,
+      "shoulder_hip_ratio": 1.6503254333525474,
+      "width_height_ratio": 0.33834440711478875
+    },
+    "bounding_box": {
+      "x": 173.7249298095703,
+      "y": 117.87049865722656,
+      "width": 36.08441162109375,
+      "height": 79.05964660644531,
+      "area": 2852.8208307651803,
+      "aspect_ratio": 0.4564200976095937
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_103.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 270,
+      "height": 187
+    },
+    "joint_angles": {
+      "right_elbow": 1.8125928061239296,
+      "left_elbow": 97.46330700995475,
+      "right_shoulder": 178.97256941320967,
+      "neck": 110.92179265295152
+    },
+    "proportions": {},
+    "bounding_box": {
+      "x": 5.839334011077881,
+      "y": 43.81646728515625,
+      "width": 173.70056772232056,
+      "height": 88.84858703613281,
+      "area": 15433.05000950228,
+      "aspect_ratio": 1.9550177838132672
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1040.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 183,
+      "height": 275
+    },
+    "joint_angles": {
+      "right_elbow": 160.53165658084535,
+      "left_elbow": 152.7917975215212,
+      "right_shoulder": 176.9039184257434,
+      "left_shoulder": 173.30962356904953,
+      "right_hip": 172.17168096520112,
+      "left_hip": 167.5712670739359,
+      "neck": 72.0571391699031
+    },
+    "proportions": {
+      "right_arm_ratio": 1.0180339174907054,
+      "left_arm_ratio": 0.8714051650645177,
+      "shoulders_ratio": 0.6090030955188339,
+      "hips_ratio": 0.3892559305504874,
+      "shoulder_hip_ratio": 1.5645313217388344,
+      "width_height_ratio": 0.6090030955188339
+    },
+    "bounding_box": {
+      "x": 35.84326934814453,
+      "y": 35.67615509033203,
+      "width": 99.4815902709961,
+      "height": 170.66442108154297,
+      "area": 16977.968011870806,
+      "aspect_ratio": 0.5829076127323812
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1041.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 265,
+      "height": 190
+    },
+    "joint_angles": {
+      "right_elbow": 120.4295410703223,
+      "right_shoulder": 155.58939915969412,
+      "neck": 98.78995098139822
+    },
+    "proportions": {},
+    "bounding_box": {
+      "x": 19.9224796295166,
+      "y": 89.15966796875,
+      "width": 133.3627223968506,
+      "height": 70.55162048339844,
+      "area": 9408.956177175423,
+      "aspect_ratio": 1.8902857437304688
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1042.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 272,
+      "height": 185
+    },
+    "joint_angles": {
+      "right_elbow": 9.887634128752252,
+      "left_elbow": 14.90159998378421,
+      "left_shoulder": 164.1336219542099,
+      "neck": 101.44265181265526
+    },
+    "proportions": {},
+    "bounding_box": {
+      "x": 33.73896026611328,
+      "y": 44.62603759765625,
+      "width": 93.92691040039062,
+      "height": 93.90380859375,
+      "area": 8820.094616040587,
+      "aspect_ratio": 1.0002460156514053
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1043.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 275,
+      "height": 183
+    },
+    "joint_angles": {
+      "right_elbow": 72.46341612261412,
+      "left_elbow": 110.45093750161048,
+      "right_shoulder": 158.81902117143298,
+      "right_hip": 177.6572920967555,
+      "left_hip": 173.90880226159427,
+      "right_knee": 169.14956551597498,
+      "left_knee": 172.58987918358937,
+      "neck": 81.26560052895881
+    },
+    "proportions": {
+      "right_arm_ratio": 0.3978065804923295,
+      "left_arm_ratio": 0.6174955135065104,
+      "right_leg_ratio": 1.5334175042541258,
+      "left_leg_ratio": 1.5543817096157488,
+      "shoulders_ratio": 0.5957557227386179,
+      "hips_ratio": 0.3651281935244603,
+      "shoulder_hip_ratio": 1.6316344048592557,
+      "width_height_ratio": 0.5957557227386179
+    },
+    "bounding_box": {
+      "x": 89.32706451416016,
+      "y": 65.64751434326172,
+      "width": 36.53411102294922,
+      "height": 87.33654022216797,
+      "area": 3190.7628568369546,
+      "aspect_ratio": 0.418314154991865
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1044.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 275,
+      "height": 183
+    },
+    "joint_angles": {},
+    "proportions": {},
+    "bounding_box": {
+      "x": 55.18764114379883,
+      "y": 57.282344818115234,
+      "width": 45.19173049926758,
+      "height": 93.29083633422852,
+      "area": 4215.974333667735,
+      "aspect_ratio": 0.48441767996763774
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1045.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 275,
+      "height": 183
+    },
+    "joint_angles": {
+      "right_elbow": 42.520810517273816,
+      "left_elbow": 39.60844773238317,
+      "neck": 86.15353921674395
+    },
+    "proportions": {},
+    "bounding_box": {
+      "x": 82.61953735351562,
+      "y": 0.0,
+      "width": 121.90516662597656,
+      "height": 149.50633239746094,
+      "area": 18225.594362551114,
+      "aspect_ratio": 0.8153846373670182
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1046.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 275,
+      "height": 183
+    },
+    "joint_angles": {
+      "right_elbow": 48.598993370495236,
+      "left_elbow": 6.868798031275774,
+      "right_shoulder": 159.2677695460983,
+      "neck": 57.359681055401005
+    },
+    "proportions": {},
+    "bounding_box": {
+      "x": 51.517173767089844,
+      "y": 96.27483367919922,
+      "width": 63.083641052246094,
+      "height": 82.38848114013672,
+      "area": 5197.365371084132,
+      "aspect_ratio": 0.7656852047672232
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1047.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 275,
+      "height": 183
+    },
+    "joint_angles": {
+      "right_elbow": 90.11693981901726,
+      "left_elbow": 172.74514105373058,
+      "right_shoulder": 148.1144145056547,
+      "neck": 60.292825815953755
+    },
+    "proportions": {
+      "right_arm_ratio": 0.7907421819441326,
+      "left_arm_ratio": 0.6356054833779247,
+      "shoulders_ratio": 0.5953768099028798,
+      "hips_ratio": 0.40780522203366126,
+      "shoulder_hip_ratio": 1.4599538645773786,
+      "width_height_ratio": 0.5953768099028798
+    },
+    "bounding_box": {
+      "x": 159.31385803222656,
+      "y": 57.72116470336914,
+      "width": 56.08564758300781,
+      "height": 88.53600692749023,
+      "area": 4965.599282941956,
+      "aspect_ratio": 0.6334783951679815
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1048.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 259,
+      "height": 194
+    },
+    "joint_angles": {
+      "neck": 96.05628752693066
+    },
+    "proportions": {},
+    "bounding_box": {
+      "x": 133.5631103515625,
+      "y": 87.08370208740234,
+      "width": 105.480224609375,
+      "height": 71.04203033447266,
+      "area": 7493.529316386208,
+      "aspect_ratio": 1.4847580244084246
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1049.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 329,
+      "height": 153
+    },
+    "joint_angles": {
+      "neck": 94.50277200233946
+    },
+    "proportions": {},
+    "bounding_box": {
+      "x": 76.31328582763672,
+      "y": 44.76350021362305,
+      "width": 152.49817657470703,
+      "height": 83.8195686340332,
+      "area": 12782.33137796857,
+      "aspect_ratio": 1.8193624598634393
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_104.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 172,
+      "height": 293
+    },
+    "joint_angles": {
+      "right_elbow": 115.5253683220175,
+      "left_elbow": 120.40268334713753,
+      "left_shoulder": 144.26765200396946,
+      "right_hip": 108.67564928369929,
+      "left_hip": 108.26658132232632,
+      "right_knee": 101.95741180293686,
+      "left_knee": 102.70248269001301,
+      "neck": 1.400317031237611
+    },
+    "proportions": {
+      "right_arm_ratio": 0.8932169292252419,
+      "left_arm_ratio": 0.9772700324957907,
+      "right_leg_ratio": 1.3361251499323143,
+      "left_leg_ratio": 1.4250423880013376,
+      "shoulders_ratio": 0.04316832110428323,
+      "hips_ratio": 0.09564826980993216,
+      "shoulder_hip_ratio": 0.4513235962350948,
+      "width_height_ratio": 0.04316832110428323
+    },
+    "bounding_box": {
+      "x": 33.70063018798828,
+      "y": 43.29731369018555,
+      "width": 95.05558013916016,
+      "height": 199.80623245239258,
+      "area": 18992.697341182065,
+      "aspect_ratio": 0.4757388144126528
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1050.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 275,
+      "height": 183
+    },
+    "joint_angles": {
+      "right_elbow": 127.37252619576233,
+      "left_elbow": 3.8062123860513553,
+      "right_shoulder": 144.65903052237775,
+      "neck": 100.4822143185219
+    },
+    "proportions": {
+      "right_arm_ratio": 0.9027278147693301,
+      "left_arm_ratio": 0.06225375349571977,
+      "shoulders_ratio": 0.6874757591782551,
+      "hips_ratio": 0.4445912400112427,
+      "shoulder_hip_ratio": 1.5463097274720714,
+      "width_height_ratio": 0.6874757591782551
+    },
+    "bounding_box": {
+      "x": 152.69970703125,
+      "y": 28.46135902404785,
+      "width": 87.34939575195312,
+      "height": 121.88641929626465,
+      "area": 10646.705075897917,
+      "aspect_ratio": 0.7166458433702634
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1051.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 302,
+      "height": 167
+    },
+    "joint_angles": {
+      "right_elbow": 24.718291252136268,
+      "left_elbow": 146.32975043720876,
+      "right_hip": 179.70190690303053,
+      "left_hip": 175.36901768989998,
+      "neck": 152.9175684533646
+    },
+    "proportions": {
+      "right_arm_ratio": 0.313946932711955,
+      "left_arm_ratio": 0.8562001922720487,
+      "shoulders_ratio": 0.7869003424828519,
+      "hips_ratio": 0.4742593145425374,
+      "shoulder_hip_ratio": 1.6592195837880017,
+      "width_height_ratio": 0.7869003424828519
+    },
+    "bounding_box": {
+      "x": 187.2755584716797,
+      "y": 6.888455867767334,
+      "width": 87.80366516113281,
+      "height": 135.48629999160767,
+      "area": 11896.19371838391,
+      "aspect_ratio": 0.6480630526228229
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1052.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 266,
+      "height": 189
+    },
+    "joint_angles": {
+      "right_elbow": 39.39761976234939,
+      "left_elbow": 39.35481255007394,
+      "right_shoulder": 173.8126430624281,
+      "left_shoulder": 177.2724743086987,
+      "neck": 88.6403091103772
+    },
+    "proportions": {
+      "right_arm_ratio": 0.3174240098259614,
+      "left_arm_ratio": 0.3324591823315167,
+      "shoulders_ratio": 0.6151620930792442,
+      "hips_ratio": 0.42286856636549586,
+      "shoulder_hip_ratio": 1.454735920351063,
+      "width_height_ratio": 0.6151620930792442
+    },
+    "bounding_box": {
+      "x": 113.4379653930664,
+      "y": 70.35562896728516,
+      "width": 45.50926971435547,
+      "height": 80.08655548095703,
+      "area": 3644.680653876567,
+      "aspect_ratio": 0.568251055886361
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1053.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 275,
+      "height": 183
+    },
+    "joint_angles": {
+      "right_elbow": 83.80984201255716,
+      "left_elbow": 111.59265271487943,
+      "right_shoulder": 157.7601265042993,
+      "right_hip": 100.24385908012943,
+      "left_hip": 113.81900595546516,
+      "right_knee": 95.51200057451003,
+      "left_knee": 125.26960413605472,
+      "neck": 101.66557296906537
+    },
+    "proportions": {
+      "right_arm_ratio": 0.7001764050203378,
+      "left_arm_ratio": 1.0082059453333854,
+      "right_leg_ratio": 1.449638137370353,
+      "left_leg_ratio": 2.4153908239104642,
+      "shoulders_ratio": 0.8549698507975643,
+      "hips_ratio": 0.6724247732151581,
+      "shoulder_hip_ratio": 1.2714728618780329,
+      "width_height_ratio": 0.8549698507975643
+    },
+    "bounding_box": {
+      "x": 71.31957244873047,
+      "y": 61.25801467895508,
+      "width": 121.03746795654297,
+      "height": 94.14898300170898,
+      "area": 11395.55451321046,
+      "aspect_ratio": 1.2855950653693828
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1054.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 176,
+      "height": 286
+    },
+    "joint_angles": {
+      "right_elbow": 179.89659811751795,
+      "left_elbow": 165.4023303427801,
+      "right_shoulder": 117.30727283920928,
+      "left_shoulder": 129.37531244813485,
+      "right_hip": 174.47866096844356,
+      "left_hip": 159.7164476165798,
+      "right_knee": 139.26542589428414,
+      "left_knee": 146.8465102303886,
+      "neck": 46.878986870259574
+    },
+    "proportions": {
+      "right_arm_ratio": 1.0063066097410156,
+      "left_arm_ratio": 0.9492773709301394,
+      "right_leg_ratio": 1.2871410869238376,
+      "left_leg_ratio": 1.414458447258411,
+      "shoulders_ratio": 0.23887554109233006,
+      "hips_ratio": 0.10267650689937259,
+      "shoulder_hip_ratio": 2.3264868303947894,
+      "width_height_ratio": 0.23887554109233006
+    },
+    "bounding_box": {
+      "x": 40.07047653198242,
+      "y": 54.811378479003906,
+      "width": 91.66994094848633,
+      "height": 168.19727325439453,
+      "area": 15418.634106926766,
+      "aspect_ratio": 0.5450144296325045
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1055.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 259,
+      "height": 194
+    },
+    "joint_angles": {
+      "right_elbow": 125.44932544137795,
+      "left_elbow": 145.16343284287828,
+      "right_shoulder": 164.7463239221808,
+      "left_shoulder": 160.83227916757662,
+      "right_hip": 173.52192776670597,
+      "left_hip": 176.9294943558789,
+      "neck": 75.7718574190147
+    },
+    "proportions": {
+      "right_arm_ratio": 0.7768918845135262,
+      "left_arm_ratio": 0.9814664640437147,
+      "shoulders_ratio": 0.5826849352520114,
+      "hips_ratio": 0.3596630063475445,
+      "shoulder_hip_ratio": 1.6200858163571024,
+      "width_height_ratio": 0.5826849352520114
+    },
+    "bounding_box": {
+      "x": 7.480401992797852,
+      "y": 66.82600402832031,
+      "width": 64.23724174499512,
+      "height": 104.68675231933594,
+      "area": 6724.788216235611,
+      "aspect_ratio": 0.6136138558300688
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1056.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 300,
+      "height": 168
+    },
+    "joint_angles": {
+      "right_elbow": 54.82010718992208,
+      "left_elbow": 60.412978241608855,
+      "left_shoulder": 137.5370451006992,
+      "neck": 7.048197777989186
+    },
+    "proportions": {},
+    "bounding_box": {
+      "x": 42.671600341796875,
+      "y": 29.1552791595459,
+      "width": 68.12844848632812,
+      "height": 110.7198429107666,
+      "area": 7543.171114160505,
+      "aspect_ratio": 0.6153228427287011
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1057.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 301,
+      "height": 167
+    },
+    "joint_angles": {
+      "right_knee": 176.3419925109901,
+      "left_knee": 157.34496931591312
+    },
+    "proportions": {},
+    "bounding_box": {
+      "x": 178.17355346679688,
+      "y": 25.731157302856445,
+      "width": 78.63067626953125,
+      "height": 92.4184627532959,
+      "area": 7266.9262260821415,
+      "aspect_ratio": 0.8508113414462422
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1058.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 183,
+      "height": 275
+    },
+    "joint_angles": {
+      "right_elbow": 69.96854855542624,
+      "left_elbow": 153.13437032460976,
+      "right_shoulder": 161.51242515709924,
+      "right_hip": 164.06259233556236,
+      "left_hip": 179.15703325832516,
+      "right_knee": 159.08631489981522,
+      "left_knee": 170.5997851643728,
+      "neck": 73.49778961618821
+    },
+    "proportions": {
+      "right_arm_ratio": 0.5980424135789998,
+      "left_arm_ratio": 0.922344537885425,
+      "right_leg_ratio": 1.1283617728105408,
+      "left_leg_ratio": 1.2289388813527224,
+      "shoulders_ratio": 0.585680757527953,
+      "hips_ratio": 0.37299249779397714,
+      "shoulder_hip_ratio": 1.5702212805670275,
+      "width_height_ratio": 0.585680757527953
+    },
+    "bounding_box": {
+      "x": 42.01950454711914,
+      "y": 59.35147476196289,
+      "width": 96.0792350769043,
+      "height": 181.7105369567871,
+      "area": 17458.609396221655,
+      "aspect_ratio": 0.5287488369469353
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1059.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 263,
+      "height": 192
+    },
+    "joint_angles": {
+      "right_elbow": 69.32421135596412,
+      "left_elbow": 55.094193924142026,
+      "right_shoulder": 148.57529830321536,
+      "neck": 15.902541484779384
+    },
+    "proportions": {
+      "right_arm_ratio": 0.5959444078825106,
+      "left_arm_ratio": 0.46193883159521426,
+      "shoulders_ratio": 0.19957444257525098,
+      "hips_ratio": 0.16328681525347824,
+      "shoulder_hip_ratio": 1.2222324396825404,
+      "width_height_ratio": 0.19957444257525098
+    },
+    "bounding_box": {
+      "x": 127.0318603515625,
+      "y": 38.33640670776367,
+      "width": 52.29150390625,
+      "height": 125.76472854614258,
+      "area": 6576.4267940390855,
+      "aspect_ratio": 0.41578830973315745
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_105.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 299,
+      "height": 168
+    },
+    "joint_angles": {},
+    "proportions": {},
+    "bounding_box": {
+      "x": 120.40103149414062,
+      "y": 25.737123489379883,
+      "width": 152.63873291015625,
+      "height": 134.11540031433105,
+      "area": 20471.204767717863,
+      "aspect_ratio": 1.1381148813067805
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1060.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 275,
+      "height": 183
+    },
+    "joint_angles": {
+      "right_elbow": 95.566325394674,
+      "left_elbow": 97.74536509210613,
+      "right_shoulder": 167.58673552907283,
+      "right_hip": 130.64227277914156,
+      "neck": 25.014511891666412
+    },
+    "proportions": {
+      "right_arm_ratio": 0.7770332845692444,
+      "left_arm_ratio": 0.5172074829370114,
+      "shoulders_ratio": 0.22985532787076912,
+      "hips_ratio": 0.07885687052929925,
+      "shoulder_hip_ratio": 2.914842122543608,
+      "width_height_ratio": 0.22985532787076912
+    },
+    "bounding_box": {
+      "x": 174.45278930664062,
+      "y": 27.05558967590332,
+      "width": 67.73382568359375,
+      "height": 131.87225151062012,
+      "area": 8932.212096323376,
+      "aspect_ratio": 0.5136321319132018
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1061.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 275,
+      "height": 183
+    },
+    "joint_angles": {
+      "right_elbow": 84.1462837180586,
+      "right_shoulder": 107.55327007117324
+    },
+    "proportions": {},
+    "bounding_box": {
+      "x": 140.08920288085938,
+      "y": 54.65239715576172,
+      "width": 87.61001586914062,
+      "height": 82.18669891357422,
+      "area": 7200.37799605052,
+      "aspect_ratio": 1.0659877696422562
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1062.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 264,
+      "height": 191
+    },
+    "joint_angles": {
+      "right_elbow": 57.67575037035133,
+      "left_elbow": 35.267289128848965,
+      "right_shoulder": 169.812594864833,
+      "neck": 106.94536330647169
+    },
+    "proportions": {},
+    "bounding_box": {
+      "x": 105.69050598144531,
+      "y": 52.744041442871094,
+      "width": 142.20335388183594,
+      "height": 94.87801361083984,
+      "area": 13491.971745107905,
+      "aspect_ratio": 1.498801971815198
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1063.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 262,
+      "height": 193
+    },
+    "joint_angles": {
+      "right_elbow": 119.67747043955805,
+      "left_elbow": 104.88058407720388,
+      "left_shoulder": 136.80054848348485,
+      "neck": 37.65346169581925
+    },
+    "proportions": {
+      "right_arm_ratio": 1.077461657697921,
+      "left_arm_ratio": 1.5038443013355645,
+      "shoulders_ratio": 0.5893551906658864
+    },
+    "bounding_box": {
+      "x": 13.457235336303711,
+      "y": 6.622548580169678,
+      "width": 105.75408363342285,
+      "height": 141.65499353408813,
+      "area": 14980.594033295929,
+      "aspect_ratio": 0.7465609294456251
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1064.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 302,
+      "height": 167
+    },
+    "joint_angles": {
+      "right_elbow": 54.72583197874235,
+      "left_elbow": 75.61468705987323,
+      "left_shoulder": 167.4304383978064,
+      "left_hip": 118.812514654139,
+      "neck": 57.96183796391187
+    },
+    "proportions": {
+      "right_arm_ratio": 0.3823300528545292,
+      "left_arm_ratio": 0.5337059452021327,
+      "shoulders_ratio": 0.36518934239764916,
+      "hips_ratio": 0.10146332151489794,
+      "shoulder_hip_ratio": 3.59922518743907,
+      "width_height_ratio": 0.36518934239764916
+    },
+    "bounding_box": {
+      "x": 64.20465850830078,
+      "y": 38.04973220825195,
+      "width": 76.18622589111328,
+      "height": 119.60844039916992,
+      "area": 9112.51565873492,
+      "aspect_ratio": 0.6369636259519526
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1065.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 193,
+      "height": 262
+    },
+    "joint_angles": {
+      "right_elbow": 13.097647541344946,
+      "right_shoulder": 167.37443287060103,
+      "neck": 90.84722139558671
+    },
+    "proportions": {},
+    "bounding_box": {
+      "x": 37.776092529296875,
+      "y": 51.4112434387207,
+      "width": 134.48434448242188,
+      "height": 167.80607223510742,
+      "area": 22567.289624708355,
+      "aspect_ratio": 0.8014271634580684
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1066.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 177,
+      "height": 285
+    },
+    "joint_angles": {
+      "left_elbow": 149.2375869617947,
+      "left_shoulder": 135.13521643434137,
+      "neck": 9.615778166203768
+    },
+    "proportions": {},
+    "bounding_box": {
+      "x": 30.327037811279297,
+      "y": 99.73784637451172,
+      "width": 70.23411178588867,
+      "height": 160.0912857055664,
+      "area": 11243.869256191392,
+      "aspect_ratio": 0.4387128973094793
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1067.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 276,
+      "height": 183
+    },
+    "joint_angles": {
+      "right_elbow": 59.88772072147331,
+      "right_shoulder": 139.37110766390498
+    },
+    "proportions": {
+      "right_arm_ratio": 0.35893852029708995,
+      "shoulders_ratio": 0.6536307511775242,
+      "hips_ratio": 0.42273474852395015,
+      "shoulder_hip_ratio": 1.5461959383745636,
+      "width_height_ratio": 0.6536307511775242
+    },
+    "bounding_box": {
+      "x": 141.98605346679688,
+      "y": 31.780588150024414,
+      "width": 84.3280029296875,
+      "height": 105.23854637145996,
+      "area": 8874.55644672853,
+      "aspect_ratio": 0.8013033801515594
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1068.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 183,
+      "height": 276
+    },
+    "joint_angles": {
+      "right_elbow": 44.004723684674246,
+      "left_elbow": 70.00156517365018,
+      "right_shoulder": 159.1735900343726,
+      "left_shoulder": 166.56370821993994,
+      "neck": 151.64321523182235
+    },
+    "proportions": {
+      "right_arm_ratio": 0.3269761587830551,
+      "left_arm_ratio": 0.3541985817737476,
+      "shoulders_ratio": 0.8240950006680502,
+      "hips_ratio": 0.5461197213923423,
+      "shoulder_hip_ratio": 1.509000624564527,
+      "width_height_ratio": 0.8240950006680502
+    },
+    "bounding_box": {
+      "x": 49.64718246459961,
+      "y": 47.58492660522461,
+      "width": 102.97114944458008,
+      "height": 89.3139533996582,
+      "area": 9196.760443002466,
+      "aspect_ratio": 1.152912232916275
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1069.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 259,
+      "height": 194
+    },
+    "joint_angles": {
+      "right_elbow": 100.50915253624247,
+      "left_elbow": 105.93452413054871,
+      "left_shoulder": 134.8981202061929,
+      "right_hip": 163.76469075958667,
+      "left_hip": 168.3503546356271,
+      "right_knee": 153.37345837543094,
+      "left_knee": 151.77242233130846,
+      "neck": 11.598805383076256
+    },
+    "proportions": {
+      "right_arm_ratio": 0.43481317886333587,
+      "left_arm_ratio": 0.5079520869332278,
+      "right_leg_ratio": 1.201273824916512,
+      "left_leg_ratio": 1.0358533726333228,
+      "shoulders_ratio": 0.10528694590230823,
+      "hips_ratio": 0.15286219407169316,
+      "shoulder_hip_ratio": 0.6887703433913038,
+      "width_height_ratio": 0.10528694590230823
+    },
+    "bounding_box": {
+      "x": 100.90533447265625,
+      "y": 51.68806838989258,
+      "width": 53.65208435058594,
+      "height": 99.56438827514648,
+      "area": 5341.836958052649,
+      "aspect_ratio": 0.5388682166390482
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_106.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 184,
+      "height": 275
+    },
+    "joint_angles": {
+      "neck": 63.992581783540196
+    },
+    "proportions": {},
+    "bounding_box": {
+      "x": 85.46907043457031,
+      "y": 82.02064514160156,
+      "width": 95.43589782714844,
+      "height": 94.3221435546875,
+      "area": 9001.718455122784,
+      "aspect_ratio": 1.011807983051352
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1070.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 275,
+      "height": 183
+    },
+    "joint_angles": {
+      "neck": 47.131140700707775
+    },
+    "proportions": {},
+    "bounding_box": {
+      "x": 11.315356254577637,
+      "y": 55.535152435302734,
+      "width": 69.34433460235596,
+      "height": 89.05580520629883,
+      "area": 6175.51555450782,
+      "aspect_ratio": 0.77866158687487
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1071.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 260,
+      "height": 194
+    },
+    "joint_angles": {
+      "left_elbow": 135.73724143434856,
+      "left_shoulder": 165.92278156002666,
+      "neck": 48.66431949358336
+    },
+    "proportions": {},
+    "bounding_box": {
+      "x": 161.39881896972656,
+      "y": 44.08847427368164,
+      "width": 18.897323608398438,
+      "height": 66.57018661499023,
+      "area": 1257.9983591349446,
+      "aspect_ratio": 0.283870671982511
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1072.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 300,
+      "height": 168
+    },
+    "joint_angles": {
+      "left_elbow": 62.14824127415407,
+      "left_shoulder": 146.16252359358788,
+      "neck": 66.8993176360235
+    },
+    "proportions": {},
+    "bounding_box": {
+      "x": 46.02555847167969,
+      "y": 39.96236038208008,
+      "width": 105.28150939941406,
+      "height": 125.6182975769043,
+      "area": 13225.283977081242,
+      "aspect_ratio": 0.8381064815415132
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1073.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 318,
+      "height": 159
+    },
+    "joint_angles": {},
+    "proportions": {},
+    "bounding_box": {
+      "x": 145.75762939453125,
+      "y": 56.330528259277344,
+      "width": 121.29672241210938,
+      "height": 48.82191467285156,
+      "area": 5921.938231700566,
+      "aspect_ratio": 2.4844728688930124
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1074.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 206,
+      "height": 244
+    },
+    "joint_angles": {
+      "right_elbow": 46.385991723775774,
+      "left_elbow": 29.84767128415648,
+      "left_shoulder": 154.42918313234088,
+      "neck": 51.84688758412532
+    },
+    "proportions": {},
+    "bounding_box": {
+      "x": 45.42007064819336,
+      "y": 42.41524887084961,
+      "width": 110.52544021606445,
+      "height": 130.36297988891602,
+      "area": 14408.4257401004,
+      "aspect_ratio": 0.8478284272900528
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1075.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 183,
+      "height": 275
+    },
+    "joint_angles": {},
+    "proportions": {},
+    "bounding_box": {
+      "x": 33.28969192504883,
+      "y": 130.9119873046875,
+      "width": 120.93102645874023,
+      "height": 34.81581115722656,
+      "area": 4210.311780237069,
+      "aspect_ratio": 3.473451355552838
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1076.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 275,
+      "height": 183
+    },
+    "joint_angles": {
+      "neck": 84.97698984982577
+    },
+    "proportions": {},
+    "bounding_box": {
+      "x": 86.5708236694336,
+      "y": 64.55970001220703,
+      "width": 112.9495620727539,
+      "height": 75.0882339477539,
+      "area": 8481.183141215297,
+      "aspect_ratio": 1.5042245120766027
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1077.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 275,
+      "height": 183
+    },
+    "joint_angles": {
+      "right_elbow": 153.73417940149815,
+      "left_elbow": 162.4732034966569,
+      "right_shoulder": 179.6354612479998,
+      "right_hip": 163.43308338472082,
+      "left_hip": 172.58880046622681,
+      "right_knee": 168.50601085862328,
+      "left_knee": 176.22814070968926
+    },
+    "proportions": {
+      "right_arm_ratio": 0.8522910077351608,
+      "left_arm_ratio": 0.9830402462915976,
+      "right_leg_ratio": 1.2747155399726464,
+      "left_leg_ratio": 1.2746480532145328,
+      "shoulders_ratio": 0.7095052855161668,
+      "hips_ratio": 0.4964853806737323,
+      "shoulder_hip_ratio": 1.42905574491109,
+      "width_height_ratio": 0.7095052855161668
+    },
+    "bounding_box": {
+      "x": 46.266048431396484,
+      "y": 20.99949073791504,
+      "width": 32.46541213989258,
+      "height": 76.57829093933105,
+      "area": 2486.1457763139842,
+      "aspect_ratio": 0.4239505967247717
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1078.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 225,
+      "height": 225
+    },
+    "joint_angles": {
+      "left_elbow": 50.798688883132215,
+      "left_shoulder": 138.32515482903497,
+      "neck": 56.82486741798977
+    },
+    "proportions": {},
+    "bounding_box": {
+      "x": 83.49786376953125,
+      "y": 52.453887939453125,
+      "width": 67.83943176269531,
+      "height": 99.40109252929688,
+      "area": 6743.313633778598,
+      "aspect_ratio": 0.6824817518248175
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1079.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 192,
+      "height": 262
+    },
+    "joint_angles": {
+      "left_elbow": 116.07705829115733,
+      "left_shoulder": 135.93971550544603,
+      "neck": 58.46070075848419
+    },
+    "proportions": {},
+    "bounding_box": {
+      "x": 12.06762409210205,
+      "y": 89.60600280761719,
+      "width": 142.21020793914795,
+      "height": 96.556640625,
+      "area": 13731.33994118683,
+      "aspect_ratio": 1.472816442438735
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_107.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 263,
+      "height": 192
+    },
+    "joint_angles": {
+      "neck": 119.7374303904554
+    },
+    "proportions": {},
+    "bounding_box": {
+      "x": 15.946520805358887,
+      "y": 64.54744720458984,
+      "width": 108.19788074493408,
+      "height": 46.0849609375,
+      "area": 4986.295107650571,
+      "aspect_ratio": 2.3477915255623425
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1080.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 267,
+      "height": 189
+    },
+    "joint_angles": {
+      "right_elbow": 26.162294978371428,
+      "left_elbow": 27.739830084660184,
+      "right_shoulder": 121.64963822009122,
+      "left_shoulder": 145.50978532807594,
+      "neck": 87.14699706854695
+    },
+    "proportions": {},
+    "bounding_box": {
+      "x": 61.03623962402344,
+      "y": 85.49618530273438,
+      "width": 150.19338989257812,
+      "height": 61.9815673828125,
+      "area": 9309.221716079861,
+      "aspect_ratio": 2.423194446906271
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1081.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 267,
+      "height": 189
+    },
+    "joint_angles": {
+      "right_elbow": 107.94073016475544,
+      "left_elbow": 80.3355452709838,
+      "right_shoulder": 166.15016161968276,
+      "left_shoulder": 158.7956105993439,
+      "right_hip": 123.4764054088252,
+      "left_hip": 147.75569698909112,
+      "right_knee": 119.6161918928638,
+      "left_knee": 129.02538189127787,
+      "neck": 62.32131887047769
+    },
+    "proportions": {
+      "right_arm_ratio": 0.7298970151069424,
+      "left_arm_ratio": 0.6750470697885653,
+      "right_leg_ratio": 1.4942679910702745,
+      "left_leg_ratio": 1.5509306601397312,
+      "shoulders_ratio": 0.5743732384546288,
+      "hips_ratio": 0.4504227543821701,
+      "shoulder_hip_ratio": 1.2751869945879566,
+      "width_height_ratio": 0.5743732384546288
+    },
+    "bounding_box": {
+      "x": 76.12757110595703,
+      "y": 17.643287658691406,
+      "width": 51.62561798095703,
+      "height": 123.43828582763672,
+      "area": 6372.577788361756,
+      "aspect_ratio": 0.41823019199281947
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1082.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 296,
+      "height": 170
+    },
+    "joint_angles": {
+      "right_elbow": 126.87645530096884,
+      "right_shoulder": 98.2878021845359,
+      "neck": 2.353645382955916
+    },
+    "proportions": {
+      "right_arm_ratio": 0.8700266646960715,
+      "shoulders_ratio": 0.02056942723048925,
+      "hips_ratio": 0.041387749497853794,
+      "shoulder_hip_ratio": 0.4969931315438135,
+      "width_height_ratio": 0.02056942723048925
+    },
+    "bounding_box": {
+      "x": 173.856201171875,
+      "y": 41.520179748535156,
+      "width": 76.0587158203125,
+      "height": 99.6059341430664,
+      "area": 7575.89943900425,
+      "aspect_ratio": 0.7635962302312986
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1083.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 265,
+      "height": 191
+    },
+    "joint_angles": {
+      "right_elbow": 121.14233646587368,
+      "left_elbow": 152.0528751622944,
+      "right_shoulder": 157.9016440675086,
+      "neck": 63.170870830517664
+    },
+    "proportions": {},
+    "bounding_box": {
+      "x": 131.76593017578125,
+      "y": 101.18795776367188,
+      "width": 121.54829406738281,
+      "height": 87.99708557128906,
+      "area": 10695.895634091692,
+      "aspect_ratio": 1.3812763602143723
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1084.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 240,
+      "height": 160
+    },
+    "joint_angles": {
+      "right_elbow": 120.05177672574536,
+      "left_elbow": 28.94444015350167,
+      "right_shoulder": 157.95605381575058,
+      "right_hip": 175.64722718245773,
+      "left_hip": 149.54337759280307,
+      "right_knee": 171.4736072893657,
+      "left_knee": 170.48688985228048,
+      "neck": 94.7449500674159
+    },
+    "proportions": {
+      "right_arm_ratio": 1.0246298260112,
+      "left_arm_ratio": 0.24871456824901092,
+      "right_leg_ratio": 1.3880034675325976,
+      "left_leg_ratio": 1.3163689971346502,
+      "shoulders_ratio": 0.7454817847469887,
+      "hips_ratio": 0.5248123318034588,
+      "shoulder_hip_ratio": 1.4204730711742692,
+      "width_height_ratio": 0.7454817847469887
+    },
+    "bounding_box": {
+      "x": 121.28116607666016,
+      "y": 42.569923400878906,
+      "width": 39.126197814941406,
+      "height": 100.62508392333984,
+      "area": 3937.076938729675,
+      "aspect_ratio": 0.38883145523385887
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1085.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 331,
+      "height": 152
+    },
+    "joint_angles": {},
+    "proportions": {},
+    "bounding_box": {
+      "x": 16.40371322631836,
+      "y": 98.64222717285156,
+      "width": 74.47890090942383,
+      "height": 3.2858734130859375,
+      "area": 244.7282403341378,
+      "aspect_ratio": 22.666393846096692
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1086.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 262,
+      "height": 192
+    },
+    "joint_angles": {},
+    "proportions": {},
+    "bounding_box": {
+      "x": 80.07080841064453,
+      "y": 56.908424377441406,
+      "width": 138.65735626220703,
+      "height": 93.09806060791016,
+      "area": 12908.730957031541,
+      "aspect_ratio": 1.4893689015303277
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1087.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 266,
+      "height": 190
+    },
+    "joint_angles": {
+      "right_elbow": 21.94134657548452,
+      "left_elbow": 66.2883416152386,
+      "left_shoulder": 152.74787051247156,
+      "neck": 71.11769262506067
+    },
+    "proportions": {
+      "right_arm_ratio": 0.5044068041549598,
+      "left_arm_ratio": 0.7009632236440304,
+      "shoulders_ratio": 0.6777271655799152,
+      "hips_ratio": 0.4592760513021743,
+      "shoulder_hip_ratio": 1.4756422932534186,
+      "width_height_ratio": 0.6777271655799152
+    },
+    "bounding_box": {
+      "x": 102.62311553955078,
+      "y": 89.63461303710938,
+      "width": 47.67377471923828,
+      "height": 89.02519226074219,
+      "area": 4244.166960175498,
+      "aspect_ratio": 0.5355088094570866
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1088.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 275,
+      "height": 183
+    },
+    "joint_angles": {
+      "right_elbow": 167.0733345738661,
+      "left_elbow": 61.6711837410388,
+      "right_hip": 14.010784639558493,
+      "left_hip": 24.62764761051808,
+      "right_knee": 28.899542690626596,
+      "left_knee": 42.71225715372385
+    },
+    "proportions": {
+      "right_arm_ratio": 1.191869119775404,
+      "left_arm_ratio": 0.5807039469745776,
+      "right_leg_ratio": 0.628248516111655,
+      "left_leg_ratio": 0.8490322005034325,
+      "shoulders_ratio": 0.48288724672532773,
+      "hips_ratio": 0.31048839680356183,
+      "shoulder_hip_ratio": 1.5552505397837406,
+      "width_height_ratio": 0.48288724672532773
+    },
+    "bounding_box": {
+      "x": 126.69432067871094,
+      "y": 42.41935729980469,
+      "width": 44.292449951171875,
+      "height": 84.34345245361328,
+      "area": 3735.778146510711,
+      "aspect_ratio": 0.5251439046265218
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_108.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 276,
+      "height": 182
+    },
+    "joint_angles": {
+      "right_elbow": 122.95970967600186,
+      "left_elbow": 77.51177393475793,
+      "right_shoulder": 83.99375713598303,
+      "left_shoulder": 162.66215140719282,
+      "right_hip": 171.45979211151163,
+      "left_hip": 160.26781933598585,
+      "right_knee": 163.58830540569232,
+      "left_knee": 177.14215876386248,
+      "neck": 84.58834300288626
+    },
+    "proportions": {
+      "right_arm_ratio": 0.7200693169620402,
+      "left_arm_ratio": 0.27853376430745463,
+      "right_leg_ratio": 1.3670873441886318,
+      "left_leg_ratio": 1.3613551253721101,
+      "shoulders_ratio": 0.6235116533965481,
+      "hips_ratio": 0.4053336905526137,
+      "shoulder_hip_ratio": 1.5382675260634775,
+      "width_height_ratio": 0.6235116533965481
+    },
+    "bounding_box": {
+      "x": 0.0,
+      "y": 24.86162567138672,
+      "width": 61.869625091552734,
+      "height": 151.49066925048828,
+      "area": 9372.670911396126,
+      "aspect_ratio": 0.4084055169711604
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_10.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 275,
+      "height": 183
+    },
+    "joint_angles": {
+      "left_elbow": 7.9697157798828115,
+      "left_shoulder": 149.89362643900947,
+      "neck": 95.92059901726888
+    },
+    "proportions": {},
+    "bounding_box": {
+      "x": 110.7105484008789,
+      "y": 66.23797607421875,
+      "width": 162.41866302490234,
+      "height": 116.76202392578125,
+      "area": 18964.33181810705,
+      "aspect_ratio": 1.3910230189923938
+    }
+  },
+  {
+    "metadata": {
+      "image_path": "..\\..\\data\\human_activity\\Human Action Recognition\\test\\Image_1.jpg",
+      "label": "activity",
+      "data_type": "image",
+      "width": 275,
+      "height": 183
+    },
+    "joint_angles": {
+      "right_elbow": 94.93789588607405,
+      "left_elbow": 140.5898380755403,
+      "right_shoulder": 116.02935127247567,
+      "neck": 44.899937132204904
+    },
+    "proportions": {},
+    "bounding_box": {
+      "x": 51.182159423828125,
+      "y": 69.55209350585938,
+      "width": 168.0338592529297,
+      "height": 67.10310363769531,
+      "area": 11275.593472091248,
+      "aspect_ratio": 2.5041145661485666
+    }
+  }
+]

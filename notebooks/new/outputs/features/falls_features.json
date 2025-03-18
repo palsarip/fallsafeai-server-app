@@ -1,0 +1,380 @@
+[
+  {
+    "metadata": {
+      "video_path": "..\\..\\data\\le2i\\Coffee_room_01\\Coffee_room_01\\Videos\\video (17).avi",
+      "fps": 25.0,
+      "total_frames": 158,
+      "duration": 6.32,
+      "label": "fall",
+      "data_type": "video"
+    },
+    "joint_angles": {
+      "right_elbow_mean": 156.17426838726644,
+      "right_elbow_min": 3.120385206703827,
+      "right_elbow_max": 179.99927497574132,
+      "right_elbow_range": 176.8788897690375,
+      "right_elbow_max_velocity": 2483.5342944612344,
+      "left_elbow_mean": 146.3769668761782,
+      "left_elbow_min": 42.232858939195616,
+      "left_elbow_max": 173.82248771179007,
+      "left_elbow_range": 131.58962877259447,
+      "left_elbow_max_velocity": 1456.7108406154257,
+      "right_knee_mean": 155.24643606033283,
+      "right_knee_min": 98.31786555612521,
+      "right_knee_max": 179.73718609750955,
+      "right_knee_range": 81.41932054138434,
+      "right_knee_max_velocity": 1532.4449700008265,
+      "left_knee_mean": 157.7974252395369,
+      "left_knee_min": 106.68201100027657,
+      "left_knee_max": 179.94375730170174,
+      "left_knee_range": 73.26174630142516,
+      "left_knee_max_velocity": 1128.5119745420004,
+      "right_hip_mean": 169.37951063150348,
+      "right_hip_min": 106.3299809027517,
+      "right_hip_max": 179.96527630468714,
+      "right_hip_range": 73.63529540193544,
+      "right_hip_max_velocity": 1301.144572136283,
+      "left_hip_mean": 170.0596023528285,
+      "left_hip_min": 117.0436615859918,
+      "left_hip_max": 179.94598173591956,
+      "left_hip_range": 62.90232014992776,
+      "left_hip_max_velocity": 810.5946636581778
+    },
+    "vertical_motion": {
+      "max_upper_body_velocity_y": 141.184921264648,
+      "max_upper_body_accel_y": 932.8034718831191,
+      "max_center_velocity_y": 113.6906395238988,
+      "max_center_accel_y": 1293.953390682443,
+      "upper_body_vertical_displacement": 89.2274424235026,
+      "center_vertical_displacement": 61.68636097627527
+    },
+    "impact": {
+      "has_impact": true,
+      "impact_count": 6,
+      "max_deceleration": -1864.0089035034534,
+      "impact_frame": 48,
+      "impact_body_part": "knee_center_y"
+    },
+    "collapse": {
+      "height_reduction_pct": 73.1674468702956,
+      "aspect_ratio_increase_pct": 972.1763693116424,
+      "max_height_collapse_velocity": -818.6176300048828,
+      "max_aspect_ratio_change_velocity": 24.95445023759651
+    }
+  },
+  {
+    "metadata": {
+      "video_path": "..\\..\\data\\le2i\\Coffee_room_01\\Coffee_room_01\\Videos\\video (28).avi",
+      "fps": 25.0,
+      "total_frames": 175,
+      "duration": 7.0,
+      "label": "fall",
+      "data_type": "video"
+    },
+    "joint_angles": {
+      "right_elbow_mean": 137.32178680095322,
+      "right_elbow_min": 11.851422181300657,
+      "right_elbow_max": 175.9632279335799,
+      "right_elbow_range": 164.11180575227925,
+      "right_elbow_max_velocity": 4040.8084120307344,
+      "left_elbow_mean": 161.57735204769168,
+      "left_elbow_min": 102.56831220903031,
+      "left_elbow_max": 179.92185711076294,
+      "left_elbow_range": 77.35354490173263,
+      "left_elbow_max_velocity": 1414.289636425112,
+      "right_knee_mean": 138.57057742292736,
+      "right_knee_min": 49.32919354476839,
+      "right_knee_max": 177.1553801049971,
+      "right_knee_range": 127.82618656022872,
+      "right_knee_max_velocity": 2107.058247305053,
+      "left_knee_mean": 135.23816066838913,
+      "left_knee_min": 55.707032893535015,
+      "left_knee_max": 178.87089300582394,
+      "left_knee_range": 123.16386011228893,
+      "left_knee_max_velocity": 2465.117828688609,
+      "right_hip_mean": 120.92123734429047,
+      "right_hip_min": 17.041976493354667,
+      "right_hip_max": 168.68647078516236,
+      "right_hip_range": 151.6444942918077,
+      "right_hip_max_velocity": 1565.2164459901212,
+      "left_hip_mean": 106.98331383862717,
+      "left_hip_min": 33.52196219588619,
+      "left_hip_max": 151.2773973533406,
+      "left_hip_range": 117.75543515745441,
+      "left_hip_max_velocity": 1782.573509209145
+    },
+    "vertical_motion": {
+      "max_upper_body_velocity_y": 267.63797760009777,
+      "max_upper_body_accel_y": 2230.0596237182544,
+      "max_center_velocity_y": 181.41425824632833,
+      "max_center_accel_y": 4652.588797550586,
+      "upper_body_vertical_displacement": 94.58250427246092,
+      "center_vertical_displacement": 67.62832624772017
+    },
+    "impact": {
+      "has_impact": false,
+      "impact_count": 0,
+      "max_deceleration": NaN,
+      "impact_frame": NaN,
+      "impact_body_part": null
+    },
+    "collapse": {
+      "height_reduction_pct": 62.92834820662362,
+      "aspect_ratio_increase_pct": 191.45766877002893,
+      "max_height_collapse_velocity": -446.6991424560547,
+      "max_aspect_ratio_change_velocity": 13.207266518293945
+    }
+  },
+  {
+    "metadata": {
+      "video_path": "..\\..\\data\\le2i\\Coffee_room_01\\Coffee_room_01\\Videos\\video (34).avi",
+      "fps": 25.0,
+      "total_frames": 415,
+      "duration": 16.6,
+      "label": "fall",
+      "data_type": "video"
+    },
+    "joint_angles": {
+      "right_elbow_mean": 123.29215466391834,
+      "right_elbow_min": 68.93500396669835,
+      "right_elbow_max": 169.48877038424212,
+      "right_elbow_range": 100.55376641754377,
+      "right_elbow_max_velocity": 575.6894100904124,
+      "left_elbow_mean": 129.1499243506988,
+      "left_elbow_min": 22.888478481980357,
+      "left_elbow_max": 179.72477784607935,
+      "left_elbow_range": 156.83629936409898,
+      "left_elbow_max_velocity": 2232.2683670905576,
+      "right_knee_mean": 117.6794387597554,
+      "right_knee_min": 81.6303360326781,
+      "right_knee_max": 179.97192221225197,
+      "right_knee_range": 98.34158617957387,
+      "right_knee_max_velocity": 1158.770664491395,
+      "left_knee_mean": 107.47310814874753,
+      "left_knee_min": 74.48338565213322,
+      "left_knee_max": 179.15989771408593,
+      "left_knee_range": 104.6765120619527,
+      "left_knee_max_velocity": 830.0822839650142,
+      "right_hip_mean": 114.62657325794741,
+      "right_hip_min": 63.99603095298899,
+      "right_hip_max": 179.9159230891876,
+      "right_hip_range": 115.91989213619861,
+      "right_hip_max_velocity": 682.3967626851029,
+      "left_hip_mean": 101.5972283167067,
+      "left_hip_min": 54.306448124066094,
+      "left_hip_max": 179.81651489766648,
+      "left_hip_range": 125.51006677360039,
+      "left_hip_max_velocity": 642.0270869681439
+    },
+    "vertical_motion": {
+      "max_upper_body_velocity_y": 141.09556833902985,
+      "max_upper_body_accel_y": 673.3684539794992,
+      "max_center_velocity_y": 93.94240061442076,
+      "max_center_accel_y": 621.910572052009,
+      "upper_body_vertical_displacement": 60.35987345377603,
+      "center_vertical_displacement": 51.03973340988159
+    },
+    "impact": {
+      "has_impact": true,
+      "impact_count": 6,
+      "max_deceleration": -999.7138977050746,
+      "impact_frame": 414,
+      "impact_body_part": "knee_center_y"
+    },
+    "collapse": {
+      "height_reduction_pct": 69.4181252081746,
+      "aspect_ratio_increase_pct": 732.9852924656449,
+      "max_height_collapse_velocity": -302.8678894042969,
+      "max_aspect_ratio_change_velocity": 17.63586012344156
+    }
+  },
+  {
+    "metadata": {
+      "video_path": "..\\..\\data\\le2i\\Coffee_room_01\\Coffee_room_01\\Videos\\video (42).avi",
+      "fps": 25.0,
+      "total_frames": 159,
+      "duration": 6.36,
+      "label": "fall",
+      "data_type": "video"
+    },
+    "joint_angles": {
+      "right_elbow_mean": 118.93881066080824,
+      "right_elbow_min": 62.992014044013544,
+      "right_elbow_max": 161.4430059130444,
+      "right_elbow_range": 98.45099186903086,
+      "right_elbow_max_velocity": 709.4615998501486,
+      "left_elbow_mean": 147.32663168569601,
+      "left_elbow_min": 47.84295592406741,
+      "left_elbow_max": 179.47743458331456,
+      "left_elbow_range": 131.63447865924715,
+      "left_elbow_max_velocity": 3023.59991700676,
+      "right_knee_mean": 150.13585355869859,
+      "right_knee_min": 117.9669169757314,
+      "right_knee_max": 176.86810445879402,
+      "right_knee_range": 58.90118748306263,
+      "right_knee_max_velocity": 637.5991222096452,
+      "left_knee_mean": 138.40387430094853,
+      "left_knee_min": 95.08306259498701,
+      "left_knee_max": 171.45014893661502,
+      "left_knee_range": 76.36708634162801,
+      "left_knee_max_velocity": 592.2687948680668,
+      "right_hip_mean": 142.4944814479565,
+      "right_hip_min": 83.95383999988334,
+      "right_hip_max": 179.28190370166084,
+      "right_hip_range": 95.3280637017775,
+      "right_hip_max_velocity": 584.4399409768556,
+      "left_hip_mean": 137.05923141444075,
+      "left_hip_min": 60.156877577955576,
+      "left_hip_max": 179.91421290303296,
+      "left_hip_range": 119.75733532507738,
+      "left_hip_max_velocity": 449.3102280483768
+    },
+    "vertical_motion": {
+      "max_upper_body_velocity_y": 248.3410008748372,
+      "max_upper_body_accel_y": 1524.9754587809505,
+      "max_center_velocity_y": 170.12348349889095,
+      "max_center_accel_y": 887.9848840190264,
+      "upper_body_vertical_displacement": 84.5489018758138,
+      "center_vertical_displacement": 57.81324005126953
+    },
+    "impact": {
+      "has_impact": true,
+      "impact_count": 6,
+      "max_deceleration": -1589.7369384765448,
+      "impact_frame": 125,
+      "impact_body_part": "head_y"
+    },
+    "collapse": {
+      "height_reduction_pct": 61.166224363887814,
+      "aspect_ratio_increase_pct": 460.5597513798971,
+      "max_height_collapse_velocity": -258.306884765625,
+      "max_aspect_ratio_change_velocity": 9.646087691122517
+    }
+  },
+  {
+    "metadata": {
+      "video_path": "..\\..\\data\\le2i\\Coffee_room_01\\Coffee_room_01\\Videos\\video (45).avi",
+      "fps": 25.0,
+      "total_frames": 215,
+      "duration": 8.6,
+      "label": "fall",
+      "data_type": "video"
+    },
+    "joint_angles": {
+      "right_elbow_mean": 168.1914582668395,
+      "right_elbow_min": 97.35517300148243,
+      "right_elbow_max": 179.81167255553981,
+      "right_elbow_range": 82.45649955405739,
+      "right_elbow_max_velocity": 1104.6944398989922,
+      "left_elbow_mean": 115.96279513386247,
+      "left_elbow_min": 89.0804459695934,
+      "left_elbow_max": 157.51721097734054,
+      "left_elbow_range": 68.43676500774714,
+      "left_elbow_max_velocity": 657.4814251937469,
+      "right_knee_mean": 159.78306904077388,
+      "right_knee_min": 115.46132633415233,
+      "right_knee_max": 179.89408602585533,
+      "right_knee_range": 64.432759691703,
+      "right_knee_max_velocity": 381.57977687248524,
+      "left_knee_mean": 165.5475150125439,
+      "left_knee_min": 122.83826795881541,
+      "left_knee_max": 179.98054979954935,
+      "left_knee_range": 57.14228184073394,
+      "left_knee_max_velocity": 419.7860106057124,
+      "right_hip_mean": 153.54398333177647,
+      "right_hip_min": 85.46932255812744,
+      "right_hip_max": 179.9605523661029,
+      "right_hip_range": 94.49122980797544,
+      "right_hip_max_velocity": 358.8495524616764,
+      "left_hip_mean": 152.33698915948924,
+      "left_hip_min": 93.3699860832569,
+      "left_hip_max": 178.2209802644867,
+      "left_hip_range": 84.85099418122981,
+      "left_hip_max_velocity": 457.5458071310013
+    },
+    "vertical_motion": {
+      "max_upper_body_velocity_y": 157.13493347167997,
+      "max_upper_body_accel_y": 810.2130889892401,
+      "max_center_velocity_y": 109.52528778711965,
+      "max_center_accel_y": 923.5185464222973,
+      "upper_body_vertical_displacement": 130.70692443847656,
+      "center_vertical_displacement": 99.96360373497009
+    },
+    "impact": {
+      "has_impact": true,
+      "impact_count": 6,
+      "max_deceleration": -1394.336700439478,
+      "impact_frame": 117,
+      "impact_body_part": "hip_center_y"
+    },
+    "collapse": {
+      "height_reduction_pct": 74.56264252678343,
+      "aspect_ratio_increase_pct": 1426.78666010446,
+      "max_height_collapse_velocity": -232.14435577392578,
+      "max_aspect_ratio_change_velocity": 23.638888408441538
+    }
+  },
+  {
+    "metadata": {
+      "video_path": "..\\..\\data\\le2i\\Coffee_room_02\\Coffee_room_02\\Videos\\video (52).avi",
+      "fps": 25.0,
+      "total_frames": 215,
+      "duration": 8.6,
+      "label": "fall",
+      "data_type": "video"
+    },
+    "joint_angles": {
+      "right_elbow_mean": 90.28577060143832,
+      "right_elbow_min": 63.460983674852194,
+      "right_elbow_max": 137.0361063475934,
+      "right_elbow_range": 73.5751226727412,
+      "right_elbow_max_velocity": 482.1975416788572,
+      "left_elbow_mean": 101.18915651999602,
+      "left_elbow_min": 30.051206500144737,
+      "left_elbow_max": 179.66397797545608,
+      "left_elbow_range": 149.61277147531135,
+      "left_elbow_max_velocity": 1217.0745649555545,
+      "right_knee_mean": 137.85905035940058,
+      "right_knee_min": 101.49983066396625,
+      "right_knee_max": 175.75165730646842,
+      "right_knee_range": 74.25182664250217,
+      "right_knee_max_velocity": 334.3676984971953,
+      "left_knee_mean": 121.9445029223775,
+      "left_knee_min": 82.90599696546298,
+      "left_knee_max": 177.06010475665605,
+      "left_knee_range": 94.15410779119307,
+      "left_knee_max_velocity": 592.2960738175217,
+      "right_hip_mean": 139.31738025846377,
+      "right_hip_min": 101.09491388355482,
+      "right_hip_max": 178.53018167432094,
+      "right_hip_range": 77.43526779076612,
+      "right_hip_max_velocity": 392.7683643797124,
+      "left_hip_mean": 122.87580705929575,
+      "left_hip_min": 77.30434645376796,
+      "left_hip_max": 174.7699875989741,
+      "left_hip_range": 97.46564114520613,
+      "left_hip_max_velocity": 529.4659200390292
+    },
+    "vertical_motion": {
+      "max_upper_body_velocity_y": 144.18411254882812,
+      "max_upper_body_accel_y": 522.5359598795617,
+      "max_center_velocity_y": 119.29610649744617,
+      "max_center_accel_y": 624.4618415832548,
+      "upper_body_vertical_displacement": 51.758577982584626,
+      "center_vertical_displacement": 40.82013559341431
+    },
+    "impact": {
+      "has_impact": true,
+      "impact_count": 6,
+      "max_deceleration": -1209.7730636596539,
+      "impact_frame": 214,
+      "impact_body_part": "knee_center_x"
+    },
+    "collapse": {
+      "height_reduction_pct": 63.02463818580147,
+      "aspect_ratio_increase_pct": 754.5629080748856,
+      "max_height_collapse_velocity": -250.18577575683594,
+      "max_aspect_ratio_change_velocity": 11.792677084386193
+    }
+  }
+]

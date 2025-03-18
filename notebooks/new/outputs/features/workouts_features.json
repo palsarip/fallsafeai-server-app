@@ -1,0 +1,1895 @@
+[
+  {
+    "metadata": {
+      "video_path": "..\\..\\data\\workout_videos\\barbell biceps curl\\barbell biceps curl_10.mp4",
+      "fps": 29.97002997002997,
+      "total_frames": 94,
+      "duration": 3.1364666666666667,
+      "label": "workout",
+      "data_type": "video"
+    },
+    "joint_angles": {
+      "right_elbow_mean": 95.21931301524866,
+      "right_elbow_min": 26.276031524330133,
+      "right_elbow_max": 164.43019515894372,
+      "right_elbow_range": 138.15416363461358,
+      "right_elbow_max_velocity": 294.24112313628586,
+      "left_elbow_mean": 114.36281869722296,
+      "left_elbow_min": 46.15768753910208,
+      "left_elbow_max": 173.91059032077828,
+      "left_elbow_range": 127.7529027816762,
+      "left_elbow_max_velocity": 316.23956453505383
+    },
+    "vertical_motion": {
+      "max_upper_body_velocity_y": 126.23070289085754,
+      "max_upper_body_accel_y": 4720.912950256835,
+      "max_center_velocity_y": 90.73673213993357,
+      "max_center_accel_y": 2024.8922823398514,
+      "upper_body_vertical_displacement": 63.1563771565755,
+      "center_vertical_displacement": -41.90044021606445
+    },
+    "impact": {
+      "has_impact": false,
+      "impact_count": 0,
+      "max_deceleration": NaN,
+      "impact_frame": NaN,
+      "impact_body_part": null
+    },
+    "collapse": {
+      "height_reduction_pct": 19.724250761489156,
+      "aspect_ratio_increase_pct": 71.64720997999532,
+      "max_height_collapse_velocity": -934.8938110229614,
+      "max_aspect_ratio_change_velocity": 1.2234543386777932
+    }
+  },
+  {
+    "metadata": {
+      "video_path": "..\\..\\data\\workout_videos\\barbell biceps curl\\barbell biceps curl_12.mp4",
+      "fps": 29.97002997002997,
+      "total_frames": 123,
+      "duration": 4.1041,
+      "label": "workout",
+      "data_type": "video"
+    },
+    "joint_angles": {
+      "right_elbow_mean": 105.13624560660966,
+      "right_elbow_min": 27.013203722811248,
+      "right_elbow_max": 179.57929994550744,
+      "right_elbow_range": 152.5660962226962,
+      "right_elbow_max_velocity": 4334.715264063459,
+      "left_elbow_mean": 93.91200662106846,
+      "left_elbow_min": 5.783750808100494,
+      "left_elbow_max": 179.32291081224108,
+      "left_elbow_range": 173.53916000414057,
+      "left_elbow_max_velocity": 2577.4101265373993,
+      "right_knee_mean": 177.43411533662285,
+      "right_knee_min": 175.74007348778264,
+      "right_knee_max": 179.7842095477987,
+      "right_knee_range": 4.044136060016058,
+      "right_knee_max_velocity": 66.00597093220547,
+      "left_knee_mean": 177.05261718072958,
+      "left_knee_min": 174.29108845858505,
+      "left_knee_max": 179.94828345098495,
+      "left_knee_range": 5.657194992399894,
+      "left_knee_max_velocity": 61.99898381524562,
+      "right_hip_mean": 170.0675152158376,
+      "right_hip_min": 167.66792193796542,
+      "right_hip_max": 172.06700522904708,
+      "right_hip_range": 4.399083291081666,
+      "right_hip_max_velocity": 56.512183827156626,
+      "left_hip_mean": 169.92738054232402,
+      "left_hip_min": 165.92867744190403,
+      "left_hip_max": 174.34162929794596,
+      "left_hip_range": 8.412951856041929,
+      "left_hip_max_velocity": 78.80493257683217
+    },
+    "vertical_motion": {
+      "max_upper_body_velocity_y": 47.830282510458574,
+      "max_upper_body_accel_y": 1363.8145861147384,
+      "max_center_velocity_y": 92.20738726748782,
+      "max_center_accel_y": 1039.9931995383574,
+      "upper_body_vertical_displacement": 10.582616170247405,
+      "center_vertical_displacement": -17.86025462431064
+    },
+    "impact": {
+      "has_impact": true,
+      "impact_count": 6,
+      "max_deceleration": -5099.56993049084,
+      "impact_frame": 122,
+      "impact_body_part": "hip_center_x"
+    },
+    "collapse": {
+      "height_reduction_pct": 2.7781027533390534,
+      "aspect_ratio_increase_pct": 14.20863349931146,
+      "max_height_collapse_velocity": -154.7341818337912,
+      "max_aspect_ratio_change_velocity": 0.9686039068172178
+    }
+  },
+  {
+    "metadata": {
+      "video_path": "..\\..\\data\\workout_videos\\barbell biceps curl\\barbell biceps curl_15.mp4",
+      "fps": 29.97002997002997,
+      "total_frames": 65,
+      "duration": 2.168833333333333,
+      "label": "workout",
+      "data_type": "video"
+    },
+    "joint_angles": {
+      "right_elbow_mean": 95.67406352331595,
+      "right_elbow_min": 9.85856907308092,
+      "right_elbow_max": 166.55255112483886,
+      "right_elbow_range": 156.69398205175793,
+      "right_elbow_max_velocity": 1185.7713953709967,
+      "left_elbow_mean": 106.71513470549834,
+      "left_elbow_min": 35.61715663443092,
+      "left_elbow_max": 174.07021744972837,
+      "left_elbow_range": 138.45306081529745,
+      "left_elbow_max_velocity": 856.6671001589687
+    },
+    "vertical_motion": {
+      "max_upper_body_velocity_y": 48.93531761207588,
+      "max_upper_body_accel_y": 1370.5558575728219,
+      "max_center_velocity_y": 536.695378596014,
+      "max_center_accel_y": 12631.112107563227,
+      "upper_body_vertical_displacement": 8.287455240885379,
+      "center_vertical_displacement": 13.950408935546875
+    },
+    "impact": {
+      "has_impact": false,
+      "impact_count": 0,
+      "max_deceleration": NaN,
+      "impact_frame": NaN,
+      "impact_body_part": null
+    },
+    "collapse": {
+      "height_reduction_pct": 26.71996574930265,
+      "aspect_ratio_increase_pct": 61.16970666480277,
+      "max_height_collapse_velocity": -5945.496763978209,
+      "max_aspect_ratio_change_velocity": 6.03015202989085
+    }
+  },
+  {
+    "metadata": {
+      "video_path": "..\\..\\data\\workout_videos\\barbell biceps curl\\barbell biceps curl_17.mp4",
+      "fps": 29.97002997002997,
+      "total_frames": 61,
+      "duration": 2.0353666666666665,
+      "label": "workout",
+      "data_type": "video"
+    },
+    "joint_angles": {
+      "right_elbow_mean": 105.64952269987128,
+      "right_elbow_min": 13.19636477604455,
+      "right_elbow_max": 164.52935233801443,
+      "right_elbow_range": 151.33298756196987,
+      "right_elbow_max_velocity": 762.5669942728448,
+      "left_elbow_mean": 117.73484809675307,
+      "left_elbow_min": 39.451113758307336,
+      "left_elbow_max": 173.66915514949866,
+      "left_elbow_range": 134.21804139119132,
+      "left_elbow_max_velocity": 493.6563710804538
+    },
+    "vertical_motion": {
+      "max_upper_body_velocity_y": 70.4435944914456,
+      "max_upper_body_accel_y": 1372.019603421973,
+      "max_center_velocity_y": 189.19891601318193,
+      "max_center_accel_y": 4423.7592942247065,
+      "upper_body_vertical_displacement": -70.54019165039062,
+      "center_vertical_displacement": -51.898311614990234
+    },
+    "impact": {
+      "has_impact": false,
+      "impact_count": 0,
+      "max_deceleration": NaN,
+      "impact_frame": NaN,
+      "impact_body_part": null
+    },
+    "collapse": {
+      "height_reduction_pct": 1.0816393712351149,
+      "aspect_ratio_increase_pct": 9.11330007681254,
+      "max_height_collapse_velocity": -1241.402945199332,
+      "max_aspect_ratio_change_velocity": 2.2779870279939622
+    }
+  },
+  {
+    "metadata": {
+      "video_path": "..\\..\\data\\workout_videos\\barbell biceps curl\\barbell biceps curl_2.mp4",
+      "fps": 29.97002997002997,
+      "total_frames": 77,
+      "duration": 2.5692333333333335,
+      "label": "workout",
+      "data_type": "video"
+    },
+    "joint_angles": {
+      "right_elbow_mean": 82.15522763496313,
+      "right_elbow_min": 19.10188760111485,
+      "right_elbow_max": 171.14140926710542,
+      "right_elbow_range": 152.03952166599058,
+      "right_elbow_max_velocity": 3422.3009638389854,
+      "left_elbow_mean": 88.92959884387902,
+      "left_elbow_min": 12.08247381531188,
+      "left_elbow_max": 179.51695193477127,
+      "left_elbow_range": 167.43447811945938,
+      "left_elbow_max_velocity": 3648.3807641941676,
+      "right_hip_mean": 171.57798920946507,
+      "right_hip_min": 168.43242106284484,
+      "right_hip_max": 175.18656100890175,
+      "right_hip_range": 6.75413994605691,
+      "right_hip_max_velocity": 153.7474800956413,
+      "left_hip_mean": 173.99243869843002,
+      "left_hip_min": 166.1515635724626,
+      "left_hip_max": 179.61208221064433,
+      "left_hip_range": 13.460518638181725,
+      "left_hip_max_velocity": 203.01215017277448
+    },
+    "vertical_motion": {
+      "max_upper_body_velocity_y": 68.55827278190627,
+      "max_upper_body_accel_y": 2376.5101671204116,
+      "max_center_velocity_y": 120.24062363417846,
+      "max_center_accel_y": 3546.787935063675,
+      "upper_body_vertical_displacement": -22.982259114583314,
+      "center_vertical_displacement": -18.21265258789066
+    },
+    "impact": {
+      "has_impact": true,
+      "impact_count": 6,
+      "max_deceleration": -12634.363414198751,
+      "impact_frame": 76,
+      "impact_body_part": "hip_center_y"
+    },
+    "collapse": {
+      "height_reduction_pct": 0.0,
+      "aspect_ratio_increase_pct": 3.213964196941879,
+      "max_height_collapse_velocity": -601.5380493529907,
+      "max_aspect_ratio_change_velocity": 0.8654416187091031
+    }
+  },
+  {
+    "metadata": {
+      "video_path": "..\\..\\data\\workout_videos\\barbell biceps curl\\barbell biceps curl_23.mp4",
+      "fps": 29.97002997002997,
+      "total_frames": 70,
+      "duration": 2.3356666666666666,
+      "label": "workout",
+      "data_type": "video"
+    },
+    "joint_angles": {
+      "right_elbow_mean": 95.86468978291373,
+      "right_elbow_min": 18.232555474581783,
+      "right_elbow_max": 179.896553322933,
+      "right_elbow_range": 161.66399784835122,
+      "right_elbow_max_velocity": 2910.215872132281,
+      "left_elbow_mean": 88.56956747690586,
+      "left_elbow_min": 11.344538920546368,
+      "left_elbow_max": 179.99055464985574,
+      "left_elbow_range": 168.64601572930937,
+      "left_elbow_max_velocity": 1909.981334327567
+    },
+    "vertical_motion": {
+      "max_upper_body_velocity_y": 65.51535622580272,
+      "max_upper_body_accel_y": 2239.231456059543,
+      "max_center_velocity_y": 184.4401420019269,
+      "max_center_accel_y": 3743.6529371013885,
+      "upper_body_vertical_displacement": -1.752288818359375,
+      "center_vertical_displacement": 8.726278451772828
+    },
+    "impact": {
+      "has_impact": false,
+      "impact_count": 0,
+      "max_deceleration": NaN,
+      "impact_frame": NaN,
+      "impact_body_part": null
+    },
+    "collapse": {
+      "height_reduction_pct": 5.823164043790424,
+      "aspect_ratio_increase_pct": 6.606336126160464,
+      "max_height_collapse_velocity": -872.4664617608953,
+      "max_aspect_ratio_change_velocity": 1.3726187899333684
+    }
+  },
+  {
+    "metadata": {
+      "video_path": "..\\..\\data\\workout_videos\\barbell biceps curl\\barbell biceps curl_24.mp4",
+      "fps": 29.97002997002997,
+      "total_frames": 84,
+      "duration": 2.8028,
+      "label": "workout",
+      "data_type": "video"
+    },
+    "joint_angles": {
+      "right_elbow_mean": 107.77336318260346,
+      "right_elbow_min": 17.47439652275089,
+      "right_elbow_max": 179.63428305281522,
+      "right_elbow_range": 162.15988653006434,
+      "right_elbow_max_velocity": 2515.4846737628595,
+      "left_elbow_mean": 107.14378238977109,
+      "left_elbow_min": 11.69666812261312,
+      "left_elbow_max": 179.8919973921203,
+      "left_elbow_range": 168.19532926950717,
+      "left_elbow_max_velocity": 1948.0810913754551
+    },
+    "vertical_motion": {
+      "max_upper_body_velocity_y": 62.530913910307646,
+      "max_upper_body_accel_y": 2142.2971257560257,
+      "max_center_velocity_y": 189.645118628367,
+      "max_center_accel_y": 2585.2766904439427,
+      "upper_body_vertical_displacement": -7.233530680338504,
+      "center_vertical_displacement": 1.6470430814302972
+    },
+    "impact": {
+      "has_impact": false,
+      "impact_count": 0,
+      "max_deceleration": NaN,
+      "impact_frame": NaN,
+      "impact_body_part": null
+    },
+    "collapse": {
+      "height_reduction_pct": 12.959453010269147,
+      "aspect_ratio_increase_pct": 17.384582667842366,
+      "max_height_collapse_velocity": -732.7675986123252,
+      "max_aspect_ratio_change_velocity": 2.45002551351287
+    }
+  },
+  {
+    "metadata": {
+      "video_path": "..\\..\\data\\workout_videos\\barbell biceps curl\\barbell biceps curl_25.mp4",
+      "fps": 29.97002997002997,
+      "total_frames": 78,
+      "duration": 2.6026000000000002,
+      "label": "workout",
+      "data_type": "video"
+    },
+    "joint_angles": {
+      "right_elbow_mean": 113.05760250654058,
+      "right_elbow_min": 17.28531902795438,
+      "right_elbow_max": 179.9497072519034,
+      "right_elbow_range": 162.664388223949,
+      "right_elbow_max_velocity": 2381.9473111229836,
+      "left_elbow_mean": 106.41247523242572,
+      "left_elbow_min": 14.052926052006486,
+      "left_elbow_max": 179.97781733695894,
+      "left_elbow_range": 165.92489128495245,
+      "left_elbow_max_velocity": 2208.162079339055
+    },
+    "vertical_motion": {
+      "max_upper_body_velocity_y": 69.96830074222324,
+      "max_upper_body_accel_y": 2843.1316942609924,
+      "max_center_velocity_y": 158.9263303928631,
+      "max_center_accel_y": 3426.0538243953783,
+      "upper_body_vertical_displacement": -32.394632975260436,
+      "center_vertical_displacement": -27.014634352463872
+    },
+    "impact": {
+      "has_impact": false,
+      "impact_count": 0,
+      "max_deceleration": NaN,
+      "impact_frame": NaN,
+      "impact_body_part": null
+    },
+    "collapse": {
+      "height_reduction_pct": 11.402052096040629,
+      "aspect_ratio_increase_pct": 11.658519841413122,
+      "max_height_collapse_velocity": -1648.7513341151036,
+      "max_aspect_ratio_change_velocity": 1.8282328016118197
+    }
+  },
+  {
+    "metadata": {
+      "video_path": "..\\..\\data\\workout_videos\\barbell biceps curl\\barbell biceps curl_26.mp4",
+      "fps": 29.97002997002997,
+      "total_frames": 80,
+      "duration": 2.6693333333333333,
+      "label": "workout",
+      "data_type": "video"
+    },
+    "joint_angles": {
+      "right_elbow_mean": 113.0374959804761,
+      "right_elbow_min": 17.304206087263502,
+      "right_elbow_max": 179.87043501301991,
+      "right_elbow_range": 162.5662289257564,
+      "right_elbow_max_velocity": 2554.2234161576343,
+      "left_elbow_mean": 107.33270971554184,
+      "left_elbow_min": 14.743449251192393,
+      "left_elbow_max": 179.90430520299682,
+      "left_elbow_range": 165.16085595180442,
+      "left_elbow_max_velocity": 2598.562150411935
+    },
+    "vertical_motion": {
+      "max_upper_body_velocity_y": 145.34446266623945,
+      "max_upper_body_accel_y": 5458.3777129542295,
+      "max_center_velocity_y": 207.82659957605458,
+      "max_center_accel_y": 3454.045907939311,
+      "upper_body_vertical_displacement": -46.90949503580731,
+      "center_vertical_displacement": -42.271155724158575
+    },
+    "impact": {
+      "has_impact": false,
+      "impact_count": 0,
+      "max_deceleration": NaN,
+      "impact_frame": NaN,
+      "impact_body_part": null
+    },
+    "collapse": {
+      "height_reduction_pct": 7.962010140995904,
+      "aspect_ratio_increase_pct": 10.820215208159981,
+      "max_height_collapse_velocity": -753.7108582335633,
+      "max_aspect_ratio_change_velocity": 2.0848653807606063
+    }
+  },
+  {
+    "metadata": {
+      "video_path": "..\\..\\data\\workout_videos\\barbell biceps curl\\barbell biceps curl_3.mp4",
+      "fps": 29.97002997002997,
+      "total_frames": 73,
+      "duration": 2.435766666666667,
+      "label": "workout",
+      "data_type": "video"
+    },
+    "joint_angles": {
+      "right_elbow_mean": 104.6734119401105,
+      "right_elbow_min": 24.36388401769556,
+      "right_elbow_max": 178.58592315517518,
+      "right_elbow_range": 154.2220391374796,
+      "right_elbow_max_velocity": 1714.8500871266606,
+      "left_elbow_mean": 111.93523983029868,
+      "left_elbow_min": 35.43908509013979,
+      "left_elbow_max": 179.7270193289351,
+      "left_elbow_range": 144.28793423879532,
+      "left_elbow_max_velocity": 727.9705726881923,
+      "right_hip_mean": 173.4748397639839,
+      "right_hip_min": 169.0608732078244,
+      "right_hip_max": 176.95818837625765,
+      "right_hip_range": 7.897315168433266,
+      "right_hip_max_velocity": 119.33869297766788,
+      "left_hip_mean": 174.08052718604537,
+      "left_hip_min": 169.9736546191094,
+      "left_hip_max": 177.0886413128315,
+      "left_hip_range": 7.114986693722102,
+      "left_hip_max_velocity": 111.93719467227767
+    },
+    "vertical_motion": {
+      "max_upper_body_velocity_y": 124.32388778213928,
+      "max_upper_body_accel_y": 2781.4734561844875,
+      "max_center_velocity_y": 124.33245465472028,
+      "max_center_accel_y": 3726.247392249359,
+      "upper_body_vertical_displacement": -3.806340535481752,
+      "center_vertical_displacement": 4.972627766927133
+    },
+    "impact": {
+      "has_impact": true,
+      "impact_count": 6,
+      "max_deceleration": -4635.112956357141,
+      "impact_frame": 1,
+      "impact_body_part": "head_y"
+    },
+    "collapse": {
+      "height_reduction_pct": 1.6638432082517898,
+      "aspect_ratio_increase_pct": 9.569298526284578,
+      "max_height_collapse_velocity": -391.81323437304883,
+      "max_aspect_ratio_change_velocity": 0.936494827288046
+    }
+  },
+  {
+    "metadata": {
+      "video_path": "..\\..\\data\\workout_videos\\barbell biceps curl\\barbell biceps curl_30.mp4",
+      "fps": 29.97002997002997,
+      "total_frames": 49,
+      "duration": 1.6349666666666667,
+      "label": "workout",
+      "data_type": "video"
+    },
+    "joint_angles": {
+      "right_elbow_mean": 79.88474139185625,
+      "right_elbow_min": 11.698179682424433,
+      "right_elbow_max": 155.90121570994648,
+      "right_elbow_range": 144.20303602752205,
+      "right_elbow_max_velocity": 1250.8167271776958,
+      "left_elbow_mean": 92.06596687471689,
+      "left_elbow_min": 33.86212890641663,
+      "left_elbow_max": 167.27475349077585,
+      "left_elbow_range": 133.4126245843592,
+      "left_elbow_max_velocity": 691.0970506176902
+    },
+    "vertical_motion": {
+      "max_upper_body_velocity_y": 80.79512040693659,
+      "max_upper_body_accel_y": 3011.5775930019663,
+      "max_center_velocity_y": 508.1733970375315,
+      "max_center_accel_y": 13724.29324341895,
+      "upper_body_vertical_displacement": -58.03232828776038,
+      "center_vertical_displacement": -38.16523488362634
+    },
+    "impact": {
+      "has_impact": false,
+      "impact_count": 0,
+      "max_deceleration": NaN,
+      "impact_frame": NaN,
+      "impact_body_part": null
+    },
+    "collapse": {
+      "height_reduction_pct": 23.372431885338152,
+      "aspect_ratio_increase_pct": 11.967784496261121,
+      "max_height_collapse_velocity": -5507.333242928946,
+      "max_aspect_ratio_change_velocity": 5.726464321426478
+    }
+  },
+  {
+    "metadata": {
+      "video_path": "..\\..\\data\\workout_videos\\barbell biceps curl\\barbell biceps curl_32.mp4",
+      "fps": 29.97002997002997,
+      "total_frames": 65,
+      "duration": 2.168833333333333,
+      "label": "workout",
+      "data_type": "video"
+    },
+    "joint_angles": {
+      "right_elbow_mean": 98.70706716608848,
+      "right_elbow_min": 17.138389636964657,
+      "right_elbow_max": 164.74840514017225,
+      "right_elbow_range": 147.6100155032076,
+      "right_elbow_max_velocity": 1014.5998861535177,
+      "left_elbow_mean": 114.3958350620088,
+      "left_elbow_min": 42.41540200297112,
+      "left_elbow_max": 175.8022430229777,
+      "left_elbow_range": 133.38684102000659,
+      "left_elbow_max_velocity": 547.0449358247531
+    },
+    "vertical_motion": {
+      "max_upper_body_velocity_y": 64.5396473643544,
+      "max_upper_body_accel_y": 1965.6553466981284,
+      "max_center_velocity_y": 151.85410445267738,
+      "max_center_accel_y": 2302.678031566521,
+      "upper_body_vertical_displacement": -0.87762451171875,
+      "center_vertical_displacement": -2.995110829671262
+    },
+    "impact": {
+      "has_impact": false,
+      "impact_count": 0,
+      "max_deceleration": NaN,
+      "impact_frame": NaN,
+      "impact_body_part": null
+    },
+    "collapse": {
+      "height_reduction_pct": 8.860675708836695,
+      "aspect_ratio_increase_pct": 31.33998633161823,
+      "max_height_collapse_velocity": -617.6562695117383,
+      "max_aspect_ratio_change_velocity": 2.297970237620805
+    }
+  },
+  {
+    "metadata": {
+      "video_path": "..\\..\\data\\workout_videos\\barbell biceps curl\\barbell biceps curl_33.mp4",
+      "fps": 29.97002997002997,
+      "total_frames": 62,
+      "duration": 2.0687333333333333,
+      "label": "workout",
+      "data_type": "video"
+    },
+    "joint_angles": {
+      "right_elbow_mean": 99.66747047208302,
+      "right_elbow_min": 16.522488618910533,
+      "right_elbow_max": 163.78500722801434,
+      "right_elbow_range": 147.2625186091038,
+      "right_elbow_max_velocity": 749.9923855392113,
+      "left_elbow_mean": 115.64390391192742,
+      "left_elbow_min": 42.825026251737285,
+      "left_elbow_max": 171.40677681062212,
+      "left_elbow_range": 128.58175055888483,
+      "left_elbow_max_velocity": 602.5945498933548
+    },
+    "vertical_motion": {
+      "max_upper_body_velocity_y": 88.2006177416336,
+      "max_upper_body_accel_y": 2454.2778328298596,
+      "max_center_velocity_y": 152.19597906975721,
+      "max_center_accel_y": 2068.5200405687983,
+      "upper_body_vertical_displacement": 1.5058797200520644,
+      "center_vertical_displacement": 4.679553985595703
+    },
+    "impact": {
+      "has_impact": false,
+      "impact_count": 0,
+      "max_deceleration": NaN,
+      "impact_frame": NaN,
+      "impact_body_part": null
+    },
+    "collapse": {
+      "height_reduction_pct": 10.658623330464021,
+      "aspect_ratio_increase_pct": 36.057075787633345,
+      "max_height_collapse_velocity": -1477.8664633706137,
+      "max_aspect_ratio_change_velocity": 2.1147530729182606
+    }
+  },
+  {
+    "metadata": {
+      "video_path": "..\\..\\data\\workout_videos\\barbell biceps curl\\barbell biceps curl_34.mp4",
+      "fps": 29.97002997002997,
+      "total_frames": 63,
+      "duration": 2.1021,
+      "label": "workout",
+      "data_type": "video"
+    },
+    "joint_angles": {
+      "right_elbow_mean": 105.26670095300454,
+      "right_elbow_min": 20.886101643655365,
+      "right_elbow_max": 165.9198725153324,
+      "right_elbow_range": 145.03377087167704,
+      "right_elbow_max_velocity": 678.9601576176074,
+      "left_elbow_mean": 121.44831416970862,
+      "left_elbow_min": 49.25567038897166,
+      "left_elbow_max": 172.39318753179253,
+      "left_elbow_range": 123.13751714282088,
+      "left_elbow_max_velocity": 390.6731626629324
+    },
+    "vertical_motion": {
+      "max_upper_body_velocity_y": 85.8425022243393,
+      "max_upper_body_accel_y": 2572.702364365813,
+      "max_center_velocity_y": 229.0320991874348,
+      "max_center_accel_y": 1991.060519857698,
+      "upper_body_vertical_displacement": -33.131876627604186,
+      "center_vertical_displacement": -34.12784830729174
+    },
+    "impact": {
+      "has_impact": false,
+      "impact_count": 0,
+      "max_deceleration": NaN,
+      "impact_frame": NaN,
+      "impact_body_part": null
+    },
+    "collapse": {
+      "height_reduction_pct": 7.362810486481579,
+      "aspect_ratio_increase_pct": 36.451497109958765,
+      "max_height_collapse_velocity": -720.1838993526005,
+      "max_aspect_ratio_change_velocity": 1.443350921986026
+    }
+  },
+  {
+    "metadata": {
+      "video_path": "..\\..\\data\\workout_videos\\barbell biceps curl\\barbell biceps curl_35.mp4",
+      "fps": 29.97002997002997,
+      "total_frames": 58,
+      "duration": 1.9352666666666667,
+      "label": "workout",
+      "data_type": "video"
+    },
+    "joint_angles": {
+      "right_elbow_mean": 98.5265936362083,
+      "right_elbow_min": 9.366182415691782,
+      "right_elbow_max": 165.13453236027104,
+      "right_elbow_range": 155.76834994457926,
+      "right_elbow_max_velocity": 803.5365680287604,
+      "left_elbow_mean": 115.2806194488732,
+      "left_elbow_min": 45.26533940531015,
+      "left_elbow_max": 176.21510258282393,
+      "left_elbow_range": 130.94976317751377,
+      "left_elbow_max_velocity": 721.9181281551333
+    },
+    "vertical_motion": {
+      "max_upper_body_velocity_y": 64.93079674232132,
+      "max_upper_body_accel_y": 1333.793177020689,
+      "max_center_velocity_y": 284.14056845817174,
+      "max_center_accel_y": 6296.157597800211,
+      "upper_body_vertical_displacement": 4.076161702473939,
+      "center_vertical_displacement": 7.026457468668696
+    },
+    "impact": {
+      "has_impact": false,
+      "impact_count": 0,
+      "max_deceleration": NaN,
+      "impact_frame": NaN,
+      "impact_body_part": null
+    },
+    "collapse": {
+      "height_reduction_pct": 7.800580676127201,
+      "aspect_ratio_increase_pct": 35.998733412575916,
+      "max_height_collapse_velocity": -1863.1992092380276,
+      "max_aspect_ratio_change_velocity": 2.0791385875150894
+    }
+  },
+  {
+    "metadata": {
+      "video_path": "..\\..\\data\\workout_videos\\barbell biceps curl\\barbell biceps curl_36.mp4",
+      "fps": 29.97002997002997,
+      "total_frames": 50,
+      "duration": 1.6683333333333334,
+      "label": "workout",
+      "data_type": "video"
+    },
+    "joint_angles": {
+      "right_elbow_mean": 100.41350094908842,
+      "right_elbow_min": 25.4256203341445,
+      "right_elbow_max": 169.74499730910227,
+      "right_elbow_range": 144.31937697495778,
+      "right_elbow_max_velocity": 753.9738425798338,
+      "left_elbow_mean": 117.718730328639,
+      "left_elbow_min": 52.28712162421859,
+      "left_elbow_max": 179.5438301552664,
+      "left_elbow_range": 127.25670853104779,
+      "left_elbow_max_velocity": 445.93051926611093
+    },
+    "vertical_motion": {
+      "max_upper_body_velocity_y": 74.8585520924379,
+      "max_upper_body_accel_y": 3497.1227407941965,
+      "max_center_velocity_y": 196.37157581188387,
+      "max_center_accel_y": 1729.8447025763164,
+      "upper_body_vertical_displacement": -10.231465657552064,
+      "center_vertical_displacement": -8.120803833007812
+    },
+    "impact": {
+      "has_impact": false,
+      "impact_count": 0,
+      "max_deceleration": NaN,
+      "impact_frame": NaN,
+      "impact_body_part": null
+    },
+    "collapse": {
+      "height_reduction_pct": 9.046673536646125,
+      "aspect_ratio_increase_pct": 42.04217231203338,
+      "max_height_collapse_velocity": -1352.9047551569524,
+      "max_aspect_ratio_change_velocity": 2.257278611028566
+    }
+  },
+  {
+    "metadata": {
+      "video_path": "..\\..\\data\\workout_videos\\barbell biceps curl\\barbell biceps curl_37.mp4",
+      "fps": 29.97002997002997,
+      "total_frames": 59,
+      "duration": 1.9686333333333335,
+      "label": "workout",
+      "data_type": "video"
+    },
+    "joint_angles": {
+      "right_elbow_mean": 104.3786667246415,
+      "right_elbow_min": 15.824937935339001,
+      "right_elbow_max": 179.60946370284256,
+      "right_elbow_range": 163.78452576750357,
+      "right_elbow_max_velocity": 4289.785791146084,
+      "left_elbow_mean": 101.3225054710131,
+      "left_elbow_min": 14.362304310648677,
+      "left_elbow_max": 179.5860912667791,
+      "left_elbow_range": 165.22378695613043,
+      "left_elbow_max_velocity": 2290.504800634802
+    },
+    "vertical_motion": {
+      "max_upper_body_velocity_y": 88.76481184830863,
+      "max_upper_body_accel_y": 3255.2757440174064,
+      "max_center_velocity_y": 225.2617565352307,
+      "max_center_accel_y": 4406.445997832346,
+      "upper_body_vertical_displacement": -46.585789998372434,
+      "center_vertical_displacement": -44.90100215031555
+    },
+    "impact": {
+      "has_impact": false,
+      "impact_count": 0,
+      "max_deceleration": NaN,
+      "impact_frame": NaN,
+      "impact_body_part": null
+    },
+    "collapse": {
+      "height_reduction_pct": 16.35409467075998,
+      "aspect_ratio_increase_pct": 26.19114574671545,
+      "max_height_collapse_velocity": -2579.443414251764,
+      "max_aspect_ratio_change_velocity": 2.081065040593478
+    }
+  },
+  {
+    "metadata": {
+      "video_path": "..\\..\\data\\workout_videos\\barbell biceps curl\\barbell biceps curl_38.mp4",
+      "fps": 29.97002997002997,
+      "total_frames": 59,
+      "duration": 1.9686333333333335,
+      "label": "workout",
+      "data_type": "video"
+    },
+    "joint_angles": {
+      "right_elbow_mean": 120.62368368615613,
+      "right_elbow_min": 15.746202790800128,
+      "right_elbow_max": 179.9624480977555,
+      "right_elbow_range": 164.21624530695536,
+      "right_elbow_max_velocity": 2395.2221832061587,
+      "left_elbow_mean": 114.40083800821401,
+      "left_elbow_min": 16.41294371253322,
+      "left_elbow_max": 179.86509145685872,
+      "left_elbow_range": 163.4521477443255,
+      "left_elbow_max_velocity": 1655.0174006572215
+    },
+    "vertical_motion": {
+      "max_upper_body_velocity_y": 177.46169845779107,
+      "max_upper_body_accel_y": 6110.580650481603,
+      "max_center_velocity_y": 151.32059384425648,
+      "max_center_accel_y": 2775.7082964308815,
+      "upper_body_vertical_displacement": 0.18199666341149623,
+      "center_vertical_displacement": 5.579593365009032
+    },
+    "impact": {
+      "has_impact": false,
+      "impact_count": 0,
+      "max_deceleration": NaN,
+      "impact_frame": NaN,
+      "impact_body_part": null
+    },
+    "collapse": {
+      "height_reduction_pct": 13.138653556199023,
+      "aspect_ratio_increase_pct": 20.340140119673723,
+      "max_height_collapse_velocity": -1040.2261008034934,
+      "max_aspect_ratio_change_velocity": 1.3634313406055727
+    }
+  },
+  {
+    "metadata": {
+      "video_path": "..\\..\\data\\workout_videos\\barbell biceps curl\\barbell biceps curl_39.mp4",
+      "fps": 29.97002997002997,
+      "total_frames": 54,
+      "duration": 1.8018,
+      "label": "workout",
+      "data_type": "video"
+    },
+    "joint_angles": {
+      "right_elbow_mean": 116.46498182313438,
+      "right_elbow_min": 18.031144521205142,
+      "right_elbow_max": 179.94966067883468,
+      "right_elbow_range": 161.91851615762954,
+      "right_elbow_max_velocity": 1777.5153044930635,
+      "left_elbow_mean": 113.91859630545868,
+      "left_elbow_min": 17.4477954925644,
+      "left_elbow_max": 179.18086124099878,
+      "left_elbow_range": 161.73306574843437,
+      "left_elbow_max_velocity": 1942.4059457993058
+    },
+    "vertical_motion": {
+      "max_upper_body_velocity_y": 79.16634756844809,
+      "max_upper_body_accel_y": 2726.7401430713976,
+      "max_center_velocity_y": 255.71318236301067,
+      "max_center_accel_y": 3368.8791777533625,
+      "upper_body_vertical_displacement": -15.36724853515625,
+      "center_vertical_displacement": -11.902266282301753
+    },
+    "impact": {
+      "has_impact": false,
+      "impact_count": 0,
+      "max_deceleration": NaN,
+      "impact_frame": NaN,
+      "impact_body_part": null
+    },
+    "collapse": {
+      "height_reduction_pct": 16.44222694401298,
+      "aspect_ratio_increase_pct": 32.740948833716295,
+      "max_height_collapse_velocity": -1860.2934845915802,
+      "max_aspect_ratio_change_velocity": 3.0522039797063285
+    }
+  },
+  {
+    "metadata": {
+      "video_path": "..\\..\\data\\workout_videos\\barbell biceps curl\\barbell biceps curl_40.mp4",
+      "fps": 30.0,
+      "total_frames": 201,
+      "duration": 6.7,
+      "label": "workout",
+      "data_type": "video"
+    },
+    "joint_angles": {
+      "right_elbow_mean": 106.62752649759045,
+      "right_elbow_min": 29.948840130062145,
+      "right_elbow_max": 168.54795477268564,
+      "right_elbow_range": 138.5991146426235,
+      "right_elbow_max_velocity": 463.75751299629894,
+      "left_elbow_mean": 91.66938351252665,
+      "left_elbow_min": 8.547467124488081,
+      "left_elbow_max": 170.92446268651054,
+      "left_elbow_range": 162.37699556202244,
+      "left_elbow_max_velocity": 785.9807358329242,
+      "right_hip_mean": 176.015565443533,
+      "right_hip_min": 170.48224906495344,
+      "right_hip_max": 179.98299448897927,
+      "right_hip_range": 9.500745424025837,
+      "right_hip_max_velocity": 108.78276674419197,
+      "left_hip_mean": 177.40720582670713,
+      "left_hip_min": 172.1761204949076,
+      "left_hip_max": 179.99004069011235,
+      "left_hip_range": 7.813920195204759,
+      "left_hip_max_velocity": 107.30951700923896
+    },
+    "vertical_motion": {
+      "max_upper_body_velocity_y": 59.427337646484375,
+      "max_upper_body_accel_y": 1782.8201293945312,
+      "max_center_velocity_y": 102.61792210170313,
+      "max_center_accel_y": 1167.3870195661038,
+      "upper_body_vertical_displacement": 32.142857869466155,
+      "center_vertical_displacement": 38.41915457589289
+    },
+    "impact": {
+      "has_impact": true,
+      "impact_count": 6,
+      "max_deceleration": -3138.7280273436886,
+      "impact_frame": 200,
+      "impact_body_part": "knee_center_x"
+    },
+    "collapse": {
+      "height_reduction_pct": 4.062191148171431,
+      "aspect_ratio_increase_pct": 26.262384086942443,
+      "max_height_collapse_velocity": -382.5732421875,
+      "max_aspect_ratio_change_velocity": 0.9247413386900488
+    }
+  },
+  {
+    "metadata": {
+      "video_path": "..\\..\\data\\workout_videos\\barbell biceps curl\\barbell biceps curl_42.mp4",
+      "fps": 30.0,
+      "total_frames": 141,
+      "duration": 4.7,
+      "label": "workout",
+      "data_type": "video"
+    },
+    "joint_angles": {
+      "right_elbow_mean": 75.10279733776066,
+      "right_elbow_min": 1.6203232446555522,
+      "right_elbow_max": 167.16895448968302,
+      "right_elbow_range": 165.54863124502745,
+      "right_elbow_max_velocity": 1242.2092941749108,
+      "left_elbow_mean": 69.7676271309445,
+      "left_elbow_min": 0.18044548947136244,
+      "left_elbow_max": 162.13826711889553,
+      "left_elbow_range": 161.95782162942416,
+      "left_elbow_max_velocity": 2449.7191567942914,
+      "right_knee_mean": 179.0735801976908,
+      "right_knee_min": 178.20195673755015,
+      "right_knee_max": 179.94371939534207,
+      "right_knee_range": 1.7417626577919236,
+      "right_knee_max_velocity": 19.236396276871517,
+      "left_knee_mean": 177.28811405291418,
+      "left_knee_min": 174.9711651809828,
+      "left_knee_max": 179.10823328139654,
+      "left_knee_range": 4.137068100413728,
+      "left_knee_max_velocity": 33.77362531167137,
+      "right_hip_mean": 174.49773628342643,
+      "right_hip_min": 173.4433673784807,
+      "right_hip_max": 175.58267497310388,
+      "right_hip_range": 2.139307594623176,
+      "right_hip_max_velocity": 22.04392695577866,
+      "left_hip_mean": 173.7099299154715,
+      "left_hip_min": 171.62746431096338,
+      "left_hip_max": 175.43702328657835,
+      "left_hip_range": 3.8095589756149764,
+      "left_hip_max_velocity": 27.010047154957988
+    },
+    "vertical_motion": {
+      "max_upper_body_velocity_y": 9.842407226562386,
+      "max_upper_body_accel_y": 170.12145996094432,
+      "max_center_velocity_y": 28.969568589154733,
+      "max_center_accel_y": 388.3691226734925,
+      "upper_body_vertical_displacement": -3.14923095703125,
+      "center_vertical_displacement": -1.1859346277573763
+    },
+    "impact": {
+      "has_impact": true,
+      "impact_count": 6,
+      "max_deceleration": -612.539978027354,
+      "impact_frame": 2,
+      "impact_body_part": "knee_center_y"
+    },
+    "collapse": {
+      "height_reduction_pct": 1.1013727775656859,
+      "aspect_ratio_increase_pct": 16.772665866341555,
+      "max_height_collapse_velocity": -38.695220947265625,
+      "max_aspect_ratio_change_velocity": 0.22829205430453692
+    }
+  },
+  {
+    "metadata": {
+      "video_path": "..\\..\\data\\workout_videos\\barbell biceps curl\\barbell biceps curl_44.mp4",
+      "fps": 30.0,
+      "total_frames": 229,
+      "duration": 7.633333333333334,
+      "label": "workout",
+      "data_type": "video"
+    },
+    "joint_angles": {
+      "right_elbow_mean": 90.03887711743403,
+      "right_elbow_min": 1.0556474148840405,
+      "right_elbow_max": 166.15485353329856,
+      "right_elbow_range": 165.09920611841451,
+      "right_elbow_max_velocity": 2151.9909905380587,
+      "left_elbow_mean": 87.72750278364757,
+      "left_elbow_min": 0.1291314573333552,
+      "left_elbow_max": 162.95589415793583,
+      "left_elbow_range": 162.82676270060247,
+      "left_elbow_max_velocity": 4235.9737608771065,
+      "right_knee_mean": 178.85692200420723,
+      "right_knee_min": 177.3133455274942,
+      "right_knee_max": 179.9982169500014,
+      "right_knee_range": 2.6848714225072,
+      "right_knee_max_velocity": 63.34397028292187,
+      "left_knee_mean": 176.88755302561563,
+      "left_knee_min": 174.49357159667252,
+      "left_knee_max": 178.86762462074125,
+      "left_knee_range": 4.374053024068729,
+      "left_knee_max_velocity": 43.51240952538433,
+      "right_hip_mean": 175.0107162739125,
+      "right_hip_min": 173.5043671484837,
+      "right_hip_max": 176.74024301037852,
+      "right_hip_range": 3.2358758618948116,
+      "right_hip_max_velocity": 24.841190781558566,
+      "left_hip_mean": 173.00256447098337,
+      "left_hip_min": 171.28433426129334,
+      "left_hip_max": 174.95824268006348,
+      "left_hip_range": 3.6739084187701394,
+      "left_hip_max_velocity": 34.421874554440706
+    },
+    "vertical_motion": {
+      "max_upper_body_velocity_y": 18.313507080078182,
+      "max_upper_body_accel_y": 589.1079711914045,
+      "max_center_velocity_y": 41.68469238281148,
+      "max_center_accel_y": 933.8606710994668,
+      "upper_body_vertical_displacement": 2.759470621744782,
+      "center_vertical_displacement": 5.529621797449465
+    },
+    "impact": {
+      "has_impact": true,
+      "impact_count": 6,
+      "max_deceleration": -1999.286499023458,
+      "impact_frame": 2,
+      "impact_body_part": "hip_center_y"
+    },
+    "collapse": {
+      "height_reduction_pct": 1.0011493612664213,
+      "aspect_ratio_increase_pct": 21.900083629428824,
+      "max_height_collapse_velocity": -164.80316162109375,
+      "max_aspect_ratio_change_velocity": 0.29845598432562015
+    }
+  },
+  {
+    "metadata": {
+      "video_path": "..\\..\\data\\workout_videos\\barbell biceps curl\\barbell biceps curl_45.mp4",
+      "fps": 29.97002997002997,
+      "total_frames": 421,
+      "duration": 14.047366666666667,
+      "label": "workout",
+      "data_type": "video"
+    },
+    "joint_angles": {
+      "right_elbow_mean": 101.97963131324013,
+      "right_elbow_min": 8.829145469969497,
+      "right_elbow_max": 179.3288784188022,
+      "right_elbow_range": 170.4997329488327,
+      "right_elbow_max_velocity": 4207.505723141917,
+      "left_elbow_mean": 103.83452525511767,
+      "left_elbow_min": 14.31928585977193,
+      "left_elbow_max": 178.68626272275304,
+      "left_elbow_range": 164.36697686298112,
+      "left_elbow_max_velocity": 3969.100113486773,
+      "right_knee_mean": 178.66119086327762,
+      "right_knee_min": 177.0213366975911,
+      "right_knee_max": 179.99752772787204,
+      "right_knee_range": 2.976191030280944,
+      "right_knee_max_velocity": 48.213797066019985,
+      "left_knee_mean": 175.6559494130694,
+      "left_knee_min": 172.80667165821808,
+      "left_knee_max": 178.59224521336188,
+      "left_knee_range": 5.785573555143799,
+      "left_knee_max_velocity": 61.02697704778802,
+      "right_hip_mean": 170.22503266987118,
+      "right_hip_min": 169.12383816036166,
+      "right_hip_max": 171.5242655151299,
+      "right_hip_range": 2.4004273547682544,
+      "right_hip_max_velocity": 34.815151115329265,
+      "left_hip_mean": 167.56673262460902,
+      "left_hip_min": 165.58562583619278,
+      "left_hip_max": 169.7239679885958,
+      "left_hip_range": 4.138342152403027,
+      "left_hip_max_velocity": 59.34619820064628
+    },
+    "vertical_motion": {
+      "max_upper_body_velocity_y": 15.297934487387158,
+      "max_upper_body_accel_y": 408.93422505705337,
+      "max_center_velocity_y": 39.49093329694123,
+      "max_center_accel_y": 488.88788882708184,
+      "upper_body_vertical_displacement": 0.46343994140625,
+      "center_vertical_displacement": -0.923380234662261
+    },
+    "impact": {
+      "has_impact": true,
+      "impact_count": 6,
+      "max_deceleration": -765.0703515507554,
+      "impact_frame": 326,
+      "impact_body_part": "hip_center_y"
+    },
+    "collapse": {
+      "height_reduction_pct": 3.1416918553747655,
+      "aspect_ratio_increase_pct": 8.062120414434807,
+      "max_height_collapse_velocity": -132.33943180842596,
+      "max_aspect_ratio_change_velocity": 0.36815331004199636
+    }
+  },
+  {
+    "metadata": {
+      "video_path": "..\\..\\data\\workout_videos\\barbell biceps curl\\barbell biceps curl_46.mp4",
+      "fps": 23.976043137696813,
+      "total_frames": 94,
+      "duration": 3.9205802000000003,
+      "label": "workout",
+      "data_type": "video"
+    },
+    "joint_angles": {
+      "right_elbow_mean": 104.86070703590673,
+      "right_elbow_min": 18.081861369981745,
+      "right_elbow_max": 179.34735391211802,
+      "right_elbow_range": 161.2654925421363,
+      "right_elbow_max_velocity": 593.9474279291458,
+      "left_elbow_mean": 90.51084910935023,
+      "left_elbow_min": 6.810047696716372,
+      "left_elbow_max": 167.35563208449068,
+      "left_elbow_range": 160.5455843877743,
+      "left_elbow_max_velocity": 823.270445895552,
+      "right_knee_mean": 178.7647198809486,
+      "right_knee_min": 176.99400077480706,
+      "right_knee_max": 179.9772794474415,
+      "right_knee_range": 2.983278672634441,
+      "right_knee_max_velocity": 60.88535160480131,
+      "left_knee_mean": 179.3193509572024,
+      "left_knee_min": 177.63289669138493,
+      "left_knee_max": 179.9764298479429,
+      "left_knee_range": 2.3435331565579816,
+      "left_knee_max_velocity": 56.18865205625694,
+      "right_hip_mean": 165.22802209649524,
+      "right_hip_min": 163.4599078811736,
+      "right_hip_max": 167.54609891842634,
+      "right_hip_range": 4.086191037252746,
+      "right_hip_max_velocity": 75.56559813385913,
+      "left_hip_mean": 160.9743800545779,
+      "left_hip_min": 158.1795540471771,
+      "left_hip_max": 163.65130449839978,
+      "left_hip_range": 5.471750451222675,
+      "left_hip_max_velocity": 61.141628224408166
+    },
+    "vertical_motion": {
+      "max_upper_body_velocity_y": 12.714322216429162,
+      "max_upper_body_accel_y": 408.61212313702805,
+      "max_center_velocity_y": 39.594206425741156,
+      "max_center_accel_y": 1103.0877555689856,
+      "upper_body_vertical_displacement": 2.910247802734375,
+      "center_vertical_displacement": -13.06140046961167
+    },
+    "impact": {
+      "has_impact": true,
+      "impact_count": 6,
+      "max_deceleration": -877.1226495648081,
+      "impact_frame": 18,
+      "impact_body_part": "hip_center_y"
+    },
+    "collapse": {
+      "height_reduction_pct": 1.7224104604232875,
+      "aspect_ratio_increase_pct": 2.071608659278475,
+      "max_height_collapse_velocity": -62.19737386840569,
+      "max_aspect_ratio_change_velocity": 0.3034908182861715
+    }
+  },
+  {
+    "metadata": {
+      "video_path": "..\\..\\data\\workout_videos\\barbell biceps curl\\barbell biceps curl_47.mp4",
+      "fps": 23.976043137696813,
+      "total_frames": 120,
+      "duration": 5.004996,
+      "label": "workout",
+      "data_type": "video"
+    },
+    "joint_angles": {
+      "right_elbow_mean": 103.00623570864857,
+      "right_elbow_min": 4.119245627104012,
+      "right_elbow_max": 179.96228680614985,
+      "right_elbow_range": 175.84304117904583,
+      "right_elbow_max_velocity": 3757.4287994132565,
+      "left_elbow_mean": 101.97737104244365,
+      "left_elbow_min": 9.653972948972164,
+      "left_elbow_max": 179.98849614016402,
+      "left_elbow_range": 170.33452319119186,
+      "left_elbow_max_velocity": 2153.0465236226105
+    },
+    "vertical_motion": {
+      "max_upper_body_velocity_y": 30.929885873660584,
+      "max_upper_body_accel_y": 564.4692526415755,
+      "max_center_velocity_y": 105.28307488955122,
+      "max_center_accel_y": 1295.8091162532808,
+      "upper_body_vertical_displacement": 4.519632975260407,
+      "center_vertical_displacement": 9.4036865234375
+    },
+    "impact": {
+      "has_impact": false,
+      "impact_count": 0,
+      "max_deceleration": NaN,
+      "impact_frame": NaN,
+      "impact_body_part": null
+    },
+    "collapse": {
+      "height_reduction_pct": 5.468068808194111,
+      "aspect_ratio_increase_pct": 9.520227838169781,
+      "max_height_collapse_velocity": -561.1643822055502,
+      "max_aspect_ratio_change_velocity": 0.6414551391964284
+    }
+  },
+  {
+    "metadata": {
+      "video_path": "..\\..\\data\\workout_videos\\barbell biceps curl\\barbell biceps curl_48.mp4",
+      "fps": 23.976043137696813,
+      "total_frames": 70,
+      "duration": 2.919581,
+      "label": "workout",
+      "data_type": "video"
+    },
+    "joint_angles": {
+      "right_elbow_mean": 130.31998125001897,
+      "right_elbow_min": 9.382450249871487,
+      "right_elbow_max": 179.92329481730417,
+      "right_elbow_range": 170.54084456743269,
+      "right_elbow_max_velocity": 755.9236224192111,
+      "left_elbow_mean": 118.27856953828585,
+      "left_elbow_min": 1.8134719681515723,
+      "left_elbow_max": 178.92794892171665,
+      "left_elbow_range": 177.1144769535651,
+      "left_elbow_max_velocity": 1187.5588276357357,
+      "right_knee_mean": 178.52467601427574,
+      "right_knee_min": 177.15178566955876,
+      "right_knee_max": 179.99149443756784,
+      "right_knee_range": 2.839708768009075,
+      "right_knee_max_velocity": 56.45504782102817,
+      "left_knee_mean": 178.79762927654963,
+      "left_knee_min": 175.34521602318185,
+      "left_knee_max": 179.95355505633137,
+      "left_knee_range": 4.6083390331495195,
+      "left_knee_max_velocity": 78.66454122968663,
+      "right_hip_mean": 165.49979617511775,
+      "right_hip_min": 163.35396422137947,
+      "right_hip_max": 168.36538884948513,
+      "right_hip_range": 5.011424628105658,
+      "right_hip_max_velocity": 86.03531646555273,
+      "left_hip_mean": 160.47908921873116,
+      "left_hip_min": 157.95766308653398,
+      "left_hip_max": 163.26181032527236,
+      "left_hip_range": 5.304147238738381,
+      "left_hip_max_velocity": 66.21318652625662
+    },
+    "vertical_motion": {
+      "max_upper_body_velocity_y": 1640.8242823224157,
+      "max_upper_body_accel_y": 39345.99983492097,
+      "max_center_velocity_y": 1341.056115229909,
+      "max_center_accel_y": 32157.291955228648,
+      "upper_body_vertical_displacement": -114.900146484375,
+      "center_vertical_displacement": -93.00000055235432
+    },
+    "impact": {
+      "has_impact": false,
+      "impact_count": 0,
+      "max_deceleration": NaN,
+      "impact_frame": NaN,
+      "impact_body_part": null
+    },
+    "collapse": {
+      "height_reduction_pct": 0.013189633514778563,
+      "aspect_ratio_increase_pct": 0.048905775347498334,
+      "max_height_collapse_velocity": -82.34301582733532,
+      "max_aspect_ratio_change_velocity": 0.32798838909067096
+    }
+  },
+  {
+    "metadata": {
+      "video_path": "..\\..\\data\\workout_videos\\barbell biceps curl\\barbell biceps curl_5.mp4",
+      "fps": 29.97002997002997,
+      "total_frames": 82,
+      "duration": 2.736066666666667,
+      "label": "workout",
+      "data_type": "video"
+    },
+    "joint_angles": {
+      "right_elbow_mean": 74.38673252592113,
+      "right_elbow_min": 11.128332181384918,
+      "right_elbow_max": 157.6052331872049,
+      "right_elbow_range": 146.47690100582,
+      "right_elbow_max_velocity": 2546.54461613566,
+      "left_elbow_mean": 70.75399250303285,
+      "left_elbow_min": 0.2124010952466626,
+      "left_elbow_max": 179.77295166398886,
+      "left_elbow_range": 179.5605505687422,
+      "left_elbow_max_velocity": 2459.671903630393
+    },
+    "vertical_motion": {
+      "max_upper_body_velocity_y": 284.57275756470204,
+      "max_upper_body_accel_y": 6397.145905281911,
+      "max_center_velocity_y": 1503.0864729087502,
+      "max_center_accel_y": 87644.89548837756,
+      "upper_body_vertical_displacement": 9.476445515950559,
+      "center_vertical_displacement": -152.06362348614323
+    },
+    "impact": {
+      "has_impact": false,
+      "impact_count": 0,
+      "max_deceleration": NaN,
+      "impact_frame": NaN,
+      "impact_body_part": null
+    },
+    "collapse": {
+      "height_reduction_pct": 21.364475708485216,
+      "aspect_ratio_increase_pct": 36.727625396869335,
+      "max_height_collapse_velocity": -5842.248419305304,
+      "max_aspect_ratio_change_velocity": 7.016911889067534
+    }
+  },
+  {
+    "metadata": {
+      "video_path": "..\\..\\data\\workout_videos\\barbell biceps curl\\barbell biceps curl_51.mp4",
+      "fps": 29.97002997002997,
+      "total_frames": 282,
+      "duration": 9.4094,
+      "label": "workout",
+      "data_type": "video"
+    },
+    "joint_angles": {
+      "right_elbow_mean": 119.93008433324896,
+      "right_elbow_min": 13.502786736845236,
+      "right_elbow_max": 179.96664851033893,
+      "right_elbow_range": 166.4638617734937,
+      "right_elbow_max_velocity": 2675.226513519861,
+      "left_elbow_mean": 121.1724383812006,
+      "left_elbow_min": 18.11479079841565,
+      "left_elbow_max": 179.86285258705377,
+      "left_elbow_range": 161.74806178863813,
+      "left_elbow_max_velocity": 3490.992217623998
+    },
+    "vertical_motion": {
+      "max_upper_body_velocity_y": 116.29910616726966,
+      "max_upper_body_accel_y": 3200.1047690680166,
+      "max_center_velocity_y": 1075.091589553399,
+      "max_center_accel_y": 35230.19227494377,
+      "upper_body_vertical_displacement": 10.10589599609375,
+      "center_vertical_displacement": -86.84957396678436
+    },
+    "impact": {
+      "has_impact": false,
+      "impact_count": 0,
+      "max_deceleration": NaN,
+      "impact_frame": NaN,
+      "impact_body_part": null
+    },
+    "collapse": {
+      "height_reduction_pct": 35.58739943244418,
+      "aspect_ratio_increase_pct": 89.36744222008825,
+      "max_height_collapse_velocity": -4851.585182395729,
+      "max_aspect_ratio_change_velocity": 8.679875574997444
+    }
+  },
+  {
+    "metadata": {
+      "video_path": "..\\..\\data\\workout_videos\\barbell biceps curl\\barbell biceps curl_54.mp4",
+      "fps": 29.97002997002997,
+      "total_frames": 132,
+      "duration": 4.4044,
+      "label": "workout",
+      "data_type": "video"
+    },
+    "joint_angles": {
+      "right_elbow_mean": 127.09325221648449,
+      "right_elbow_min": 24.568592582283962,
+      "right_elbow_max": 179.84165599018172,
+      "right_elbow_range": 155.27306340789775,
+      "right_elbow_max_velocity": 3170.692949819517,
+      "left_elbow_mean": 122.45376947453175,
+      "left_elbow_min": 14.711695394363486,
+      "left_elbow_max": 179.8814973359199,
+      "left_elbow_range": 165.16980194155641,
+      "left_elbow_max_velocity": 4081.759196625796
+    },
+    "vertical_motion": {
+      "max_upper_body_velocity_y": 86.29002223362586,
+      "max_upper_body_accel_y": 2078.2587017012024,
+      "max_center_velocity_y": 910.3129815944137,
+      "max_center_accel_y": 23006.309916072234,
+      "upper_body_vertical_displacement": 8.797643025716127,
+      "center_vertical_displacement": -36.184536912706164
+    },
+    "impact": {
+      "has_impact": false,
+      "impact_count": 0,
+      "max_deceleration": NaN,
+      "impact_frame": NaN,
+      "impact_body_part": null
+    },
+    "collapse": {
+      "height_reduction_pct": 27.81301409280469,
+      "aspect_ratio_increase_pct": 56.65582301005207,
+      "max_height_collapse_velocity": -6106.0405658794325,
+      "max_aspect_ratio_change_velocity": 10.345786989105438
+    }
+  },
+  {
+    "metadata": {
+      "video_path": "..\\..\\data\\workout_videos\\barbell biceps curl\\barbell biceps curl_55.mp4",
+      "fps": 29.97002997002997,
+      "total_frames": 147,
+      "duration": 4.9049000000000005,
+      "label": "workout",
+      "data_type": "video"
+    },
+    "joint_angles": {
+      "right_elbow_mean": 121.70104400244499,
+      "right_elbow_min": 22.868227880891602,
+      "right_elbow_max": 179.96842323300268,
+      "right_elbow_range": 157.1001953521111,
+      "right_elbow_max_velocity": 3833.9244849239894,
+      "left_elbow_mean": 107.6757403105701,
+      "left_elbow_min": 10.17775559998704,
+      "left_elbow_max": 179.00914281955798,
+      "left_elbow_range": 168.83138721957093,
+      "left_elbow_max_velocity": 3937.418385587158
+    },
+    "vertical_motion": {
+      "max_upper_body_velocity_y": 42.03273533107392,
+      "max_upper_body_accel_y": 776.2704742848674,
+      "max_center_velocity_y": 138.98289023176358,
+      "max_center_accel_y": 2307.5377682927824,
+      "upper_body_vertical_displacement": -2.247456868489593,
+      "center_vertical_displacement": -3.5388840895432736
+    },
+    "impact": {
+      "has_impact": false,
+      "impact_count": 0,
+      "max_deceleration": NaN,
+      "impact_frame": NaN,
+      "impact_body_part": null
+    },
+    "collapse": {
+      "height_reduction_pct": 2.2087182902375138,
+      "aspect_ratio_increase_pct": 5.377784822562835,
+      "max_height_collapse_velocity": -307.8366945554445,
+      "max_aspect_ratio_change_velocity": 1.052237314039209
+    }
+  },
+  {
+    "metadata": {
+      "video_path": "..\\..\\data\\workout_videos\\barbell biceps curl\\barbell biceps curl_58.mp4",
+      "fps": 29.97002997002997,
+      "total_frames": 162,
+      "duration": 5.4054,
+      "label": "workout",
+      "data_type": "video"
+    },
+    "joint_angles": {},
+    "vertical_motion": {
+      "max_upper_body_velocity_y": 297.12337833065374,
+      "max_upper_body_accel_y": 12823.04683279933,
+      "max_center_velocity_y": 3181.023688225837,
+      "max_center_accel_y": 95335.3752715036,
+      "upper_body_vertical_displacement": 3.4030609130859375,
+      "center_vertical_displacement": -1.6045939127604072
+    },
+    "impact": {
+      "has_impact": false,
+      "impact_count": 0,
+      "max_deceleration": NaN,
+      "impact_frame": NaN,
+      "impact_body_part": null
+    },
+    "collapse": {
+      "height_reduction_pct": 2.1108160042265727,
+      "aspect_ratio_increase_pct": 12.99935035092084,
+      "max_height_collapse_velocity": -10559.091482248221,
+      "max_aspect_ratio_change_velocity": 32.288882236443094
+    }
+  },
+  {
+    "metadata": {
+      "video_path": "..\\..\\data\\workout_videos\\bench press\\bench press_10.mp4",
+      "fps": 29.97002997002997,
+      "total_frames": 53,
+      "duration": 1.7684333333333333,
+      "label": "workout",
+      "data_type": "video"
+    },
+    "joint_angles": {
+      "right_elbow_mean": 142.6371009766934,
+      "right_elbow_min": 22.49655434673246,
+      "right_elbow_max": 175.47663281258698,
+      "right_elbow_range": 152.98007846585452,
+      "right_elbow_max_velocity": 3213.6988664895116,
+      "left_elbow_mean": 117.62445093145277,
+      "left_elbow_min": 6.133335307298813,
+      "left_elbow_max": 173.04748811565855,
+      "left_elbow_range": 166.91415280835974,
+      "left_elbow_max_velocity": 4332.270528105651,
+      "right_knee_mean": 132.73791833970802,
+      "right_knee_min": 95.95966008982299,
+      "right_knee_max": 166.37969490692834,
+      "right_knee_range": 70.42003481710535,
+      "right_knee_max_velocity": 1481.2943666520423,
+      "left_knee_mean": 140.4202320309906,
+      "left_knee_min": 88.67371847203658,
+      "left_knee_max": 169.1268416537879,
+      "left_knee_range": 80.45312318175131,
+      "left_knee_max_velocity": 1979.699802024091,
+      "right_hip_mean": 104.30759081852428,
+      "right_hip_min": 3.7639182777384033,
+      "right_hip_max": 136.73823953634343,
+      "right_hip_range": 132.97432125860502,
+      "right_hip_max_velocity": 3919.730686888927,
+      "left_hip_mean": 109.19491350945817,
+      "left_hip_min": 0.18200090353998388,
+      "left_hip_max": 143.92073523392077,
+      "left_hip_range": 143.7387343303808,
+      "left_hip_max_velocity": 3744.1977100422714
+    },
+    "vertical_motion": {
+      "max_upper_body_velocity_y": 719.7388792847779,
+      "max_upper_body_accel_y": 24372.523305475104,
+      "max_center_velocity_y": 493.62598855647974,
+      "max_center_accel_y": 13706.571572758896,
+      "upper_body_vertical_displacement": -20.38739013671875,
+      "center_vertical_displacement": -5.219500373391611
+    },
+    "impact": {
+      "has_impact": false,
+      "impact_count": 0,
+      "max_deceleration": NaN,
+      "impact_frame": NaN,
+      "impact_body_part": null
+    },
+    "collapse": {
+      "height_reduction_pct": 37.794153800382794,
+      "aspect_ratio_increase_pct": 67.0736492006784,
+      "max_height_collapse_velocity": -3060.269503445773,
+      "max_aspect_ratio_change_velocity": 28.569159574369838
+    }
+  },
+  {
+    "metadata": {
+      "video_path": "..\\..\\data\\workout_videos\\bench press\\bench press_11.mp4",
+      "fps": 29.97002997002997,
+      "total_frames": 39,
+      "duration": 1.3013000000000001,
+      "label": "workout",
+      "data_type": "video"
+    },
+    "joint_angles": {
+      "right_elbow_mean": 119.72514160886466,
+      "right_elbow_min": 19.06189944241006,
+      "right_elbow_max": 176.67014682678195,
+      "right_elbow_range": 157.60824738437188,
+      "right_elbow_max_velocity": 3358.1047184004633,
+      "left_elbow_mean": 113.61207864070016,
+      "left_elbow_min": 6.637959523046569,
+      "left_elbow_max": 173.35613212266566,
+      "left_elbow_range": 166.7181725996191,
+      "left_elbow_max_velocity": 4031.468796446673,
+      "right_knee_mean": 129.9643766720412,
+      "right_knee_min": 119.51205589998584,
+      "right_knee_max": 153.2311191049487,
+      "right_knee_range": 33.719063204962865,
+      "right_knee_max_velocity": 959.4953709950764,
+      "left_knee_mean": 139.91057741741182,
+      "left_knee_min": 128.04698895601481,
+      "left_knee_max": 162.61188837002055,
+      "left_knee_range": 34.56489941400574,
+      "left_knee_max_velocity": 811.7191531404845,
+      "right_hip_mean": 120.79618003535114,
+      "right_hip_min": 5.489806869311207,
+      "right_hip_max": 139.56981945735083,
+      "right_hip_range": 134.08001258803964,
+      "right_hip_max_velocity": 3605.2216269789733,
+      "left_hip_mean": 122.64181038903982,
+      "left_hip_min": 2.325029466216336,
+      "left_hip_max": 143.78861061896995,
+      "left_hip_range": 141.46358115275362,
+      "left_hip_max_velocity": 3689.0655134992166
+    },
+    "vertical_motion": {
+      "max_upper_body_velocity_y": 456.364314396541,
+      "max_upper_body_accel_y": 8560.639934880819,
+      "max_center_velocity_y": 689.7694599532489,
+      "max_center_accel_y": 14787.213060929014,
+      "upper_body_vertical_displacement": 18.359822591145758,
+      "center_vertical_displacement": 39.89991490981163
+    },
+    "impact": {
+      "has_impact": false,
+      "impact_count": 0,
+      "max_deceleration": NaN,
+      "impact_frame": NaN,
+      "impact_body_part": null
+    },
+    "collapse": {
+      "height_reduction_pct": 25.288307062691338,
+      "aspect_ratio_increase_pct": 36.971310363962786,
+      "max_height_collapse_velocity": -5131.101808347902,
+      "max_aspect_ratio_change_velocity": 26.765793202994743
+    }
+  },
+  {
+    "metadata": {
+      "video_path": "..\\..\\data\\workout_videos\\bench press\\bench press_15.mp4",
+      "fps": 29.97002997002997,
+      "total_frames": 99,
+      "duration": 3.3033,
+      "label": "workout",
+      "data_type": "video"
+    },
+    "joint_angles": {
+      "right_elbow_mean": 157.37548589741573,
+      "right_elbow_min": 82.57203967438723,
+      "right_elbow_max": 174.0109183660528,
+      "right_elbow_range": 91.43887869166558,
+      "right_elbow_max_velocity": 2649.682815416767,
+      "left_elbow_mean": 148.52842844477064,
+      "left_elbow_min": 8.104027978990635,
+      "left_elbow_max": 177.32419161379096,
+      "left_elbow_range": 169.22016363480031,
+      "left_elbow_max_velocity": 4758.254176429448
+    },
+    "vertical_motion": {
+      "max_upper_body_velocity_y": 74.27124877076004,
+      "max_upper_body_accel_y": 2436.195728986854,
+      "max_center_velocity_y": 225.85299034649194,
+      "max_center_accel_y": 4213.65578322117,
+      "upper_body_vertical_displacement": 26.872406005859375,
+      "center_vertical_displacement": 47.97620567908655
+    },
+    "impact": {
+      "has_impact": false,
+      "impact_count": 0,
+      "max_deceleration": NaN,
+      "impact_frame": NaN,
+      "impact_body_part": null
+    },
+    "collapse": {
+      "height_reduction_pct": 12.121337325242951,
+      "aspect_ratio_increase_pct": 11.725239398071123,
+      "max_height_collapse_velocity": -1293.8568999360016,
+      "max_aspect_ratio_change_velocity": 16.86643088638169
+    }
+  },
+  {
+    "metadata": {
+      "video_path": "..\\..\\data\\workout_videos\\bench press\\bench press_18.mp4",
+      "fps": 29.97002997002997,
+      "total_frames": 81,
+      "duration": 2.7027,
+      "label": "workout",
+      "data_type": "video"
+    },
+    "joint_angles": {
+      "right_elbow_mean": 144.6503906646206,
+      "right_elbow_min": 122.05307072434815,
+      "right_elbow_max": 168.60419050377416,
+      "right_elbow_range": 46.55111977942602,
+      "right_elbow_max_velocity": 1091.0102082338312,
+      "left_elbow_mean": 152.97201046326407,
+      "left_elbow_min": 28.22628273001792,
+      "left_elbow_max": 179.13372283432696,
+      "left_elbow_range": 150.90744010430905,
+      "left_elbow_max_velocity": 3938.400669555111,
+      "right_knee_mean": 168.77104692358392,
+      "right_knee_min": 143.84507214661534,
+      "right_knee_max": 179.95724657192147,
+      "right_knee_range": 36.11217442530614,
+      "right_knee_max_velocity": 992.667447858633,
+      "left_knee_mean": 161.80160321249886,
+      "left_knee_min": 118.07424503945336,
+      "left_knee_max": 179.94279670625247,
+      "left_knee_range": 61.86855166679911,
+      "left_knee_max_velocity": 1419.8359467619741,
+      "right_hip_mean": 162.9103910220694,
+      "right_hip_min": 134.77844290532406,
+      "right_hip_max": 178.94007373601764,
+      "right_hip_range": 44.16163083069358,
+      "right_hip_max_velocity": 984.7522656729709,
+      "left_hip_mean": 143.64063748450073,
+      "left_hip_min": 109.72723951130614,
+      "left_hip_max": 174.5547991896729,
+      "left_hip_range": 64.82755967836677,
+      "left_hip_max_velocity": 1446.2890851301995
+    },
+    "vertical_motion": {
+      "max_upper_body_velocity_y": 4777.704679048979,
+      "max_upper_body_accel_y": 145885.57365924655,
+      "max_center_velocity_y": 2607.526528037394,
+      "max_center_accel_y": 83247.55028565002,
+      "upper_body_vertical_displacement": -15.231536865234375,
+      "center_vertical_displacement": 24.084723063877618
+    },
+    "impact": {
+      "has_impact": false,
+      "impact_count": 0,
+      "max_deceleration": NaN,
+      "impact_frame": NaN,
+      "impact_body_part": null
+    },
+    "collapse": {
+      "height_reduction_pct": 29.172152477526907,
+      "aspect_ratio_increase_pct": 30.918198566572585,
+      "max_height_collapse_velocity": -3090.200776701326,
+      "max_aspect_ratio_change_velocity": 20.05428149562638
+    }
+  },
+  {
+    "metadata": {
+      "video_path": "..\\..\\data\\workout_videos\\bench press\\bench press_3.mp4",
+      "fps": 29.97002997002997,
+      "total_frames": 86,
+      "duration": 2.8695333333333335,
+      "label": "workout",
+      "data_type": "video"
+    },
+    "joint_angles": {
+      "right_elbow_mean": 101.60321512583486,
+      "right_elbow_min": 1.4268790717833923,
+      "right_elbow_max": 179.52035023912603,
+      "right_elbow_range": 178.09347116734264,
+      "right_elbow_max_velocity": 3052.7963985636106,
+      "left_elbow_mean": 59.69705904363415,
+      "left_elbow_min": 0.5919643921670559,
+      "left_elbow_max": 177.27843434449755,
+      "left_elbow_range": 176.6864699523305,
+      "left_elbow_max_velocity": 5125.265901264089,
+      "right_knee_mean": 96.8491985837976,
+      "right_knee_min": 87.30024085810489,
+      "right_knee_max": 120.27824446187945,
+      "right_knee_range": 32.97800360377457,
+      "right_knee_max_velocity": 639.6035470907358,
+      "left_knee_mean": 137.28861252356202,
+      "left_knee_min": 108.34250268649619,
+      "left_knee_max": 160.68556167833117,
+      "left_knee_range": 52.34305899183498,
+      "left_knee_max_velocity": 795.9318680221149,
+      "right_hip_mean": 172.6671860179772,
+      "right_hip_min": 139.16301811923333,
+      "right_hip_max": 179.97539247286093,
+      "right_hip_range": 40.812374353627604,
+      "right_hip_max_velocity": 1078.6447978178749,
+      "left_hip_mean": 137.01567672607246,
+      "left_hip_min": 101.29380394223196,
+      "left_hip_max": 172.77397172369197,
+      "left_hip_range": 71.48016778146001,
+      "left_hip_max_velocity": 1016.7220075383373
+    },
+    "vertical_motion": {
+      "max_upper_body_velocity_y": 296.1440110182762,
+      "max_upper_body_accel_y": 17074.88588771357,
+      "max_center_velocity_y": 253.74238188569072,
+      "max_center_accel_y": 4379.480648433306,
+      "upper_body_vertical_displacement": 46.08823649088538,
+      "center_vertical_displacement": 26.70018357496997
+    },
+    "impact": {
+      "has_impact": false,
+      "impact_count": 0,
+      "max_deceleration": NaN,
+      "impact_frame": NaN,
+      "impact_body_part": null
+    },
+    "collapse": {
+      "height_reduction_pct": 31.32641275274447,
+      "aspect_ratio_increase_pct": 54.783422177683946,
+      "max_height_collapse_velocity": -1823.6842808070835,
+      "max_aspect_ratio_change_velocity": 3.1790067646379554
+    }
+  },
+  {
+    "metadata": {
+      "video_path": "..\\..\\data\\workout_videos\\bench press\\bench press_31.mp4",
+      "fps": 24.0,
+      "total_frames": 77,
+      "duration": 3.2083333333333335,
+      "label": "workout",
+      "data_type": "video"
+    },
+    "joint_angles": {
+      "right_elbow_mean": 117.05097076910623,
+      "right_elbow_min": 9.732016708111061,
+      "right_elbow_max": 166.02425671821516,
+      "right_elbow_range": 156.29224001010408,
+      "right_elbow_max_velocity": 1905.4250629471862,
+      "left_elbow_mean": 130.4920209744322,
+      "left_elbow_min": 16.251244390871822,
+      "left_elbow_max": 157.95356850290074,
+      "left_elbow_range": 141.70232411202892,
+      "left_elbow_max_velocity": 2961.075440545548,
+      "right_knee_mean": 163.4109144235375,
+      "right_knee_min": 143.00495206258591,
+      "right_knee_max": 177.49443906462415,
+      "right_knee_range": 34.48948700203823,
+      "right_knee_max_velocity": 461.15410609476703,
+      "left_knee_mean": 141.5467188039482,
+      "left_knee_min": 125.28090922177292,
+      "left_knee_max": 175.2059035970841,
+      "left_knee_range": 49.924994375311186,
+      "left_knee_max_velocity": 930.5839391379898,
+      "right_hip_mean": 122.09603070495619,
+      "right_hip_min": 111.20798017624901,
+      "right_hip_max": 137.01539229978314,
+      "right_hip_range": 25.807412123534135,
+      "right_hip_max_velocity": 319.4764541334206,
+      "left_hip_mean": 163.0247887449032,
+      "left_hip_min": 102.24010827622956,
+      "left_hip_max": 179.9781471376076,
+      "left_hip_range": 77.73803886137804,
+      "left_hip_max_velocity": 1558.2916207355024
+    },
+    "vertical_motion": {
+      "max_upper_body_velocity_y": 115.42998046875027,
+      "max_upper_body_accel_y": 2904.2472656250065,
+      "max_center_velocity_y": 127.64542451746365,
+      "max_center_accel_y": 2146.2947000558343,
+      "upper_body_vertical_displacement": 0.53814697265625,
+      "center_vertical_displacement": -1.712760476505082
+    },
+    "impact": {
+      "has_impact": true,
+      "impact_count": 6,
+      "max_deceleration": -11331.4833984375,
+      "impact_frame": 2,
+      "impact_body_part": "hip_center_x"
+    },
+    "collapse": {
+      "height_reduction_pct": 29.39160222278349,
+      "aspect_ratio_increase_pct": 23.134319994925722,
+      "max_height_collapse_velocity": -1739.5418701171875,
+      "max_aspect_ratio_change_velocity": 5.037257919870904
+    }
+  },
+  {
+    "metadata": {
+      "video_path": "..\\..\\data\\workout_videos\\bench press\\bench press_36.mp4",
+      "fps": 24.0,
+      "total_frames": 139,
+      "duration": 5.791666666666667,
+      "label": "workout",
+      "data_type": "video"
+    },
+    "joint_angles": {
+      "right_elbow_mean": 108.9978356912859,
+      "right_elbow_min": 6.927233313544278,
+      "right_elbow_max": 167.8852406918848,
+      "right_elbow_range": 160.95800737834054,
+      "right_elbow_max_velocity": 1949.764288611892,
+      "left_elbow_mean": 123.3435210817246,
+      "left_elbow_min": 5.123127777422981,
+      "left_elbow_max": 155.18568435066143,
+      "left_elbow_range": 150.06255657323845,
+      "left_elbow_max_velocity": 2699.814245641616,
+      "right_knee_mean": 161.99764982337715,
+      "right_knee_min": 139.24388651200357,
+      "right_knee_max": 178.76601793959753,
+      "right_knee_range": 39.52213142759396,
+      "right_knee_max_velocity": 424.8277148416903,
+      "left_knee_mean": 140.66938040610873,
+      "left_knee_min": 121.59632137424752,
+      "left_knee_max": 179.32176669677273,
+      "left_knee_range": 57.7254453225252,
+      "left_knee_max_velocity": 989.4563619608962,
+      "right_hip_mean": 123.98819705543232,
+      "right_hip_min": 107.51472590803263,
+      "right_hip_max": 131.79825243771884,
+      "right_hip_range": 24.283526529686213,
+      "right_hip_max_velocity": 353.50678891990606,
+      "left_hip_mean": 158.96510133546838,
+      "left_hip_min": 99.66374578773517,
+      "left_hip_max": 179.93997473754166,
+      "left_hip_range": 80.2762289498065,
+      "left_hip_max_velocity": 1501.8769006120317
+    },
+    "vertical_motion": {
+      "max_upper_body_velocity_y": 197.939208984375,
+      "max_upper_body_accel_y": 7674.645703124996,
+      "max_center_velocity_y": 147.01972943474266,
+      "max_center_accel_y": 4515.572990866276,
+      "upper_body_vertical_displacement": 3.2655843098958712,
+      "center_vertical_displacement": 2.2667577406938904
+    },
+    "impact": {
+      "has_impact": true,
+      "impact_count": 6,
+      "max_deceleration": -18180.595898437474,
+      "impact_frame": 138,
+      "impact_body_part": "knee_center_x"
+    },
+    "collapse": {
+      "height_reduction_pct": 27.92193942830858,
+      "aspect_ratio_increase_pct": 16.294912704943705,
+      "max_height_collapse_velocity": -1865.460205078125,
+      "max_aspect_ratio_change_velocity": 6.040246840369188
+    }
+  }
+]
