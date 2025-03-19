@@ -1,0 +1,20 @@
+# Video-Based Fall Detection Recommendations
+
+1. Focus on vertical dynamics: The most reliable indicators of falls in video are height reduction and vertical velocity/acceleration.
+
+2. Look for aspect ratio changes: Falls show distinctive changes as people transition from vertical to horizontal positions.
+
+3. Impact detection is critical: Features related to impact detection are strong discriminators between falls and non-falls.
+
+4. Tune thresholds for sensitivity: For elderly care applications, prioritize high recall (F2-optimized threshold) to minimize missed falls.
+
+5. Consider environment-specific calibration: Different environments may require threshold adjustments.
+
+6. Combine temporal features: The sequence of motion events is important - look for rapid height collapse followed by impact.
+
+7. Key discriminative features: fps, max_deceleration, duration, right_elbow_mean, right_hip_max
+
+8. Consider false positive scenarios: Certain workout movements may trigger false alarms; adjust thresholds accordingly.
+
+9. Deal with occlusion: Implement strategies to handle partial occlusion in real-world settings.
+

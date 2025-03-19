@@ -1,5 +1,5 @@
 {
-  "model_name": "Random Forest",
+  "model_name": "Gradient Boosting",
   "features": [
     "fps",
     "duration",
@@ -39,46 +39,22 @@
     "max_center_accel_y",
     "upper_body_vertical_displacement",
     "center_vertical_displacement",
+    "has_impact",
     "impact_count",
     "max_deceleration",
     "impact_frame",
     "height_reduction_pct",
     "aspect_ratio_increase_pct",
     "max_height_collapse_velocity",
-    "max_aspect_ratio_change_velocity",
-    "width",
-    "height",
-    "right_elbow",
-    "left_elbow",
-    "right_shoulder",
-    "left_shoulder",
-    "neck",
-    "right_arm_ratio",
-    "left_arm_ratio",
-    "shoulders_ratio",
-    "hips_ratio",
-    "shoulder_hip_ratio",
-    "width_height_ratio",
-    "bbox_x",
-    "bbox_y",
-    "bbox_width",
-    "bbox_height",
-    "bbox_area",
-    "bbox_aspect_ratio",
-    "right_hip",
-    "left_hip",
-    "right_knee",
-    "left_knee",
-    "right_leg_ratio",
-    "left_leg_ratio"
+    "max_aspect_ratio_change_velocity"
   ],
   "metrics": {
-    "accuracy": 1.0,
-    "precision": 1.0,
+    "accuracy": 0.9888888888888889,
+    "precision": 0.967741935483871,
     "recall": 1.0,
-    "f1": 1.0,
-    "fall_detection_score": 1.0
+    "f1": 0.9836065573770492,
+    "fall_detection_score": 0.9933774834437086
   },
-  "num_features": 70,
-  "training_date": "2025-03-18"
+  "num_features": 46,
+  "training_date": "2025-03-19"
 }

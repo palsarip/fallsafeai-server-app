@@ -1558,7 +1558,7 @@
     },
     "proportions": {
       "right_arm_ratio": 0.313946932711955,
-      "left_arm_ratio": 0.8562001922720487,
+      "left_arm_ratio": 0.8562001922720488,
       "shoulders_ratio": 0.7869003424828519,
       "hips_ratio": 0.4742593145425374,
       "shoulder_hip_ratio": 1.6592195837880017,
@@ -1723,7 +1723,7 @@
       "height": 168
     },
     "joint_angles": {
-      "right_elbow": 54.82010718992208,
+      "right_elbow": 54.820107189922076,
       "left_elbow": 60.412978241608855,
       "left_shoulder": 137.5370451006992,
       "neck": 7.048197777989186
