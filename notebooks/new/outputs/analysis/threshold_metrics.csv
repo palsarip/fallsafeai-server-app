@@ -1,3 +1,3 @@
 Threshold,Label,Accuracy,Precision,Recall (Sensitivity),Specificity,F1 Score,False Alarm Rate,Miss Rate,TP,FP,TN,FN
-0.5,Default (0.5),1.0,1.0,1.0,1.0,1.0,0.0,0.0,6,0,137,0
-0.7,F2 Optimal (Recall Focus),1.0,1.0,1.0,1.0,1.0,0.0,0.0,6,0,137,0
+0.5,Default (0.5),1.0,1.0,1.0,1.0,1.0,0.0,0.0,30,0,30,0
+0.5480366940498352,F2 Optimal (Recall Focus),1.0,1.0,1.0,1.0,1.0,0.0,0.0,30,0,30,0

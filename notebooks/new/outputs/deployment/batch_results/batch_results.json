@@ -1,0 +1,161 @@
+{
+  "barbell biceps curl_1": {
+    "video_path": "test_videos\\barbell biceps curl_1.mp4",
+    "has_fall": false,
+    "max_probability": 0.43580182027816766,
+    "fall_events_count": 0,
+    "fall_events": [],
+    "threshold_used": 0.5480366940498352,
+    "threshold_type": "f2_optimal",
+    "model_type": "ensemble"
+  },
+  "barbell biceps curl_2": {
+    "video_path": "test_videos\\barbell biceps curl_2.mp4",
+    "has_fall": false,
+    "max_probability": 0.4478018202781676,
+    "fall_events_count": 0,
+    "fall_events": [],
+    "threshold_used": 0.5480366940498352,
+    "threshold_type": "f2_optimal",
+    "model_type": "ensemble"
+  },
+  "bench press_1": {
+    "video_path": "test_videos\\bench press_1.mp4",
+    "has_fall": false,
+    "max_probability": 0.44060182027816774,
+    "fall_events_count": 0,
+    "fall_events": [],
+    "threshold_used": 0.5480366940498352,
+    "threshold_type": "f2_optimal",
+    "model_type": "ensemble"
+  },
+  "bench press_2": {
+    "video_path": "test_videos\\bench press_2.mp4",
+    "has_fall": false,
+    "max_probability": 0.44540182027816766,
+    "fall_events_count": 0,
+    "fall_events": [],
+    "threshold_used": 0.5480366940498352,
+    "threshold_type": "f2_optimal",
+    "model_type": "ensemble"
+  },
+  "push-up_1": {
+    "video_path": "test_videos\\push-up_1.mp4",
+    "has_fall": false,
+    "max_probability": 0.4478018202781677,
+    "fall_events_count": 0,
+    "fall_events": [],
+    "threshold_used": 0.5480366940498352,
+    "threshold_type": "f2_optimal",
+    "model_type": "ensemble"
+  },
+  "video (1)": {
+    "video_path": "test_videos\\video (1).avi",
+    "has_fall": true,
+    "max_probability": 0.7527929028749465,
+    "fall_events_count": 2,
+    "fall_events": [
+      {
+        "start_frame": 29,
+        "end_frame": 56,
+        "max_probability": 0.7527929028749465,
+        "duration_sec": 1.08
+      },
+      {
+        "start_frame": 109,
+        "end_frame": 156,
+        "max_probability": 0.6979831825971602,
+        "duration_sec": 1.88
+      }
+    ],
+    "threshold_used": 0.5480366940498352,
+    "threshold_type": "f2_optimal",
+    "model_type": "ensemble"
+  },
+  "video (2)": {
+    "video_path": "test_videos\\video (2).avi",
+    "has_fall": true,
+    "max_probability": 0.7515855929613113,
+    "fall_events_count": 1,
+    "fall_events": [
+      {
+        "start_frame": 104,
+        "end_frame": 148,
+        "max_probability": 0.7515855929613113,
+        "duration_sec": 1.76
+      }
+    ],
+    "threshold_used": 0.5480366940498352,
+    "threshold_type": "f2_optimal",
+    "model_type": "ensemble"
+  },
+  "video (32)": {
+    "video_path": "test_videos\\video (32).avi",
+    "has_fall": true,
+    "max_probability": 0.705664123725891,
+    "fall_events_count": 1,
+    "fall_events": [
+      {
+        "start_frame": 85,
+        "end_frame": 102,
+        "max_probability": 0.705664123725891,
+        "duration_sec": 0.708322
+      }
+    ],
+    "threshold_used": 0.5480366940498352,
+    "threshold_type": "f2_optimal",
+    "model_type": "ensemble"
+  },
+  "video (47)": {
+    "video_path": "test_videos\\video (47).avi",
+    "has_fall": true,
+    "max_probability": 0.7539999499320984,
+    "fall_events_count": 3,
+    "fall_events": [
+      {
+        "start_frame": 35,
+        "end_frame": 71,
+        "max_probability": 0.7539888014793397,
+        "duration_sec": 1.499976
+      },
+      {
+        "start_frame": 105,
+        "end_frame": 254,
+        "max_probability": 0.7539999499320984,
+        "duration_sec": 6.208234
+      },
+      {
+        "start_frame": 286,
+        "end_frame": 287,
+        "max_probability": 0.6798885855913162,
+        "duration_sec": 0.041666
+      }
+    ],
+    "threshold_used": 0.5480366940498352,
+    "threshold_type": "f2_optimal",
+    "model_type": "ensemble"
+  },
+  "video (51)": {
+    "video_path": "test_videos\\video (51).avi",
+    "has_fall": true,
+    "max_probability": 0.7539997913837433,
+    "fall_events_count": 2,
+    "fall_events": [
+      {
+        "start_frame": 43,
+        "end_frame": 120,
+        "max_probability": 0.7539899572134019,
+        "duration_sec": 3.08
+      },
+      {
+        "start_frame": 150,
+        "end_frame": 202,
+        "max_probability": 0.7539997913837433,
+        "duration_sec": 2.08
+      }
+    ],
+    "threshold_used": 0.5480366940498352,
+    "threshold_type": "f2_optimal",
+    "model_type": "ensemble"
+  }
+}

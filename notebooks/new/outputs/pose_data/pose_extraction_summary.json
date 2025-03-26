@@ -1,6 +1,6 @@
 {
   "fall_videos": {
-    "count": 190,
+    "count": 100,
     "file_paths": [
       "..\\..\\data\\le2i\\Coffee_room_01\\Coffee_room_01\\Videos\\video (1).avi",
       "..\\..\\data\\le2i\\Coffee_room_01\\Coffee_room_01\\Videos\\video (10).avi",
@@ -101,97 +101,7 @@
       "..\\..\\data\\le2i\\Home_01\\Home_01\\Videos\\video (6).avi",
       "..\\..\\data\\le2i\\Home_01\\Home_01\\Videos\\video (7).avi",
       "..\\..\\data\\le2i\\Home_01\\Home_01\\Videos\\video (8).avi",
-      "..\\..\\data\\le2i\\Home_01\\Home_01\\Videos\\video (9).avi",
-      "..\\..\\data\\le2i\\Home_02\\Home_02\\Videos\\video (31).avi",
-      "..\\..\\data\\le2i\\Home_02\\Home_02\\Videos\\video (32).avi",
-      "..\\..\\data\\le2i\\Home_02\\Home_02\\Videos\\video (33).avi",
-      "..\\..\\data\\le2i\\Home_02\\Home_02\\Videos\\video (34).avi",
-      "..\\..\\data\\le2i\\Home_02\\Home_02\\Videos\\video (35).avi",
-      "..\\..\\data\\le2i\\Home_02\\Home_02\\Videos\\video (36).avi",
-      "..\\..\\data\\le2i\\Home_02\\Home_02\\Videos\\video (37).avi",
-      "..\\..\\data\\le2i\\Home_02\\Home_02\\Videos\\video (38).avi",
-      "..\\..\\data\\le2i\\Home_02\\Home_02\\Videos\\video (39).avi",
-      "..\\..\\data\\le2i\\Home_02\\Home_02\\Videos\\video (40).avi",
-      "..\\..\\data\\le2i\\Home_02\\Home_02\\Videos\\video (41).avi",
-      "..\\..\\data\\le2i\\Home_02\\Home_02\\Videos\\video (42).avi",
-      "..\\..\\data\\le2i\\Home_02\\Home_02\\Videos\\video (43).avi",
-      "..\\..\\data\\le2i\\Home_02\\Home_02\\Videos\\video (44).avi",
-      "..\\..\\data\\le2i\\Home_02\\Home_02\\Videos\\video (45).avi",
-      "..\\..\\data\\le2i\\Home_02\\Home_02\\Videos\\video (46).avi",
-      "..\\..\\data\\le2i\\Home_02\\Home_02\\Videos\\video (47).avi",
-      "..\\..\\data\\le2i\\Home_02\\Home_02\\Videos\\video (48).avi",
-      "..\\..\\data\\le2i\\Home_02\\Home_02\\Videos\\video (49).avi",
-      "..\\..\\data\\le2i\\Home_02\\Home_02\\Videos\\video (50).avi",
-      "..\\..\\data\\le2i\\Home_02\\Home_02\\Videos\\video (51).avi",
-      "..\\..\\data\\le2i\\Home_02\\Home_02\\Videos\\video (52).avi",
-      "..\\..\\data\\le2i\\Home_02\\Home_02\\Videos\\video (53).avi",
-      "..\\..\\data\\le2i\\Home_02\\Home_02\\Videos\\video (54).avi",
-      "..\\..\\data\\le2i\\Home_02\\Home_02\\Videos\\video (55).avi",
-      "..\\..\\data\\le2i\\Home_02\\Home_02\\Videos\\video (56).avi",
-      "..\\..\\data\\le2i\\Home_02\\Home_02\\Videos\\video (57).avi",
-      "..\\..\\data\\le2i\\Home_02\\Home_02\\Videos\\video (58).avi",
-      "..\\..\\data\\le2i\\Home_02\\Home_02\\Videos\\video (59).avi",
-      "..\\..\\data\\le2i\\Home_02\\Home_02\\Videos\\video (60).avi",
-      "..\\..\\data\\le2i\\Lecture_room\\Lecture room\\video (1).avi",
-      "..\\..\\data\\le2i\\Lecture_room\\Lecture room\\video (10).avi",
-      "..\\..\\data\\le2i\\Lecture_room\\Lecture room\\video (11).avi",
-      "..\\..\\data\\le2i\\Lecture_room\\Lecture room\\video (12).avi",
-      "..\\..\\data\\le2i\\Lecture_room\\Lecture room\\video (13).avi",
-      "..\\..\\data\\le2i\\Lecture_room\\Lecture room\\video (14).avi",
-      "..\\..\\data\\le2i\\Lecture_room\\Lecture room\\video (15).avi",
-      "..\\..\\data\\le2i\\Lecture_room\\Lecture room\\video (16).avi",
-      "..\\..\\data\\le2i\\Lecture_room\\Lecture room\\video (17).avi",
-      "..\\..\\data\\le2i\\Lecture_room\\Lecture room\\video (18).avi",
-      "..\\..\\data\\le2i\\Lecture_room\\Lecture room\\video (19).avi",
-      "..\\..\\data\\le2i\\Lecture_room\\Lecture room\\video (2).avi",
-      "..\\..\\data\\le2i\\Lecture_room\\Lecture room\\video (20).avi",
-      "..\\..\\data\\le2i\\Lecture_room\\Lecture room\\video (21).avi",
-      "..\\..\\data\\le2i\\Lecture_room\\Lecture room\\video (22).avi",
-      "..\\..\\data\\le2i\\Lecture_room\\Lecture room\\video (23).avi",
-      "..\\..\\data\\le2i\\Lecture_room\\Lecture room\\video (24).avi",
-      "..\\..\\data\\le2i\\Lecture_room\\Lecture room\\video (25).avi",
-      "..\\..\\data\\le2i\\Lecture_room\\Lecture room\\video (26).avi",
-      "..\\..\\data\\le2i\\Lecture_room\\Lecture room\\video (27).avi",
-      "..\\..\\data\\le2i\\Lecture_room\\Lecture room\\video (3).avi",
-      "..\\..\\data\\le2i\\Lecture_room\\Lecture room\\video (4).avi",
-      "..\\..\\data\\le2i\\Lecture_room\\Lecture room\\video (5).avi",
-      "..\\..\\data\\le2i\\Lecture_room\\Lecture room\\video (6).avi",
-      "..\\..\\data\\le2i\\Lecture_room\\Lecture room\\video (7).avi",
-      "..\\..\\data\\le2i\\Lecture_room\\Lecture room\\video (8).avi",
-      "..\\..\\data\\le2i\\Lecture_room\\Lecture room\\video (9).avi",
-      "..\\..\\data\\le2i\\Office\\Office\\video (1).avi",
-      "..\\..\\data\\le2i\\Office\\Office\\video (10).avi",
-      "..\\..\\data\\le2i\\Office\\Office\\video (11).avi",
-      "..\\..\\data\\le2i\\Office\\Office\\video (12).avi",
-      "..\\..\\data\\le2i\\Office\\Office\\video (13).avi",
-      "..\\..\\data\\le2i\\Office\\Office\\video (14).avi",
-      "..\\..\\data\\le2i\\Office\\Office\\video (15).avi",
-      "..\\..\\data\\le2i\\Office\\Office\\video (16).avi",
-      "..\\..\\data\\le2i\\Office\\Office\\video (17).avi",
-      "..\\..\\data\\le2i\\Office\\Office\\video (18).avi",
-      "..\\..\\data\\le2i\\Office\\Office\\video (19).avi",
-      "..\\..\\data\\le2i\\Office\\Office\\video (2).avi",
-      "..\\..\\data\\le2i\\Office\\Office\\video (20).avi",
-      "..\\..\\data\\le2i\\Office\\Office\\video (21).avi",
-      "..\\..\\data\\le2i\\Office\\Office\\video (22).avi",
-      "..\\..\\data\\le2i\\Office\\Office\\video (23).avi",
-      "..\\..\\data\\le2i\\Office\\Office\\video (24).avi",
-      "..\\..\\data\\le2i\\Office\\Office\\video (25).avi",
-      "..\\..\\data\\le2i\\Office\\Office\\video (26).avi",
-      "..\\..\\data\\le2i\\Office\\Office\\video (27).avi",
-      "..\\..\\data\\le2i\\Office\\Office\\video (28).avi",
-      "..\\..\\data\\le2i\\Office\\Office\\video (29).avi",
-      "..\\..\\data\\le2i\\Office\\Office\\video (3).avi",
-      "..\\..\\data\\le2i\\Office\\Office\\video (30).avi",
-      "..\\..\\data\\le2i\\Office\\Office\\video (31).avi",
-      "..\\..\\data\\le2i\\Office\\Office\\video (32).avi",
-      "..\\..\\data\\le2i\\Office\\Office\\video (33).avi",
-      "..\\..\\data\\le2i\\Office\\Office\\video (4).avi",
-      "..\\..\\data\\le2i\\Office\\Office\\video (5).avi",
-      "..\\..\\data\\le2i\\Office\\Office\\video (6).avi",
-      "..\\..\\data\\le2i\\Office\\Office\\video (7).avi",
-      "..\\..\\data\\le2i\\Office\\Office\\video (8).avi",
-      "..\\..\\data\\le2i\\Office\\Office\\video (9).avi"
+      "..\\..\\data\\le2i\\Home_01\\Home_01\\Videos\\video (9).avi"
     ],
     "quality_metrics": [
       {
@@ -993,794 +903,12 @@
         "detection_rate": 1.0,
         "avg_people_per_frame": 1.0,
         "avg_keypoint_confidence": 0.7860672664718009
-      },
-      {
-        "video": "video (31).avi",
-        "total_frames": 312,
-        "frames_with_detections": 312,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.0096153846153846,
-        "avg_keypoint_confidence": 0.7536366394946173
-      },
-      {
-        "video": "video (32).avi",
-        "total_frames": 192,
-        "frames_with_detections": 192,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.0,
-        "avg_keypoint_confidence": 0.6524014300110996
-      },
-      {
-        "video": "video (33).avi",
-        "total_frames": 192,
-        "frames_with_detections": 192,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.0,
-        "avg_keypoint_confidence": 0.8619077370380117
-      },
-      {
-        "video": "video (34).avi",
-        "total_frames": 240,
-        "frames_with_detections": 240,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.0,
-        "avg_keypoint_confidence": 0.8853874612397015
-      },
-      {
-        "video": "video (35).avi",
-        "total_frames": 216,
-        "frames_with_detections": 216,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.0,
-        "avg_keypoint_confidence": 0.924387266722453
-      },
-      {
-        "video": "video (36).avi",
-        "total_frames": 192,
-        "frames_with_detections": 192,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.0,
-        "avg_keypoint_confidence": 0.8652725171816816
-      },
-      {
-        "video": "video (37).avi",
-        "total_frames": 240,
-        "frames_with_detections": 240,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.0083333333333333,
-        "avg_keypoint_confidence": 0.8173305301034645
-      },
-      {
-        "video": "video (38).avi",
-        "total_frames": 192,
-        "frames_with_detections": 192,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.0,
-        "avg_keypoint_confidence": 0.7856645349757837
-      },
-      {
-        "video": "video (39).avi",
-        "total_frames": 192,
-        "frames_with_detections": 192,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.0,
-        "avg_keypoint_confidence": 0.8447320392548207
-      },
-      {
-        "video": "video (40).avi",
-        "total_frames": 240,
-        "frames_with_detections": 240,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.0,
-        "avg_keypoint_confidence": 0.7986239575406573
-      },
-      {
-        "video": "video (41).avi",
-        "total_frames": 240,
-        "frames_with_detections": 240,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.0041666666666667,
-        "avg_keypoint_confidence": 0.7879802349053403
-      },
-      {
-        "video": "video (42).avi",
-        "total_frames": 168,
-        "frames_with_detections": 168,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.0,
-        "avg_keypoint_confidence": 0.8112565641674925
-      },
-      {
-        "video": "video (43).avi",
-        "total_frames": 168,
-        "frames_with_detections": 168,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.0,
-        "avg_keypoint_confidence": 0.9361537723835944
-      },
-      {
-        "video": "video (44).avi",
-        "total_frames": 314,
-        "frames_with_detections": 314,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.0,
-        "avg_keypoint_confidence": 0.8175034839115581
-      },
-      {
-        "video": "video (45).avi",
-        "total_frames": 216,
-        "frames_with_detections": 216,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.0,
-        "avg_keypoint_confidence": 0.8315806972519302
-      },
-      {
-        "video": "video (46).avi",
-        "total_frames": 264,
-        "frames_with_detections": 264,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.0,
-        "avg_keypoint_confidence": 0.7556712074395718
-      },
-      {
-        "video": "video (47).avi",
-        "total_frames": 288,
-        "frames_with_detections": 288,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.0,
-        "avg_keypoint_confidence": 0.8648939814751061
-      },
-      {
-        "video": "video (48).avi",
-        "total_frames": 240,
-        "frames_with_detections": 240,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.0,
-        "avg_keypoint_confidence": 0.7994278745190914
-      },
-      {
-        "video": "video (49).avi",
-        "total_frames": 312,
-        "frames_with_detections": 312,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.0,
-        "avg_keypoint_confidence": 0.8838999326948055
-      },
-      {
-        "video": "video (50).avi",
-        "total_frames": 312,
-        "frames_with_detections": 312,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.0,
-        "avg_keypoint_confidence": 0.8838999326948055
-      },
-      {
-        "video": "video (51).avi",
-        "total_frames": 264,
-        "frames_with_detections": 264,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.0,
-        "avg_keypoint_confidence": 0.8167185772688775
-      },
-      {
-        "video": "video (52).avi",
-        "total_frames": 216,
-        "frames_with_detections": 216,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.0,
-        "avg_keypoint_confidence": 0.8244208678448967
-      },
-      {
-        "video": "video (53).avi",
-        "total_frames": 216,
-        "frames_with_detections": 216,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.0046296296296295,
-        "avg_keypoint_confidence": 0.8068761770412618
-      },
-      {
-        "video": "video (54).avi",
-        "total_frames": 216,
-        "frames_with_detections": 216,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.0,
-        "avg_keypoint_confidence": 0.8270361858911098
-      },
-      {
-        "video": "video (55).avi",
-        "total_frames": 216,
-        "frames_with_detections": 216,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.0,
-        "avg_keypoint_confidence": 0.8854844358177503
-      },
-      {
-        "video": "video (56).avi",
-        "total_frames": 360,
-        "frames_with_detections": 360,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.0027777777777778,
-        "avg_keypoint_confidence": 0.8725952036699661
-      },
-      {
-        "video": "video (57).avi",
-        "total_frames": 240,
-        "frames_with_detections": 240,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.0041666666666667,
-        "avg_keypoint_confidence": 0.7640127258463985
-      },
-      {
-        "video": "video (58).avi",
-        "total_frames": 336,
-        "frames_with_detections": 336,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.5,
-        "avg_keypoint_confidence": 0.837965669460859
-      },
-      {
-        "video": "video (59).avi",
-        "total_frames": 216,
-        "frames_with_detections": 216,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.0185185185185186,
-        "avg_keypoint_confidence": 0.815881611798148
-      },
-      {
-        "video": "video (60).avi",
-        "total_frames": 312,
-        "frames_with_detections": 312,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.0064102564102564,
-        "avg_keypoint_confidence": 0.8248724576540386
-      },
-      {
-        "video": "video (1).avi",
-        "total_frames": 285,
-        "frames_with_detections": 285,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.0,
-        "avg_keypoint_confidence": 0.6213624843589869
-      },
-      {
-        "video": "video (10).avi",
-        "total_frames": 493,
-        "frames_with_detections": 493,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.0060851926977687,
-        "avg_keypoint_confidence": 0.8035238320927929
-      },
-      {
-        "video": "video (11).avi",
-        "total_frames": 363,
-        "frames_with_detections": 363,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.0,
-        "avg_keypoint_confidence": 0.5888521108577
-      },
-      {
-        "video": "video (12).avi",
-        "total_frames": 675,
-        "frames_with_detections": 675,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.0,
-        "avg_keypoint_confidence": 0.7306979035499969
-      },
-      {
-        "video": "video (13).avi",
-        "total_frames": 415,
-        "frames_with_detections": 415,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.0192771084337349,
-        "avg_keypoint_confidence": 0.8808478596214767
-      },
-      {
-        "video": "video (14).avi",
-        "total_frames": 428,
-        "frames_with_detections": 428,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.0,
-        "avg_keypoint_confidence": 0.7678439038588696
-      },
-      {
-        "video": "video (15).avi",
-        "total_frames": 593,
-        "frames_with_detections": 593,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.0,
-        "avg_keypoint_confidence": 0.7681559034538518
-      },
-      {
-        "video": "video (16).avi",
-        "total_frames": 870,
-        "frames_with_detections": 870,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.0011494252873563,
-        "avg_keypoint_confidence": 0.8161519883719872
-      },
-      {
-        "video": "video (17).avi",
-        "total_frames": 506,
-        "frames_with_detections": 506,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.0019762845849802,
-        "avg_keypoint_confidence": 0.8028383779131066
-      },
-      {
-        "video": "video (18).avi",
-        "total_frames": 1052,
-        "frames_with_detections": 1052,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.0,
-        "avg_keypoint_confidence": 0.8404825495865298
-      },
-      {
-        "video": "video (19).avi",
-        "total_frames": 818,
-        "frames_with_detections": 818,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.0,
-        "avg_keypoint_confidence": 0.7941194640059306
-      },
-      {
-        "video": "video (2).avi",
-        "total_frames": 506,
-        "frames_with_detections": 506,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.0,
-        "avg_keypoint_confidence": 0.753556989162268
-      },
-      {
-        "video": "video (20).avi",
-        "total_frames": 298,
-        "frames_with_detections": 298,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.0402684563758389,
-        "avg_keypoint_confidence": 0.8643158671568877
-      },
-      {
-        "video": "video (21).avi",
-        "total_frames": 1130,
-        "frames_with_detections": 1130,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.0,
-        "avg_keypoint_confidence": 0.8200189737351445
-      },
-      {
-        "video": "video (22).avi",
-        "total_frames": 987,
-        "frames_with_detections": 987,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.0,
-        "avg_keypoint_confidence": 0.7829435224922895
-      },
-      {
-        "video": "video (23).avi",
-        "total_frames": 675,
-        "frames_with_detections": 675,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.0,
-        "avg_keypoint_confidence": 0.8292363761215363
-      },
-      {
-        "video": "video (24).avi",
-        "total_frames": 1442,
-        "frames_with_detections": 1442,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.0006934812760055,
-        "avg_keypoint_confidence": 0.7624797400485966
-      },
-      {
-        "video": "video (25).avi",
-        "total_frames": 376,
-        "frames_with_detections": 376,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.002659574468085,
-        "avg_keypoint_confidence": 0.8532544299419753
-      },
-      {
-        "video": "video (26).avi",
-        "total_frames": 1429,
-        "frames_with_detections": 1429,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.0,
-        "avg_keypoint_confidence": 0.7701047052018707
-      },
-      {
-        "video": "video (27).avi",
-        "total_frames": 259,
-        "frames_with_detections": 259,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.0,
-        "avg_keypoint_confidence": 0.8459467851026901
-      },
-      {
-        "video": "video (3).avi",
-        "total_frames": 623,
-        "frames_with_detections": 623,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.0,
-        "avg_keypoint_confidence": 0.7771814641486603
-      },
-      {
-        "video": "video (4).avi",
-        "total_frames": 402,
-        "frames_with_detections": 402,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.0,
-        "avg_keypoint_confidence": 0.7073943337109493
-      },
-      {
-        "video": "video (5).avi",
-        "total_frames": 389,
-        "frames_with_detections": 389,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.0,
-        "avg_keypoint_confidence": 0.7899003511361059
-      },
-      {
-        "video": "video (6).avi",
-        "total_frames": 285,
-        "frames_with_detections": 285,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.0,
-        "avg_keypoint_confidence": 0.8705288565105321
-      },
-      {
-        "video": "video (7).avi",
-        "total_frames": 337,
-        "frames_with_detections": 337,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.0,
-        "avg_keypoint_confidence": 0.8635396687607325
-      },
-      {
-        "video": "video (8).avi",
-        "total_frames": 722,
-        "frames_with_detections": 722,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.0,
-        "avg_keypoint_confidence": 0.8515412946270121
-      },
-      {
-        "video": "video (9).avi",
-        "total_frames": 935,
-        "frames_with_detections": 935,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.0,
-        "avg_keypoint_confidence": 0.738298398589975
-      },
-      {
-        "video": "video (1).avi",
-        "total_frames": 415,
-        "frames_with_detections": 415,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.0,
-        "avg_keypoint_confidence": 0.8201925827464264
-      },
-      {
-        "video": "video (10).avi",
-        "total_frames": 269,
-        "frames_with_detections": 269,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.0,
-        "avg_keypoint_confidence": 0.8419410900954448
-      },
-      {
-        "video": "video (11).avi",
-        "total_frames": 193,
-        "frames_with_detections": 193,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.0,
-        "avg_keypoint_confidence": 0.633798522188637
-      },
-      {
-        "video": "video (12).avi",
-        "total_frames": 298,
-        "frames_with_detections": 298,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.0,
-        "avg_keypoint_confidence": 0.8202096728359464
-      },
-      {
-        "video": "video (13).avi",
-        "total_frames": 792,
-        "frames_with_detections": 792,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.0,
-        "avg_keypoint_confidence": 0.84632132183023
-      },
-      {
-        "video": "video (14).avi",
-        "total_frames": 173,
-        "frames_with_detections": 173,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.0057803468208093,
-        "avg_keypoint_confidence": 0.7416685929084682
-      },
-      {
-        "video": "video (15).avi",
-        "total_frames": 318,
-        "frames_with_detections": 318,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.0,
-        "avg_keypoint_confidence": 0.7823019611203327
-      },
-      {
-        "video": "video (16).avi",
-        "total_frames": 428,
-        "frames_with_detections": 428,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.0023364485981308,
-        "avg_keypoint_confidence": 0.8456578433473233
-      },
-      {
-        "video": "video (17).avi",
-        "total_frames": 217,
-        "frames_with_detections": 217,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.0,
-        "avg_keypoint_confidence": 0.7483421417641076
-      },
-      {
-        "video": "video (18).avi",
-        "total_frames": 766,
-        "frames_with_detections": 766,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.0,
-        "avg_keypoint_confidence": 0.8239708166477566
-      },
-      {
-        "video": "video (19).avi",
-        "total_frames": 329,
-        "frames_with_detections": 329,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.0,
-        "avg_keypoint_confidence": 0.7890616355758144
-      },
-      {
-        "video": "video (2).avi",
-        "total_frames": 259,
-        "frames_with_detections": 259,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.0,
-        "avg_keypoint_confidence": 0.6527936254110192
-      },
-      {
-        "video": "video (20).avi",
-        "total_frames": 532,
-        "frames_with_detections": 532,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.0,
-        "avg_keypoint_confidence": 0.7649061723920502
-      },
-      {
-        "video": "video (21).avi",
-        "total_frames": 428,
-        "frames_with_detections": 428,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.0,
-        "avg_keypoint_confidence": 0.8099496603464963
-      },
-      {
-        "video": "video (22).avi",
-        "total_frames": 221,
-        "frames_with_detections": 221,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.0,
-        "avg_keypoint_confidence": 0.7645935186915229
-      },
-      {
-        "video": "video (23).avi",
-        "total_frames": 1146,
-        "frames_with_detections": 1146,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.0078534031413613,
-        "avg_keypoint_confidence": 0.7784353940000611
-      },
-      {
-        "video": "video (24).avi",
-        "total_frames": 829,
-        "frames_with_detections": 829,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.0012062726176116,
-        "avg_keypoint_confidence": 0.8861963699242885
-      },
-      {
-        "video": "video (25).avi",
-        "total_frames": 988,
-        "frames_with_detections": 988,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.0,
-        "avg_keypoint_confidence": 0.7843569153662049
-      },
-      {
-        "video": "video (26).avi",
-        "total_frames": 499,
-        "frames_with_detections": 499,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.0,
-        "avg_keypoint_confidence": 0.7483090563202656
-      },
-      {
-        "video": "video (27).avi",
-        "total_frames": 811,
-        "frames_with_detections": 811,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.002466091245376,
-        "avg_keypoint_confidence": 0.7407074595952349
-      },
-      {
-        "video": "video (28).avi",
-        "total_frames": 505,
-        "frames_with_detections": 505,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.0,
-        "avg_keypoint_confidence": 0.7784452533943769
-      },
-      {
-        "video": "video (29).avi",
-        "total_frames": 1221,
-        "frames_with_detections": 1221,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.0,
-        "avg_keypoint_confidence": 0.7646014555443472
-      },
-      {
-        "video": "video (3).avi",
-        "total_frames": 467,
-        "frames_with_detections": 467,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.0,
-        "avg_keypoint_confidence": 0.8977499052943065
-      },
-      {
-        "video": "video (30).avi",
-        "total_frames": 1247,
-        "frames_with_detections": 1247,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.0,
-        "avg_keypoint_confidence": 0.7234385152313041
-      },
-      {
-        "video": "video (31).avi",
-        "total_frames": 203,
-        "frames_with_detections": 203,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.0,
-        "avg_keypoint_confidence": 0.7504536003565366
-      },
-      {
-        "video": "video (32).avi",
-        "total_frames": 544,
-        "frames_with_detections": 544,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.0018382352941178,
-        "avg_keypoint_confidence": 0.7090179644482236
-      },
-      {
-        "video": "video (33).avi",
-        "total_frames": 639,
-        "frames_with_detections": 639,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.0062597809076683,
-        "avg_keypoint_confidence": 0.7015384745473308
-      },
-      {
-        "video": "video (4).avi",
-        "total_frames": 320,
-        "frames_with_detections": 320,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.0,
-        "avg_keypoint_confidence": 0.7998208876838342
-      },
-      {
-        "video": "video (5).avi",
-        "total_frames": 238,
-        "frames_with_detections": 238,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.0,
-        "avg_keypoint_confidence": 0.6648590308712405
-      },
-      {
-        "video": "video (6).avi",
-        "total_frames": 415,
-        "frames_with_detections": 415,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.0,
-        "avg_keypoint_confidence": 0.813426402690969
-      },
-      {
-        "video": "video (7).avi",
-        "total_frames": 217,
-        "frames_with_detections": 217,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.0046082949308757,
-        "avg_keypoint_confidence": 0.7974160731188586
-      },
-      {
-        "video": "video (8).avi",
-        "total_frames": 419,
-        "frames_with_detections": 419,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.0,
-        "avg_keypoint_confidence": 0.8039915519851294
-      },
-      {
-        "video": "video (9).avi",
-        "total_frames": 206,
-        "frames_with_detections": 206,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.0,
-        "avg_keypoint_confidence": 0.7664604156496426
       }
     ]
   },
   "workout_videos": {
-    "count": 200,
+    "count": 100,
     "file_paths": [
-      "..\\..\\data\\workout_videos\\barbell biceps curl\\barbell biceps curl_1.mp4",
-      "..\\..\\data\\workout_videos\\barbell biceps curl\\barbell biceps curl_10.mp4",
-      "..\\..\\data\\workout_videos\\barbell biceps curl\\barbell biceps curl_11.mp4",
-      "..\\..\\data\\workout_videos\\barbell biceps curl\\barbell biceps curl_12.mp4",
-      "..\\..\\data\\workout_videos\\barbell biceps curl\\barbell biceps curl_13.mp4",
-      "..\\..\\data\\workout_videos\\barbell biceps curl\\barbell biceps curl_14.mp4",
-      "..\\..\\data\\workout_videos\\barbell biceps curl\\barbell biceps curl_15.mp4",
-      "..\\..\\data\\workout_videos\\barbell biceps curl\\barbell biceps curl_16.mp4",
-      "..\\..\\data\\workout_videos\\barbell biceps curl\\barbell biceps curl_17.mp4",
-      "..\\..\\data\\workout_videos\\barbell biceps curl\\barbell biceps curl_18.mp4",
-      "..\\..\\data\\workout_videos\\barbell biceps curl\\barbell biceps curl_19.mp4",
-      "..\\..\\data\\workout_videos\\barbell biceps curl\\barbell biceps curl_2.mp4",
-      "..\\..\\data\\workout_videos\\barbell biceps curl\\barbell biceps curl_20.mp4",
-      "..\\..\\data\\workout_videos\\barbell biceps curl\\barbell biceps curl_21.mp4",
-      "..\\..\\data\\workout_videos\\barbell biceps curl\\barbell biceps curl_22.mp4",
-      "..\\..\\data\\workout_videos\\barbell biceps curl\\barbell biceps curl_23.mp4",
-      "..\\..\\data\\workout_videos\\barbell biceps curl\\barbell biceps curl_24.mp4",
-      "..\\..\\data\\workout_videos\\barbell biceps curl\\barbell biceps curl_25.mp4",
-      "..\\..\\data\\workout_videos\\barbell biceps curl\\barbell biceps curl_26.mp4",
-      "..\\..\\data\\workout_videos\\barbell biceps curl\\barbell biceps curl_27.mp4",
-      "..\\..\\data\\workout_videos\\barbell biceps curl\\barbell biceps curl_28.mp4",
-      "..\\..\\data\\workout_videos\\barbell biceps curl\\barbell biceps curl_29.mp4",
-      "..\\..\\data\\workout_videos\\barbell biceps curl\\barbell biceps curl_3.mp4",
-      "..\\..\\data\\workout_videos\\barbell biceps curl\\barbell biceps curl_30.mp4",
-      "..\\..\\data\\workout_videos\\barbell biceps curl\\barbell biceps curl_31.mp4",
-      "..\\..\\data\\workout_videos\\barbell biceps curl\\barbell biceps curl_32.mp4",
-      "..\\..\\data\\workout_videos\\barbell biceps curl\\barbell biceps curl_33.mp4",
-      "..\\..\\data\\workout_videos\\barbell biceps curl\\barbell biceps curl_34.mp4",
-      "..\\..\\data\\workout_videos\\barbell biceps curl\\barbell biceps curl_35.mp4",
-      "..\\..\\data\\workout_videos\\barbell biceps curl\\barbell biceps curl_36.mp4",
-      "..\\..\\data\\workout_videos\\barbell biceps curl\\barbell biceps curl_37.mp4",
-      "..\\..\\data\\workout_videos\\barbell biceps curl\\barbell biceps curl_38.mp4",
-      "..\\..\\data\\workout_videos\\barbell biceps curl\\barbell biceps curl_39.mp4",
-      "..\\..\\data\\workout_videos\\barbell biceps curl\\barbell biceps curl_4.mp4",
-      "..\\..\\data\\workout_videos\\barbell biceps curl\\barbell biceps curl_40.mp4",
-      "..\\..\\data\\workout_videos\\barbell biceps curl\\barbell biceps curl_41.mp4",
-      "..\\..\\data\\workout_videos\\barbell biceps curl\\barbell biceps curl_42.mp4",
-      "..\\..\\data\\workout_videos\\barbell biceps curl\\barbell biceps curl_43.mp4",
-      "..\\..\\data\\workout_videos\\barbell biceps curl\\barbell biceps curl_44.mp4",
-      "..\\..\\data\\workout_videos\\barbell biceps curl\\barbell biceps curl_45.mp4",
-      "..\\..\\data\\workout_videos\\barbell biceps curl\\barbell biceps curl_46.mp4",
-      "..\\..\\data\\workout_videos\\barbell biceps curl\\barbell biceps curl_47.mp4",
-      "..\\..\\data\\workout_videos\\barbell biceps curl\\barbell biceps curl_48.mp4",
-      "..\\..\\data\\workout_videos\\barbell biceps curl\\barbell biceps curl_49.mp4",
-      "..\\..\\data\\workout_videos\\barbell biceps curl\\barbell biceps curl_5.mp4",
-      "..\\..\\data\\workout_videos\\barbell biceps curl\\barbell biceps curl_50.mp4",
-      "..\\..\\data\\workout_videos\\barbell biceps curl\\barbell biceps curl_51.mp4",
-      "..\\..\\data\\workout_videos\\barbell biceps curl\\barbell biceps curl_52.mp4",
-      "..\\..\\data\\workout_videos\\barbell biceps curl\\barbell biceps curl_53.mp4",
-      "..\\..\\data\\workout_videos\\barbell biceps curl\\barbell biceps curl_54.mp4",
-      "..\\..\\data\\workout_videos\\barbell biceps curl\\barbell biceps curl_55.mp4",
-      "..\\..\\data\\workout_videos\\barbell biceps curl\\barbell biceps curl_56.mp4",
-      "..\\..\\data\\workout_videos\\barbell biceps curl\\barbell biceps curl_57.mp4",
-      "..\\..\\data\\workout_videos\\barbell biceps curl\\barbell biceps curl_58.mp4",
-      "..\\..\\data\\workout_videos\\barbell biceps curl\\barbell biceps curl_59.mp4",
-      "..\\..\\data\\workout_videos\\barbell biceps curl\\barbell biceps curl_6.mp4",
-      "..\\..\\data\\workout_videos\\barbell biceps curl\\barbell biceps curl_60.mp4",
-      "..\\..\\data\\workout_videos\\barbell biceps curl\\barbell biceps curl_61.mp4",
-      "..\\..\\data\\workout_videos\\barbell biceps curl\\barbell biceps curl_62.mp4",
-      "..\\..\\data\\workout_videos\\barbell biceps curl\\barbell biceps curl_7.mp4",
-      "..\\..\\data\\workout_videos\\barbell biceps curl\\barbell biceps curl_8.mp4",
-      "..\\..\\data\\workout_videos\\barbell biceps curl\\barbell biceps curl_9.mp4",
       "..\\..\\data\\workout_videos\\bench press\\bench press_1.mp4",
       "..\\..\\data\\workout_videos\\bench press\\bench press_10.mp4",
       "..\\..\\data\\workout_videos\\bench press\\bench press_11.mp4",
@@ -1798,625 +926,91 @@
       "..\\..\\data\\workout_videos\\bench press\\bench press_22.mp4",
       "..\\..\\data\\workout_videos\\bench press\\bench press_23.mp4",
       "..\\..\\data\\workout_videos\\bench press\\bench press_24.mp4",
-      "..\\..\\data\\workout_videos\\bench press\\bench press_25.mp4",
-      "..\\..\\data\\workout_videos\\bench press\\bench press_26.mp4",
-      "..\\..\\data\\workout_videos\\bench press\\bench press_27.mp4",
-      "..\\..\\data\\workout_videos\\bench press\\bench press_28.mp4",
-      "..\\..\\data\\workout_videos\\bench press\\bench press_29.mp4",
       "..\\..\\data\\workout_videos\\bench press\\bench press_3.mp4",
-      "..\\..\\data\\workout_videos\\bench press\\bench press_30.mp4",
-      "..\\..\\data\\workout_videos\\bench press\\bench press_31.mp4",
-      "..\\..\\data\\workout_videos\\bench press\\bench press_32.mp4",
-      "..\\..\\data\\workout_videos\\bench press\\bench press_33.mp4",
-      "..\\..\\data\\workout_videos\\bench press\\bench press_34.mp4",
-      "..\\..\\data\\workout_videos\\bench press\\bench press_35.mp4",
-      "..\\..\\data\\workout_videos\\bench press\\bench press_36.mp4",
-      "..\\..\\data\\workout_videos\\bench press\\bench press_37.mp4",
-      "..\\..\\data\\workout_videos\\bench press\\bench press_38.mp4",
-      "..\\..\\data\\workout_videos\\bench press\\bench press_39.mp4",
       "..\\..\\data\\workout_videos\\bench press\\bench press_4.mp4",
-      "..\\..\\data\\workout_videos\\bench press\\bench press_40.mp4",
-      "..\\..\\data\\workout_videos\\bench press\\bench press_41.mp4",
-      "..\\..\\data\\workout_videos\\bench press\\bench press_42.mp4",
-      "..\\..\\data\\workout_videos\\bench press\\bench press_43.mp4",
-      "..\\..\\data\\workout_videos\\bench press\\bench press_44.mp4",
-      "..\\..\\data\\workout_videos\\bench press\\bench press_45.mp4",
-      "..\\..\\data\\workout_videos\\bench press\\bench press_46.mp4",
-      "..\\..\\data\\workout_videos\\bench press\\bench press_47.mp4",
-      "..\\..\\data\\workout_videos\\bench press\\bench press_48.mp4",
-      "..\\..\\data\\workout_videos\\bench press\\bench press_49.mp4",
       "..\\..\\data\\workout_videos\\bench press\\bench press_5.mp4",
-      "..\\..\\data\\workout_videos\\bench press\\bench press_50.mp4",
-      "..\\..\\data\\workout_videos\\bench press\\bench press_51.mp4",
-      "..\\..\\data\\workout_videos\\bench press\\bench press_52.mp4",
-      "..\\..\\data\\workout_videos\\bench press\\bench press_53.mp4",
-      "..\\..\\data\\workout_videos\\bench press\\bench press_54.mp4",
-      "..\\..\\data\\workout_videos\\bench press\\bench press_55.mp4",
-      "..\\..\\data\\workout_videos\\bench press\\bench press_56.mp4",
-      "..\\..\\data\\workout_videos\\bench press\\bench press_57.mp4",
-      "..\\..\\data\\workout_videos\\bench press\\bench press_58.mp4",
-      "..\\..\\data\\workout_videos\\bench press\\bench press_59.mp4",
       "..\\..\\data\\workout_videos\\bench press\\bench press_6.mp4",
-      "..\\..\\data\\workout_videos\\bench press\\bench press_60.mp4",
-      "..\\..\\data\\workout_videos\\bench press\\bench press_61.mp4",
       "..\\..\\data\\workout_videos\\bench press\\bench press_7.mp4",
       "..\\..\\data\\workout_videos\\bench press\\bench press_8.mp4",
       "..\\..\\data\\workout_videos\\bench press\\bench press_9.mp4",
-      "..\\..\\data\\workout_videos\\chest fly machine\\chest fly machine_1.mp4",
-      "..\\..\\data\\workout_videos\\chest fly machine\\chest fly machine_10.mp4",
-      "..\\..\\data\\workout_videos\\chest fly machine\\chest fly machine_11.mp4",
-      "..\\..\\data\\workout_videos\\chest fly machine\\chest fly machine_12.mp4",
-      "..\\..\\data\\workout_videos\\chest fly machine\\chest fly machine_13.mp4",
-      "..\\..\\data\\workout_videos\\chest fly machine\\chest fly machine_14.mp4",
-      "..\\..\\data\\workout_videos\\chest fly machine\\chest fly machine_15.mp4",
-      "..\\..\\data\\workout_videos\\chest fly machine\\chest fly machine_16.mp4",
-      "..\\..\\data\\workout_videos\\chest fly machine\\chest fly machine_17.mp4",
-      "..\\..\\data\\workout_videos\\chest fly machine\\chest fly machine_18.mp4",
-      "..\\..\\data\\workout_videos\\chest fly machine\\chest fly machine_19.mp4",
-      "..\\..\\data\\workout_videos\\chest fly machine\\chest fly machine_2.mp4",
-      "..\\..\\data\\workout_videos\\chest fly machine\\chest fly machine_20.mp4",
-      "..\\..\\data\\workout_videos\\chest fly machine\\chest fly machine_21.mp4",
-      "..\\..\\data\\workout_videos\\chest fly machine\\chest fly machine_22.mp4",
-      "..\\..\\data\\workout_videos\\chest fly machine\\chest fly machine_23.mp4",
-      "..\\..\\data\\workout_videos\\chest fly machine\\chest fly machine_24.mp4",
-      "..\\..\\data\\workout_videos\\chest fly machine\\chest fly machine_25.mp4",
-      "..\\..\\data\\workout_videos\\chest fly machine\\chest fly machine_26.mp4",
-      "..\\..\\data\\workout_videos\\chest fly machine\\chest fly machine_27.mp4",
-      "..\\..\\data\\workout_videos\\chest fly machine\\chest fly machine_28.mp4",
-      "..\\..\\data\\workout_videos\\chest fly machine\\chest fly machine_3.mp4",
-      "..\\..\\data\\workout_videos\\chest fly machine\\chest fly machine_4.mp4",
-      "..\\..\\data\\workout_videos\\chest fly machine\\chest fly machine_5.mp4",
-      "..\\..\\data\\workout_videos\\chest fly machine\\chest fly machine_6.mp4",
-      "..\\..\\data\\workout_videos\\chest fly machine\\chest fly machine_7.mp4",
-      "..\\..\\data\\workout_videos\\chest fly machine\\chest fly machine_8.mp4",
-      "..\\..\\data\\workout_videos\\chest fly machine\\chest fly machine_9.mp4",
-      "..\\..\\data\\workout_videos\\deadlift\\deadlift_1.mp4",
-      "..\\..\\data\\workout_videos\\deadlift\\deadlift_10.mp4",
-      "..\\..\\data\\workout_videos\\deadlift\\deadlift_11.mp4",
-      "..\\..\\data\\workout_videos\\deadlift\\deadlift_12.mp4",
-      "..\\..\\data\\workout_videos\\deadlift\\deadlift_13.mp4",
-      "..\\..\\data\\workout_videos\\deadlift\\deadlift_14.mp4",
-      "..\\..\\data\\workout_videos\\deadlift\\deadlift_15.mp4",
-      "..\\..\\data\\workout_videos\\deadlift\\deadlift_16.mp4",
-      "..\\..\\data\\workout_videos\\deadlift\\deadlift_17.mp4",
-      "..\\..\\data\\workout_videos\\deadlift\\deadlift_18.mp4",
-      "..\\..\\data\\workout_videos\\deadlift\\deadlift_19.mp4",
-      "..\\..\\data\\workout_videos\\deadlift\\deadlift_2.mp4",
-      "..\\..\\data\\workout_videos\\deadlift\\deadlift_20.mp4",
-      "..\\..\\data\\workout_videos\\deadlift\\deadlift_21.mp4",
-      "..\\..\\data\\workout_videos\\deadlift\\deadlift_22.mp4",
-      "..\\..\\data\\workout_videos\\deadlift\\deadlift_23.mp4",
-      "..\\..\\data\\workout_videos\\deadlift\\deadlift_24.mp4",
-      "..\\..\\data\\workout_videos\\deadlift\\deadlift_25.mp4",
-      "..\\..\\data\\workout_videos\\deadlift\\deadlift_26.mp4",
-      "..\\..\\data\\workout_videos\\deadlift\\deadlift_27.mp4",
-      "..\\..\\data\\workout_videos\\deadlift\\deadlift_28.mp4",
-      "..\\..\\data\\workout_videos\\deadlift\\deadlift_29.mp4",
-      "..\\..\\data\\workout_videos\\deadlift\\deadlift_3.mp4",
-      "..\\..\\data\\workout_videos\\deadlift\\deadlift_30.mp4",
-      "..\\..\\data\\workout_videos\\deadlift\\deadlift_31.mp4",
-      "..\\..\\data\\workout_videos\\deadlift\\deadlift_32.mp4",
-      "..\\..\\data\\workout_videos\\deadlift\\deadlift_4.mp4",
-      "..\\..\\data\\workout_videos\\deadlift\\deadlift_5.mp4",
-      "..\\..\\data\\workout_videos\\deadlift\\deadlift_6.mp4",
-      "..\\..\\data\\workout_videos\\deadlift\\deadlift_7.mp4",
-      "..\\..\\data\\workout_videos\\deadlift\\deadlift_8.mp4",
-      "..\\..\\data\\workout_videos\\deadlift\\deadlift_9.mp4",
       "..\\..\\data\\workout_videos\\decline bench press\\dbp_1.mp4",
       "..\\..\\data\\workout_videos\\decline bench press\\dbp_10.mp4",
       "..\\..\\data\\workout_videos\\decline bench press\\dbp_11.mp4",
       "..\\..\\data\\workout_videos\\decline bench press\\dbp_12.mp4",
       "..\\..\\data\\workout_videos\\decline bench press\\dbp_8.mp4",
       "..\\..\\data\\workout_videos\\decline bench press\\dbp_9.mp4",
-      "..\\..\\data\\workout_videos\\hammer curl\\hammer curl_10.mp4",
-      "..\\..\\data\\workout_videos\\hammer curl\\hammer curl_11.mp4",
-      "..\\..\\data\\workout_videos\\hammer curl\\hammer curl_12.mp4",
-      "..\\..\\data\\workout_videos\\hammer curl\\hammer curl_13.mp4",
-      "..\\..\\data\\workout_videos\\hammer curl\\hammer curl_14.mp4",
-      "..\\..\\data\\workout_videos\\hammer curl\\hammer curl_15.mp4",
-      "..\\..\\data\\workout_videos\\hammer curl\\hammer curl_16.mp4",
-      "..\\..\\data\\workout_videos\\hammer curl\\hammer curl_17.mp4",
-      "..\\..\\data\\workout_videos\\hammer curl\\hammer curl_18.mp4",
-      "..\\..\\data\\workout_videos\\hammer curl\\hammer curl_19.mp4",
-      "..\\..\\data\\workout_videos\\hammer curl\\hammer curl_8.mp4"
+      "..\\..\\data\\workout_videos\\hip thrust\\Barbell_Hip_Thrust_Tutorial__gluteworkout_AdobeExpress.mp4",
+      "..\\..\\data\\workout_videos\\hip thrust\\hip thrust_10.mp4",
+      "..\\..\\data\\workout_videos\\hip thrust\\hip thrust_11.mp4",
+      "..\\..\\data\\workout_videos\\hip thrust\\hip thrust_12.mp4",
+      "..\\..\\data\\workout_videos\\hip thrust\\hip thrust_13.mp4",
+      "..\\..\\data\\workout_videos\\hip thrust\\hip thrust_14.mp4",
+      "..\\..\\data\\workout_videos\\hip thrust\\hip thrust_16.mp4",
+      "..\\..\\data\\workout_videos\\hip thrust\\hip thrust_17.mp4",
+      "..\\..\\data\\workout_videos\\hip thrust\\hip thrust_5.mp4",
+      "..\\..\\data\\workout_videos\\hip thrust\\hip thrust_6.mp4",
+      "..\\..\\data\\workout_videos\\hip thrust\\hip thrust_7.mp4",
+      "..\\..\\data\\workout_videos\\hip thrust\\hip thrust_8.mp4",
+      "..\\..\\data\\workout_videos\\hip thrust\\hip thrust_9.mp4",
+      "..\\..\\data\\workout_videos\\incline bench press\\incline bench press_1.mp4",
+      "..\\..\\data\\workout_videos\\incline bench press\\incline bench press_10.mp4",
+      "..\\..\\data\\workout_videos\\incline bench press\\incline bench press_11.mp4",
+      "..\\..\\data\\workout_videos\\incline bench press\\incline bench press_12.mp4",
+      "..\\..\\data\\workout_videos\\incline bench press\\incline bench press_13.mp4",
+      "..\\..\\data\\workout_videos\\incline bench press\\incline bench press_14.mp4",
+      "..\\..\\data\\workout_videos\\incline bench press\\incline bench press_15.mp4",
+      "..\\..\\data\\workout_videos\\incline bench press\\incline bench press_16.mp4",
+      "..\\..\\data\\workout_videos\\incline bench press\\incline bench press_17.mp4",
+      "..\\..\\data\\workout_videos\\incline bench press\\incline bench press_18.mp4",
+      "..\\..\\data\\workout_videos\\incline bench press\\incline bench press_19.mp4",
+      "..\\..\\data\\workout_videos\\incline bench press\\incline bench press_2.mp4",
+      "..\\..\\data\\workout_videos\\incline bench press\\incline bench press_20.mp4",
+      "..\\..\\data\\workout_videos\\incline bench press\\incline bench press_21.mp4",
+      "..\\..\\data\\workout_videos\\incline bench press\\incline bench press_22.mp4",
+      "..\\..\\data\\workout_videos\\incline bench press\\incline bench press_23.mp4",
+      "..\\..\\data\\workout_videos\\incline bench press\\incline bench press_24.mp4",
+      "..\\..\\data\\workout_videos\\incline bench press\\incline bench press_3.mp4",
+      "..\\..\\data\\workout_videos\\incline bench press\\incline bench press_4.mp4",
+      "..\\..\\data\\workout_videos\\incline bench press\\incline bench press_5.mp4",
+      "..\\..\\data\\workout_videos\\incline bench press\\incline bench press_6.mp4",
+      "..\\..\\data\\workout_videos\\incline bench press\\incline bench press_7.mp4",
+      "..\\..\\data\\workout_videos\\incline bench press\\incline bench press_8.mp4",
+      "..\\..\\data\\workout_videos\\incline bench press\\incline bench press_9.mp4",
+      "..\\..\\data\\workout_videos\\plank\\plank_2.mp4",
+      "..\\..\\data\\workout_videos\\plank\\plank_3.mp4",
+      "..\\..\\data\\workout_videos\\plank\\plank_4.mp4",
+      "..\\..\\data\\workout_videos\\plank\\plank_5.mp4",
+      "..\\..\\data\\workout_videos\\plank\\plank_6.mp4",
+      "..\\..\\data\\workout_videos\\plank\\plank_7.mp4",
+      "..\\..\\data\\workout_videos\\pull Up\\pull up_1.mp4",
+      "..\\..\\data\\workout_videos\\pull Up\\pull up_10.mp4",
+      "..\\..\\data\\workout_videos\\pull Up\\pull up_11.mp4",
+      "..\\..\\data\\workout_videos\\pull Up\\pull up_12.mp4",
+      "..\\..\\data\\workout_videos\\pull Up\\pull up_13.mp4",
+      "..\\..\\data\\workout_videos\\pull Up\\pull up_14.mp4",
+      "..\\..\\data\\workout_videos\\pull Up\\pull up_15.mp4",
+      "..\\..\\data\\workout_videos\\pull Up\\pull up_16.mp4",
+      "..\\..\\data\\workout_videos\\pull Up\\pull up_17.mp4",
+      "..\\..\\data\\workout_videos\\pull Up\\pull up_18.mp4",
+      "..\\..\\data\\workout_videos\\pull Up\\pull up_19.mp4",
+      "..\\..\\data\\workout_videos\\pull Up\\pull up_2.mp4",
+      "..\\..\\data\\workout_videos\\pull Up\\pull up_20.mp4",
+      "..\\..\\data\\workout_videos\\pull Up\\pull up_21.mp4",
+      "..\\..\\data\\workout_videos\\pull Up\\pull up_22.mp4",
+      "..\\..\\data\\workout_videos\\pull Up\\pull up_23.mp4",
+      "..\\..\\data\\workout_videos\\pull Up\\pull up_24.mp4",
+      "..\\..\\data\\workout_videos\\pull Up\\pull up_25.mp4",
+      "..\\..\\data\\workout_videos\\pull Up\\pull up_26.mp4",
+      "..\\..\\data\\workout_videos\\pull Up\\pull up_3.mp4",
+      "..\\..\\data\\workout_videos\\pull Up\\pull up_4.mp4",
+      "..\\..\\data\\workout_videos\\pull Up\\pull up_5.mp4",
+      "..\\..\\data\\workout_videos\\pull Up\\pull up_6.mp4",
+      "..\\..\\data\\workout_videos\\pull Up\\pull up_7.mp4",
+      "..\\..\\data\\workout_videos\\pull Up\\pull up_8.mp4",
+      "..\\..\\data\\workout_videos\\pull Up\\pull up_9.mp4",
+      "..\\..\\data\\workout_videos\\push-up\\push-up_1.mp4"
     ],
     "quality_metrics": [
-      {
-        "video": "barbell biceps curl_1.mp4",
-        "total_frames": 114,
-        "frames_with_detections": 114,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.0,
-        "avg_keypoint_confidence": 0.7549012634512499
-      },
-      {
-        "video": "barbell biceps curl_10.mp4",
-        "total_frames": 94,
-        "frames_with_detections": 94,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.0,
-        "avg_keypoint_confidence": 0.6481907686218037
-      },
-      {
-        "video": "barbell biceps curl_11.mp4",
-        "total_frames": 75,
-        "frames_with_detections": 75,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.0,
-        "avg_keypoint_confidence": 0.8171033000478557
-      },
-      {
-        "video": "barbell biceps curl_12.mp4",
-        "total_frames": 123,
-        "frames_with_detections": 123,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.7317073170731707,
-        "avg_keypoint_confidence": 0.8488235493097738
-      },
-      {
-        "video": "barbell biceps curl_13.mp4",
-        "total_frames": 122,
-        "frames_with_detections": 122,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.0,
-        "avg_keypoint_confidence": 0.8095789487970312
-      },
-      {
-        "video": "barbell biceps curl_14.mp4",
-        "total_frames": 69,
-        "frames_with_detections": 69,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.7536231884057971,
-        "avg_keypoint_confidence": 0.44933696156813624
-      },
-      {
-        "video": "barbell biceps curl_15.mp4",
-        "total_frames": 65,
-        "frames_with_detections": 65,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.4153846153846155,
-        "avg_keypoint_confidence": 0.5144905914469738
-      },
-      {
-        "video": "barbell biceps curl_16.mp4",
-        "total_frames": 63,
-        "frames_with_detections": 63,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.3968253968253967,
-        "avg_keypoint_confidence": 0.5152557734080981
-      },
-      {
-        "video": "barbell biceps curl_17.mp4",
-        "total_frames": 61,
-        "frames_with_detections": 61,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.8360655737704918,
-        "avg_keypoint_confidence": 0.4277713364302626
-      },
-      {
-        "video": "barbell biceps curl_18.mp4",
-        "total_frames": 67,
-        "frames_with_detections": 67,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 2.0,
-        "avg_keypoint_confidence": 0.6853879802971522
-      },
-      {
-        "video": "barbell biceps curl_19.mp4",
-        "total_frames": 60,
-        "frames_with_detections": 60,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 2.0,
-        "avg_keypoint_confidence": 0.6578102195256518
-      },
-      {
-        "video": "barbell biceps curl_2.mp4",
-        "total_frames": 77,
-        "frames_with_detections": 77,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.0,
-        "avg_keypoint_confidence": 0.8340089311118887
-      },
-      {
-        "video": "barbell biceps curl_20.mp4",
-        "total_frames": 56,
-        "frames_with_detections": 56,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.0,
-        "avg_keypoint_confidence": 0.3280778793128744
-      },
-      {
-        "video": "barbell biceps curl_21.mp4",
-        "total_frames": 58,
-        "frames_with_detections": 58,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.0,
-        "avg_keypoint_confidence": 0.3394077102993778
-      },
-      {
-        "video": "barbell biceps curl_22.mp4",
-        "total_frames": 58,
-        "frames_with_detections": 58,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.0517241379310345,
-        "avg_keypoint_confidence": 0.3248936238840406
-      },
-      {
-        "video": "barbell biceps curl_23.mp4",
-        "total_frames": 70,
-        "frames_with_detections": 70,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.0,
-        "avg_keypoint_confidence": 0.7137675317499866
-      },
-      {
-        "video": "barbell biceps curl_24.mp4",
-        "total_frames": 84,
-        "frames_with_detections": 84,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.0,
-        "avg_keypoint_confidence": 0.7052466050286045
-      },
-      {
-        "video": "barbell biceps curl_25.mp4",
-        "total_frames": 78,
-        "frames_with_detections": 78,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.0,
-        "avg_keypoint_confidence": 0.7040984078776091
-      },
-      {
-        "video": "barbell biceps curl_26.mp4",
-        "total_frames": 80,
-        "frames_with_detections": 80,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.0,
-        "avg_keypoint_confidence": 0.7165277981038397
-      },
-      {
-        "video": "barbell biceps curl_27.mp4",
-        "total_frames": 55,
-        "frames_with_detections": 55,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.0363636363636364,
-        "avg_keypoint_confidence": 0.33505581434552056
-      },
-      {
-        "video": "barbell biceps curl_28.mp4",
-        "total_frames": 61,
-        "frames_with_detections": 61,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.0491803278688525,
-        "avg_keypoint_confidence": 0.3187734022300687
-      },
-      {
-        "video": "barbell biceps curl_29.mp4",
-        "total_frames": 58,
-        "frames_with_detections": 58,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.0517241379310345,
-        "avg_keypoint_confidence": 0.3203706776593968
-      },
-      {
-        "video": "barbell biceps curl_3.mp4",
-        "total_frames": 73,
-        "frames_with_detections": 73,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.0,
-        "avg_keypoint_confidence": 0.8507404586271736
-      },
-      {
-        "video": "barbell biceps curl_30.mp4",
-        "total_frames": 49,
-        "frames_with_detections": 49,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.183673469387755,
-        "avg_keypoint_confidence": 0.5700729701235422
-      },
-      {
-        "video": "barbell biceps curl_31.mp4",
-        "total_frames": 65,
-        "frames_with_detections": 65,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 2.0,
-        "avg_keypoint_confidence": 0.40080020318378806
-      },
-      {
-        "video": "barbell biceps curl_32.mp4",
-        "total_frames": 65,
-        "frames_with_detections": 65,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.6307692307692307,
-        "avg_keypoint_confidence": 0.4680018773746003
-      },
-      {
-        "video": "barbell biceps curl_33.mp4",
-        "total_frames": 62,
-        "frames_with_detections": 62,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.096774193548387,
-        "avg_keypoint_confidence": 0.6217705315048645
-      },
-      {
-        "video": "barbell biceps curl_34.mp4",
-        "total_frames": 63,
-        "frames_with_detections": 63,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.126984126984127,
-        "avg_keypoint_confidence": 0.6114368008026451
-      },
-      {
-        "video": "barbell biceps curl_35.mp4",
-        "total_frames": 58,
-        "frames_with_detections": 58,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.206896551724138,
-        "avg_keypoint_confidence": 0.5963046207322599
-      },
-      {
-        "video": "barbell biceps curl_36.mp4",
-        "total_frames": 50,
-        "frames_with_detections": 50,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.14,
-        "avg_keypoint_confidence": 0.6190119891218895
-      },
-      {
-        "video": "barbell biceps curl_37.mp4",
-        "total_frames": 59,
-        "frames_with_detections": 59,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.0,
-        "avg_keypoint_confidence": 0.7080635990041665
-      },
-      {
-        "video": "barbell biceps curl_38.mp4",
-        "total_frames": 59,
-        "frames_with_detections": 59,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.0,
-        "avg_keypoint_confidence": 0.719009528042431
-      },
-      {
-        "video": "barbell biceps curl_39.mp4",
-        "total_frames": 54,
-        "frames_with_detections": 54,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.0,
-        "avg_keypoint_confidence": 0.7160235928967068
-      },
-      {
-        "video": "barbell biceps curl_4.mp4",
-        "total_frames": 53,
-        "frames_with_detections": 53,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.0,
-        "avg_keypoint_confidence": 0.7487979631345889
-      },
-      {
-        "video": "barbell biceps curl_40.mp4",
-        "total_frames": 202,
-        "frames_with_detections": 201,
-        "detection_rate": 0.995049504950495,
-        "avg_people_per_frame": 1.0,
-        "avg_keypoint_confidence": 0.8044600937257115
-      },
-      {
-        "video": "barbell biceps curl_41.mp4",
-        "total_frames": 202,
-        "frames_with_detections": 201,
-        "detection_rate": 0.995049504950495,
-        "avg_people_per_frame": 1.472636815920398,
-        "avg_keypoint_confidence": 0.1904310486257645
-      },
-      {
-        "video": "barbell biceps curl_42.mp4",
-        "total_frames": 142,
-        "frames_with_detections": 141,
-        "detection_rate": 0.9929577464788732,
-        "avg_people_per_frame": 1.0,
-        "avg_keypoint_confidence": 0.9543987201013115
-      },
-      {
-        "video": "barbell biceps curl_43.mp4",
-        "total_frames": 133,
-        "frames_with_detections": 132,
-        "detection_rate": 0.9924812030075187,
-        "avg_people_per_frame": 1.0075757575757576,
-        "avg_keypoint_confidence": 0.5875497049824423
-      },
-      {
-        "video": "barbell biceps curl_44.mp4",
-        "total_frames": 230,
-        "frames_with_detections": 229,
-        "detection_rate": 0.9956521739130435,
-        "avg_people_per_frame": 1.0,
-        "avg_keypoint_confidence": 0.9551860040942226
-      },
-      {
-        "video": "barbell biceps curl_45.mp4",
-        "total_frames": 421,
-        "frames_with_detections": 421,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.0,
-        "avg_keypoint_confidence": 0.9584944662442166
-      },
-      {
-        "video": "barbell biceps curl_46.mp4",
-        "total_frames": 95,
-        "frames_with_detections": 94,
-        "detection_rate": 0.9894736842105263,
-        "avg_people_per_frame": 1.0,
-        "avg_keypoint_confidence": 0.9571399529824717
-      },
-      {
-        "video": "barbell biceps curl_47.mp4",
-        "total_frames": 121,
-        "frames_with_detections": 120,
-        "detection_rate": 0.9917355371900827,
-        "avg_people_per_frame": 1.0,
-        "avg_keypoint_confidence": 0.7059705863263933
-      },
-      {
-        "video": "barbell biceps curl_48.mp4",
-        "total_frames": 71,
-        "frames_with_detections": 70,
-        "detection_rate": 0.9859154929577465,
-        "avg_people_per_frame": 1.0,
-        "avg_keypoint_confidence": 0.945952055429132
-      },
-      {
-        "video": "barbell biceps curl_49.mp4",
-        "total_frames": 91,
-        "frames_with_detections": 90,
-        "detection_rate": 0.989010989010989,
-        "avg_people_per_frame": 1.0,
-        "avg_keypoint_confidence": 0.7114680176953865
-      },
-      {
-        "video": "barbell biceps curl_5.mp4",
-        "total_frames": 82,
-        "frames_with_detections": 82,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.0,
-        "avg_keypoint_confidence": 0.6502759735757375
-      },
-      {
-        "video": "barbell biceps curl_50.mp4",
-        "total_frames": 151,
-        "frames_with_detections": 150,
-        "detection_rate": 0.9933774834437086,
-        "avg_people_per_frame": 1.0,
-        "avg_keypoint_confidence": 0.7045953740617809
-      },
-      {
-        "video": "barbell biceps curl_51.mp4",
-        "total_frames": 283,
-        "frames_with_detections": 282,
-        "detection_rate": 0.9964664310954063,
-        "avg_people_per_frame": 1.0,
-        "avg_keypoint_confidence": 0.6638141505165085
-      },
-      {
-        "video": "barbell biceps curl_52.mp4",
-        "total_frames": 373,
-        "frames_with_detections": 372,
-        "detection_rate": 0.9973190348525469,
-        "avg_people_per_frame": 1.0,
-        "avg_keypoint_confidence": 0.41120183041735486
-      },
-      {
-        "video": "barbell biceps curl_53.mp4",
-        "total_frames": 177,
-        "frames_with_detections": 176,
-        "detection_rate": 0.9943502824858758,
-        "avg_people_per_frame": 1.0113636363636365,
-        "avg_keypoint_confidence": 0.4759882460145947
-      },
-      {
-        "video": "barbell biceps curl_54.mp4",
-        "total_frames": 133,
-        "frames_with_detections": 132,
-        "detection_rate": 0.9924812030075187,
-        "avg_people_per_frame": 1.0,
-        "avg_keypoint_confidence": 0.5648310786021473
-      },
-      {
-        "video": "barbell biceps curl_55.mp4",
-        "total_frames": 148,
-        "frames_with_detections": 147,
-        "detection_rate": 0.9932432432432432,
-        "avg_people_per_frame": 1.0,
-        "avg_keypoint_confidence": 0.7165346161378328
-      },
-      {
-        "video": "barbell biceps curl_56.mp4",
-        "total_frames": 214,
-        "frames_with_detections": 213,
-        "detection_rate": 0.9953271028037384,
-        "avg_people_per_frame": 1.0093896713615023,
-        "avg_keypoint_confidence": 0.4359403958565547
-      },
-      {
-        "video": "barbell biceps curl_57.mp4",
-        "total_frames": 235,
-        "frames_with_detections": 234,
-        "detection_rate": 0.9957446808510638,
-        "avg_people_per_frame": 1.0299145299145298,
-        "avg_keypoint_confidence": 0.4253144768857175
-      },
-      {
-        "video": "barbell biceps curl_58.mp4",
-        "total_frames": 163,
-        "frames_with_detections": 162,
-        "detection_rate": 0.9938650306748467,
-        "avg_people_per_frame": 1.0679012345679013,
-        "avg_keypoint_confidence": 0.27088176934887015
-      },
-      {
-        "video": "barbell biceps curl_59.mp4",
-        "total_frames": 195,
-        "frames_with_detections": 194,
-        "detection_rate": 0.9948717948717949,
-        "avg_people_per_frame": 1.0154639175257731,
-        "avg_keypoint_confidence": 0.24443470903119913
-      },
-      {
-        "video": "barbell biceps curl_6.mp4",
-        "total_frames": 123,
-        "frames_with_detections": 123,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 2.0,
-        "avg_keypoint_confidence": 0.7445271251961902
-      },
-      {
-        "video": "barbell biceps curl_60.mp4",
-        "total_frames": 247,
-        "frames_with_detections": 246,
-        "detection_rate": 0.9959514170040485,
-        "avg_people_per_frame": 1.008130081300813,
-        "avg_keypoint_confidence": 0.3615054718292062
-      },
-      {
-        "video": "barbell biceps curl_61.mp4",
-        "total_frames": 71,
-        "frames_with_detections": 70,
-        "detection_rate": 0.9859154929577465,
-        "avg_people_per_frame": 1.0,
-        "avg_keypoint_confidence": 0.8224383264153945
-      },
-      {
-        "video": "barbell biceps curl_62.mp4",
-        "total_frames": 99,
-        "frames_with_detections": 98,
-        "detection_rate": 0.98989898989899,
-        "avg_people_per_frame": 1.0,
-        "avg_keypoint_confidence": 0.6614402717014044
-      },
-      {
-        "video": "barbell biceps curl_7.mp4",
-        "total_frames": 138,
-        "frames_with_detections": 138,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.0144927536231885,
-        "avg_keypoint_confidence": 0.7729239171331733
-      },
-      {
-        "video": "barbell biceps curl_8.mp4",
-        "total_frames": 98,
-        "frames_with_detections": 98,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.0,
-        "avg_keypoint_confidence": 0.7891177472268261
-      },
-      {
-        "video": "barbell biceps curl_9.mp4",
-        "total_frames": 72,
-        "frames_with_detections": 72,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.0,
-        "avg_keypoint_confidence": 0.635373427883381
-      },
       {
         "video": "bench press_1.mp4",
         "total_frames": 58,
@@ -2554,132 +1148,12 @@
         "avg_keypoint_confidence": 0.5336280140942194
       },
       {
-        "video": "bench press_25.mp4",
-        "total_frames": 51,
-        "frames_with_detections": 51,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.8627450980392157,
-        "avg_keypoint_confidence": 0.5498908883885912
-      },
-      {
-        "video": "bench press_26.mp4",
-        "total_frames": 62,
-        "frames_with_detections": 62,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.564516129032258,
-        "avg_keypoint_confidence": 0.4570016380390482
-      },
-      {
-        "video": "bench press_27.mp4",
-        "total_frames": 62,
-        "frames_with_detections": 62,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.435483870967742,
-        "avg_keypoint_confidence": 0.47459469104225094
-      },
-      {
-        "video": "bench press_28.mp4",
-        "total_frames": 103,
-        "frames_with_detections": 103,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.0194174757281553,
-        "avg_keypoint_confidence": 0.6160678334013767
-      },
-      {
-        "video": "bench press_29.mp4",
-        "total_frames": 209,
-        "frames_with_detections": 208,
-        "detection_rate": 0.9952153110047847,
-        "avg_people_per_frame": 2.9375,
-        "avg_keypoint_confidence": 0.5513278683186424
-      },
-      {
         "video": "bench press_3.mp4",
         "total_frames": 86,
         "frames_with_detections": 86,
         "detection_rate": 1.0,
         "avg_people_per_frame": 1.0116279069767442,
         "avg_keypoint_confidence": 0.7861923273807697
-      },
-      {
-        "video": "bench press_30.mp4",
-        "total_frames": 66,
-        "frames_with_detections": 65,
-        "detection_rate": 0.9848484848484849,
-        "avg_people_per_frame": 1.0153846153846153,
-        "avg_keypoint_confidence": 0.7880523704231422
-      },
-      {
-        "video": "bench press_31.mp4",
-        "total_frames": 78,
-        "frames_with_detections": 77,
-        "detection_rate": 0.9871794871794872,
-        "avg_people_per_frame": 2.1818181818181817,
-        "avg_keypoint_confidence": 0.633666585367473
-      },
-      {
-        "video": "bench press_32.mp4",
-        "total_frames": 116,
-        "frames_with_detections": 115,
-        "detection_rate": 0.9913793103448276,
-        "avg_people_per_frame": 1.0,
-        "avg_keypoint_confidence": 0.7717763803154231
-      },
-      {
-        "video": "bench press_33.mp4",
-        "total_frames": 71,
-        "frames_with_detections": 70,
-        "detection_rate": 0.9859154929577465,
-        "avg_people_per_frame": 2.4,
-        "avg_keypoint_confidence": 0.6139480847461314
-      },
-      {
-        "video": "bench press_34.mp4",
-        "total_frames": 147,
-        "frames_with_detections": 146,
-        "detection_rate": 0.9931972789115646,
-        "avg_people_per_frame": 2.1232876712328768,
-        "avg_keypoint_confidence": 0.6088436905730717
-      },
-      {
-        "video": "bench press_35.mp4",
-        "total_frames": 67,
-        "frames_with_detections": 66,
-        "detection_rate": 0.9850746268656716,
-        "avg_people_per_frame": 1.0151515151515151,
-        "avg_keypoint_confidence": 0.7807784079458757
-      },
-      {
-        "video": "bench press_36.mp4",
-        "total_frames": 140,
-        "frames_with_detections": 139,
-        "detection_rate": 0.9928571428571429,
-        "avg_people_per_frame": 2.1079136690647484,
-        "avg_keypoint_confidence": 0.6181327509791495
-      },
-      {
-        "video": "bench press_37.mp4",
-        "total_frames": 389,
-        "frames_with_detections": 388,
-        "detection_rate": 0.9974293059125964,
-        "avg_people_per_frame": 1.0206185567010309,
-        "avg_keypoint_confidence": 0.7580162846071711
-      },
-      {
-        "video": "bench press_38.mp4",
-        "total_frames": 61,
-        "frames_with_detections": 60,
-        "detection_rate": 0.9836065573770492,
-        "avg_people_per_frame": 2.05,
-        "avg_keypoint_confidence": 0.5879009216797811
-      },
-      {
-        "video": "bench press_39.mp4",
-        "total_frames": 756,
-        "frames_with_detections": 755,
-        "detection_rate": 0.9986772486772487,
-        "avg_people_per_frame": 1.0039735099337748,
-        "avg_keypoint_confidence": 0.6520934447509351
       },
       {
         "video": "bench press_4.mp4",
@@ -2690,86 +1164,6 @@
         "avg_keypoint_confidence": 0.36744240598526934
       },
       {
-        "video": "bench press_40.mp4",
-        "total_frames": 226,
-        "frames_with_detections": 225,
-        "detection_rate": 0.995575221238938,
-        "avg_people_per_frame": 1.04,
-        "avg_keypoint_confidence": 0.6552235354381778
-      },
-      {
-        "video": "bench press_41.mp4",
-        "total_frames": 69,
-        "frames_with_detections": 68,
-        "detection_rate": 0.9855072463768116,
-        "avg_people_per_frame": 1.0,
-        "avg_keypoint_confidence": 0.7440576834069588
-      },
-      {
-        "video": "bench press_42.mp4",
-        "total_frames": 126,
-        "frames_with_detections": 125,
-        "detection_rate": 0.9920634920634921,
-        "avg_people_per_frame": 1.872,
-        "avg_keypoint_confidence": 0.539983996971242
-      },
-      {
-        "video": "bench press_43.mp4",
-        "total_frames": 64,
-        "frames_with_detections": 63,
-        "detection_rate": 0.984375,
-        "avg_people_per_frame": 1.0793650793650793,
-        "avg_keypoint_confidence": 0.38300000053240024
-      },
-      {
-        "video": "bench press_44.mp4",
-        "total_frames": 126,
-        "frames_with_detections": 125,
-        "detection_rate": 0.9920634920634921,
-        "avg_people_per_frame": 1.264,
-        "avg_keypoint_confidence": 0.6980018087986778
-      },
-      {
-        "video": "bench press_45.mp4",
-        "total_frames": 91,
-        "frames_with_detections": 90,
-        "detection_rate": 0.989010989010989,
-        "avg_people_per_frame": 1.0777777777777777,
-        "avg_keypoint_confidence": 0.5859619594323402
-      },
-      {
-        "video": "bench press_46.mp4",
-        "total_frames": 46,
-        "frames_with_detections": 45,
-        "detection_rate": 0.9782608695652174,
-        "avg_people_per_frame": 1.3111111111111111,
-        "avg_keypoint_confidence": 0.6196519369710978
-      },
-      {
-        "video": "bench press_47.mp4",
-        "total_frames": 66,
-        "frames_with_detections": 65,
-        "detection_rate": 0.9848484848484849,
-        "avg_people_per_frame": 1.0,
-        "avg_keypoint_confidence": 0.4930510293113209
-      },
-      {
-        "video": "bench press_48.mp4",
-        "total_frames": 161,
-        "frames_with_detections": 160,
-        "detection_rate": 0.9937888198757764,
-        "avg_people_per_frame": 1.0,
-        "avg_keypoint_confidence": 0.6600216187754995
-      },
-      {
-        "video": "bench press_49.mp4",
-        "total_frames": 76,
-        "frames_with_detections": 75,
-        "detection_rate": 0.9868421052631579,
-        "avg_people_per_frame": 1.0,
-        "avg_keypoint_confidence": 0.5176759078365208
-      },
-      {
         "video": "bench press_5.mp4",
         "total_frames": 46,
         "frames_with_detections": 46,
@@ -2778,108 +1172,12 @@
         "avg_keypoint_confidence": 0.25659618310467297
       },
       {
-        "video": "bench press_50.mp4",
-        "total_frames": 51,
-        "frames_with_detections": 50,
-        "detection_rate": 0.9803921568627451,
-        "avg_people_per_frame": 1.0,
-        "avg_keypoint_confidence": 0.2934643392284702
-      },
-      {
-        "video": "bench press_51.mp4",
-        "total_frames": 59,
-        "frames_with_detections": 58,
-        "detection_rate": 0.9830508474576272,
-        "avg_people_per_frame": 1.0,
-        "avg_keypoint_confidence": 0.5229714410196916
-      },
-      {
-        "video": "bench press_52.mp4",
-        "total_frames": 36,
-        "frames_with_detections": 35,
-        "detection_rate": 0.9722222222222222,
-        "avg_people_per_frame": 1.0,
-        "avg_keypoint_confidence": 0.5974885729081769
-      },
-      {
-        "video": "bench press_53.mp4",
-        "total_frames": 44,
-        "frames_with_detections": 43,
-        "detection_rate": 0.9772727272727273,
-        "avg_people_per_frame": 1.069767441860465,
-        "avg_keypoint_confidence": 0.5914976951392258
-      },
-      {
-        "video": "bench press_54.mp4",
-        "total_frames": 83,
-        "frames_with_detections": 82,
-        "detection_rate": 0.9879518072289156,
-        "avg_people_per_frame": 1.0,
-        "avg_keypoint_confidence": 0.7333439493733462
-      },
-      {
-        "video": "bench press_55.mp4",
-        "total_frames": 31,
-        "frames_with_detections": 30,
-        "detection_rate": 0.967741935483871,
-        "avg_people_per_frame": 1.0,
-        "avg_keypoint_confidence": 0.5250955846977425
-      },
-      {
-        "video": "bench press_56.mp4",
-        "total_frames": 108,
-        "frames_with_detections": 107,
-        "detection_rate": 0.9907407407407407,
-        "avg_people_per_frame": 1.0,
-        "avg_keypoint_confidence": 0.5355397938189279
-      },
-      {
-        "video": "bench press_57.mp4",
-        "total_frames": 101,
-        "frames_with_detections": 100,
-        "detection_rate": 0.9900990099009901,
-        "avg_people_per_frame": 1.99,
-        "avg_keypoint_confidence": 0.39718457770409726
-      },
-      {
-        "video": "bench press_58.mp4",
-        "total_frames": 47,
-        "frames_with_detections": 46,
-        "detection_rate": 0.9787234042553191,
-        "avg_people_per_frame": 1.0,
-        "avg_keypoint_confidence": 0.7659295403048434
-      },
-      {
-        "video": "bench press_59.mp4",
-        "total_frames": 151,
-        "frames_with_detections": 150,
-        "detection_rate": 0.9933774834437086,
-        "avg_people_per_frame": 1.0266666666666666,
-        "avg_keypoint_confidence": 0.7820420960850895
-      },
-      {
         "video": "bench press_6.mp4",
         "total_frames": 63,
         "frames_with_detections": 63,
         "detection_rate": 1.0,
         "avg_people_per_frame": 1.8412698412698412,
         "avg_keypoint_confidence": 0.5107244516608155
-      },
-      {
-        "video": "bench press_60.mp4",
-        "total_frames": 142,
-        "frames_with_detections": 141,
-        "detection_rate": 0.9929577464788732,
-        "avg_people_per_frame": 1.524822695035461,
-        "avg_keypoint_confidence": 0.6164947558076033
-      },
-      {
-        "video": "bench press_61.mp4",
-        "total_frames": 106,
-        "frames_with_detections": 105,
-        "detection_rate": 0.9905660377358491,
-        "avg_people_per_frame": 1.0571428571428572,
-        "avg_keypoint_confidence": 0.678940532357389
       },
       {
         "video": "bench press_7.mp4",
@@ -2904,486 +1202,6 @@
         "detection_rate": 1.0,
         "avg_people_per_frame": 1.0,
         "avg_keypoint_confidence": 0.3787623834393525
-      },
-      {
-        "video": "chest fly machine_1.mp4",
-        "total_frames": 150,
-        "frames_with_detections": 150,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.0,
-        "avg_keypoint_confidence": 0.7012731720695236
-      },
-      {
-        "video": "chest fly machine_10.mp4",
-        "total_frames": 102,
-        "frames_with_detections": 102,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.0,
-        "avg_keypoint_confidence": 0.7676980319167589
-      },
-      {
-        "video": "chest fly machine_11.mp4",
-        "total_frames": 108,
-        "frames_with_detections": 108,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.0,
-        "avg_keypoint_confidence": 0.7622502503961259
-      },
-      {
-        "video": "chest fly machine_12.mp4",
-        "total_frames": 106,
-        "frames_with_detections": 106,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.0,
-        "avg_keypoint_confidence": 0.76313190139028
-      },
-      {
-        "video": "chest fly machine_13.mp4",
-        "total_frames": 93,
-        "frames_with_detections": 93,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.0,
-        "avg_keypoint_confidence": 0.7645074630911349
-      },
-      {
-        "video": "chest fly machine_14.mp4",
-        "total_frames": 110,
-        "frames_with_detections": 110,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.0,
-        "avg_keypoint_confidence": 0.5728334583730541
-      },
-      {
-        "video": "chest fly machine_15.mp4",
-        "total_frames": 148,
-        "frames_with_detections": 148,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.0810810810810811,
-        "avg_keypoint_confidence": 0.4050970536161699
-      },
-      {
-        "video": "chest fly machine_16.mp4",
-        "total_frames": 80,
-        "frames_with_detections": 80,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.05,
-        "avg_keypoint_confidence": 0.5162729712786281
-      },
-      {
-        "video": "chest fly machine_17.mp4",
-        "total_frames": 131,
-        "frames_with_detections": 131,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.534351145038168,
-        "avg_keypoint_confidence": 0.6058057520944438
-      },
-      {
-        "video": "chest fly machine_18.mp4",
-        "total_frames": 132,
-        "frames_with_detections": 132,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.4393939393939394,
-        "avg_keypoint_confidence": 0.5901089168481685
-      },
-      {
-        "video": "chest fly machine_19.mp4",
-        "total_frames": 312,
-        "frames_with_detections": 312,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.0,
-        "avg_keypoint_confidence": 0.9380455410633332
-      },
-      {
-        "video": "chest fly machine_2.mp4",
-        "total_frames": 104,
-        "frames_with_detections": 104,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.0,
-        "avg_keypoint_confidence": 0.7081390948980895
-      },
-      {
-        "video": "chest fly machine_20.mp4",
-        "total_frames": 204,
-        "frames_with_detections": 204,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.0,
-        "avg_keypoint_confidence": 0.9428873604556681
-      },
-      {
-        "video": "chest fly machine_21.mp4",
-        "total_frames": 215,
-        "frames_with_detections": 215,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.0,
-        "avg_keypoint_confidence": 0.9411533199974352
-      },
-      {
-        "video": "chest fly machine_22.mp4",
-        "total_frames": 453,
-        "frames_with_detections": 453,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.0,
-        "avg_keypoint_confidence": 0.8705215244864182
-      },
-      {
-        "video": "chest fly machine_23.mp4",
-        "total_frames": 421,
-        "frames_with_detections": 420,
-        "detection_rate": 0.997624703087886,
-        "avg_people_per_frame": 1.088095238095238,
-        "avg_keypoint_confidence": 0.8718854565109433
-      },
-      {
-        "video": "chest fly machine_24.mp4",
-        "total_frames": 181,
-        "frames_with_detections": 180,
-        "detection_rate": 0.994475138121547,
-        "avg_people_per_frame": 1.0,
-        "avg_keypoint_confidence": 0.8760940229483679
-      },
-      {
-        "video": "chest fly machine_25.mp4",
-        "total_frames": 256,
-        "frames_with_detections": 255,
-        "detection_rate": 0.99609375,
-        "avg_people_per_frame": 1.0,
-        "avg_keypoint_confidence": 0.7374466426876796
-      },
-      {
-        "video": "chest fly machine_26.mp4",
-        "total_frames": 757,
-        "frames_with_detections": 756,
-        "detection_rate": 0.9986789960369881,
-        "avg_people_per_frame": 2.054232804232804,
-        "avg_keypoint_confidence": 0.6683592518500812
-      },
-      {
-        "video": "chest fly machine_27.mp4",
-        "total_frames": 91,
-        "frames_with_detections": 90,
-        "detection_rate": 0.989010989010989,
-        "avg_people_per_frame": 1.0,
-        "avg_keypoint_confidence": 0.9057670945532961
-      },
-      {
-        "video": "chest fly machine_28.mp4",
-        "total_frames": 79,
-        "frames_with_detections": 78,
-        "detection_rate": 0.9873417721518988,
-        "avg_people_per_frame": 1.0,
-        "avg_keypoint_confidence": 0.9459333483180309
-      },
-      {
-        "video": "chest fly machine_3.mp4",
-        "total_frames": 80,
-        "frames_with_detections": 80,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.0,
-        "avg_keypoint_confidence": 0.9609684989294585
-      },
-      {
-        "video": "chest fly machine_4.mp4",
-        "total_frames": 135,
-        "frames_with_detections": 135,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.3407407407407408,
-        "avg_keypoint_confidence": 0.7362930801859611
-      },
-      {
-        "video": "chest fly machine_5.mp4",
-        "total_frames": 97,
-        "frames_with_detections": 97,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.041237113402062,
-        "avg_keypoint_confidence": 0.9085607305521674
-      },
-      {
-        "video": "chest fly machine_6.mp4",
-        "total_frames": 129,
-        "frames_with_detections": 129,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.0,
-        "avg_keypoint_confidence": 0.6733322319982028
-      },
-      {
-        "video": "chest fly machine_7.mp4",
-        "total_frames": 97,
-        "frames_with_detections": 97,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.0,
-        "avg_keypoint_confidence": 0.842619348360308
-      },
-      {
-        "video": "chest fly machine_8.mp4",
-        "total_frames": 153,
-        "frames_with_detections": 153,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.0522875816993464,
-        "avg_keypoint_confidence": 0.7382938279953104
-      },
-      {
-        "video": "chest fly machine_9.mp4",
-        "total_frames": 153,
-        "frames_with_detections": 153,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.0130718954248366,
-        "avg_keypoint_confidence": 0.7631596450533089
-      },
-      {
-        "video": "deadlift_1.mp4",
-        "total_frames": 150,
-        "frames_with_detections": 150,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.0,
-        "avg_keypoint_confidence": 0.9595746235052744
-      },
-      {
-        "video": "deadlift_10.mp4",
-        "total_frames": 150,
-        "frames_with_detections": 150,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.0933333333333333,
-        "avg_keypoint_confidence": 0.8867067831681662
-      },
-      {
-        "video": "deadlift_11.mp4",
-        "total_frames": 121,
-        "frames_with_detections": 121,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 2.0330578512396693,
-        "avg_keypoint_confidence": 0.9420059207316429
-      },
-      {
-        "video": "deadlift_12.mp4",
-        "total_frames": 94,
-        "frames_with_detections": 94,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 2.0319148936170213,
-        "avg_keypoint_confidence": 0.7568412421504681
-      },
-      {
-        "video": "deadlift_13.mp4",
-        "total_frames": 263,
-        "frames_with_detections": 263,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.0,
-        "avg_keypoint_confidence": 0.8109286703980624
-      },
-      {
-        "video": "deadlift_14.mp4",
-        "total_frames": 150,
-        "frames_with_detections": 150,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.0,
-        "avg_keypoint_confidence": 0.9607080437155331
-      },
-      {
-        "video": "deadlift_15.mp4",
-        "total_frames": 68,
-        "frames_with_detections": 68,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.0735294117647058,
-        "avg_keypoint_confidence": 0.7720426383104076
-      },
-      {
-        "video": "deadlift_16.mp4",
-        "total_frames": 109,
-        "frames_with_detections": 109,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.0,
-        "avg_keypoint_confidence": 0.9562149418088725
-      },
-      {
-        "video": "deadlift_17.mp4",
-        "total_frames": 147,
-        "frames_with_detections": 147,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.0,
-        "avg_keypoint_confidence": 0.9595310253207805
-      },
-      {
-        "video": "deadlift_18.mp4",
-        "total_frames": 105,
-        "frames_with_detections": 105,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.0,
-        "avg_keypoint_confidence": 0.9440274627268815
-      },
-      {
-        "video": "deadlift_19.mp4",
-        "total_frames": 62,
-        "frames_with_detections": 62,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.0,
-        "avg_keypoint_confidence": 0.9487342126738189
-      },
-      {
-        "video": "deadlift_2.mp4",
-        "total_frames": 150,
-        "frames_with_detections": 150,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.0,
-        "avg_keypoint_confidence": 0.9603669494039873
-      },
-      {
-        "video": "deadlift_20.mp4",
-        "total_frames": 59,
-        "frames_with_detections": 59,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.0,
-        "avg_keypoint_confidence": 0.814710359916519
-      },
-      {
-        "video": "deadlift_21.mp4",
-        "total_frames": 195,
-        "frames_with_detections": 195,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.0,
-        "avg_keypoint_confidence": 0.8039658640691839
-      },
-      {
-        "video": "deadlift_22.mp4",
-        "total_frames": 70,
-        "frames_with_detections": 70,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.0285714285714285,
-        "avg_keypoint_confidence": 0.75971363914607
-      },
-      {
-        "video": "deadlift_23.mp4",
-        "total_frames": 72,
-        "frames_with_detections": 72,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.0,
-        "avg_keypoint_confidence": 0.9062041450912753
-      },
-      {
-        "video": "deadlift_24.mp4",
-        "total_frames": 103,
-        "frames_with_detections": 103,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.0,
-        "avg_keypoint_confidence": 0.843322305707128
-      },
-      {
-        "video": "deadlift_25.mp4",
-        "total_frames": 939,
-        "frames_with_detections": 938,
-        "detection_rate": 0.9989350372736954,
-        "avg_people_per_frame": 1.2579957356076759,
-        "avg_keypoint_confidence": 0.8422625384520059
-      },
-      {
-        "video": "deadlift_26.mp4",
-        "total_frames": 181,
-        "frames_with_detections": 180,
-        "detection_rate": 0.994475138121547,
-        "avg_people_per_frame": 1.0,
-        "avg_keypoint_confidence": 0.695386178304384
-      },
-      {
-        "video": "deadlift_27.mp4",
-        "total_frames": 166,
-        "frames_with_detections": 165,
-        "detection_rate": 0.9939759036144579,
-        "avg_people_per_frame": 1.1636363636363636,
-        "avg_keypoint_confidence": 0.8630726053627714
-      },
-      {
-        "video": "deadlift_28.mp4",
-        "total_frames": 193,
-        "frames_with_detections": 192,
-        "detection_rate": 0.9948186528497409,
-        "avg_people_per_frame": 9.958333333333334,
-        "avg_keypoint_confidence": 0.8010602881755726
-      },
-      {
-        "video": "deadlift_29.mp4",
-        "total_frames": 104,
-        "frames_with_detections": 103,
-        "detection_rate": 0.9903846153846154,
-        "avg_people_per_frame": 1.4466019417475728,
-        "avg_keypoint_confidence": 0.6560613227823577
-      },
-      {
-        "video": "deadlift_3.mp4",
-        "total_frames": 150,
-        "frames_with_detections": 150,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.0133333333333334,
-        "avg_keypoint_confidence": 0.7637196500632831
-      },
-      {
-        "video": "deadlift_30.mp4",
-        "total_frames": 186,
-        "frames_with_detections": 185,
-        "detection_rate": 0.9946236559139785,
-        "avg_people_per_frame": 1.4432432432432432,
-        "avg_keypoint_confidence": 0.7916363909570564
-      },
-      {
-        "video": "deadlift_31.mp4",
-        "total_frames": 145,
-        "frames_with_detections": 144,
-        "detection_rate": 0.993103448275862,
-        "avg_people_per_frame": 1.0,
-        "avg_keypoint_confidence": 0.6521286437142424
-      },
-      {
-        "video": "deadlift_32.mp4",
-        "total_frames": 106,
-        "frames_with_detections": 105,
-        "detection_rate": 0.9905660377358491,
-        "avg_people_per_frame": 1.019047619047619,
-        "avg_keypoint_confidence": 0.8422052527321149
-      },
-      {
-        "video": "deadlift_4.mp4",
-        "total_frames": 150,
-        "frames_with_detections": 150,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.02,
-        "avg_keypoint_confidence": 0.7620413466881257
-      },
-      {
-        "video": "deadlift_5.mp4",
-        "total_frames": 150,
-        "frames_with_detections": 150,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.0,
-        "avg_keypoint_confidence": 0.7573608085776077
-      },
-      {
-        "video": "deadlift_6.mp4",
-        "total_frames": 150,
-        "frames_with_detections": 150,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.0,
-        "avg_keypoint_confidence": 0.7888513084318416
-      },
-      {
-        "video": "deadlift_7.mp4",
-        "total_frames": 150,
-        "frames_with_detections": 150,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.0,
-        "avg_keypoint_confidence": 0.8135411162703645
-      },
-      {
-        "video": "deadlift_8.mp4",
-        "total_frames": 150,
-        "frames_with_detections": 150,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.0066666666666666,
-        "avg_keypoint_confidence": 0.8067782827006108
-      },
-      {
-        "video": "deadlift_9.mp4",
-        "total_frames": 147,
-        "frames_with_detections": 147,
-        "detection_rate": 1.0,
-        "avg_people_per_frame": 1.0,
-        "avg_keypoint_confidence": 0.787866709343925
       },
       {
         "video": "dbp_1.mp4",
@@ -3434,92 +1252,564 @@
         "avg_keypoint_confidence": 0.46146131118766087
       },
       {
-        "video": "hammer curl_10.mp4",
-        "total_frames": 85,
-        "frames_with_detections": 84,
-        "detection_rate": 0.9882352941176471,
+        "video": "Barbell_Hip_Thrust_Tutorial__gluteworkout_AdobeExpress.mp4",
+        "total_frames": 121,
+        "frames_with_detections": 120,
+        "detection_rate": 0.9917355371900827,
+        "avg_people_per_frame": 1.0083333333333333,
+        "avg_keypoint_confidence": 0.8126006747537404
+      },
+      {
+        "video": "hip thrust_10.mp4",
+        "total_frames": 382,
+        "frames_with_detections": 381,
+        "detection_rate": 0.9973821989528796,
         "avg_people_per_frame": 1.0,
-        "avg_keypoint_confidence": 0.507059629789985
+        "avg_keypoint_confidence": 0.8945118833942345
       },
       {
-        "video": "hammer curl_11.mp4",
-        "total_frames": 529,
-        "frames_with_detections": 528,
-        "detection_rate": 0.998109640831758,
-        "avg_people_per_frame": 3.7234848484848486,
-        "avg_keypoint_confidence": 0.8463115612400272
+        "video": "hip thrust_11.mp4",
+        "total_frames": 106,
+        "frames_with_detections": 105,
+        "detection_rate": 0.9905660377358491,
+        "avg_people_per_frame": 1.3047619047619048,
+        "avg_keypoint_confidence": 0.7053382419246556
       },
       {
-        "video": "hammer curl_12.mp4",
-        "total_frames": 94,
-        "frames_with_detections": 93,
-        "detection_rate": 0.9893617021276596,
-        "avg_people_per_frame": 6.655913978494624,
-        "avg_keypoint_confidence": 0.8944967987769362
+        "video": "hip thrust_12.mp4",
+        "total_frames": 268,
+        "frames_with_detections": 267,
+        "detection_rate": 0.996268656716418,
+        "avg_people_per_frame": 1.0112359550561798,
+        "avg_keypoint_confidence": 0.8224345135239759
       },
       {
-        "video": "hammer curl_13.mp4",
-        "total_frames": 292,
-        "frames_with_detections": 291,
-        "detection_rate": 0.9965753424657534,
-        "avg_people_per_frame": 4.993127147766323,
-        "avg_keypoint_confidence": 0.8490429661924007
+        "video": "hip thrust_13.mp4",
+        "total_frames": 145,
+        "frames_with_detections": 144,
+        "detection_rate": 0.993103448275862,
+        "avg_people_per_frame": 1.0208333333333333,
+        "avg_keypoint_confidence": 0.7401232303011199
       },
       {
-        "video": "hammer curl_14.mp4",
+        "video": "hip thrust_14.mp4",
+        "total_frames": 364,
+        "frames_with_detections": 363,
+        "detection_rate": 0.9972527472527473,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.838446894016167
+      },
+      {
+        "video": "hip thrust_16.mp4",
+        "total_frames": 154,
+        "frames_with_detections": 153,
+        "detection_rate": 0.9935064935064936,
+        "avg_people_per_frame": 1.2679738562091503,
+        "avg_keypoint_confidence": 0.9107560715381126
+      },
+      {
+        "video": "hip thrust_17.mp4",
+        "total_frames": 74,
+        "frames_with_detections": 73,
+        "detection_rate": 0.9864864864864865,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.8041923611899905
+      },
+      {
+        "video": "hip thrust_5.mp4",
+        "total_frames": 1013,
+        "frames_with_detections": 1012,
+        "detection_rate": 0.9990128331688055,
+        "avg_people_per_frame": 1.023715415019763,
+        "avg_keypoint_confidence": 0.8353138834434428
+      },
+      {
+        "video": "hip thrust_6.mp4",
+        "total_frames": 114,
+        "frames_with_detections": 113,
+        "detection_rate": 0.9912280701754386,
+        "avg_people_per_frame": 1.0530973451327434,
+        "avg_keypoint_confidence": 0.8498082196479686
+      },
+      {
+        "video": "hip thrust_7.mp4",
+        "total_frames": 300,
+        "frames_with_detections": 299,
+        "detection_rate": 0.9966666666666667,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.9288699128497381
+      },
+      {
+        "video": "hip thrust_8.mp4",
+        "total_frames": 151,
+        "frames_with_detections": 150,
+        "detection_rate": 0.9933774834437086,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.8829307806959339
+      },
+      {
+        "video": "hip thrust_9.mp4",
+        "total_frames": 390,
+        "frames_with_detections": 389,
+        "detection_rate": 0.9974358974358974,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.8986238529557822
+      },
+      {
+        "video": "incline bench press_1.mp4",
+        "total_frames": 120,
+        "frames_with_detections": 120,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0083333333333333,
+        "avg_keypoint_confidence": 0.37701569652585915
+      },
+      {
+        "video": "incline bench press_10.mp4",
+        "total_frames": 65,
+        "frames_with_detections": 65,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.353846153846154,
+        "avg_keypoint_confidence": 0.3685148564275568
+      },
+      {
+        "video": "incline bench press_11.mp4",
         "total_frames": 52,
-        "frames_with_detections": 51,
-        "detection_rate": 0.9807692307692307,
-        "avg_people_per_frame": 4.666666666666667,
-        "avg_keypoint_confidence": 0.8814340909106038
+        "frames_with_detections": 52,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.1346153846153846,
+        "avg_keypoint_confidence": 0.5832860256142379
       },
       {
-        "video": "hammer curl_15.mp4",
-        "total_frames": 115,
-        "frames_with_detections": 114,
-        "detection_rate": 0.991304347826087,
-        "avg_people_per_frame": 6.93859649122807,
-        "avg_keypoint_confidence": 0.9128646879430827
+        "video": "incline bench press_12.mp4",
+        "total_frames": 65,
+        "frames_with_detections": 65,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.123076923076923,
+        "avg_keypoint_confidence": 0.5320788075235638
       },
       {
-        "video": "hammer curl_16.mp4",
-        "total_frames": 304,
-        "frames_with_detections": 303,
-        "detection_rate": 0.9967105263157895,
-        "avg_people_per_frame": 3.867986798679868,
-        "avg_keypoint_confidence": 0.8208967385852111
+        "video": "incline bench press_13.mp4",
+        "total_frames": 47,
+        "frames_with_detections": 47,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.3164469609927276
       },
       {
-        "video": "hammer curl_17.mp4",
-        "total_frames": 324,
-        "frames_with_detections": 323,
-        "detection_rate": 0.9969135802469136,
-        "avg_people_per_frame": 1.0866873065015479,
-        "avg_keypoint_confidence": 0.8262597944506932
+        "video": "incline bench press_14.mp4",
+        "total_frames": 74,
+        "frames_with_detections": 74,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.45729403267556706
       },
       {
-        "video": "hammer curl_18.mp4",
+        "video": "incline bench press_15.mp4",
+        "total_frames": 87,
+        "frames_with_detections": 87,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.9540229885057472,
+        "avg_keypoint_confidence": 0.5302706101809829
+      },
+      {
+        "video": "incline bench press_16.mp4",
+        "total_frames": 62,
+        "frames_with_detections": 62,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.1774193548387097,
+        "avg_keypoint_confidence": 0.5326803771497143
+      },
+      {
+        "video": "incline bench press_17.mp4",
+        "total_frames": 75,
+        "frames_with_detections": 75,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.32,
+        "avg_keypoint_confidence": 0.5249074131547611
+      },
+      {
+        "video": "incline bench press_18.mp4",
+        "total_frames": 110,
+        "frames_with_detections": 110,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0727272727272728,
+        "avg_keypoint_confidence": 0.6083324171200205
+      },
+      {
+        "video": "incline bench press_19.mp4",
+        "total_frames": 85,
+        "frames_with_detections": 85,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.6990964818758741
+      },
+      {
+        "video": "incline bench press_2.mp4",
+        "total_frames": 62,
+        "frames_with_detections": 62,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.585913347498532
+      },
+      {
+        "video": "incline bench press_20.mp4",
+        "total_frames": 93,
+        "frames_with_detections": 93,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.8790190120726579
+      },
+      {
+        "video": "incline bench press_21.mp4",
+        "total_frames": 94,
+        "frames_with_detections": 94,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0212765957446808,
+        "avg_keypoint_confidence": 0.5742337269294499
+      },
+      {
+        "video": "incline bench press_22.mp4",
+        "total_frames": 72,
+        "frames_with_detections": 72,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.9193871850695681
+      },
+      {
+        "video": "incline bench press_23.mp4",
+        "total_frames": 99,
+        "frames_with_detections": 99,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.202020202020202,
+        "avg_keypoint_confidence": 0.7458367093617683
+      },
+      {
+        "video": "incline bench press_24.mp4",
+        "total_frames": 78,
+        "frames_with_detections": 78,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0128205128205128,
+        "avg_keypoint_confidence": 0.6322119951695937
+      },
+      {
+        "video": "incline bench press_3.mp4",
+        "total_frames": 46,
+        "frames_with_detections": 46,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.5881033633678409
+      },
+      {
+        "video": "incline bench press_4.mp4",
+        "total_frames": 53,
+        "frames_with_detections": 53,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.5620110742096581
+      },
+      {
+        "video": "incline bench press_5.mp4",
+        "total_frames": 40,
+        "frames_with_detections": 40,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.025,
+        "avg_keypoint_confidence": 0.5665369604362129
+      },
+      {
+        "video": "incline bench press_6.mp4",
+        "total_frames": 111,
+        "frames_with_detections": 111,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.8460765575460012
+      },
+      {
+        "video": "incline bench press_7.mp4",
+        "total_frames": 40,
+        "frames_with_detections": 40,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.075,
+        "avg_keypoint_confidence": 0.46302504632348085
+      },
+      {
+        "video": "incline bench press_8.mp4",
+        "total_frames": 45,
+        "frames_with_detections": 45,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0444444444444445,
+        "avg_keypoint_confidence": 0.4431340081928266
+      },
+      {
+        "video": "incline bench press_9.mp4",
+        "total_frames": 71,
+        "frames_with_detections": 71,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 2.0,
+        "avg_keypoint_confidence": 0.449575602489682
+      },
+      {
+        "video": "plank_2.mp4",
+        "total_frames": 334,
+        "frames_with_detections": 333,
+        "detection_rate": 0.9970059880239521,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.7795299261167847
+      },
+      {
+        "video": "plank_3.mp4",
+        "total_frames": 78,
+        "frames_with_detections": 77,
+        "detection_rate": 0.9871794871794872,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.8379233915947885
+      },
+      {
+        "video": "plank_4.mp4",
+        "total_frames": 118,
+        "frames_with_detections": 117,
+        "detection_rate": 0.9915254237288136,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.8266013184231751
+      },
+      {
+        "video": "plank_5.mp4",
+        "total_frames": 753,
+        "frames_with_detections": 752,
+        "detection_rate": 0.99867197875166,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.823164243012718
+      },
+      {
+        "video": "plank_6.mp4",
+        "total_frames": 665,
+        "frames_with_detections": 664,
+        "detection_rate": 0.9984962406015038,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.6594843561027195
+      },
+      {
+        "video": "plank_7.mp4",
+        "total_frames": 6841,
+        "frames_with_detections": 6840,
+        "detection_rate": 0.9998538225405642,
+        "avg_people_per_frame": 1.4519005847953217,
+        "avg_keypoint_confidence": 0.768837446429115
+      },
+      {
+        "video": "pull up_1.mp4",
+        "total_frames": 526,
+        "frames_with_detections": 526,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.9333114451794376
+      },
+      {
+        "video": "pull up_10.mp4",
+        "total_frames": 243,
+        "frames_with_detections": 243,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.897888961972011
+      },
+      {
+        "video": "pull up_11.mp4",
+        "total_frames": 220,
+        "frames_with_detections": 220,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.9158896476747518
+      },
+      {
+        "video": "pull up_12.mp4",
+        "total_frames": 195,
+        "frames_with_detections": 195,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.6806203326028379
+      },
+      {
+        "video": "pull up_13.mp4",
+        "total_frames": 402,
+        "frames_with_detections": 402,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.47662260657391986
+      },
+      {
+        "video": "pull up_14.mp4",
+        "total_frames": 202,
+        "frames_with_detections": 202,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.7378628702065921
+      },
+      {
+        "video": "pull up_15.mp4",
+        "total_frames": 166,
+        "frames_with_detections": 165,
+        "detection_rate": 0.9939759036144579,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.5589364125978727
+      },
+      {
+        "video": "pull up_16.mp4",
+        "total_frames": 59,
+        "frames_with_detections": 58,
+        "detection_rate": 0.9830508474576272,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.45730926655530857
+      },
+      {
+        "video": "pull up_17.mp4",
+        "total_frames": 76,
+        "frames_with_detections": 75,
+        "detection_rate": 0.9868421052631579,
+        "avg_people_per_frame": 1.84,
+        "avg_keypoint_confidence": 0.3284561566360718
+      },
+      {
+        "video": "pull up_18.mp4",
+        "total_frames": 87,
+        "frames_with_detections": 86,
+        "detection_rate": 0.9885057471264368,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.6718608631718033
+      },
+      {
+        "video": "pull up_19.mp4",
+        "total_frames": 47,
+        "frames_with_detections": 46,
+        "detection_rate": 0.9787234042553191,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.46523367941084326
+      },
+      {
+        "video": "pull up_2.mp4",
+        "total_frames": 434,
+        "frames_with_detections": 434,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.9145909838426901
+      },
+      {
+        "video": "pull up_20.mp4",
+        "total_frames": 244,
+        "frames_with_detections": 243,
+        "detection_rate": 0.9959016393442623,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.6849230962693402
+      },
+      {
+        "video": "pull up_21.mp4",
+        "total_frames": 256,
+        "frames_with_detections": 255,
+        "detection_rate": 0.99609375,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.7026145366159071
+      },
+      {
+        "video": "pull up_22.mp4",
+        "total_frames": 211,
+        "frames_with_detections": 210,
+        "detection_rate": 0.995260663507109,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.585165813817308
+      },
+      {
+        "video": "pull up_23.mp4",
+        "total_frames": 127,
+        "frames_with_detections": 126,
+        "detection_rate": 0.9921259842519685,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.4945511303143793
+      },
+      {
+        "video": "pull up_24.mp4",
         "total_frames": 94,
         "frames_with_detections": 93,
         "detection_rate": 0.9893617021276596,
-        "avg_people_per_frame": 1.0,
-        "avg_keypoint_confidence": 0.849296925783836
+        "avg_people_per_frame": 1.064516129032258,
+        "avg_keypoint_confidence": 0.4186627000243601
       },
       {
-        "video": "hammer curl_19.mp4",
-        "total_frames": 316,
-        "frames_with_detections": 315,
-        "detection_rate": 0.9968354430379747,
-        "avg_people_per_frame": 1.0,
-        "avg_keypoint_confidence": 0.843951236183236
+        "video": "pull up_25.mp4",
+        "total_frames": 82,
+        "frames_with_detections": 81,
+        "detection_rate": 0.9878048780487805,
+        "avg_people_per_frame": 1.1481481481481481,
+        "avg_keypoint_confidence": 0.4086680875310308
       },
       {
-        "video": "hammer curl_8.mp4",
-        "total_frames": 250,
-        "frames_with_detections": 249,
-        "detection_rate": 0.996,
+        "video": "pull up_26.mp4",
+        "total_frames": 91,
+        "frames_with_detections": 90,
+        "detection_rate": 0.989010989010989,
+        "avg_people_per_frame": 2.0,
+        "avg_keypoint_confidence": 0.7511036352461411
+      },
+      {
+        "video": "pull up_3.mp4",
+        "total_frames": 1133,
+        "frames_with_detections": 1132,
+        "detection_rate": 0.999117387466902,
+        "avg_people_per_frame": 1.0053003533568905,
+        "avg_keypoint_confidence": 0.8891607414357997
+      },
+      {
+        "video": "pull up_4.mp4",
+        "total_frames": 575,
+        "frames_with_detections": 575,
+        "detection_rate": 1.0,
         "avg_people_per_frame": 1.0,
-        "avg_keypoint_confidence": 0.5526294064177241
+        "avg_keypoint_confidence": 0.7533964886870759
+      },
+      {
+        "video": "pull up_5.mp4",
+        "total_frames": 145,
+        "frames_with_detections": 145,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.089655172413793,
+        "avg_keypoint_confidence": 0.26975037862524376
+      },
+      {
+        "video": "pull up_6.mp4",
+        "total_frames": 308,
+        "frames_with_detections": 308,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.32503736935513866
+      },
+      {
+        "video": "pull up_7.mp4",
+        "total_frames": 270,
+        "frames_with_detections": 270,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.42756307440858604
+      },
+      {
+        "video": "pull up_8.mp4",
+        "total_frames": 140,
+        "frames_with_detections": 140,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.7990591952827673
+      },
+      {
+        "video": "pull up_9.mp4",
+        "total_frames": 365,
+        "frames_with_detections": 365,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.8027933311677935
+      },
+      {
+        "video": "push-up_1.mp4",
+        "total_frames": 150,
+        "frames_with_detections": 150,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.7602420679319138
       }
     ]
   }

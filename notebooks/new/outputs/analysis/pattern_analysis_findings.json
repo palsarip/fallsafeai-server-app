@@ -1,0 +1,37 @@
+{
+  "model_type": "ensemble",
+  "model_name": "Ensemble",
+  "top_features": [
+    "aspect_ratio_increase_pct",
+    "left_elbow_min",
+    "right_knee_min",
+    "left_elbow_mean",
+    "left_knee_max_velocity",
+    "fps",
+    "right_elbow_min",
+    "right_hip_mean"
+  ],
+  "motion_features": [
+    "right_elbow_max_velocity",
+    "left_elbow_max_velocity",
+    "right_knee_max_velocity",
+    "left_knee_max_velocity",
+    "right_hip_max_velocity",
+    "left_hip_max_velocity",
+    "max_upper_body_velocity_y",
+    "max_upper_body_accel_y"
+  ],
+  "optimal_thresholds": {
+    "default": 0.5,
+    "f1_optimal": 0.5480366940498352,
+    "f2_optimal": 0.5480366940498352
+  },
+  "performance_metrics": {
+    "accuracy": 1.0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "false_alarm_rate": 0.0,
+    "auc": 1.0
+  },
+  "analysis_date": "2025-03-25"
+}
