@@ -1,6 +1,6 @@
 {
   "fall_videos": {
-    "count": 100,
+    "count": 190,
     "file_paths": [
       "..\\..\\data\\le2i\\Coffee_room_01\\Coffee_room_01\\Videos\\video (1).avi",
       "..\\..\\data\\le2i\\Coffee_room_01\\Coffee_room_01\\Videos\\video (10).avi",
@@ -101,7 +101,97 @@
       "..\\..\\data\\le2i\\Home_01\\Home_01\\Videos\\video (6).avi",
       "..\\..\\data\\le2i\\Home_01\\Home_01\\Videos\\video (7).avi",
       "..\\..\\data\\le2i\\Home_01\\Home_01\\Videos\\video (8).avi",
-      "..\\..\\data\\le2i\\Home_01\\Home_01\\Videos\\video (9).avi"
+      "..\\..\\data\\le2i\\Home_01\\Home_01\\Videos\\video (9).avi",
+      "..\\..\\data\\le2i\\Home_02\\Home_02\\Videos\\video (31).avi",
+      "..\\..\\data\\le2i\\Home_02\\Home_02\\Videos\\video (32).avi",
+      "..\\..\\data\\le2i\\Home_02\\Home_02\\Videos\\video (33).avi",
+      "..\\..\\data\\le2i\\Home_02\\Home_02\\Videos\\video (34).avi",
+      "..\\..\\data\\le2i\\Home_02\\Home_02\\Videos\\video (35).avi",
+      "..\\..\\data\\le2i\\Home_02\\Home_02\\Videos\\video (36).avi",
+      "..\\..\\data\\le2i\\Home_02\\Home_02\\Videos\\video (37).avi",
+      "..\\..\\data\\le2i\\Home_02\\Home_02\\Videos\\video (38).avi",
+      "..\\..\\data\\le2i\\Home_02\\Home_02\\Videos\\video (39).avi",
+      "..\\..\\data\\le2i\\Home_02\\Home_02\\Videos\\video (40).avi",
+      "..\\..\\data\\le2i\\Home_02\\Home_02\\Videos\\video (41).avi",
+      "..\\..\\data\\le2i\\Home_02\\Home_02\\Videos\\video (42).avi",
+      "..\\..\\data\\le2i\\Home_02\\Home_02\\Videos\\video (43).avi",
+      "..\\..\\data\\le2i\\Home_02\\Home_02\\Videos\\video (44).avi",
+      "..\\..\\data\\le2i\\Home_02\\Home_02\\Videos\\video (45).avi",
+      "..\\..\\data\\le2i\\Home_02\\Home_02\\Videos\\video (46).avi",
+      "..\\..\\data\\le2i\\Home_02\\Home_02\\Videos\\video (47).avi",
+      "..\\..\\data\\le2i\\Home_02\\Home_02\\Videos\\video (48).avi",
+      "..\\..\\data\\le2i\\Home_02\\Home_02\\Videos\\video (49).avi",
+      "..\\..\\data\\le2i\\Home_02\\Home_02\\Videos\\video (50).avi",
+      "..\\..\\data\\le2i\\Home_02\\Home_02\\Videos\\video (51).avi",
+      "..\\..\\data\\le2i\\Home_02\\Home_02\\Videos\\video (52).avi",
+      "..\\..\\data\\le2i\\Home_02\\Home_02\\Videos\\video (53).avi",
+      "..\\..\\data\\le2i\\Home_02\\Home_02\\Videos\\video (54).avi",
+      "..\\..\\data\\le2i\\Home_02\\Home_02\\Videos\\video (55).avi",
+      "..\\..\\data\\le2i\\Home_02\\Home_02\\Videos\\video (56).avi",
+      "..\\..\\data\\le2i\\Home_02\\Home_02\\Videos\\video (57).avi",
+      "..\\..\\data\\le2i\\Home_02\\Home_02\\Videos\\video (58).avi",
+      "..\\..\\data\\le2i\\Home_02\\Home_02\\Videos\\video (59).avi",
+      "..\\..\\data\\le2i\\Home_02\\Home_02\\Videos\\video (60).avi",
+      "..\\..\\data\\le2i\\Lecture_room\\Lecture room\\video (1).avi",
+      "..\\..\\data\\le2i\\Lecture_room\\Lecture room\\video (10).avi",
+      "..\\..\\data\\le2i\\Lecture_room\\Lecture room\\video (11).avi",
+      "..\\..\\data\\le2i\\Lecture_room\\Lecture room\\video (12).avi",
+      "..\\..\\data\\le2i\\Lecture_room\\Lecture room\\video (13).avi",
+      "..\\..\\data\\le2i\\Lecture_room\\Lecture room\\video (14).avi",
+      "..\\..\\data\\le2i\\Lecture_room\\Lecture room\\video (15).avi",
+      "..\\..\\data\\le2i\\Lecture_room\\Lecture room\\video (16).avi",
+      "..\\..\\data\\le2i\\Lecture_room\\Lecture room\\video (17).avi",
+      "..\\..\\data\\le2i\\Lecture_room\\Lecture room\\video (18).avi",
+      "..\\..\\data\\le2i\\Lecture_room\\Lecture room\\video (19).avi",
+      "..\\..\\data\\le2i\\Lecture_room\\Lecture room\\video (2).avi",
+      "..\\..\\data\\le2i\\Lecture_room\\Lecture room\\video (20).avi",
+      "..\\..\\data\\le2i\\Lecture_room\\Lecture room\\video (21).avi",
+      "..\\..\\data\\le2i\\Lecture_room\\Lecture room\\video (22).avi",
+      "..\\..\\data\\le2i\\Lecture_room\\Lecture room\\video (23).avi",
+      "..\\..\\data\\le2i\\Lecture_room\\Lecture room\\video (24).avi",
+      "..\\..\\data\\le2i\\Lecture_room\\Lecture room\\video (25).avi",
+      "..\\..\\data\\le2i\\Lecture_room\\Lecture room\\video (26).avi",
+      "..\\..\\data\\le2i\\Lecture_room\\Lecture room\\video (27).avi",
+      "..\\..\\data\\le2i\\Lecture_room\\Lecture room\\video (3).avi",
+      "..\\..\\data\\le2i\\Lecture_room\\Lecture room\\video (4).avi",
+      "..\\..\\data\\le2i\\Lecture_room\\Lecture room\\video (5).avi",
+      "..\\..\\data\\le2i\\Lecture_room\\Lecture room\\video (6).avi",
+      "..\\..\\data\\le2i\\Lecture_room\\Lecture room\\video (7).avi",
+      "..\\..\\data\\le2i\\Lecture_room\\Lecture room\\video (8).avi",
+      "..\\..\\data\\le2i\\Lecture_room\\Lecture room\\video (9).avi",
+      "..\\..\\data\\le2i\\Office\\Office\\video (1).avi",
+      "..\\..\\data\\le2i\\Office\\Office\\video (10).avi",
+      "..\\..\\data\\le2i\\Office\\Office\\video (11).avi",
+      "..\\..\\data\\le2i\\Office\\Office\\video (12).avi",
+      "..\\..\\data\\le2i\\Office\\Office\\video (13).avi",
+      "..\\..\\data\\le2i\\Office\\Office\\video (14).avi",
+      "..\\..\\data\\le2i\\Office\\Office\\video (15).avi",
+      "..\\..\\data\\le2i\\Office\\Office\\video (16).avi",
+      "..\\..\\data\\le2i\\Office\\Office\\video (17).avi",
+      "..\\..\\data\\le2i\\Office\\Office\\video (18).avi",
+      "..\\..\\data\\le2i\\Office\\Office\\video (19).avi",
+      "..\\..\\data\\le2i\\Office\\Office\\video (2).avi",
+      "..\\..\\data\\le2i\\Office\\Office\\video (20).avi",
+      "..\\..\\data\\le2i\\Office\\Office\\video (21).avi",
+      "..\\..\\data\\le2i\\Office\\Office\\video (22).avi",
+      "..\\..\\data\\le2i\\Office\\Office\\video (23).avi",
+      "..\\..\\data\\le2i\\Office\\Office\\video (24).avi",
+      "..\\..\\data\\le2i\\Office\\Office\\video (25).avi",
+      "..\\..\\data\\le2i\\Office\\Office\\video (26).avi",
+      "..\\..\\data\\le2i\\Office\\Office\\video (27).avi",
+      "..\\..\\data\\le2i\\Office\\Office\\video (28).avi",
+      "..\\..\\data\\le2i\\Office\\Office\\video (29).avi",
+      "..\\..\\data\\le2i\\Office\\Office\\video (3).avi",
+      "..\\..\\data\\le2i\\Office\\Office\\video (30).avi",
+      "..\\..\\data\\le2i\\Office\\Office\\video (31).avi",
+      "..\\..\\data\\le2i\\Office\\Office\\video (32).avi",
+      "..\\..\\data\\le2i\\Office\\Office\\video (33).avi",
+      "..\\..\\data\\le2i\\Office\\Office\\video (4).avi",
+      "..\\..\\data\\le2i\\Office\\Office\\video (5).avi",
+      "..\\..\\data\\le2i\\Office\\Office\\video (6).avi",
+      "..\\..\\data\\le2i\\Office\\Office\\video (7).avi",
+      "..\\..\\data\\le2i\\Office\\Office\\video (8).avi",
+      "..\\..\\data\\le2i\\Office\\Office\\video (9).avi"
     ],
     "quality_metrics": [
       {
@@ -903,11 +993,731 @@
         "detection_rate": 1.0,
         "avg_people_per_frame": 1.0,
         "avg_keypoint_confidence": 0.7860672664718009
+      },
+      {
+        "video": "video (31).avi",
+        "total_frames": 312,
+        "frames_with_detections": 312,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0096153846153846,
+        "avg_keypoint_confidence": 0.7536366394946173
+      },
+      {
+        "video": "video (32).avi",
+        "total_frames": 192,
+        "frames_with_detections": 192,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.6524014300110996
+      },
+      {
+        "video": "video (33).avi",
+        "total_frames": 192,
+        "frames_with_detections": 192,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.8619077370380117
+      },
+      {
+        "video": "video (34).avi",
+        "total_frames": 240,
+        "frames_with_detections": 240,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.8853874612397015
+      },
+      {
+        "video": "video (35).avi",
+        "total_frames": 216,
+        "frames_with_detections": 216,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.924387266722453
+      },
+      {
+        "video": "video (36).avi",
+        "total_frames": 192,
+        "frames_with_detections": 192,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.8652725171816816
+      },
+      {
+        "video": "video (37).avi",
+        "total_frames": 240,
+        "frames_with_detections": 240,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0083333333333333,
+        "avg_keypoint_confidence": 0.8173305301034645
+      },
+      {
+        "video": "video (38).avi",
+        "total_frames": 192,
+        "frames_with_detections": 192,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.7856645349757837
+      },
+      {
+        "video": "video (39).avi",
+        "total_frames": 192,
+        "frames_with_detections": 192,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.8447320392548207
+      },
+      {
+        "video": "video (40).avi",
+        "total_frames": 240,
+        "frames_with_detections": 240,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.7986239575406573
+      },
+      {
+        "video": "video (41).avi",
+        "total_frames": 240,
+        "frames_with_detections": 240,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0041666666666667,
+        "avg_keypoint_confidence": 0.7879802349053403
+      },
+      {
+        "video": "video (42).avi",
+        "total_frames": 168,
+        "frames_with_detections": 168,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.8112565641674925
+      },
+      {
+        "video": "video (43).avi",
+        "total_frames": 168,
+        "frames_with_detections": 168,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.9361537723835944
+      },
+      {
+        "video": "video (44).avi",
+        "total_frames": 314,
+        "frames_with_detections": 314,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.8175034839115581
+      },
+      {
+        "video": "video (45).avi",
+        "total_frames": 216,
+        "frames_with_detections": 216,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.8315806972519302
+      },
+      {
+        "video": "video (46).avi",
+        "total_frames": 264,
+        "frames_with_detections": 264,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.7556712074395718
+      },
+      {
+        "video": "video (47).avi",
+        "total_frames": 288,
+        "frames_with_detections": 288,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.8648939814751061
+      },
+      {
+        "video": "video (48).avi",
+        "total_frames": 240,
+        "frames_with_detections": 240,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.7994278745190914
+      },
+      {
+        "video": "video (49).avi",
+        "total_frames": 312,
+        "frames_with_detections": 312,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.8838999326948055
+      },
+      {
+        "video": "video (50).avi",
+        "total_frames": 312,
+        "frames_with_detections": 312,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.8838999326948055
+      },
+      {
+        "video": "video (51).avi",
+        "total_frames": 264,
+        "frames_with_detections": 264,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.8167185772688775
+      },
+      {
+        "video": "video (52).avi",
+        "total_frames": 216,
+        "frames_with_detections": 216,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.8244208678448967
+      },
+      {
+        "video": "video (53).avi",
+        "total_frames": 216,
+        "frames_with_detections": 216,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0046296296296295,
+        "avg_keypoint_confidence": 0.8068761770412618
+      },
+      {
+        "video": "video (54).avi",
+        "total_frames": 216,
+        "frames_with_detections": 216,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.8270361858911098
+      },
+      {
+        "video": "video (55).avi",
+        "total_frames": 216,
+        "frames_with_detections": 216,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.8854844358177503
+      },
+      {
+        "video": "video (56).avi",
+        "total_frames": 360,
+        "frames_with_detections": 360,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0027777777777778,
+        "avg_keypoint_confidence": 0.8725952036699661
+      },
+      {
+        "video": "video (57).avi",
+        "total_frames": 240,
+        "frames_with_detections": 240,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0041666666666667,
+        "avg_keypoint_confidence": 0.7640127258463985
+      },
+      {
+        "video": "video (58).avi",
+        "total_frames": 336,
+        "frames_with_detections": 336,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.5,
+        "avg_keypoint_confidence": 0.837965669460859
+      },
+      {
+        "video": "video (59).avi",
+        "total_frames": 216,
+        "frames_with_detections": 216,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0185185185185186,
+        "avg_keypoint_confidence": 0.815881611798148
+      },
+      {
+        "video": "video (60).avi",
+        "total_frames": 312,
+        "frames_with_detections": 312,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0064102564102564,
+        "avg_keypoint_confidence": 0.8248724576540386
+      },
+      {
+        "video": "video (1).avi",
+        "total_frames": 285,
+        "frames_with_detections": 285,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.6213624843589869
+      },
+      {
+        "video": "video (10).avi",
+        "total_frames": 493,
+        "frames_with_detections": 493,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0060851926977687,
+        "avg_keypoint_confidence": 0.8035238320927929
+      },
+      {
+        "video": "video (11).avi",
+        "total_frames": 363,
+        "frames_with_detections": 363,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.5888521108577
+      },
+      {
+        "video": "video (12).avi",
+        "total_frames": 675,
+        "frames_with_detections": 675,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.7306979035499969
+      },
+      {
+        "video": "video (13).avi",
+        "total_frames": 415,
+        "frames_with_detections": 415,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0192771084337349,
+        "avg_keypoint_confidence": 0.8808478596214767
+      },
+      {
+        "video": "video (14).avi",
+        "total_frames": 428,
+        "frames_with_detections": 428,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.7678439038588696
+      },
+      {
+        "video": "video (15).avi",
+        "total_frames": 593,
+        "frames_with_detections": 593,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.7681559034538518
+      },
+      {
+        "video": "video (16).avi",
+        "total_frames": 870,
+        "frames_with_detections": 870,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0011494252873563,
+        "avg_keypoint_confidence": 0.8161519883719872
+      },
+      {
+        "video": "video (17).avi",
+        "total_frames": 506,
+        "frames_with_detections": 506,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0019762845849802,
+        "avg_keypoint_confidence": 0.8028383779131066
+      },
+      {
+        "video": "video (18).avi",
+        "total_frames": 1052,
+        "frames_with_detections": 1052,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.8404825495865298
+      },
+      {
+        "video": "video (19).avi",
+        "total_frames": 818,
+        "frames_with_detections": 818,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.7941194640059306
+      },
+      {
+        "video": "video (2).avi",
+        "total_frames": 506,
+        "frames_with_detections": 506,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.753556989162268
+      },
+      {
+        "video": "video (20).avi",
+        "total_frames": 298,
+        "frames_with_detections": 298,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0402684563758389,
+        "avg_keypoint_confidence": 0.8643158671568877
+      },
+      {
+        "video": "video (21).avi",
+        "total_frames": 1130,
+        "frames_with_detections": 1130,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.8200189737351445
+      },
+      {
+        "video": "video (22).avi",
+        "total_frames": 987,
+        "frames_with_detections": 987,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.7829435224922895
+      },
+      {
+        "video": "video (23).avi",
+        "total_frames": 675,
+        "frames_with_detections": 675,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.8292363761215363
+      },
+      {
+        "video": "video (24).avi",
+        "total_frames": 1442,
+        "frames_with_detections": 1442,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0006934812760055,
+        "avg_keypoint_confidence": 0.7624797400485966
+      },
+      {
+        "video": "video (25).avi",
+        "total_frames": 376,
+        "frames_with_detections": 376,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.002659574468085,
+        "avg_keypoint_confidence": 0.8532544299419753
+      },
+      {
+        "video": "video (26).avi",
+        "total_frames": 1429,
+        "frames_with_detections": 1429,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.7701047052018707
+      },
+      {
+        "video": "video (27).avi",
+        "total_frames": 259,
+        "frames_with_detections": 259,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.8459467851026901
+      },
+      {
+        "video": "video (3).avi",
+        "total_frames": 623,
+        "frames_with_detections": 623,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.7771814641486603
+      },
+      {
+        "video": "video (4).avi",
+        "total_frames": 402,
+        "frames_with_detections": 402,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.7073943337109493
+      },
+      {
+        "video": "video (5).avi",
+        "total_frames": 389,
+        "frames_with_detections": 389,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.7899003511361059
+      },
+      {
+        "video": "video (6).avi",
+        "total_frames": 285,
+        "frames_with_detections": 285,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.8705288565105321
+      },
+      {
+        "video": "video (7).avi",
+        "total_frames": 337,
+        "frames_with_detections": 337,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.8635396687607325
+      },
+      {
+        "video": "video (8).avi",
+        "total_frames": 722,
+        "frames_with_detections": 722,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.8515412946270121
+      },
+      {
+        "video": "video (9).avi",
+        "total_frames": 935,
+        "frames_with_detections": 935,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.738298398589975
+      },
+      {
+        "video": "video (1).avi",
+        "total_frames": 415,
+        "frames_with_detections": 415,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.8201925827464264
+      },
+      {
+        "video": "video (10).avi",
+        "total_frames": 269,
+        "frames_with_detections": 269,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.8419410900954448
+      },
+      {
+        "video": "video (11).avi",
+        "total_frames": 193,
+        "frames_with_detections": 193,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.633798522188637
+      },
+      {
+        "video": "video (12).avi",
+        "total_frames": 298,
+        "frames_with_detections": 298,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.8202096728359464
+      },
+      {
+        "video": "video (13).avi",
+        "total_frames": 792,
+        "frames_with_detections": 792,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.84632132183023
+      },
+      {
+        "video": "video (14).avi",
+        "total_frames": 173,
+        "frames_with_detections": 173,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0057803468208093,
+        "avg_keypoint_confidence": 0.7416685929084682
+      },
+      {
+        "video": "video (15).avi",
+        "total_frames": 318,
+        "frames_with_detections": 318,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.7823019611203327
+      },
+      {
+        "video": "video (16).avi",
+        "total_frames": 428,
+        "frames_with_detections": 428,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0023364485981308,
+        "avg_keypoint_confidence": 0.8456578433473233
+      },
+      {
+        "video": "video (17).avi",
+        "total_frames": 217,
+        "frames_with_detections": 217,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.7483421417641076
+      },
+      {
+        "video": "video (18).avi",
+        "total_frames": 766,
+        "frames_with_detections": 766,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.8239708166477566
+      },
+      {
+        "video": "video (19).avi",
+        "total_frames": 329,
+        "frames_with_detections": 329,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.7890616355758144
+      },
+      {
+        "video": "video (2).avi",
+        "total_frames": 259,
+        "frames_with_detections": 259,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.6527936254110192
+      },
+      {
+        "video": "video (20).avi",
+        "total_frames": 532,
+        "frames_with_detections": 532,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.7649061723920502
+      },
+      {
+        "video": "video (21).avi",
+        "total_frames": 428,
+        "frames_with_detections": 428,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.8099496603464963
+      },
+      {
+        "video": "video (22).avi",
+        "total_frames": 221,
+        "frames_with_detections": 221,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.7645935186915229
+      },
+      {
+        "video": "video (23).avi",
+        "total_frames": 1146,
+        "frames_with_detections": 1146,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0078534031413613,
+        "avg_keypoint_confidence": 0.7784353940000611
+      },
+      {
+        "video": "video (24).avi",
+        "total_frames": 829,
+        "frames_with_detections": 829,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0012062726176116,
+        "avg_keypoint_confidence": 0.8861963699242885
+      },
+      {
+        "video": "video (25).avi",
+        "total_frames": 988,
+        "frames_with_detections": 988,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.7843569153662049
+      },
+      {
+        "video": "video (26).avi",
+        "total_frames": 499,
+        "frames_with_detections": 499,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.7483090563202656
+      },
+      {
+        "video": "video (27).avi",
+        "total_frames": 811,
+        "frames_with_detections": 811,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.002466091245376,
+        "avg_keypoint_confidence": 0.7407074595952349
+      },
+      {
+        "video": "video (28).avi",
+        "total_frames": 505,
+        "frames_with_detections": 505,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.7784452533943769
+      },
+      {
+        "video": "video (29).avi",
+        "total_frames": 1221,
+        "frames_with_detections": 1221,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.7646014555443472
+      },
+      {
+        "video": "video (3).avi",
+        "total_frames": 467,
+        "frames_with_detections": 467,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.8977499052943065
+      },
+      {
+        "video": "video (30).avi",
+        "total_frames": 1247,
+        "frames_with_detections": 1247,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.7234385152313041
+      },
+      {
+        "video": "video (31).avi",
+        "total_frames": 203,
+        "frames_with_detections": 203,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.7504536003565366
+      },
+      {
+        "video": "video (32).avi",
+        "total_frames": 544,
+        "frames_with_detections": 544,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0018382352941178,
+        "avg_keypoint_confidence": 0.7090179644482236
+      },
+      {
+        "video": "video (33).avi",
+        "total_frames": 639,
+        "frames_with_detections": 639,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0062597809076683,
+        "avg_keypoint_confidence": 0.7015384745473308
+      },
+      {
+        "video": "video (4).avi",
+        "total_frames": 320,
+        "frames_with_detections": 320,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.7998208876838342
+      },
+      {
+        "video": "video (5).avi",
+        "total_frames": 238,
+        "frames_with_detections": 238,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.6648590308712405
+      },
+      {
+        "video": "video (6).avi",
+        "total_frames": 415,
+        "frames_with_detections": 415,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.813426402690969
+      },
+      {
+        "video": "video (7).avi",
+        "total_frames": 217,
+        "frames_with_detections": 217,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0046082949308757,
+        "avg_keypoint_confidence": 0.7974160731188586
+      },
+      {
+        "video": "video (8).avi",
+        "total_frames": 419,
+        "frames_with_detections": 419,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.8039915519851294
+      },
+      {
+        "video": "video (9).avi",
+        "total_frames": 206,
+        "frames_with_detections": 206,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.7664604156496426
       }
     ]
   },
   "workout_videos": {
-    "count": 100,
+    "count": 190,
     "file_paths": [
       "..\\..\\data\\workout_videos\\bench press\\bench press_1.mp4",
       "..\\..\\data\\workout_videos\\bench press\\bench press_10.mp4",
@@ -1008,7 +1818,97 @@
       "..\\..\\data\\workout_videos\\pull Up\\pull up_7.mp4",
       "..\\..\\data\\workout_videos\\pull Up\\pull up_8.mp4",
       "..\\..\\data\\workout_videos\\pull Up\\pull up_9.mp4",
-      "..\\..\\data\\workout_videos\\push-up\\push-up_1.mp4"
+      "..\\..\\data\\workout_videos\\push-up\\push-up_1.mp4",
+      "..\\..\\data\\workout_videos\\push-up\\push-up_10.mp4",
+      "..\\..\\data\\workout_videos\\push-up\\push-up_11.mp4",
+      "..\\..\\data\\workout_videos\\push-up\\push-up_12.mp4",
+      "..\\..\\data\\workout_videos\\push-up\\push-up_13.mp4",
+      "..\\..\\data\\workout_videos\\push-up\\push-up_14.mp4",
+      "..\\..\\data\\workout_videos\\push-up\\push-up_15.mp4",
+      "..\\..\\data\\workout_videos\\push-up\\push-up_16.mp4",
+      "..\\..\\data\\workout_videos\\push-up\\push-up_17.mp4",
+      "..\\..\\data\\workout_videos\\push-up\\push-up_18.mp4",
+      "..\\..\\data\\workout_videos\\push-up\\push-up_19.mp4",
+      "..\\..\\data\\workout_videos\\push-up\\push-up_2.mp4",
+      "..\\..\\data\\workout_videos\\push-up\\push-up_20.mp4",
+      "..\\..\\data\\workout_videos\\push-up\\push-up_21.mp4",
+      "..\\..\\data\\workout_videos\\push-up\\push-up_22.mp4",
+      "..\\..\\data\\workout_videos\\push-up\\push-up_23.mp4",
+      "..\\..\\data\\workout_videos\\push-up\\push-up_24.mp4",
+      "..\\..\\data\\workout_videos\\push-up\\push-up_25.mp4",
+      "..\\..\\data\\workout_videos\\push-up\\push-up_26.mp4",
+      "..\\..\\data\\workout_videos\\push-up\\push-up_27.mp4",
+      "..\\..\\data\\workout_videos\\push-up\\push-up_28.mp4",
+      "..\\..\\data\\workout_videos\\push-up\\push-up_29.mp4",
+      "..\\..\\data\\workout_videos\\push-up\\push-up_3.mp4",
+      "..\\..\\data\\workout_videos\\push-up\\push-up_30.mp4",
+      "..\\..\\data\\workout_videos\\push-up\\push-up_31.mp4",
+      "..\\..\\data\\workout_videos\\push-up\\push-up_32.mp4",
+      "..\\..\\data\\workout_videos\\push-up\\push-up_33.mp4",
+      "..\\..\\data\\workout_videos\\push-up\\push-up_34.mp4",
+      "..\\..\\data\\workout_videos\\push-up\\push-up_35.mp4",
+      "..\\..\\data\\workout_videos\\push-up\\push-up_36.mp4",
+      "..\\..\\data\\workout_videos\\push-up\\push-up_37.mp4",
+      "..\\..\\data\\workout_videos\\push-up\\push-up_38.mp4",
+      "..\\..\\data\\workout_videos\\push-up\\push-up_39.mp4",
+      "..\\..\\data\\workout_videos\\push-up\\push-up_4.mp4",
+      "..\\..\\data\\workout_videos\\push-up\\push-up_40.mp4",
+      "..\\..\\data\\workout_videos\\push-up\\push-up_41.mp4",
+      "..\\..\\data\\workout_videos\\push-up\\push-up_42.mp4",
+      "..\\..\\data\\workout_videos\\push-up\\push-up_43.mp4",
+      "..\\..\\data\\workout_videos\\push-up\\push-up_44.mp4",
+      "..\\..\\data\\workout_videos\\push-up\\push-up_45.mp4",
+      "..\\..\\data\\workout_videos\\push-up\\push-up_46.mp4",
+      "..\\..\\data\\workout_videos\\push-up\\push-up_47.mp4",
+      "..\\..\\data\\workout_videos\\push-up\\push-up_48.mp4",
+      "..\\..\\data\\workout_videos\\push-up\\push-up_49.mp4",
+      "..\\..\\data\\workout_videos\\push-up\\push-up_5.mp4",
+      "..\\..\\data\\workout_videos\\push-up\\push-up_50.mp4",
+      "..\\..\\data\\workout_videos\\push-up\\push-up_51.mp4",
+      "..\\..\\data\\workout_videos\\push-up\\push-up_52.mp4",
+      "..\\..\\data\\workout_videos\\push-up\\push-up_53.mp4",
+      "..\\..\\data\\workout_videos\\push-up\\push-up_54.mp4",
+      "..\\..\\data\\workout_videos\\push-up\\push-up_55.mp4",
+      "..\\..\\data\\workout_videos\\push-up\\push-up_56.mp4",
+      "..\\..\\data\\workout_videos\\push-up\\push-up_6.mp4",
+      "..\\..\\data\\workout_videos\\push-up\\push-up_7.mp4",
+      "..\\..\\data\\workout_videos\\push-up\\push-up_8.mp4",
+      "..\\..\\data\\workout_videos\\push-up\\push-up_9.mp4",
+      "..\\..\\data\\workout_videos\\russian twist\\russian twist_10.mp4",
+      "..\\..\\data\\workout_videos\\russian twist\\russian twist_11.mp4",
+      "..\\..\\data\\workout_videos\\russian twist\\russian twist_12.mp4",
+      "..\\..\\data\\workout_videos\\russian twist\\russian twist_13.mp4",
+      "..\\..\\data\\workout_videos\\russian twist\\russian twist_2.mp4",
+      "..\\..\\data\\workout_videos\\russian twist\\russian twist_3.mp4",
+      "..\\..\\data\\workout_videos\\russian twist\\russian twist_4.mp4",
+      "..\\..\\data\\workout_videos\\russian twist\\russian twist_5.mp4",
+      "..\\..\\data\\workout_videos\\russian twist\\russian twist_6.mp4",
+      "..\\..\\data\\workout_videos\\russian twist\\russian twist_7.mp4",
+      "..\\..\\data\\workout_videos\\russian twist\\russian twist_8.mp4",
+      "..\\..\\data\\workout_videos\\russian twist\\russian twist_9.mp4",
+      "..\\..\\data\\workout_videos\\squat\\squat_10.mp4",
+      "..\\..\\data\\workout_videos\\squat\\squat_11.mp4",
+      "..\\..\\data\\workout_videos\\squat\\squat_12.mp4",
+      "..\\..\\data\\workout_videos\\squat\\squat_13.mp4",
+      "..\\..\\data\\workout_videos\\squat\\squat_14.mp4",
+      "..\\..\\data\\workout_videos\\squat\\squat_15.mp4",
+      "..\\..\\data\\workout_videos\\squat\\squat_16.mp4",
+      "..\\..\\data\\workout_videos\\squat\\squat_17.mp4",
+      "..\\..\\data\\workout_videos\\squat\\squat_18.mp4",
+      "..\\..\\data\\workout_videos\\squat\\squat_19.mp4",
+      "..\\..\\data\\workout_videos\\squat\\squat_20.mp4",
+      "..\\..\\data\\workout_videos\\squat\\squat_21.mp4",
+      "..\\..\\data\\workout_videos\\squat\\squat_22.mp4",
+      "..\\..\\data\\workout_videos\\squat\\squat_23.mp4",
+      "..\\..\\data\\workout_videos\\squat\\squat_24.mp4",
+      "..\\..\\data\\workout_videos\\squat\\squat_25.mp4",
+      "..\\..\\data\\workout_videos\\squat\\squat_26.mp4",
+      "..\\..\\data\\workout_videos\\squat\\squat_27.mp4",
+      "..\\..\\data\\workout_videos\\squat\\squat_28.mp4",
+      "..\\..\\data\\workout_videos\\squat\\squat_29.mp4",
+      "..\\..\\data\\workout_videos\\squat\\squat_7.mp4",
+      "..\\..\\data\\workout_videos\\squat\\squat_8.mp4",
+      "..\\..\\data\\workout_videos\\squat\\squat_9.mp4"
     ],
     "quality_metrics": [
       {
@@ -1810,6 +2710,726 @@
         "detection_rate": 1.0,
         "avg_people_per_frame": 1.0,
         "avg_keypoint_confidence": 0.7602420679319138
+      },
+      {
+        "video": "push-up_10.mp4",
+        "total_frames": 150,
+        "frames_with_detections": 150,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.6995811942672613
+      },
+      {
+        "video": "push-up_11.mp4",
+        "total_frames": 150,
+        "frames_with_detections": 150,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.7180423243628705
+      },
+      {
+        "video": "push-up_12.mp4",
+        "total_frames": 150,
+        "frames_with_detections": 150,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.7097866678559313
+      },
+      {
+        "video": "push-up_13.mp4",
+        "total_frames": 150,
+        "frames_with_detections": 150,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.7326398334601054
+      },
+      {
+        "video": "push-up_14.mp4",
+        "total_frames": 150,
+        "frames_with_detections": 150,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.6429832036442616
+      },
+      {
+        "video": "push-up_15.mp4",
+        "total_frames": 83,
+        "frames_with_detections": 83,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.8434436937713564
+      },
+      {
+        "video": "push-up_16.mp4",
+        "total_frames": 140,
+        "frames_with_detections": 140,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.1285714285714286,
+        "avg_keypoint_confidence": 0.7674311966882685
+      },
+      {
+        "video": "push-up_17.mp4",
+        "total_frames": 91,
+        "frames_with_detections": 91,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.6153846153846154,
+        "avg_keypoint_confidence": 0.4514990907879647
+      },
+      {
+        "video": "push-up_18.mp4",
+        "total_frames": 70,
+        "frames_with_detections": 70,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.45074444003677105
+      },
+      {
+        "video": "push-up_19.mp4",
+        "total_frames": 150,
+        "frames_with_detections": 150,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.8211348586660974
+      },
+      {
+        "video": "push-up_2.mp4",
+        "total_frames": 150,
+        "frames_with_detections": 150,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.7443047075645597
+      },
+      {
+        "video": "push-up_20.mp4",
+        "total_frames": 150,
+        "frames_with_detections": 150,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.6654910705769982
+      },
+      {
+        "video": "push-up_21.mp4",
+        "total_frames": 150,
+        "frames_with_detections": 150,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.7666666666666666,
+        "avg_keypoint_confidence": 0.8350041085389028
+      },
+      {
+        "video": "push-up_22.mp4",
+        "total_frames": 150,
+        "frames_with_detections": 150,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.9066666666666667,
+        "avg_keypoint_confidence": 0.7138762366852609
+      },
+      {
+        "video": "push-up_23.mp4",
+        "total_frames": 116,
+        "frames_with_detections": 116,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.8448275862068966,
+        "avg_keypoint_confidence": 0.6674083956935069
+      },
+      {
+        "video": "push-up_24.mp4",
+        "total_frames": 126,
+        "frames_with_detections": 126,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.8006353396244076
+      },
+      {
+        "video": "push-up_25.mp4",
+        "total_frames": 98,
+        "frames_with_detections": 98,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.5510204081632653,
+        "avg_keypoint_confidence": 0.4558366142173158
+      },
+      {
+        "video": "push-up_26.mp4",
+        "total_frames": 150,
+        "frames_with_detections": 150,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0133333333333334,
+        "avg_keypoint_confidence": 0.8651295360451674
+      },
+      {
+        "video": "push-up_27.mp4",
+        "total_frames": 150,
+        "frames_with_detections": 150,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.8623752113241775
+      },
+      {
+        "video": "push-up_28.mp4",
+        "total_frames": 113,
+        "frames_with_detections": 113,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.7091144336024391
+      },
+      {
+        "video": "push-up_29.mp4",
+        "total_frames": 150,
+        "frames_with_detections": 150,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.06,
+        "avg_keypoint_confidence": 0.641060654749619
+      },
+      {
+        "video": "push-up_3.mp4",
+        "total_frames": 150,
+        "frames_with_detections": 150,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.738457208404354
+      },
+      {
+        "video": "push-up_30.mp4",
+        "total_frames": 140,
+        "frames_with_detections": 140,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0571428571428572,
+        "avg_keypoint_confidence": 0.5881465774279516
+      },
+      {
+        "video": "push-up_31.mp4",
+        "total_frames": 150,
+        "frames_with_detections": 150,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.7096513675649961
+      },
+      {
+        "video": "push-up_32.mp4",
+        "total_frames": 150,
+        "frames_with_detections": 150,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.16,
+        "avg_keypoint_confidence": 0.5316727327869728
+      },
+      {
+        "video": "push-up_33.mp4",
+        "total_frames": 146,
+        "frames_with_detections": 146,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0753424657534247,
+        "avg_keypoint_confidence": 0.7581044824908164
+      },
+      {
+        "video": "push-up_34.mp4",
+        "total_frames": 114,
+        "frames_with_detections": 114,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.6848621639098454
+      },
+      {
+        "video": "push-up_35.mp4",
+        "total_frames": 150,
+        "frames_with_detections": 150,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0133333333333334,
+        "avg_keypoint_confidence": 0.8263348327829263
+      },
+      {
+        "video": "push-up_36.mp4",
+        "total_frames": 150,
+        "frames_with_detections": 150,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.8327270688788564
+      },
+      {
+        "video": "push-up_37.mp4",
+        "total_frames": 149,
+        "frames_with_detections": 149,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0201342281879195,
+        "avg_keypoint_confidence": 0.5528491427338014
+      },
+      {
+        "video": "push-up_38.mp4",
+        "total_frames": 150,
+        "frames_with_detections": 150,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.850601373349919
+      },
+      {
+        "video": "push-up_39.mp4",
+        "total_frames": 145,
+        "frames_with_detections": 145,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.006896551724138,
+        "avg_keypoint_confidence": 0.6705397595048967
+      },
+      {
+        "video": "push-up_4.mp4",
+        "total_frames": 150,
+        "frames_with_detections": 150,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.7432464893834264
+      },
+      {
+        "video": "push-up_40.mp4",
+        "total_frames": 150,
+        "frames_with_detections": 150,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.7086178622660501
+      },
+      {
+        "video": "push-up_41.mp4",
+        "total_frames": 108,
+        "frames_with_detections": 108,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.7966126677030312
+      },
+      {
+        "video": "push-up_42.mp4",
+        "total_frames": 150,
+        "frames_with_detections": 150,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.7497428243826417
+      },
+      {
+        "video": "push-up_43.mp4",
+        "total_frames": 82,
+        "frames_with_detections": 82,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.720170784861897
+      },
+      {
+        "video": "push-up_44.mp4",
+        "total_frames": 113,
+        "frames_with_detections": 113,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.8442489450515278
+      },
+      {
+        "video": "push-up_45.mp4",
+        "total_frames": 150,
+        "frames_with_detections": 150,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.8342892813390377
+      },
+      {
+        "video": "push-up_46.mp4",
+        "total_frames": 150,
+        "frames_with_detections": 150,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.8428557221649908
+      },
+      {
+        "video": "push-up_47.mp4",
+        "total_frames": 105,
+        "frames_with_detections": 105,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.7435471938500384
+      },
+      {
+        "video": "push-up_48.mp4",
+        "total_frames": 150,
+        "frames_with_detections": 150,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.5633119503203684
+      },
+      {
+        "video": "push-up_49.mp4",
+        "total_frames": 150,
+        "frames_with_detections": 150,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0066666666666666,
+        "avg_keypoint_confidence": 0.6679241472763058
+      },
+      {
+        "video": "push-up_5.mp4",
+        "total_frames": 150,
+        "frames_with_detections": 150,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.7518700728229448
+      },
+      {
+        "video": "push-up_50.mp4",
+        "total_frames": 150,
+        "frames_with_detections": 150,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.8168891510075214
+      },
+      {
+        "video": "push-up_51.mp4",
+        "total_frames": 133,
+        "frames_with_detections": 133,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.8286745636605652
+      },
+      {
+        "video": "push-up_52.mp4",
+        "total_frames": 411,
+        "frames_with_detections": 411,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.632603406326034,
+        "avg_keypoint_confidence": 0.8514101982668292
+      },
+      {
+        "video": "push-up_53.mp4",
+        "total_frames": 663,
+        "frames_with_detections": 663,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0211161387631975,
+        "avg_keypoint_confidence": 0.7995308731804567
+      },
+      {
+        "video": "push-up_54.mp4",
+        "total_frames": 778,
+        "frames_with_detections": 778,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0089974293059125,
+        "avg_keypoint_confidence": 0.8309650944444162
+      },
+      {
+        "video": "push-up_55.mp4",
+        "total_frames": 475,
+        "frames_with_detections": 475,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.3347368421052632,
+        "avg_keypoint_confidence": 0.7840477278113284
+      },
+      {
+        "video": "push-up_56.mp4",
+        "total_frames": 585,
+        "frames_with_detections": 584,
+        "detection_rate": 0.9982905982905983,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.781199698290269
+      },
+      {
+        "video": "push-up_6.mp4",
+        "total_frames": 150,
+        "frames_with_detections": 150,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.7493255712939244
+      },
+      {
+        "video": "push-up_7.mp4",
+        "total_frames": 150,
+        "frames_with_detections": 150,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.7699701886872451
+      },
+      {
+        "video": "push-up_8.mp4",
+        "total_frames": 150,
+        "frames_with_detections": 150,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.7728880831657672
+      },
+      {
+        "video": "push-up_9.mp4",
+        "total_frames": 150,
+        "frames_with_detections": 150,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.777702977587195
+      },
+      {
+        "video": "russian twist_10.mp4",
+        "total_frames": 138,
+        "frames_with_detections": 138,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.8769257561171083
+      },
+      {
+        "video": "russian twist_11.mp4",
+        "total_frames": 183,
+        "frames_with_detections": 183,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.8273617657017034
+      },
+      {
+        "video": "russian twist_12.mp4",
+        "total_frames": 146,
+        "frames_with_detections": 146,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.8185584695467922
+      },
+      {
+        "video": "russian twist_13.mp4",
+        "total_frames": 225,
+        "frames_with_detections": 225,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.8551089177743282
+      },
+      {
+        "video": "russian twist_2.mp4",
+        "total_frames": 208,
+        "frames_with_detections": 208,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.8896883622431344
+      },
+      {
+        "video": "russian twist_3.mp4",
+        "total_frames": 214,
+        "frames_with_detections": 214,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.9206620487238579
+      },
+      {
+        "video": "russian twist_4.mp4",
+        "total_frames": 554,
+        "frames_with_detections": 554,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.8380709089654033
+      },
+      {
+        "video": "russian twist_5.mp4",
+        "total_frames": 1445,
+        "frames_with_detections": 1445,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0027681660899654,
+        "avg_keypoint_confidence": 0.6998079903985718
+      },
+      {
+        "video": "russian twist_6.mp4",
+        "total_frames": 526,
+        "frames_with_detections": 526,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.8908671610685596
+      },
+      {
+        "video": "russian twist_7.mp4",
+        "total_frames": 247,
+        "frames_with_detections": 247,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.2186234817813766,
+        "avg_keypoint_confidence": 0.8095632511489582
+      },
+      {
+        "video": "russian twist_8.mp4",
+        "total_frames": 310,
+        "frames_with_detections": 310,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0193548387096774,
+        "avg_keypoint_confidence": 0.7979641960859333
+      },
+      {
+        "video": "russian twist_9.mp4",
+        "total_frames": 244,
+        "frames_with_detections": 244,
+        "detection_rate": 1.0,
+        "avg_people_per_frame": 1.0081967213114753,
+        "avg_keypoint_confidence": 0.7237748249909827
+      },
+      {
+        "video": "squat_10.mp4",
+        "total_frames": 176,
+        "frames_with_detections": 175,
+        "detection_rate": 0.9943181818181818,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.7277739017450509
+      },
+      {
+        "video": "squat_11.mp4",
+        "total_frames": 145,
+        "frames_with_detections": 144,
+        "detection_rate": 0.993103448275862,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.8360451143460319
+      },
+      {
+        "video": "squat_12.mp4",
+        "total_frames": 114,
+        "frames_with_detections": 113,
+        "detection_rate": 0.9912280701754386,
+        "avg_people_per_frame": 1.008849557522124,
+        "avg_keypoint_confidence": 0.7536825445029055
+      },
+      {
+        "video": "squat_13.mp4",
+        "total_frames": 131,
+        "frames_with_detections": 130,
+        "detection_rate": 0.9923664122137404,
+        "avg_people_per_frame": 1.4846153846153847,
+        "avg_keypoint_confidence": 0.7578239985257705
+      },
+      {
+        "video": "squat_14.mp4",
+        "total_frames": 102,
+        "frames_with_detections": 101,
+        "detection_rate": 0.9901960784313726,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.8009922932692406
+      },
+      {
+        "video": "squat_15.mp4",
+        "total_frames": 281,
+        "frames_with_detections": 280,
+        "detection_rate": 0.99644128113879,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.7321432305415779
+      },
+      {
+        "video": "squat_16.mp4",
+        "total_frames": 48,
+        "frames_with_detections": 47,
+        "detection_rate": 0.9791666666666666,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.8041587857359341
+      },
+      {
+        "video": "squat_17.mp4",
+        "total_frames": 111,
+        "frames_with_detections": 110,
+        "detection_rate": 0.990990990990991,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.8009328087821682
+      },
+      {
+        "video": "squat_18.mp4",
+        "total_frames": 94,
+        "frames_with_detections": 93,
+        "detection_rate": 0.9893617021276596,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.9586857745422734
+      },
+      {
+        "video": "squat_19.mp4",
+        "total_frames": 144,
+        "frames_with_detections": 143,
+        "detection_rate": 0.9930555555555556,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.958119206176477
+      },
+      {
+        "video": "squat_20.mp4",
+        "total_frames": 234,
+        "frames_with_detections": 233,
+        "detection_rate": 0.9957264957264957,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.8678534778201333
+      },
+      {
+        "video": "squat_21.mp4",
+        "total_frames": 349,
+        "frames_with_detections": 348,
+        "detection_rate": 0.997134670487106,
+        "avg_people_per_frame": 2.0229885057471266,
+        "avg_keypoint_confidence": 0.6918473835690543
+      },
+      {
+        "video": "squat_22.mp4",
+        "total_frames": 381,
+        "frames_with_detections": 380,
+        "detection_rate": 0.9973753280839895,
+        "avg_people_per_frame": 1.9842105263157894,
+        "avg_keypoint_confidence": 0.5798614467209259
+      },
+      {
+        "video": "squat_23.mp4",
+        "total_frames": 433,
+        "frames_with_detections": 432,
+        "detection_rate": 0.9976905311778291,
+        "avg_people_per_frame": 1.0393518518518519,
+        "avg_keypoint_confidence": 0.7322917591725053
+      },
+      {
+        "video": "squat_24.mp4",
+        "total_frames": 199,
+        "frames_with_detections": 198,
+        "detection_rate": 0.9949748743718593,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.6731211879214275
+      },
+      {
+        "video": "squat_25.mp4",
+        "total_frames": 339,
+        "frames_with_detections": 338,
+        "detection_rate": 0.9970501474926253,
+        "avg_people_per_frame": 2.0,
+        "avg_keypoint_confidence": 0.8168404861079419
+      },
+      {
+        "video": "squat_26.mp4",
+        "total_frames": 369,
+        "frames_with_detections": 368,
+        "detection_rate": 0.997289972899729,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.8233371521072352
+      },
+      {
+        "video": "squat_27.mp4",
+        "total_frames": 648,
+        "frames_with_detections": 647,
+        "detection_rate": 0.9984567901234568,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.751240371091985
+      },
+      {
+        "video": "squat_28.mp4",
+        "total_frames": 379,
+        "frames_with_detections": 378,
+        "detection_rate": 0.9973614775725593,
+        "avg_people_per_frame": 1.1137566137566137,
+        "avg_keypoint_confidence": 0.4400272541361321
+      },
+      {
+        "video": "squat_29.mp4",
+        "total_frames": 56,
+        "frames_with_detections": 55,
+        "detection_rate": 0.9821428571428571,
+        "avg_people_per_frame": 1.1090909090909091,
+        "avg_keypoint_confidence": 0.7308935192498947
+      },
+      {
+        "video": "squat_7.mp4",
+        "total_frames": 59,
+        "frames_with_detections": 58,
+        "detection_rate": 0.9830508474576272,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.7536631617083499
+      },
+      {
+        "video": "squat_8.mp4",
+        "total_frames": 102,
+        "frames_with_detections": 101,
+        "detection_rate": 0.9901960784313726,
+        "avg_people_per_frame": 1.6237623762376239,
+        "avg_keypoint_confidence": 0.8279318672135857
+      },
+      {
+        "video": "squat_9.mp4",
+        "total_frames": 73,
+        "frames_with_detections": 72,
+        "detection_rate": 0.9863013698630136,
+        "avg_people_per_frame": 1.0,
+        "avg_keypoint_confidence": 0.708725377415749
       }
     ]
   }

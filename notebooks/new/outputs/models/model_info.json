@@ -54,8 +54,8 @@
     "precision": 0.0,
     "recall": 0.0,
     "f1": 0.0,
-    "fall_detection_score": 1.0
+    "fall_detection_score": 0.9930313588850173
   },
   "num_features": 46,
-  "training_date": "2025-03-25"
+  "training_date": "2025-03-26"
 }
